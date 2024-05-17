@@ -1,1 +1,170 @@
-[]
+[
+    {
+        "name": "Affirm",
+        "logo": "affirm.svg"
+    },
+    {
+        "name": "Alipay",
+        "logo": "alipay.svg"
+    },
+    {
+        "name": "Amazon Pay",
+        "logo": "amazon.svg"
+    },
+    {
+        "name": "American Express",
+        "logo": "amex.svg"
+    },
+    {
+        "name": "Apple Pay",
+        "logo": "apple-pay.svg"
+    },
+    {
+        "name": "Ban Contact",
+        "logo": "ban-contact.svg"
+    },
+    {
+        "name": "Bitcoin Cash",
+        "logo": "bitcoin-cash.svg"
+    },
+    {
+        "name": "Bitcoin",
+        "logo": "bitcoin.svg"
+    },
+    {
+        "name": "Bitpay",
+        "logo": "bitpay.svg"
+    },
+    {
+        "name": "Citadele",
+        "logo": "citadele.svg"
+    },
+    {
+        "name": "Diners Club",
+        "logo": "diners-club.svg"
+    },
+    {
+        "name": "Discover",
+        "logo": "discover.svg"
+    },
+    {
+        "name": "elo",
+        "logo": "elo.svg"
+    },
+    {
+        "name": "Etherium",
+        "logo": "etherium.svg"
+    },
+    {
+        "name": "Facebook Pay",
+        "logo": "facebook-pay.svg"
+    },
+    {
+        "name": "Forbrugs Foreningen",
+        "logo": "forbrugs-foreningen.svg"
+    },
+    {
+        "name": "Giropay",
+        "logo": "giropay.svg"
+    },
+    {
+        "name": "Google Pay",
+        "logo": "google-pay.svg"
+    },
+    {
+        "name": "Ideal",
+        "logo": "ideal.svg"
+    },
+    {
+        "name": "Interac",
+        "logo": "interac.svg"
+    },
+    {
+        "name": "JCB",
+        "logo": "jcb.svg"
+    },
+    {
+        "name": "Klarna",
+        "logo": "klarna.svg"
+    },
+    {
+        "name": "Lightcoin",
+        "logo": "lightcoin.svg"
+    },
+    {
+        "name": "Maestro",
+        "logo": "maestro.svg"
+    },
+    {
+        "name": "Mastercard",
+        "logo": "mastercard.svg"
+    },
+    {
+        "name": "Payoneer",
+        "logo": "payoneer.svg"
+    },
+    {
+        "name": "Paypal",
+        "logo": "paypal.svg"
+    },
+    {
+        "name": "Paysafe",
+        "logo": "paysafe.svg"
+    },
+    {
+        "name": "Poli",
+        "logo": "poli.svg"
+    },
+    {
+        "name": "Qiwi",
+        "logo": "qiwi.svg"
+    },
+    {
+        "name": "Sepa",
+        "logo": "sepa.svg"
+    },
+    {
+        "name": "Shop Pay",
+        "logo": "shop-pay.svg"
+    },
+    {
+        "name": "Skrill",
+        "logo": "skrill.svg"
+    },
+    {
+        "name": "Sofort",
+        "logo": "sofort.svg"
+    },
+    {
+        "name": "Stripe",
+        "logo": "stripe.svg"
+    },
+    {
+        "name": "Union Pay",
+        "logo": "union-pay.svg"
+    },
+    {
+        "name": "Venmo",
+        "logo": "venmo.svg"
+    },
+    {
+        "name": "Verifone",
+        "logo": "verifone.svg"
+    },
+    {
+        "name": "Visa",
+        "logo": "visa.svg"
+    },
+    {
+        "name": "Web Money",
+        "logo": "web-money.svg"
+    },
+    {
+        "name": "WeChat Pay",
+        "logo": "wechat.svg"
+    },
+    {
+        "name": "Yandex Pay",
+        "logo": "yandex.svg"
+    }
+]

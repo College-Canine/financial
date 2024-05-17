@@ -1,17 +1,21 @@
 const fs = require('fs')
 const path = require('path')
 
-const fileData = fs.readFileSync("banks.json", 'utf-8')
+const fileData = fs.readFileSync("./data/banks.json", 'utf-8')
 const data = JSON.parse(fileData)
 
-fs.writeFileSync("banks.json", JSON.stringify(data.map(i => {
+fs.writeFileSync("./data/banks.json", JSON.stringify(data.map(i => {
     
     let colors = []
 
     if (i.logo != undefined) {
 
-        const logoData = fs.readFileSync("./res/bank/" + i.logo, 'utf-8')
-        colors = [...new Set(logoData.match(/\#[a-fA-F0-9]+/g))]
+        const logoData = fs.readFileSync("./logos/bank/" + i.logo, 'utf-8')
+        colors = [
+            ...new Set(logoData.match(/\#[a-fA-F0-9]+/g)), 
+            ...new Set(logoData.match("white")), 
+            ...new Set(logoData.match("black")), 
+        ]
 
         colors = colors.filter(i => i.length == 7)
 

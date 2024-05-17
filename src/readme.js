@@ -11,7 +11,7 @@ function generateBankTable() {
     return [
         '| Name | Division, Country | Logo | Colors |',
         '| ---- | ----------------- | ---- | ------ |',
-        ...banks.filter((i, n) => i.logo != undefined && !logo.includes(i.logo) && logo.push(i.logo)).map(i => `| ${i.long} | ${i.state}, ${i.country} | ![${i.long} Logo](https://raw.githubusercontent.com/College-Canine/financial/master/logos/bank/${i.logo}) | ${i.colors.map(j => `![${j}](https://placehold.co/15x15/${j.slice(1)}/${j.slice(1)}.png)`).join('')}`)
+        ...banks.filter((i, n) => i.logo != undefined && !logo.includes(i.logo) && logo.push(i.logo)).map(i => `| ${i.long} | ${i.state}, ${i.country} | ![${i.long} Logo](https://raw.githubusercontent.com/College-Canine/financial/master/logos/bank/${i.logo}) | ${i.colors.map(j => `![${j}](https://placehold.co/15x15/${j.slice(1)}/${j.slice(1)}.png)`).join('')} |`)
     ].join('\n')
 
 }
