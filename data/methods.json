@@ -1,170 +1,340 @@
 [
     {
         "name": "Affirm",
-        "logo": "affirm.svg"
+        "logo": "affirm.svg",
+        "colors": [
+            "#060809",
+            "#0FA0EA"
+        ]
     },
     {
         "name": "Alipay",
-        "logo": "alipay.svg"
+        "logo": "alipay.svg",
+        "colors": [
+            "#1677FF"
+        ]
     },
     {
         "name": "Amazon Pay",
-        "logo": "amazon.svg"
+        "logo": "amazon.svg",
+        "colors": [
+            "#FF9900"
+        ]
     },
     {
         "name": "American Express",
-        "logo": "amex.svg"
+        "logo": "amex.svg",
+        "colors": [
+            "#1F72CD",
+            "#D9D9D9"
+        ]
     },
     {
         "name": "Apple Pay",
-        "logo": "apple-pay.svg"
+        "logo": "apple-pay.svg",
+        "colors": []
     },
     {
         "name": "Ban Contact",
-        "logo": "ban-contact.svg"
+        "logo": "ban-contact.svg",
+        "colors": [
+            "#005697",
+            "#FBD500"
+        ]
     },
     {
         "name": "Bitcoin Cash",
-        "logo": "bitcoin-cash.svg"
+        "logo": "bitcoin-cash.svg",
+        "colors": [
+            "#8FC258"
+        ]
     },
     {
         "name": "Bitcoin",
-        "logo": "bitcoin.svg"
+        "logo": "bitcoin.svg",
+        "colors": [
+            "#F7931A"
+        ]
     },
     {
         "name": "Bitpay",
-        "logo": "bitpay.svg"
+        "logo": "bitpay.svg",
+        "colors": [
+            "#002855"
+        ]
     },
     {
         "name": "Citadele",
-        "logo": "citadele.svg"
+        "logo": "citadele.svg",
+        "colors": [
+            "#EE293D"
+        ]
     },
     {
         "name": "Diners Club",
-        "logo": "diners-club.svg"
+        "logo": "diners-club.svg",
+        "colors": [
+            "#0079BE"
+        ]
     },
     {
         "name": "Discover",
-        "logo": "discover.svg"
+        "logo": "discover.svg",
+        "colors": [
+            "#FD6020"
+        ]
     },
     {
         "name": "elo",
-        "logo": "elo.svg"
+        "logo": "elo.svg",
+        "colors": [
+            "#EC412A",
+            "#1BA7DE",
+            "#FECA2F"
+        ]
     },
     {
         "name": "Etherium",
-        "logo": "etherium.svg"
+        "logo": "etherium.svg",
+        "colors": [
+            "#6481E7",
+            "#C1CCF5",
+            "#8299EC"
+        ]
     },
     {
         "name": "Facebook Pay",
-        "logo": "facebook-pay.svg"
+        "logo": "facebook-pay.svg",
+        "colors": [
+            "#64717D",
+            "#1B2529",
+            "#24D365",
+            "#139DBD",
+            "#23D068",
+            "#EACD36",
+            "#FF6C5C",
+            "#266FF3",
+            "#C439D6",
+            "#149FBA"
+        ]
     },
     {
         "name": "Forbrugs Foreningen",
-        "logo": "forbrugs-foreningen.svg"
+        "logo": "forbrugs-foreningen.svg",
+        "colors": [
+            "#659AD2"
+        ]
     },
     {
         "name": "Giropay",
-        "logo": "giropay.svg"
+        "logo": "giropay.svg",
+        "colors": [
+            "#0F3365",
+            "#FFFFFE",
+            "#D8232A"
+        ]
     },
     {
         "name": "Google Pay",
-        "logo": "google-pay.svg"
+        "logo": "google-pay.svg",
+        "colors": [
+            "#3C4043",
+            "#4285F4",
+            "#34A853",
+            "#FBBC04",
+            "#EA4335"
+        ]
     },
     {
         "name": "Ideal",
-        "logo": "ideal.svg"
+        "logo": "ideal.svg",
+        "colors": [
+            "#D50072"
+        ]
     },
     {
         "name": "Interac",
-        "logo": "interac.svg"
+        "logo": "interac.svg",
+        "colors": [
+            "#EDAA00",
+            "#231F20"
+        ]
     },
     {
         "name": "JCB",
-        "logo": "jcb.svg"
+        "logo": "jcb.svg",
+        "colors": [
+            "#58B03A",
+            "#55B330",
+            "#0F6EB6",
+            "#006DBA",
+            "#DE0D3D",
+            "#E30138"
+        ]
     },
     {
         "name": "Klarna",
-        "logo": "klarna.svg"
+        "logo": "klarna.svg",
+        "colors": [
+            "#FEB4C7",
+            "#D9D9D9",
+            "#17120F"
+        ]
     },
     {
         "name": "Lightcoin",
-        "logo": "lightcoin.svg"
+        "logo": "lightcoin.svg",
+        "colors": [
+            "#A5A8A9"
+        ]
     },
     {
         "name": "Maestro",
-        "logo": "maestro.svg"
+        "logo": "maestro.svg",
+        "colors": [
+            "#ED0006",
+            "#0099DF",
+            "#6C6BBD"
+        ]
     },
     {
         "name": "Mastercard",
-        "logo": "mastercard.svg"
+        "logo": "mastercard.svg",
+        "colors": [
+            "#ED0006",
+            "#F9A000",
+            "#FF5E00"
+        ]
     },
     {
         "name": "Payoneer",
-        "logo": "payoneer.svg"
+        "logo": "payoneer.svg",
+        "colors": [
+            "#FC461E"
+        ]
     },
     {
         "name": "Paypal",
-        "logo": "paypal.svg"
+        "logo": "paypal.svg",
+        "colors": [
+            "#253B80",
+            "#179BD7",
+            "#222D65"
+        ]
     },
     {
         "name": "Paysafe",
-        "logo": "paysafe.svg"
+        "logo": "paysafe.svg",
+        "colors": [
+            "#7887E6",
+            "#FF5073",
+            "#2D2341"
+        ]
     },
     {
         "name": "Poli",
-        "logo": "poli.svg"
+        "logo": "poli.svg",
+        "colors": [
+            "#30469D"
+        ]
     },
     {
         "name": "Qiwi",
-        "logo": "qiwi.svg"
+        "logo": "qiwi.svg",
+        "colors": [
+            "#F28A1A"
+        ]
     },
     {
         "name": "Sepa",
-        "logo": "sepa.svg"
+        "logo": "sepa.svg",
+        "colors": [
+            "#10298E",
+            "#FFBE00"
+        ]
     },
     {
         "name": "Shop Pay",
-        "logo": "shop-pay.svg"
+        "logo": "shop-pay.svg",
+        "colors": [
+            "#5A31F4",
+            "#D9D9D9"
+        ]
     },
     {
         "name": "Skrill",
-        "logo": "skrill.svg"
+        "logo": "skrill.svg",
+        "colors": [
+            "#862165"
+        ]
     },
     {
         "name": "Sofort",
-        "logo": "sofort.svg"
+        "logo": "sofort.svg",
+        "colors": [
+            "#F884A1",
+            "#D9D9D9"
+        ]
     },
     {
         "name": "Stripe",
-        "logo": "stripe.svg"
+        "logo": "stripe.svg",
+        "colors": [
+            "#6461FC"
+        ]
     },
     {
         "name": "Union Pay",
-        "logo": "union-pay.svg"
+        "logo": "union-pay.svg",
+        "colors": [
+            "#E21836",
+            "#00447C",
+            "#007B84",
+            "#FEFEFE"
+        ]
     },
     {
         "name": "Venmo",
-        "logo": "venmo.svg"
+        "logo": "venmo.svg",
+        "colors": [
+            "#3D95CE",
+            "#D9D9D9"
+        ]
     },
     {
         "name": "Verifone",
-        "logo": "verifone.svg"
+        "logo": "verifone.svg",
+        "colors": [
+            "#1A1919",
+            "#00A3DA"
+        ]
     },
     {
         "name": "Visa",
-        "logo": "visa.svg"
+        "logo": "visa.svg",
+        "colors": [
+            "#172B85"
+        ]
     },
     {
         "name": "Web Money",
-        "logo": "web-money.svg"
+        "logo": "web-money.svg",
+        "colors": [
+            "#0068A3"
+        ]
     },
     {
         "name": "WeChat Pay",
-        "logo": "wechat.svg"
+        "logo": "wechat.svg",
+        "colors": [
+            "#1AAD19"
+        ]
     },
     {
         "name": "Yandex Pay",
-        "logo": "yandex.svg"
+        "logo": "yandex.svg",
+        "colors": [
+            "#FD6727"
+        ]
     }
 ]
