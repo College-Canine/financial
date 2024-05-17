@@ -38,7 +38,7 @@ function generateReadme() {
         generateBankTable(),
         `## Methods`,
         generateMethodsTable(),
-        `## Legal`,
+        `## Legal Notice`,
         `College Canine does not claim to own any copyrights or trademarks represented in this repository besides the College Canine Logo and Name. All licensing of logos and trademarks should be done with their respective owners.`
     ].join('\n\n') + '\n'
 
