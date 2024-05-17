@@ -11862,7 +11862,10 @@
         "settlement": false,
         "updated": 1415336400000,
         "country": "USA",
-        "colors": []
+        "colors": [
+            "#F58025",
+            "#0069AA"
+        ]
     },
     {
         "routing": "031040026",
@@ -11911,7 +11914,10 @@
         "settlement": false,
         "updated": 1360558800000,
         "country": "USA",
-        "colors": []
+        "colors": [
+            "#F58025",
+            "#0069AA"
+        ]
     },
     {
         "routing": "031100092",
@@ -12240,7 +12246,10 @@
         "settlement": false,
         "updated": 1356930000000,
         "country": "USA",
-        "colors": []
+        "colors": [
+            "#F58025",
+            "#0069AA"
+        ]
     },
     {
         "routing": "031207636",
@@ -13477,7 +13486,10 @@
         "settlement": false,
         "updated": 1360558800000,
         "country": "USA",
-        "colors": []
+        "colors": [
+            "#F58025",
+            "#0069AA"
+        ]
     },
     {
         "routing": "041001039",
@@ -15014,7 +15026,10 @@
         "settlement": true,
         "updated": 1109826000000,
         "country": "USA",
-        "colors": []
+        "colors": [
+            "#F58025",
+            "#0069AA"
+        ]
     },
     {
         "routing": "043000261",
@@ -15051,7 +15066,10 @@
         "settlement": false,
         "updated": 1061438400000,
         "country": "USA",
-        "colors": []
+        "colors": [
+            "#F58025",
+            "#0069AA"
+        ]
     },
     {
         "routing": "043019003",
@@ -38076,7 +38094,10 @@
         "settlement": false,
         "updated": 1415336400000,
         "country": "USA",
-        "colors": []
+        "colors": [
+            "#F58025",
+            "#0069AA"
+        ]
     },
     {
         "routing": "083000137",
@@ -59773,7 +59794,9 @@
         "settlement": true,
         "updated": 1512104400000,
         "country": "USA",
-        "colors": []
+        "colors": [
+            "#0D9EDA"
+        ]
     },
     {
         "routing": 121281892,
@@ -60794,7 +60817,9 @@
         "settlement": false,
         "updated": 1511326800000,
         "country": "USA",
-        "colors": []
+        "colors": [
+            "#0D9EDA"
+        ]
     },
     {
         "routing": 122105825,
@@ -62944,14 +62969,6 @@
         "updated": 1392008400000,
         "country": "USA",
         "colors": [
-            "#c",
-            "#1A3258",
-            "#1A3258",
-            "#1A3258",
-            "#1A3258",
-            "#1A3258",
-            "#1A3258",
-            "#1A3258",
             "#1A3258"
         ]
     },
@@ -71384,7 +71401,9 @@
         "settlement": true,
         "updated": 1474344000000,
         "country": "USA",
-        "colors": []
+        "colors": [
+            "#6D983F"
+        ]
     },
     {
         "routing": 231372028,
@@ -86986,14 +87005,6 @@
         "updated": 1122523200000,
         "country": "USA",
         "colors": [
-            "#c",
-            "#1A3258",
-            "#1A3258",
-            "#1A3258",
-            "#1A3258",
-            "#1A3258",
-            "#1A3258",
-            "#1A3258",
             "#1A3258"
         ]
     },
