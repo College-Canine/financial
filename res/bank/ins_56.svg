@@ -1,5 +1,5 @@
 <svg width="96" height="96" viewBox="0 0 96 96" fill="none" xmlns="http://www.w3.org/2000/svg">
-<circle cx="48" cy="48" r="47" fill="white" stroke="white" stroke-width="2"/>
+
 <circle cx="48" cy="48" r="29" fill="#004FC2"/>
 <mask id="mask0_1_332" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="42" y="32" width="21" height="10">
 <path d="M42.5273 32.9211H62.8234V41.7781H42.5273V32.9211Z" fill="white"/>

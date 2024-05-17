@@ -991,6 +991,7 @@
     },
     {
         "routing": "021000089",
+        "logo": "citibank.svg",
         "short": "CITIBANK NYC",
         "long": "CITIBANK, N.A.",
         "state": "NY",
