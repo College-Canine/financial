@@ -15,11 +15,12 @@ fs.writeFileSync("./data/banks.json", JSON.stringify(banks.map(i => {
 
         const logoData = fs.readFileSync("./logos/bank/" + i.logo, 'utf-8')
         colors = [
-            ...new Set(logoData.match(/\#[a-fA-F0-9]+/g)), 
-            ...new Set(logoData.match("white")), 
-            ...new Set(logoData.match("black")), 
+            ...new Set( logoData.match(/\#[a-fA-F0-9]+/g)),
+            logoData.includes('white') ? "#FFFFFF" : undefined,
+            logoData.includes('black') ? "#000000" : undefined
         ]
 
+        colors = colors.filter(i => i)
         colors = colors.filter(i => i.length == 7)
 
     }
@@ -39,12 +40,14 @@ fs.writeFileSync("./data/methods.json", JSON.stringify(methods.map(i => {
     if (i.logo != undefined) {
 
         const logoData = fs.readFileSync("./logos/method/" + i.logo, 'utf-8')
+        
         colors = [
-            ...new Set(logoData.match(/\#[a-fA-F0-9]+/g)), 
-            ...new Set(logoData.match("white")), 
-            ...new Set(logoData.match("black")), 
+            ...new Set( logoData.match(/\#[a-fA-F0-9]+/g)),
+            logoData.includes('white') ? "#FFFFFF" : undefined,
+            logoData.includes('black') ? "#000000" : undefined
         ]
 
+        colors = colors.filter(i => i)
         colors = colors.filter(i => i.length == 7)
 
     }

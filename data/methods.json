@@ -11,14 +11,17 @@
         "name": "Alipay",
         "logo": "alipay.svg",
         "colors": [
-            "#1677FF"
+            "#1677FF",
+            "#FFFFFF",
+            "#000000"
         ]
     },
     {
         "name": "Amazon Pay",
         "logo": "amazon.svg",
         "colors": [
-            "#FF9900"
+            "#FF9900",
+            "#000000"
         ]
     },
     {
@@ -26,13 +29,16 @@
         "logo": "amex.svg",
         "colors": [
             "#1F72CD",
-            "#D9D9D9"
+            "#D9D9D9",
+            "#FFFFFF"
         ]
     },
     {
         "name": "Apple Pay",
         "logo": "apple-pay.svg",
-        "colors": []
+        "colors": [
+            "#000000"
+        ]
     },
     {
         "name": "Ban Contact",
@@ -74,14 +80,16 @@
         "name": "Diners Club",
         "logo": "diners-club.svg",
         "colors": [
-            "#0079BE"
+            "#0079BE",
+            "#FFFFFF"
         ]
     },
     {
         "name": "Discover",
         "logo": "discover.svg",
         "colors": [
-            "#FD6020"
+            "#FD6020",
+            "#000000"
         ]
     },
     {
@@ -90,7 +98,8 @@
         "colors": [
             "#EC412A",
             "#1BA7DE",
-            "#FECA2F"
+            "#FECA2F",
+            "#000000"
         ]
     },
     {
@@ -99,7 +108,8 @@
         "colors": [
             "#6481E7",
             "#C1CCF5",
-            "#8299EC"
+            "#8299EC",
+            "#FFFFFF"
         ]
     },
     {
@@ -149,7 +159,8 @@
         "name": "Ideal",
         "logo": "ideal.svg",
         "colors": [
-            "#D50072"
+            "#D50072",
+            "#000000"
         ]
     },
     {
@@ -210,7 +221,8 @@
         "name": "Payoneer",
         "logo": "payoneer.svg",
         "colors": [
-            "#FC461E"
+            "#FC461E",
+            "#000000"
         ]
     },
     {
@@ -235,7 +247,8 @@
         "name": "Poli",
         "logo": "poli.svg",
         "colors": [
-            "#30469D"
+            "#30469D",
+            "#000000"
         ]
     },
     {
@@ -258,7 +271,8 @@
         "logo": "shop-pay.svg",
         "colors": [
             "#5A31F4",
-            "#D9D9D9"
+            "#D9D9D9",
+            "#FFFFFF"
         ]
     },
     {
@@ -273,7 +287,8 @@
         "logo": "sofort.svg",
         "colors": [
             "#F884A1",
-            "#D9D9D9"
+            "#D9D9D9",
+            "#FFFFFF"
         ]
     },
     {
@@ -298,7 +313,8 @@
         "logo": "venmo.svg",
         "colors": [
             "#3D95CE",
-            "#D9D9D9"
+            "#D9D9D9",
+            "#FFFFFF"
         ]
     },
     {
