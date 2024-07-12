@@ -279,6 +279,7 @@
         "routing": "011200608",
         "short": "KEY BANK MAINE",
         "long": "KEYBANK NATIONAL ASSOCIATION",
+        "logo": "keybank.svg",
         "state": "ME",
         "city": "PORTLAND",
         "transfer": true,
@@ -1071,13 +1072,17 @@
         "routing": "021000021",
         "short": "JPMCHASE",
         "long": "JPMORGAN CHASE BANK, NA",
+        "logo": "chase.svg",
         "state": "NY",
         "city": "NEW YORK",
         "transfer": true,
         "settlement": true,
         "updated": 1100235600000,
         "country": "USA",
-        "colors": []
+        "colors": [
+            "#004FC2",
+            "#FFFFFF"
+        ]
     },
     {
         "routing": "021000089",
@@ -7463,13 +7468,17 @@
         "routing": "021202719",
         "short": "BK OF NY NA NCD",
         "long": "JPMORGAN CHASE BANK, NA",
+        "logo": "chase.svg",
         "state": "NJ",
         "city": "CARLSTADT",
         "transfer": false,
         "settlement": true,
         "updated": 1415336400000,
         "country": "USA",
-        "colors": []
+        "colors": [
+            "#004FC2",
+            "#FFFFFF"
+        ]
     },
     {
         "routing": "021203792",
@@ -7911,13 +7920,17 @@
         "routing": "021272723",
         "short": "WASH MUT BANK",
         "long": "JPMORGAN CHASE BANK, NA",
+        "logo": "chase.svg",
         "state": "NY",
         "city": "VALLEY STREAM",
         "transfer": true,
         "settlement": false,
         "updated": 1287460800000,
         "country": "USA",
-        "colors": []
+        "colors": [
+            "#004FC2",
+            "#FFFFFF"
+        ]
     },
     {
         "routing": "021272778",
@@ -7935,6 +7948,7 @@
         "routing": "021300077",
         "short": "KEYBANK ALBANY",
         "long": "KEYBANK NATIONAL ASSOCIATION",
+        "logo": "keybank.svg",
         "state": "NY",
         "city": "ALBANY",
         "transfer": true,
@@ -11989,13 +12003,129 @@
         "routing": "031100649",
         "short": "DISCOVER BANK",
         "long": "DISCOVER BANK",
+        "logo": "discover.svg",
         "state": "DE",
         "city": "GREENWOOD",
         "transfer": true,
         "settlement": true,
         "updated": 965275200000,
         "country": "USA",
-        "colors": []
+        "colors": [
+            "#DB8135",
+            "#DB8137",
+            "#DC8337",
+            "#DC8539",
+            "#DC853A",
+            "#DC853C",
+            "#DD873E",
+            "#DD883F",
+            "#DD8841",
+            "#DE8A41",
+            "#DE8A43",
+            "#DE8A44",
+            "#DE8C46",
+            "#DF8E47",
+            "#DF8E48",
+            "#DF8E4A",
+            "#DF904A",
+            "#E0914C",
+            "#E0914E",
+            "#DF924F",
+            "#E09351",
+            "#E09552",
+            "#E09554",
+            "#E09555",
+            "#E19756",
+            "#E19757",
+            "#E29959",
+            "#E2995B",
+            "#E29B5B",
+            "#E29B5D",
+            "#E39D5F",
+            "#E39D61",
+            "#E39F63",
+            "#E39F64",
+            "#E4A166",
+            "#E4A367",
+            "#E4A369",
+            "#E4A36A",
+            "#E5A56C",
+            "#E5A76E",
+            "#E5A770",
+            "#E6A970",
+            "#E6A972",
+            "#E6AB74",
+            "#E6AB75",
+            "#E7AD77",
+            "#E8AF79",
+            "#E8AF7B",
+            "#E8B17B",
+            "#E8B17D",
+            "#E8B17E",
+            "#E9B381",
+            "#E9B583",
+            "#E9B584",
+            "#EAB786",
+            "#EAB788",
+            "#EBB989",
+            "#EBB98A",
+            "#EBBB8C",
+            "#ECBD8F",
+            "#ECBD90",
+            "#ECBF93",
+            "#EDC195",
+            "#EDC196",
+            "#EEC397",
+            "#EEC399",
+            "#EEC59B",
+            "#EEC69D",
+            "#EEC69F",
+            "#EFC89F",
+            "#EFC8A1",
+            "#EFCAA3",
+            "#F0CCA6",
+            "#F0CCA8",
+            "#F1CEAA",
+            "#F1D0AD",
+            "#F1D0AE",
+            "#F2D2B1",
+            "#F2D2B3",
+            "#F3D4B4",
+            "#F3D4B5",
+            "#F3D4B7",
+            "#F3D6B8",
+            "#F4D8BA",
+            "#F4D9BC",
+            "#F4D9BE",
+            "#F4DBBF",
+            "#F4DBC0",
+            "#F5DDC3",
+            "#F6DFC6",
+            "#F6DFC7",
+            "#F6E1CA",
+            "#F6E1CC",
+            "#F7E3CD",
+            "#F7E3CF",
+            "#F7E3D0",
+            "#F8E5D1",
+            "#F8E8D4",
+            "#F8E8D6",
+            "#F8E8D8",
+            "#F9EAD9",
+            "#FAECDC",
+            "#FAECDD",
+            "#FAECDF",
+            "#FAEEE0",
+            "#FBF0E3",
+            "#FBF1E5",
+            "#FBF1E7",
+            "#FCF3E8",
+            "#FCF3EA",
+            "#FCF5ED",
+            "#FCF5EF",
+            "#FDF8F1",
+            "#000000"
+        ]
     },
     {
         "routing": "031100966",
@@ -13170,13 +13300,18 @@
         "routing": "031319058",
         "short": "WOODFOREST NAT BAN",
         "long": "WOODFOREST NATIONAL BANK",
+        "logo": "woodforest.svg",
         "state": "PA",
         "city": "LEWISBURG",
         "transfer": true,
         "settlement": false,
         "updated": 1174449600000,
         "country": "USA",
-        "colors": []
+        "colors": [
+            "#010101",
+            "#55A939",
+            "#FFFFFF"
+        ]
     },
     {
         "routing": "031319333",
@@ -13499,6 +13634,7 @@
         "routing": "041001039",
         "short": "KEY GR LAKES CLEVE",
         "long": "KEYBANK NATIONAL ASSOCIATION",
+        "logo": "keybank.svg",
         "state": "OH",
         "city": "CLEVELAND",
         "transfer": true,
@@ -13511,6 +13647,7 @@
         "routing": "041002957",
         "short": "KEYBANK-KEYDIRECT",
         "long": "KEYBANK NATIONAL ASSOCIATION",
+        "logo": "keybank.svg",
         "state": "OH",
         "city": "CLEVELAND",
         "transfer": true,
@@ -15429,13 +15566,17 @@
         "routing": "044000037",
         "short": "JPMCHASE OHIO",
         "long": "JPMORGAN CHASE BANK, NA",
+        "logo": "chase.svg",
         "state": "OH",
         "city": "COLUMBUS",
         "transfer": true,
         "settlement": false,
         "updated": 1415336400000,
         "country": "USA",
-        "colors": []
+        "colors": [
+            "#004FC2",
+            "#FFFFFF"
+        ]
     },
     {
         "routing": "044002051",
@@ -15729,13 +15870,18 @@
         "routing": "044115809",
         "short": "WOODFOREST NB",
         "long": "WOODFOREST NATIONAL BANK",
+        "logo": "woodforest.svg",
         "state": "TX",
         "city": "THE WOODLANDS",
         "transfer": true,
         "settlement": false,
         "updated": 1155700800000,
         "country": "USA",
-        "colors": []
+        "colors": [
+            "#010101",
+            "#55A939",
+            "#FFFFFF"
+        ]
     },
     {
         "routing": "044201030",
@@ -17745,13 +17891,18 @@
         "routing": "053112592",
         "short": "WOODFOREST NATL BK",
         "long": "WOODFOREST NATIONAL BANK",
+        "logo": "woodforest.svg",
         "state": "TX",
         "city": "HOUSTON",
         "transfer": true,
         "settlement": false,
         "updated": 1119499200000,
         "country": "USA",
-        "colors": []
+        "colors": [
+            "#010101",
+            "#55A939",
+            "#FFFFFF"
+        ]
     },
     {
         "routing": "053112615",
@@ -19017,13 +19168,17 @@
         "routing": "061092387",
         "short": "JPMCHASE",
         "long": "JPMORGAN CHASE BANK, NA",
+        "logo": "chase.svg",
         "state": "CA",
         "city": "STOCKTON",
         "transfer": true,
         "settlement": false,
         "updated": 1291006800000,
         "country": "USA",
-        "colors": []
+        "colors": [
+            "#004FC2",
+            "#FFFFFF"
+        ]
     },
     {
         "routing": "061092947",
@@ -24369,13 +24524,17 @@
         "routing": "065400137",
         "short": "JPMCHASE LOUISIANA",
         "long": "JPMORGAN CHASE BANK, NA",
+        "logo": "chase.svg",
         "state": "LA",
         "city": "BATON ROUGE",
         "transfer": true,
         "settlement": false,
         "updated": 1415336400000,
         "country": "USA",
-        "colors": []
+        "colors": [
+            "#004FC2",
+            "#FFFFFF"
+        ]
     },
     {
         "routing": "065400153",
@@ -25805,13 +25964,17 @@
         "routing": "071000013",
         "short": "JPMCHASE ILLINOIS",
         "long": "JPMORGAN CHASE BANK, NA",
+        "logo": "chase.svg",
         "state": "IL",
         "city": "CHICAGO",
         "transfer": true,
         "settlement": false,
         "updated": 1415336400000,
         "country": "USA",
-        "colors": []
+        "colors": [
+            "#004FC2",
+            "#FFFFFF"
+        ]
     },
     {
         "routing": "071000039",
@@ -26549,13 +26712,17 @@
         "routing": "071074528",
         "short": "JPMCHASE",
         "long": "JPMORGAN CHASE BANK, NA",
+        "logo": "chase.svg",
         "state": "CA",
         "city": "STOCKTON",
         "transfer": true,
         "settlement": false,
         "updated": 1291006800000,
         "country": "USA",
-        "colors": []
+        "colors": [
+            "#004FC2",
+            "#FFFFFF"
+        ]
     },
     {
         "routing": "071074557",
@@ -29681,13 +29848,18 @@
         "routing": "071926809",
         "short": "WOODFOREST NATL BK",
         "long": "WOODFOREST NATIONAL BANK",
+        "logo": "woodforest.svg",
         "state": "IL",
         "city": "ROCKFORD",
         "transfer": true,
         "settlement": false,
         "updated": 1169182800000,
         "country": "USA",
-        "colors": []
+        "colors": [
+            "#010101",
+            "#55A939",
+            "#FFFFFF"
+        ]
     },
     {
         "routing": "071926854",
@@ -29813,13 +29985,17 @@
         "routing": "072000326",
         "short": "JPMCHASE MICHIGAN",
         "long": "JPMORGAN CHASE BANK, NA",
+        "logo": "chase.svg",
         "state": "MI",
         "city": "DETROIT",
         "transfer": true,
         "settlement": false,
         "updated": 1415336400000,
         "country": "USA",
-        "colors": []
+        "colors": [
+            "#004FC2",
+            "#FFFFFF"
+        ]
     },
     {
         "routing": "072001079",
@@ -33053,13 +33229,17 @@
         "routing": "074000010",
         "short": "JPMCHASE INDIANA",
         "long": "JPMORGAN CHASE BANK, NA",
+        "logo": "chase.svg",
         "state": "IN",
         "city": "INDIANAPOLIS",
         "transfer": true,
         "settlement": false,
         "updated": 1415336400000,
         "country": "USA",
-        "colors": []
+        "colors": [
+            "#004FC2",
+            "#FFFFFF"
+        ]
     },
     {
         "routing": "074001019",
@@ -33701,13 +33881,17 @@
         "routing": "075000019",
         "short": "JPMCHASE WISCONSIN",
         "long": "JPMORGAN CHASE BANK, NA",
+        "logo": "chase.svg",
         "state": "WI",
         "city": "MILWAUKEE",
         "transfer": true,
         "settlement": false,
         "updated": 1415336400000,
         "country": "USA",
-        "colors": []
+        "colors": [
+            "#004FC2",
+            "#FFFFFF"
+        ]
     },
     {
         "routing": "075000022",
@@ -35921,13 +36105,18 @@
         "routing": "081226829",
         "short": "WOODFOREST NB IL",
         "long": "WOODFOREST NATIONAL BANK",
+        "logo": "woodforest.svg",
         "state": "IL",
         "city": "MOUNT VERNON",
         "transfer": true,
         "settlement": false,
         "updated": 1182312000000,
         "country": "USA",
-        "colors": []
+        "colors": [
+            "#010101",
+            "#55A939",
+            "#FFFFFF"
+        ]
     },
     {
         "routing": "081227129",
@@ -38110,13 +38299,17 @@
         "routing": "083000137",
         "short": "JPMCHASE KENTUCKY",
         "long": "JPMORGAN CHASE BANK, NA",
+        "logo": "chase.svg",
         "state": "OH",
         "city": "COLUMBUS",
         "transfer": true,
         "settlement": false,
         "updated": 1415336400000,
         "country": "USA",
-        "colors": []
+        "colors": [
+            "#004FC2",
+            "#FFFFFF"
+        ]
     },
     {
         "routing": "083000564",
@@ -47478,13 +47671,17 @@
         "routing": 102001017,
         "short": "JPMCHASE COLORADO",
         "long": "JPMORGAN CHASE BANK, NA",
+        "logo": "chase.svg",
         "state": "CO",
         "city": "DENVER",
         "transfer": true,
         "settlement": false,
         "updated": 1415336400000,
         "country": "USA",
-        "colors": []
+        "colors": [
+            "#004FC2",
+            "#FFFFFF"
+        ]
     },
     {
         "routing": 102003154,
@@ -48474,13 +48671,17 @@
         "routing": 103000648,
         "short": "JPMCHASE OKLAHOMA",
         "long": "JPMORGAN CHASE BANK, NA",
+        "logo": "chase.svg",
         "state": "OK",
         "city": "OKLAHOMA CITY",
         "transfer": true,
         "settlement": false,
         "updated": 1415336400000,
         "country": "USA",
-        "colors": []
+        "colors": [
+            "#004FC2",
+            "#FFFFFF"
+        ]
     },
     {
         "routing": 103000703,
@@ -52194,13 +52395,17 @@
         "routing": 107089555,
         "short": "WASH MUT BANK",
         "long": "JPMORGAN CHASE BANK, NA",
+        "logo": "chase.svg",
         "state": "CO",
         "city": "WESTMINSTER",
         "transfer": true,
         "settlement": false,
         "updated": 1281499200000,
         "country": "USA",
-        "colors": []
+        "colors": [
+            "#004FC2",
+            "#FFFFFF"
+        ]
     },
     {
         "routing": 107089720,
@@ -52254,13 +52459,17 @@
         "routing": 111000614,
         "short": "JPMCHASE TEXAS",
         "long": "JPMORGAN CHASE BANK, NA",
+        "logo": "chase.svg",
         "state": "TX",
         "city": "BANK ONE TEXAS",
         "transfer": true,
         "settlement": false,
         "updated": 1415336400000,
         "country": "USA",
-        "colors": []
+        "colors": [
+            "#004FC2",
+            "#FFFFFF"
+        ]
     },
     {
         "routing": 111000753,
@@ -55566,13 +55775,17 @@
         "routing": 111993776,
         "short": "WASH MUT BANK",
         "long": "JPMORGAN CHASE BANK, NA",
+        "logo": "chase.svg",
         "state": "WA",
         "city": "SEATTLE",
         "transfer": true,
         "settlement": false,
         "updated": 1264568400000,
         "country": "USA",
-        "colors": []
+        "colors": [
+            "#004FC2",
+            "#FFFFFF"
+        ]
     },
     {
         "routing": 111994063,
@@ -56022,13 +56235,17 @@
         "routing": 113000609,
         "short": "JPMCHASE TEXAS",
         "long": "JPMORGAN CHASE BANK, NA",
+        "logo": "chase.svg",
         "state": "TX",
         "city": "HOUSTON",
         "transfer": true,
         "settlement": false,
         "updated": 1415336400000,
         "country": "USA",
-        "colors": []
+        "colors": [
+            "#004FC2",
+            "#FFFFFF"
+        ]
     },
     {
         "routing": 113000968,
@@ -56082,13 +56299,18 @@
         "routing": 113008465,
         "short": "WOODFOREST N/B HOU",
         "long": "WOODFOREST NATIONAL BANK",
+        "logo": "woodforest.svg",
         "state": "TX",
         "city": "HOUSTON",
         "transfer": true,
         "settlement": true,
         "updated": 1267074000000,
         "country": "USA",
-        "colors": []
+        "colors": [
+            "#010101",
+            "#55A939",
+            "#FFFFFF"
+        ]
     },
     {
         "routing": 113010547,
@@ -60638,13 +60860,17 @@
         "routing": 122100024,
         "short": "JPMCHASE ARIZONA",
         "long": "JPMORGAN CHASE BANK, NA",
+        "logo": "chase.svg",
         "state": "AZ",
         "city": "PHOENIX",
         "transfer": true,
         "settlement": false,
         "updated": 1415336400000,
         "country": "USA",
-        "colors": []
+        "colors": [
+            "#004FC2",
+            "#FFFFFF"
+        ]
     },
     {
         "routing": 122101010,
@@ -63046,6 +63272,7 @@
         "routing": 123002011,
         "short": "KEY BK POR",
         "long": "KEYBANK NATIONAL ASSOCIATION",
+        "logo": "keybank.svg",
         "state": "OR",
         "city": "PORTLAND",
         "transfer": true,
@@ -63442,13 +63669,17 @@
         "routing": 123271978,
         "short": "WA MUT FSB SEA",
         "long": "JPMORGAN CHASE BANK, NA",
+        "logo": "chase.svg",
         "state": "UT",
         "city": "PARK CITY",
         "transfer": true,
         "settlement": false,
         "updated": 1255406400000,
         "country": "USA",
-        "colors": []
+        "colors": [
+            "#004FC2",
+            "#FFFFFF"
+        ]
     },
     {
         "routing": 123300153,
@@ -63526,6 +63757,7 @@
         "routing": 124000737,
         "short": "KEY BK UT SLC",
         "long": "KEYBANK NATIONAL ASSOCIATION",
+        "logo": "keybank.svg",
         "state": "UT",
         "city": "OGDEN",
         "transfer": true,
@@ -63538,13 +63770,17 @@
         "routing": 124001545,
         "short": "JPMCHASE UTAH",
         "long": "JPMORGAN CHASE BANK, NA",
+        "logo": "chase.svg",
         "state": "UT",
         "city": "SALT LAKE CITY",
         "transfer": true,
         "settlement": true,
         "updated": 1415336400000,
         "country": "USA",
-        "colors": []
+        "colors": [
+            "#004FC2",
+            "#FFFFFF"
+        ]
     },
     {
         "routing": 124002887,
@@ -63744,6 +63980,7 @@
         "routing": 124085260,
         "short": "GOLDMAN SACHS BK",
         "long": "GOLDMAN SACHS BANK USA",
+        "logo": "marcus.svg",
         "state": "UT",
         "city": "SALT LAKE CITY",
         "transfer": true,
@@ -63816,6 +64053,7 @@
         "routing": 124101555,
         "short": "KEY BK ID BOIS",
         "long": "KEYBANK NATIONAL ASSOCIATION",
+        "logo": "keybank.svg",
         "state": "ID",
         "city": "BOISE",
         "transfer": true,
@@ -64308,6 +64546,7 @@
         "routing": 125000574,
         "short": "KEY BK WASH TAC",
         "long": "KEYBANK NATIONAL ASSOCIATION",
+        "logo": "keybank.svg",
         "state": "WA",
         "city": "SEATTLE",
         "transfer": true,
@@ -65016,6 +65255,7 @@
         "routing": 125200879,
         "short": "KEY BK AKA ANCH",
         "long": "KEYBANK NATIONAL ASSOCIATION",
+        "logo": "keybank.svg",
         "state": "AK",
         "city": "ANCHORAGE",
         "transfer": true,
@@ -68364,6 +68604,7 @@
         "routing": 211672531,
         "short": "KEY BK BURLINGTON",
         "long": "KEYBANK NATIONAL ASSOCIATION",
+        "logo": "keybank.svg",
         "state": "NY",
         "city": "NEWBURGH",
         "transfer": true,
@@ -75068,6 +75309,7 @@
         "routing": 253177049,
         "short": "STATE ECU RALEIGH",
         "long": "STATE EMPLOYEES CU",
+        "logo": "nc_secu.svg",
         "state": "NC",
         "city": "RALEIGH",
         "transfer": true,
@@ -78904,13 +79146,17 @@
         "routing": 267084131,
         "short": "JPMCHASE",
         "long": "JPMORGAN CHASE BANK, NA",
+        "logo": "chase.svg",
         "state": "CA",
         "city": "BEVERLY HILLS",
         "transfer": true,
         "settlement": false,
         "updated": 1291006800000,
         "country": "USA",
-        "colors": []
+        "colors": [
+            "#004FC2",
+            "#FFFFFF"
+        ]
     },
     {
         "routing": 267087769,
@@ -85268,6 +85514,7 @@
         "routing": 307070267,
         "short": "KEY BANK CO",
         "long": "KEYBANK NATIONAL ASSOCIATION",
+        "logo": "keybank.svg",
         "state": "WY",
         "city": "CHEYENNE",
         "transfer": true,
@@ -87192,13 +87439,18 @@
         "routing": 314972853,
         "short": "WOODFOREST NAT BK",
         "long": "WOODFOREST NATIONAL BANK",
+        "logo": "woodforest.svg",
         "state": "TX",
         "city": "THE WOODLANDS",
         "transfer": true,
         "settlement": false,
         "updated": 1304049600000,
         "country": "USA",
-        "colors": []
+        "colors": [
+            "#010101",
+            "#55A939",
+            "#FFFFFF"
+        ]
     },
     {
         "routing": 314973548,
@@ -89484,13 +89736,17 @@
         "routing": 322271627,
         "short": "WASH MUT BANK",
         "long": "JPMORGAN CHASE BANK, NA",
+        "logo": "chase.svg",
         "state": "WA",
         "city": "SEATTLE",
         "transfer": true,
         "settlement": false,
         "updated": 1415336400000,
         "country": "USA",
-        "colors": []
+        "colors": [
+            "#004FC2",
+            "#FFFFFF"
+        ]
     },
     {
         "routing": 322271724,
@@ -91648,13 +91904,17 @@
         "routing": 325070760,
         "short": "WASH MUT BANK",
         "long": "JPMORGAN CHASE BANK, NA",
+        "logo": "chase.svg",
         "state": "WA",
         "city": "SEATTLE",
         "transfer": true,
         "settlement": false,
         "updated": 1415336400000,
         "country": "USA",
-        "colors": []
+        "colors": [
+            "#004FC2",
+            "#FFFFFF"
+        ]
     },
     {
         "routing": 325070980,
