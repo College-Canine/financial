@@ -183,13 +183,18 @@
         "routing": "011103093",
         "short": "TD BANK, NA",
         "long": "TD BANK, NA",
+        "logo": "td.svg",
         "state": "CT",
         "city": "GLASTONBURY",
         "transfer": true,
         "settlement": false,
         "updated": 1415336400000,
         "country": "USA",
-        "colors": []
+        "colors": [
+            "#003F2D",
+            "#54B848",
+            "#FFFFFF"
+        ]
     },
     {
         "routing": "011104335",
@@ -436,13 +441,18 @@
         "routing": "011202910",
         "short": "TD BANK USA, N.A.",
         "long": "TD BANK USA, NATIONAL ASSOCIATION",
+        "logo": "td.svg",
         "state": "ME",
         "city": "PORTLAND",
         "transfer": true,
         "settlement": false,
         "updated": 1415336400000,
         "country": "USA",
-        "colors": []
+        "colors": [
+            "#003F2D",
+            "#54B848",
+            "#FFFFFF"
+        ]
     },
     {
         "routing": "011300142",
@@ -688,13 +698,18 @@
         "routing": "011400071",
         "short": "TD BANK, NA",
         "long": "TD BANK, NA",
+        "logo": "td.svg",
         "state": "NH",
         "city": "MANCHESTER",
         "transfer": true,
         "settlement": false,
         "updated": 1415336400000,
         "country": "USA",
-        "colors": []
+        "colors": [
+            "#003F2D",
+            "#54B848",
+            "#FFFFFF"
+        ]
     },
     {
         "routing": "011400149",
@@ -880,13 +895,18 @@
         "routing": "011600033",
         "short": "TD BANK, NA",
         "long": "TD BANK, NA",
+        "logo": "td.svg",
         "state": "VT",
         "city": "WILLISTON",
         "transfer": true,
         "settlement": false,
         "updated": 1415336400000,
         "country": "USA",
-        "colors": []
+        "colors": [
+            "#003F2D",
+            "#54B848",
+            "#FFFFFF"
+        ]
     },
     {
         "routing": "011600062",
@@ -1432,6 +1452,7 @@
         "routing": "021052943",
         "short": "WELLS GNMA-P&I",
         "long": "WELLS FARGO GNMA-P&I",
+        "logo": "wells-fargo.svg",
         "state": "NY",
         "city": "NEW YORK",
         "transfer": false,
@@ -7420,13 +7441,18 @@
         "routing": "021200957",
         "short": "TD BANK, NA",
         "long": "TD BANK, NA",
+        "logo": "td.svg",
         "state": "NJ",
         "city": "CHERRY HILL",
         "transfer": true,
         "settlement": false,
         "updated": 1257829200000,
         "country": "USA",
-        "colors": []
+        "colors": [
+            "#003F2D",
+            "#54B848",
+            "#FFFFFF"
+        ]
     },
     {
         "routing": "021201383",
@@ -7444,13 +7470,18 @@
         "routing": "021201503",
         "short": "TD BANK, NA",
         "long": "TD BANK, NA",
+        "logo": "td.svg",
         "state": "ME",
         "city": "LEWISTON",
         "transfer": true,
         "settlement": false,
         "updated": 1380859200000,
         "country": "USA",
-        "colors": []
+        "colors": [
+            "#003F2D",
+            "#54B848",
+            "#FFFFFF"
+        ]
     },
     {
         "routing": "021201639",
@@ -7997,13 +8028,18 @@
         "routing": "021302567",
         "short": "TD BANK, NA",
         "long": "TD BANK, NA",
+        "logo": "td.svg",
         "state": "VT",
         "city": "WILLISTON",
         "transfer": true,
         "settlement": false,
         "updated": 1415336400000,
         "country": "USA",
-        "colors": []
+        "colors": [
+            "#003F2D",
+            "#54B848",
+            "#FFFFFF"
+        ]
     },
     {
         "routing": "021302648",
@@ -8393,13 +8429,17 @@
         "routing": "021407912",
         "short": "CAPITAL ONE NA",
         "long": "CAPITAL ONE, NA",
+        "logo": "capital-one.svg",
         "state": "NY",
         "city": "MELVILLE",
         "transfer": true,
         "settlement": false,
         "updated": 1440043200000,
         "country": "USA",
-        "colors": []
+        "colors": [
+            "#D03027",
+            "#004977"
+        ]
     },
     {
         "routing": "021408597",
@@ -9041,13 +9081,18 @@
         "routing": "021912915",
         "short": "TD BANK USA, N.A.",
         "long": "TD BANK USA, NATIONAL ASSOCIATION",
+        "logo": "td.svg",
         "state": "NY",
         "city": "NEW YORK",
         "transfer": true,
         "settlement": false,
         "updated": 1268024400000,
         "country": "USA",
-        "colors": []
+        "colors": [
+            "#003F2D",
+            "#54B848",
+            "#FFFFFF"
+        ]
     },
     {
         "routing": "021912928",
@@ -9873,6 +9918,7 @@
         "routing": "026005092",
         "short": "WELLSFARGO NY INTL",
         "long": "WELLS FARGO NY INTL",
+        "logo": "wells-fargo.svg",
         "state": "NY",
         "city": "NEW YORK",
         "transfer": true,
@@ -11053,13 +11099,18 @@
         "routing": "026013673",
         "short": "TD BANK, NA",
         "long": "TD BANK, NA",
+        "logo": "td.svg",
         "state": "NY",
         "city": "NEW YORK",
         "transfer": true,
         "settlement": false,
         "updated": 1253851200000,
         "country": "USA",
-        "colors": []
+        "colors": [
+            "#003F2D",
+            "#54B848",
+            "#FFFFFF"
+        ]
     },
     {
         "routing": "026013767",
@@ -11161,13 +11212,18 @@
         "routing": "026014193",
         "short": "TD BANK USA, N.A.",
         "long": "TD BANK USA, NATIONAL ASSOCIATION",
+        "logo": "td.svg",
         "state": "NY",
         "city": "NEW YORK",
         "transfer": true,
         "settlement": false,
         "updated": 1415336400000,
         "country": "USA",
-        "colors": []
+        "colors": [
+            "#003F2D",
+            "#54B848",
+            "#FFFFFF"
+        ]
     },
     {
         "routing": "026014216",
@@ -12215,13 +12271,18 @@
         "routing": "031101266",
         "short": "TD BANK NA",
         "long": "TD BANK, NA",
+        "logo": "td.svg",
         "state": "DE",
         "city": "WILMINGTON",
         "transfer": true,
         "settlement": true,
         "updated": 1247025600000,
         "country": "USA",
-        "colors": []
+        "colors": [
+            "#003F2D",
+            "#54B848",
+            "#FFFFFF"
+        ]
     },
     {
         "routing": "031101282",
@@ -12263,13 +12324,18 @@
         "routing": "031101347",
         "short": "TD BANK USA, NA",
         "long": "TD BANK USA, NATIONAL ASSOCIATION",
+        "logo": "td.svg",
         "state": "DE",
         "city": "WILMINGTON",
         "transfer": false,
         "settlement": true,
         "updated": 1381896000000,
         "country": "USA",
-        "colors": []
+        "colors": [
+            "#003F2D",
+            "#54B848",
+            "#FFFFFF"
+        ]
     },
     {
         "routing": "031101350",
@@ -12287,13 +12353,17 @@
         "routing": "031176110",
         "short": "CAPITAL ONE NA",
         "long": "CAPITAL ONE, NA",
+        "logo": "capital-one.svg",
         "state": "DE",
         "city": "WILMINGTON",
         "transfer": true,
         "settlement": false,
         "updated": 1375761600000,
         "country": "USA",
-        "colors": []
+        "colors": [
+            "#D03027",
+            "#004977"
+        ]
     },
     {
         "routing": "031201085",
@@ -12311,13 +12381,18 @@
         "routing": "031201360",
         "short": "TD BANK, NA",
         "long": "TD BANK, NA",
+        "logo": "td.svg",
         "state": "NJ",
         "city": "CHERRY HILL",
         "transfer": true,
         "settlement": false,
         "updated": 1257829200000,
         "country": "USA",
-        "colors": []
+        "colors": [
+            "#003F2D",
+            "#54B848",
+            "#FFFFFF"
+        ]
     },
     {
         "routing": "031203915",
@@ -13497,13 +13572,18 @@
         "routing": "036001808",
         "short": "TD BANK, NA",
         "long": "TD BANK, NA",
+        "logo": "td.svg",
         "state": "PA",
         "city": "PHILADELPHIA",
         "transfer": true,
         "settlement": false,
         "updated": 1415336400000,
         "country": "USA",
-        "colors": []
+        "colors": [
+            "#003F2D",
+            "#54B848",
+            "#FFFFFF"
+        ]
     },
     {
         "routing": "036002085",
@@ -14212,13 +14292,17 @@
         "routing": "041251245",
         "short": "BANK OF AMERICA",
         "long": "BANK OF AMERICA NA",
+        "logo": "bofa.svg",
         "state": "DE",
         "city": "WILMINGTON",
         "transfer": false,
         "settlement": true,
         "updated": 1445227200000,
         "country": "USA",
-        "colors": []
+        "colors": [
+            "#E31837",
+            "#012169"
+        ]
     },
     {
         "routing": "041253832",
@@ -16583,13 +16667,17 @@
         "routing": "051405515",
         "short": "CAP ONE RICH",
         "long": "CAPITAL ONE BANK (USA), NA",
+        "logo": "capital-one.svg",
         "state": "VA",
         "city": "GLEN ALLEN",
         "transfer": true,
         "settlement": true,
         "updated": 1508990400000,
         "country": "USA",
-        "colors": []
+        "colors": [
+            "#D03027",
+            "#004977"
+        ]
     },
     {
         "routing": "051405528",
@@ -17591,13 +17679,17 @@
         "routing": "053000196",
         "short": "BK AMERICA NC",
         "long": "BANK OF AMERICA NA",
+        "logo": "bofa.svg",
         "state": "NC",
         "city": "CHARLOTTE",
         "transfer": true,
         "settlement": true,
         "updated": 1352782800000,
         "country": "USA",
-        "colors": []
+        "colors": [
+            "#E31837",
+            "#012169"
+        ]
     },
     {
         "routing": "053000206",
@@ -18448,13 +18540,18 @@
         "routing": "053902197",
         "short": "CAROLINA COLA BR",
         "long": "TD BANK, NA",
+        "logo": "td.svg",
         "state": "SC",
         "city": "COLUMBIA",
         "transfer": true,
         "settlement": false,
         "updated": 1308283200000,
         "country": "USA",
-        "colors": []
+        "colors": [
+            "#003F2D",
+            "#54B848",
+            "#FFFFFF"
+        ]
     },
     {
         "routing": "053905877",
@@ -18556,13 +18653,18 @@
         "routing": "054001725",
         "short": "TD BANK, NA",
         "long": "TD BANK, NA",
+        "logo": "td.svg",
         "state": "DC",
         "city": "WASHINGTON",
         "transfer": true,
         "settlement": false,
         "updated": 1253851200000,
         "country": "USA",
-        "colors": []
+        "colors": [
+            "#003F2D",
+            "#54B848",
+            "#FFFFFF"
+        ]
     },
     {
         "routing": "054073630",
@@ -18928,13 +19030,17 @@
         "routing": "056073502",
         "short": "CAPITAL ONE NA",
         "long": "CAPITAL ONE, NA",
+        "logo": "capital-one.svg",
         "state": "VA",
         "city": "MCLEAN",
         "transfer": true,
         "settlement": true,
         "updated": 1184731200000,
         "country": "USA",
-        "colors": []
+        "colors": [
+            "#D03027",
+            "#004977"
+        ]
     },
     {
         "routing": "056073573",
@@ -18952,13 +19058,17 @@
         "routing": "056073612",
         "short": "CAPITAL ONE NA",
         "long": "CAPITAL ONE, NA",
+        "logo": "capital-one.svg",
         "state": "VA",
         "city": "MCLEAN",
         "transfer": true,
         "settlement": false,
         "updated": 1440043200000,
         "country": "USA",
-        "colors": []
+        "colors": [
+            "#D03027",
+            "#004977"
+        ]
     },
     {
         "routing": "056073625",
@@ -23768,13 +23878,17 @@
         "routing": "065000090",
         "short": "CAPITAL ONE NA",
         "long": "CAPITAL ONE, NA",
+        "logo": "capital-one.svg",
         "state": "LA",
         "city": "NEW ORLEANS",
         "transfer": true,
         "settlement": false,
         "updated": 1440043200000,
         "country": "USA",
-        "colors": []
+        "colors": [
+            "#D03027",
+            "#004977"
+        ]
     },
     {
         "routing": "065000171",
@@ -25652,13 +25766,18 @@
         "routing": "067014822",
         "short": "TD BANK, NA",
         "long": "TD BANK, NA",
+        "logo": "td.svg",
         "state": "FL",
         "city": "WEST PALM BEACH",
         "transfer": true,
         "settlement": false,
         "updated": 1415336400000,
         "country": "USA",
-        "colors": []
+        "colors": [
+            "#003F2D",
+            "#54B848",
+            "#FFFFFF"
+        ]
     },
     {
         "routing": "067014961",
@@ -25980,13 +26099,17 @@
         "routing": "071000039",
         "short": "BKAM IL CGO",
         "long": "BANK OF AMERICA, N.A., IL",
+        "logo": "bofa.svg",
         "state": "IL",
         "city": "CHICAGO",
         "transfer": true,
         "settlement": false,
         "updated": 1415336400000,
         "country": "USA",
-        "colors": []
+        "colors": [
+            "#E31837",
+            "#012169"
+        ]
     },
     {
         "routing": "071000152",
@@ -41687,6 +41810,20 @@
         "routing": "091302966",
         "short": "CHOICE GRAFTON",
         "long": "CHOICE FINANCIAL GROUP",
+        "logo": "choice.svg",
+        "state": "ND",
+        "city": "FARGO",
+        "transfer": true,
+        "settlement": true,
+        "updated": 1409112000000,
+        "country": "USA",
+        "colors": []
+    },
+    {
+        "routing": "091311229",
+        "short": "CHOICE BANK",
+        "long": "CHOICE FINANCIAL GROUP",
+        "logo": "choice.svg",
         "state": "ND",
         "city": "FARGO",
         "transfer": true,
@@ -52435,13 +52572,17 @@
         "routing": 111000012,
         "short": "BK AMER GLOBAL",
         "long": "BANK OF AMERICA, N.A., TX",
+        "logo": "bofa.svg",
         "state": "TX",
         "city": "BANK AMER GLOBAL DAL",
         "transfer": true,
         "settlement": false,
         "updated": 1151294400000,
         "country": "USA",
-        "colors": []
+        "colors": [
+            "#E31837",
+            "#012169"
+        ]
     },
     {
         "routing": 111000038,
@@ -54191,13 +54332,17 @@
         "routing": 111901014,
         "short": "CAPITAL ONE NA",
         "long": "CAPITAL ONE, NA",
+        "logo": "capital-one.svg",
         "state": "TX",
         "city": "TEXARKANA",
         "transfer": true,
         "settlement": false,
         "updated": 1440043200000,
         "country": "USA",
-        "colors": []
+        "colors": [
+            "#D03027",
+            "#004977"
+        ]
     },
     {
         "routing": 111901234,
@@ -56532,6 +56677,7 @@
         "routing": 113093852,
         "short": "WFBSC HOUSTON TX",
         "long": "WELLS FARGO BANK SOUTH CENTRAL, NA",
+        "logo": "wells-fargo.svg",
         "state": "TX",
         "city": "HOUSTON",
         "transfer": false,
@@ -57364,13 +57510,17 @@
         "routing": 114000653,
         "short": "BOA MILITARY SANT",
         "long": "BANK OF AMERICA, N.A., MILITARY BANK",
+        "logo": "bofa.svg",
         "state": "TX",
         "city": "SAN ANTONIO",
         "transfer": true,
         "settlement": false,
         "updated": 1068699600000,
         "country": "USA",
-        "colors": []
+        "colors": [
+            "#E31837",
+            "#012169"
+        ]
     },
     {
         "routing": 114000721,
@@ -57424,13 +57574,17 @@
         "routing": 114017714,
         "short": "BOA MILITARY OVSEA",
         "long": "BANK OF AMERICA MILITARY BK OVERSEAS",
+        "logo": "bofa.svg",
         "state": "TX",
         "city": "SAN ANTONIO",
         "transfer": true,
         "settlement": false,
         "updated": 1145246400000,
         "country": "USA",
-        "colors": []
+        "colors": [
+            "#E31837",
+            "#012169"
+        ]
     },
     {
         "routing": 114021933,
@@ -58420,6 +58574,7 @@
         "routing": 121000248,
         "short": "WELLS FARGO NA",
         "long": "WELLS FARGO BANK, NA",
+        "logo": "wells-fargo.svg",
         "state": "CA",
         "city": "SAN FRANCISCO",
         "transfer": true,
@@ -58432,13 +58587,17 @@
         "routing": 121000358,
         "short": "BK AM SF",
         "long": "BANK OF AMERICA, N.A., CA",
+        "logo": "bofa.svg",
         "state": "CA",
         "city": "SAN FRANCISCO",
         "transfer": true,
         "settlement": false,
         "updated": 1415336400000,
         "country": "USA",
-        "colors": []
+        "colors": [
+            "#E31837",
+            "#012169"
+        ]
     },
     {
         "routing": 121000374,
@@ -58636,6 +58795,7 @@
         "routing": 121043218,
         "short": "WELLS FARGO BK LTD",
         "long": "WELLS FARGO BANK, LTD",
+        "logo": "wells-fargo.svg",
         "state": "CA",
         "city": "FREMONT",
         "transfer": false,
@@ -59308,13 +59468,17 @@
         "routing": 121141822,
         "short": "BK OF AMERICA CA",
         "long": "BANK OF AMERICA CALIFORNIA, NA",
+        "logo": "bofa.svg",
         "state": "CA",
         "city": "WALNUT CREEK",
         "transfer": false,
         "settlement": false,
         "updated": 1300939200000,
         "country": "USA",
-        "colors": []
+        "colors": [
+            "#E31837",
+            "#012169"
+        ]
     },
     {
         "routing": 121141877,
@@ -63184,6 +63348,7 @@
         "routing": 122402421,
         "short": "WELLS FARGO FINANC",
         "long": "WELLS FARGO FINANCIAL NATIONAL BANK",
+        "logo": "wells-fargo.svg",
         "state": "NV",
         "city": "LAS VEGAS",
         "transfer": false,
@@ -66120,13 +66285,18 @@
         "routing": 211274450,
         "short": "TD BANK, NA",
         "long": "TD BANK, NA",
+        "logo": "td.svg",
         "state": "ME",
         "city": "PORTLAND",
         "transfer": true,
         "settlement": false,
         "updated": 1305259200000,
         "country": "USA",
-        "colors": []
+        "colors": [
+            "#003F2D",
+            "#54B848",
+            "#FFFFFF"
+        ]
     },
     {
         "routing": 211274476,
@@ -66708,13 +66878,18 @@
         "routing": 211370545,
         "short": "TD BANK, NA",
         "long": "TD BANK, NA",
+        "logo": "td.svg",
         "state": "MA",
         "city": "HAVERHILL",
         "transfer": true,
         "settlement": false,
         "updated": 1415336400000,
         "country": "USA",
-        "colors": []
+        "colors": [
+            "#003F2D",
+            "#54B848",
+            "#FFFFFF"
+        ]
     },
     {
         "routing": 211370558,
@@ -76226,13 +76401,17 @@
         "routing": 255071981,
         "short": "CAPITAL ONE NA",
         "long": "CAPITAL ONE, NA",
+        "logo": "capital-one.svg",
         "state": "MD",
         "city": "LAUREL",
         "transfer": true,
         "settlement": false,
         "updated": 1283140800000,
         "country": "USA",
-        "colors": []
+        "colors": [
+            "#D03027",
+            "#004977"
+        ]
     },
     {
         "routing": 255072045,
@@ -76562,13 +76741,16 @@
         "routing": 256074974,
         "short": "NAVY FCU WASH",
         "long": "NAVY FEDERAL CREDIT UNION",
+        "logo": "navy.svg",
         "state": "VA",
         "city": "VIENNA",
         "transfer": true,
         "settlement": true,
         "updated": 1411963200000,
         "country": "USA",
-        "colors": []
+        "colors": [
+            "#15375A"
+        ]
     },
     {
         "routing": 256075025,
