@@ -1564,7 +1564,8 @@
         "settlement": false,
         "updated": 1418274000000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://wise.com"
     },
     {
         "routing": "021052943",
@@ -3163,7 +3164,8 @@
         "settlement": false,
         "updated": 1427342400000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://wise.com"
     },
     {
         "routing": "021081817",
@@ -3188,7 +3190,8 @@
         "settlement": true,
         "updated": 1527566400000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://en.wikipedia.org"
     },
     {
         "routing": "021081833",
@@ -3330,7 +3333,8 @@
         "settlement": false,
         "updated": 1527220800000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.eeas.europa.eu"
     },
     {
         "routing": "021082065",
@@ -3355,7 +3359,8 @@
         "settlement": true,
         "updated": 1266555600000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.bankofengland.co.uk"
     },
     {
         "routing": "021082159",
@@ -3523,7 +3528,8 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.imf.org"
     },
     {
         "routing": "021082340",
@@ -3574,7 +3580,8 @@
         "settlement": true,
         "updated": 1302667200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.stashaway.my"
     },
     {
         "routing": "021082382",
@@ -3755,7 +3762,8 @@
         "settlement": false,
         "updated": 1416546000000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://home.treasury.gov"
     },
     {
         "routing": "021082793",
@@ -3806,7 +3814,8 @@
         "settlement": true,
         "updated": 1136869200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://cnyor.cancilleria.gob.ar"
     },
     {
         "routing": "021082887",
@@ -3999,7 +4008,8 @@
         "settlement": true,
         "updated": 1201755600000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://cnyor.cancilleria.gob.ar"
     },
     {
         "routing": "021083116",
@@ -4011,7 +4021,8 @@
         "settlement": true,
         "updated": 1201755600000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.dfat.gov.au"
     },
     {
         "routing": "021083129",
@@ -4023,7 +4034,8 @@
         "settlement": true,
         "updated": 1201755600000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.dfat.gov.au"
     },
     {
         "routing": "021083132",
@@ -4035,7 +4047,8 @@
         "settlement": true,
         "updated": 1201755600000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.bmeia.gv.at"
     },
     {
         "routing": "021083158",
@@ -4047,7 +4060,8 @@
         "settlement": true,
         "updated": 1201755600000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.bahamasny.com"
     },
     {
         "routing": "021083161",
@@ -4059,7 +4073,8 @@
         "settlement": false,
         "updated": 1520312400000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.cbb.gov.bh"
     },
     {
         "routing": "021083174",
@@ -4071,7 +4086,8 @@
         "settlement": true,
         "updated": 1520312400000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.cbb.gov.bh"
     },
     {
         "routing": "021083187",
@@ -4083,7 +4099,8 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.visahq.com"
     },
     {
         "routing": "021083190",
@@ -4095,7 +4112,8 @@
         "settlement": true,
         "updated": 1201755600000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.bdcgny.org"
     },
     {
         "routing": "021083213",
@@ -4107,7 +4125,8 @@
         "settlement": true,
         "updated": 1201755600000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.foreign.gov.bb"
     },
     {
         "routing": "021083239",
@@ -4119,7 +4138,8 @@
         "settlement": false,
         "updated": 1405051200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.imfconnect.org"
     },
     {
         "routing": "021083255",
@@ -4131,7 +4151,8 @@
         "settlement": true,
         "updated": 1201755600000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://unitedstates.diplomatie.belgium.be"
     },
     {
         "routing": "021083268",
@@ -4143,7 +4164,8 @@
         "settlement": false,
         "updated": 1528776000000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://unitedstates.diplomatie.belgium.be"
     },
     {
         "routing": "021083271",
@@ -4155,7 +4177,8 @@
         "settlement": true,
         "updated": 1201755600000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://belizemission.com"
     },
     {
         "routing": "021083297",
@@ -4167,7 +4190,8 @@
         "settlement": true,
         "updated": 1202965200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.bermuda-online.org"
     },
     {
         "routing": "021083307",
@@ -4179,7 +4203,8 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.mfa.gov.bt"
     },
     {
         "routing": "021083310",
@@ -4191,7 +4216,8 @@
         "settlement": true,
         "updated": 1455771600000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.bcb.gob.bo"
     },
     {
         "routing": "021083352",
@@ -4203,7 +4229,8 @@
         "settlement": false,
         "updated": 1427342400000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.gov.bw"
     },
     {
         "routing": "021083365",
@@ -4215,7 +4242,8 @@
         "settlement": false,
         "updated": null,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.state.gov"
     },
     {
         "routing": "021083378",
@@ -4227,7 +4255,8 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.dsca.mil"
     },
     {
         "routing": "021083394",
@@ -4239,7 +4268,8 @@
         "settlement": true,
         "updated": 1202965200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.bb.com.br"
     },
     {
         "routing": "021083417",
@@ -4251,7 +4281,8 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://myanmarcgla.org"
     },
     {
         "routing": "021083433",
@@ -4263,7 +4294,8 @@
         "settlement": true,
         "updated": 1201755600000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.mae.gov.bi"
     },
     {
         "routing": "021083459",
@@ -4275,7 +4307,8 @@
         "settlement": true,
         "updated": 999748800000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.state.gov"
     },
     {
         "routing": "021083462",
@@ -4287,7 +4320,8 @@
         "settlement": true,
         "updated": 1135659600000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.bankofcanada.ca"
     },
     {
         "routing": "021083491",
@@ -4299,7 +4333,8 @@
         "settlement": true,
         "updated": 1201755600000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.bankofcanada.ca"
     },
     {
         "routing": "021083501",
@@ -4311,7 +4346,8 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.international.gc.ca"
     },
     {
         "routing": "021083514",
@@ -4323,7 +4359,8 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.un.int"
     },
     {
         "routing": "021083527",
@@ -4335,7 +4372,8 @@
         "settlement": true,
         "updated": 1042693200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://travel.state.gov"
     },
     {
         "routing": "021083530",
@@ -4347,7 +4385,8 @@
         "settlement": true,
         "updated": 1202965200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://chile.gob.cl"
     },
     {
         "routing": "021083572",
@@ -4359,7 +4398,8 @@
         "settlement": true,
         "updated": 1202965200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://nuevayork.consulado.gov.co"
     },
     {
         "routing": "021083585",
@@ -4371,7 +4411,8 @@
         "settlement": false,
         "updated": null,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://travel.state.gov"
     },
     {
         "routing": "021083598",
@@ -4383,7 +4424,8 @@
         "settlement": true,
         "updated": 1202965200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.costarica-embassy.org"
     },
     {
         "routing": "021083611",
@@ -4395,7 +4437,8 @@
         "settlement": true,
         "updated": 1202965200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.cyprusembassy.net"
     },
     {
         "routing": "021083624",
@@ -4407,7 +4450,8 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://usa.um.dk"
     },
     {
         "routing": "021083640",
@@ -4419,7 +4463,8 @@
         "settlement": false,
         "updated": 1339387200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://usa.um.dk"
     },
     {
         "routing": "021083653",
@@ -4431,7 +4476,8 @@
         "settlement": true,
         "updated": 1202965200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://usa.um.dk"
     },
     {
         "routing": "021083666",
@@ -4443,7 +4489,8 @@
         "settlement": true,
         "updated": 1485406800000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://usa.um.dk"
     },
     {
         "routing": "021083679",
@@ -4455,7 +4502,8 @@
         "settlement": true,
         "updated": 1202965200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.un.int"
     },
     {
         "routing": "021083682",
@@ -4467,7 +4515,8 @@
         "settlement": false,
         "updated": 1482123600000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://en.wikipedia.org"
     },
     {
         "routing": "021083695",
@@ -4479,7 +4528,8 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.foreign.gov.kn"
     },
     {
         "routing": "021083718",
@@ -4491,7 +4541,8 @@
         "settlement": true,
         "updated": 1202965200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.cancilleria.gob.ec"
     },
     {
         "routing": "021083750",
@@ -4503,7 +4554,8 @@
         "settlement": true,
         "updated": 1202965200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.egyptembassy.org"
     },
     {
         "routing": "021083776",
@@ -4515,7 +4567,8 @@
         "settlement": true,
         "updated": 1202965200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.egyptembassy.org"
     },
     {
         "routing": "021083792",
@@ -4527,7 +4580,8 @@
         "settlement": true,
         "updated": 1202965200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://travel.state.gov"
     },
     {
         "routing": "021083802",
@@ -4539,7 +4593,8 @@
         "settlement": true,
         "updated": 1202965200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.eib.org"
     },
     {
         "routing": "021083831",
@@ -4551,7 +4606,8 @@
         "settlement": true,
         "updated": 1202965200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://m.facebook.com"
     },
     {
         "routing": "021083873",
@@ -4575,7 +4631,8 @@
         "settlement": true,
         "updated": 1401854400000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://samm.dsca.mil"
     },
     {
         "routing": "021083899",
@@ -4587,7 +4644,8 @@
         "settlement": true,
         "updated": 1202965200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://finlandabroad.fi"
     },
     {
         "routing": "021083912",
@@ -4599,7 +4657,8 @@
         "settlement": true,
         "updated": 1202965200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://newyork.consulfrance.org"
     },
     {
         "routing": "021083925",
@@ -4611,7 +4670,8 @@
         "settlement": true,
         "updated": 1485406800000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://ramp.com"
     },
     {
         "routing": "021083941",
@@ -4623,7 +4683,8 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://guyanaconsulatenewyork.org"
     },
     {
         "routing": "021083970",
@@ -4635,7 +4696,8 @@
         "settlement": true,
         "updated": 1202965200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.consulate-new-york.com"
     },
     {
         "routing": "021083983",
@@ -4647,7 +4709,8 @@
         "settlement": false,
         "updated": null,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.usaid.gov"
     },
     {
         "routing": "021084018",
@@ -4659,7 +4722,8 @@
         "settlement": true,
         "updated": 1202965200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.germany.info"
     },
     {
         "routing": "021084034",
@@ -4671,7 +4735,8 @@
         "settlement": true,
         "updated": 1202965200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://newyork.mfa.gov.gh"
     },
     {
         "routing": "021084050",
@@ -4683,7 +4748,8 @@
         "settlement": true,
         "updated": 1202965200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.mfa.gr"
     },
     {
         "routing": "021084063",
@@ -4695,7 +4761,8 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://travel.state.gov"
     },
     {
         "routing": "021084076",
@@ -4707,7 +4774,8 @@
         "settlement": true,
         "updated": 1496808000000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.yellowpages.com"
     },
     {
         "routing": "021084089",
@@ -4719,7 +4787,8 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://refugeerights.org"
     },
     {
         "routing": "021084092",
@@ -4731,7 +4800,8 @@
         "settlement": true,
         "updated": 1202965200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://guyanaconsulatenewyork.org"
     },
     {
         "routing": "021084115",
@@ -4743,7 +4813,8 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://migrantinfo.iom.int"
     },
     {
         "routing": "021084131",
@@ -4755,7 +4826,8 @@
         "settlement": true,
         "updated": 1202965200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://travel.state.gov"
     },
     {
         "routing": "021084144",
@@ -4767,7 +4839,8 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://travel.state.gov"
     },
     {
         "routing": "021084157",
@@ -4779,7 +4852,8 @@
         "settlement": true,
         "updated": 1202965200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.hketony.gov.hk"
     },
     {
         "routing": "021084173",
@@ -4791,7 +4865,8 @@
         "settlement": true,
         "updated": 1202965200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://newyork.mfa.gov.hu"
     },
     {
         "routing": "021084199",
@@ -4803,7 +4878,8 @@
         "settlement": true,
         "updated": 1202965200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.government.is"
     },
     {
         "routing": "021084212",
@@ -4815,7 +4891,8 @@
         "settlement": true,
         "updated": 1202965200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.indiainnewyork.gov.in"
     },
     {
         "routing": "021084238",
@@ -4827,7 +4904,8 @@
         "settlement": true,
         "updated": 1202965200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://kemlu.go.id"
     },
     {
         "routing": "021084377",
@@ -4839,7 +4917,8 @@
         "settlement": true,
         "updated": 1202965200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.centralbank.ie"
     },
     {
         "routing": "021084393",
@@ -4851,7 +4930,8 @@
         "settlement": true,
         "updated": 1202965200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://new.embassies.gov.il"
     },
     {
         "routing": "021084416",
@@ -4863,7 +4943,8 @@
         "settlement": true,
         "updated": 1202878800000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://new.embassies.gov.il"
     },
     {
         "routing": "021084429",
@@ -4875,7 +4956,8 @@
         "settlement": false,
         "updated": 1339387200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://consnewyork.esteri.it"
     },
     {
         "routing": "021084432",
@@ -4887,7 +4969,8 @@
         "settlement": true,
         "updated": 1202878800000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://consnewyork.esteri.it"
     },
     {
         "routing": "021084458",
@@ -4899,7 +4982,8 @@
         "settlement": true,
         "updated": 1485406800000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.bancaditalia.it"
     },
     {
         "routing": "021084474",
@@ -4911,7 +4995,8 @@
         "settlement": true,
         "updated": 1202878800000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://congenjamaica-ny.org"
     },
     {
         "routing": "021084513",
@@ -4923,7 +5008,8 @@
         "settlement": true,
         "updated": 1202878800000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.ny.us.emb-japan.go.jp"
     },
     {
         "routing": "021084539",
@@ -4935,7 +5021,8 @@
         "settlement": true,
         "updated": 1202878800000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.ny.us.emb-japan.go.jp"
     },
     {
         "routing": "021084542",
@@ -4947,7 +5034,8 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://new.embassies.gov.il"
     },
     {
         "routing": "021084555",
@@ -4959,7 +5047,8 @@
         "settlement": true,
         "updated": 1415336400000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.state.gov"
     },
     {
         "routing": "021084568",
@@ -4971,7 +5060,8 @@
         "settlement": true,
         "updated": 1485406800000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.nike.com"
     },
     {
         "routing": "021084571",
@@ -4983,7 +5073,8 @@
         "settlement": false,
         "updated": 1427342400000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.un.int"
     },
     {
         "routing": "021084597",
@@ -4995,7 +5086,8 @@
         "settlement": true,
         "updated": 1202878800000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://overseas.mofa.go.kr"
     },
     {
         "routing": "021084610",
@@ -5007,7 +5099,8 @@
         "settlement": true,
         "updated": 1202878800000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://usa-newyork.mofa.go.kr"
     },
     {
         "routing": "021084636",
@@ -5019,7 +5112,8 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://travel.state.gov"
     },
     {
         "routing": "021084681",
@@ -5031,7 +5125,8 @@
         "settlement": true,
         "updated": 1202878800000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.gov.ls"
     },
     {
         "routing": "021084694",
@@ -5043,7 +5138,8 @@
         "settlement": true,
         "updated": 1202878800000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://nylebcons.org"
     },
     {
         "routing": "021084717",
@@ -5055,7 +5151,8 @@
         "settlement": false,
         "updated": 1501646400000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.cbl.org.lr"
     },
     {
         "routing": "021084720",
@@ -5067,7 +5164,8 @@
         "settlement": false,
         "updated": 1113278400000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.cbl.org.lr"
     },
     {
         "routing": "021084733",
@@ -5079,7 +5177,8 @@
         "settlement": true,
         "updated": 1473134400000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.state.gov"
     },
     {
         "routing": "021084746",
@@ -5091,7 +5190,8 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://newyork.china-consulate.gov.cn"
     },
     {
         "routing": "021084762",
@@ -5103,7 +5203,8 @@
         "settlement": false,
         "updated": 1401768000000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.nato.int"
     },
     {
         "routing": "021084814",
@@ -5115,7 +5216,8 @@
         "settlement": true,
         "updated": 1509595200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.un.int"
     },
     {
         "routing": "021084827",
@@ -5127,7 +5229,8 @@
         "settlement": false,
         "updated": 1339387200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://wise.com"
     },
     {
         "routing": "021084830",
@@ -5139,7 +5242,8 @@
         "settlement": true,
         "updated": 1202878800000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.maldivesmission.com"
     },
     {
         "routing": "021084843",
@@ -5151,7 +5255,8 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.un.int"
     },
     {
         "routing": "021084856",
@@ -5163,7 +5268,8 @@
         "settlement": true,
         "updated": 1202878800000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.kln.gov.my"
     },
     {
         "routing": "021084872",
@@ -5175,7 +5281,8 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.banky-foibe.mg"
     },
     {
         "routing": "021084898",
@@ -5187,7 +5294,8 @@
         "settlement": true,
         "updated": 1202878800000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.un.int"
     },
     {
         "routing": "021084911",
@@ -5199,7 +5307,8 @@
         "settlement": true,
         "updated": 1202878800000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://missionsforeign.gov.mt"
     },
     {
         "routing": "021084924",
@@ -5211,7 +5320,8 @@
         "settlement": false,
         "updated": null,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://consulmex.sre.gob.mx"
     },
     {
         "routing": "021084937",
@@ -5223,7 +5333,8 @@
         "settlement": true,
         "updated": 1454907600000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://travel.state.gov"
     },
     {
         "routing": "021084940",
@@ -5235,7 +5346,8 @@
         "settlement": true,
         "updated": 1543208400000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://docs.publicnow.com"
     },
     {
         "routing": "021084953",
@@ -5247,7 +5359,8 @@
         "settlement": true,
         "updated": 1202878800000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://foreign.govmu.org"
     },
     {
         "routing": "021084966",
@@ -5259,7 +5372,8 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.embassyofpanama.org"
     },
     {
         "routing": "021084979",
@@ -5271,7 +5385,8 @@
         "settlement": true,
         "updated": 1202878800000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://consulmex.sre.gob.mx"
     },
     {
         "routing": "021084995",
@@ -5283,7 +5398,8 @@
         "settlement": true,
         "updated": 1202878800000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://us.diplomatie.ma"
     },
     {
         "routing": "021085004",
@@ -5295,7 +5411,8 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.mfat.govt.nz"
     },
     {
         "routing": "021085017",
@@ -5307,7 +5424,8 @@
         "settlement": true,
         "updated": 1202965200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://nyc.nepalconsulate.gov.np"
     },
     {
         "routing": "021085020",
@@ -5319,7 +5437,8 @@
         "settlement": false,
         "updated": 1374552000000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.dnb.no"
     },
     {
         "routing": "021085033",
@@ -5331,7 +5450,8 @@
         "settlement": true,
         "updated": 1430712000000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.centralbank.cw"
     },
     {
         "routing": "021085059",
@@ -5343,7 +5463,8 @@
         "settlement": true,
         "updated": 1202965200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.netherlandsworldwide.nl"
     },
     {
         "routing": "021085062",
@@ -5355,7 +5476,8 @@
         "settlement": false,
         "updated": null,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.state.gov"
     },
     {
         "routing": "021085075",
@@ -5367,7 +5489,8 @@
         "settlement": true,
         "updated": 1202965200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.mfat.govt.nz"
     },
     {
         "routing": "021085088",
@@ -5379,7 +5502,8 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.state.gov"
     },
     {
         "routing": "021085114",
@@ -5391,7 +5515,8 @@
         "settlement": true,
         "updated": 1469678400000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.cbn.gov.ng"
     },
     {
         "routing": "021085130",
@@ -5403,7 +5528,8 @@
         "settlement": false,
         "updated": 1407988800000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.norway.no"
     },
     {
         "routing": "021085143",
@@ -5415,7 +5541,8 @@
         "settlement": true,
         "updated": 1202965200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.norway.no"
     },
     {
         "routing": "021085156",
@@ -5427,7 +5554,8 @@
         "settlement": false,
         "updated": 1484197200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.fm.gov.om"
     },
     {
         "routing": "021085172",
@@ -5439,7 +5567,8 @@
         "settlement": true,
         "updated": 1202965200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://pakistanconsulateny.org"
     },
     {
         "routing": "021085185",
@@ -5451,7 +5580,8 @@
         "settlement": true,
         "updated": 1202965200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://pakistanconsulateny.org"
     },
     {
         "routing": "021085211",
@@ -5463,7 +5593,8 @@
         "settlement": true,
         "updated": 1202965200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.pngembassy.org"
     },
     {
         "routing": "021085237",
@@ -5475,7 +5606,8 @@
         "settlement": true,
         "updated": 1202965200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.mre.gov.py"
     },
     {
         "routing": "021085253",
@@ -5487,7 +5619,8 @@
         "settlement": true,
         "updated": 1202965200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://travel.state.gov"
     },
     {
         "routing": "021085295",
@@ -5499,7 +5632,8 @@
         "settlement": true,
         "updated": 1529899200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.pnb.com.ph"
     },
     {
         "routing": "021085318",
@@ -5511,7 +5645,8 @@
         "settlement": true,
         "updated": 1202965200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.gov.pl"
     },
     {
         "routing": "021085334",
@@ -5523,7 +5658,8 @@
         "settlement": false,
         "updated": 1402286400000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://novaiorque.consuladoportugal.mne.gov.pt"
     },
     {
         "routing": "021085350",
@@ -5535,7 +5671,8 @@
         "settlement": true,
         "updated": 1063684800000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.rwandainun.gov.rw"
     },
     {
         "routing": "021085376",
@@ -5547,7 +5684,8 @@
         "settlement": true,
         "updated": 1202965200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://embassies.mofa.gov.sa"
     },
     {
         "routing": "021085389",
@@ -5559,7 +5697,8 @@
         "settlement": true,
         "updated": 1202965200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.dsca.mil"
     },
     {
         "routing": "021085392",
@@ -5571,7 +5710,8 @@
         "settlement": true,
         "updated": 1202965200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.linkedin.com"
     },
     {
         "routing": "021085415",
@@ -5583,7 +5723,8 @@
         "settlement": false,
         "updated": null,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://sam.gov"
     },
     {
         "routing": "021085428",
@@ -5595,7 +5736,8 @@
         "settlement": false,
         "updated": null,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://sam.gov"
     },
     {
         "routing": "021085444",
@@ -5607,7 +5749,8 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.un.int"
     },
     {
         "routing": "021085457",
@@ -5619,7 +5762,8 @@
         "settlement": true,
         "updated": 1483074000000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.bceao.int"
     },
     {
         "routing": "021085473",
@@ -5631,7 +5775,8 @@
         "settlement": true,
         "updated": 1202965200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://mfa.gov.sc"
     },
     {
         "routing": "021085499",
@@ -5655,7 +5800,8 @@
         "settlement": true,
         "updated": 1202965200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.mfa.gov.sg"
     },
     {
         "routing": "021085554",
@@ -5667,7 +5813,8 @@
         "settlement": true,
         "updated": 1202965200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.mfaet.gov.sb"
     },
     {
         "routing": "021085596",
@@ -5679,7 +5826,8 @@
         "settlement": true,
         "updated": 1202965200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.southafrica-usa.net"
     },
     {
         "routing": "021085619",
@@ -5691,7 +5839,8 @@
         "settlement": true,
         "updated": 1202965200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.exteriores.gob.es"
     },
     {
         "routing": "021085622",
@@ -5703,7 +5852,8 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.exteriores.gob.es"
     },
     {
         "routing": "021085648",
@@ -5715,7 +5865,8 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.dsca.mil"
     },
     {
         "routing": "021085677",
@@ -5727,7 +5878,8 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.un.int"
     },
     {
         "routing": "021085693",
@@ -5739,7 +5891,8 @@
         "settlement": true,
         "updated": 1202965200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.un.int"
     },
     {
         "routing": "021085716",
@@ -5751,7 +5904,8 @@
         "settlement": true,
         "updated": 1202965200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.swedenabroad.se"
     },
     {
         "routing": "021085729",
@@ -5763,7 +5917,8 @@
         "settlement": true,
         "updated": 1202965200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.swedenabroad.se"
     },
     {
         "routing": "021085732",
@@ -5775,7 +5930,8 @@
         "settlement": true,
         "updated": 1202965200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.bis.doc.gov"
     },
     {
         "routing": "021085790",
@@ -5787,7 +5943,8 @@
         "settlement": true,
         "updated": 1202965200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.eda.admin.ch"
     },
     {
         "routing": "021085813",
@@ -5811,7 +5968,8 @@
         "settlement": true,
         "updated": 1202965200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://newyork.china-consulate.gov.cn"
     },
     {
         "routing": "021085871",
@@ -5823,7 +5981,8 @@
         "settlement": true,
         "updated": 1202965200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://newyork.china-consulate.gov.cn"
     },
     {
         "routing": "021085897",
@@ -5835,7 +5994,8 @@
         "settlement": true,
         "updated": 1202965200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.un.tzembassy.go.tz"
     },
     {
         "routing": "021085907",
@@ -5847,7 +6007,8 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://newyork.mae.ro"
     },
     {
         "routing": "021085910",
@@ -5859,7 +6020,8 @@
         "settlement": true,
         "updated": 1202965200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://newyork.thaiembassy.org"
     },
     {
         "routing": "021085936",
@@ -5871,7 +6033,8 @@
         "settlement": true,
         "updated": 1202965200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://newyork.thaiembassy.org"
     },
     {
         "routing": "021085949",
@@ -5883,7 +6046,8 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://newyork.thaiembassy.org"
     },
     {
         "routing": "021085965",
@@ -5895,7 +6059,8 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.mofa.gov.ae"
     },
     {
         "routing": "021085978",
@@ -5907,7 +6072,8 @@
         "settlement": true,
         "updated": 1202965200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://foreign.gov.tt"
     },
     {
         "routing": "021085994",
@@ -5919,7 +6085,8 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://foreign.gov.tt"
     },
     {
         "routing": "021086003",
@@ -5931,7 +6098,8 @@
         "settlement": false,
         "updated": 1493006400000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.hcch.net"
     },
     {
         "routing": "021086016",
@@ -5943,7 +6111,8 @@
         "settlement": true,
         "updated": 1202965200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.consulate-new-york.com"
     },
     {
         "routing": "021086029",
@@ -5955,7 +6124,8 @@
         "settlement": true,
         "updated": 1031716800000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://newyork-cg.mfa.gov.tr"
     },
     {
         "routing": "021086032",
@@ -5967,7 +6137,8 @@
         "settlement": true,
         "updated": 1202965200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://newyork-cg.mfa.gov.tr"
     },
     {
         "routing": "021086045",
@@ -5979,7 +6150,8 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://newyork-cg.mfa.gov.tr"
     },
     {
         "routing": "021086058",
@@ -5991,7 +6163,8 @@
         "settlement": true,
         "updated": 1202965200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://newyork.mofa.go.ug"
     },
     {
         "routing": "021086061",
@@ -6003,7 +6176,8 @@
         "settlement": true,
         "updated": 1322024400000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.bankofengland.co.uk"
     },
     {
         "routing": "021086074",
@@ -6015,7 +6189,8 @@
         "settlement": true,
         "updated": 1202965200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.usbanklocations.com"
     },
     {
         "routing": "021086139",
@@ -6027,7 +6202,8 @@
         "settlement": true,
         "updated": 1202965200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.gov.uk"
     },
     {
         "routing": "021086142",
@@ -6039,7 +6215,8 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.gov.uk"
     },
     {
         "routing": "021086155",
@@ -6051,7 +6228,8 @@
         "settlement": true,
         "updated": 1202965200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://embassyofuruguay.us"
     },
     {
         "routing": "021086184",
@@ -6063,7 +6241,8 @@
         "settlement": true,
         "updated": 1202965200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://travel.state.gov"
     },
     {
         "routing": "021086197",
@@ -6075,7 +6254,8 @@
         "settlement": true,
         "updated": 1202965200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.consulate-new-york.com"
     },
     {
         "routing": "021086207",
@@ -6087,7 +6267,8 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.osc.ny.gov"
     },
     {
         "routing": "021086210",
@@ -6099,7 +6280,8 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.sbv.gov.vn"
     },
     {
         "routing": "021086236",
@@ -6111,7 +6293,8 @@
         "settlement": false,
         "updated": 1514523600000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.centralbank.gov.ye"
     },
     {
         "routing": "021086333",
@@ -6123,7 +6306,8 @@
         "settlement": true,
         "updated": 1202965200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.zambiaun.org"
     },
     {
         "routing": "021086359",
@@ -6135,7 +6319,8 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://zimembassydc.org"
     },
     {
         "routing": "021086414",
@@ -6147,7 +6332,8 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://newyork-cg.mfa.gov.tr"
     },
     {
         "routing": "021086456",
@@ -6159,7 +6345,8 @@
         "settlement": false,
         "updated": 1426132800000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://mozambique-un.org"
     },
     {
         "routing": "021086469",
@@ -6171,7 +6358,8 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.cgccusa.org"
     },
     {
         "routing": "021086498",
@@ -6183,7 +6371,8 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://newyork.mid.ru"
     },
     {
         "routing": "021086553",
@@ -6195,7 +6384,8 @@
         "settlement": true,
         "updated": 1447045200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.bcmintl.org"
     },
     {
         "routing": "021086566",
@@ -6207,7 +6397,8 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.banque-france.fr"
     },
     {
         "routing": "021086579",
@@ -6219,7 +6410,8 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://ny.mfa.lt"
     },
     {
         "routing": "021086621",
@@ -6243,7 +6435,8 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://newyork.mfa.ee"
     },
     {
         "routing": "021086647",
@@ -6267,7 +6460,8 @@
         "settlement": true,
         "updated": 1461643200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.usip.org"
     },
     {
         "routing": "021086676",
@@ -6291,7 +6485,8 @@
         "settlement": false,
         "updated": 1484283600000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://wise.com"
     },
     {
         "routing": "021086715",
@@ -6303,7 +6498,8 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://wise.com"
     },
     {
         "routing": "021086731",
@@ -6315,7 +6511,8 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://bank.gov.ua"
     },
     {
         "routing": "021086773",
@@ -6327,7 +6524,8 @@
         "settlement": true,
         "updated": 1064894400000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://en.wikipedia.org"
     },
     {
         "routing": "021086812",
@@ -6339,7 +6537,8 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://finlandabroad.fi"
     },
     {
         "routing": "021086838",
@@ -6351,7 +6550,8 @@
         "settlement": false,
         "updated": 1395028800000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.bcsm.sm"
     },
     {
         "routing": "021086841",
@@ -6363,7 +6563,8 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.cnb.cz"
     },
     {
         "routing": "021086922",
@@ -6375,7 +6576,8 @@
         "settlement": true,
         "updated": 1435032000000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://nbs.sk"
     },
     {
         "routing": "021086948",
