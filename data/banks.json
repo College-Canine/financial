@@ -10,7 +10,7 @@
         "updated": 1094788800000,
         "country": "USA",
         "colors": [],
-        "website": "https://www.bostonfed.org/"
+        "website": "https://www.bostonfed.org"
     },
     {
         "routing": "011000028",
@@ -23,7 +23,7 @@
         "updated": null,
         "country": "USA",
         "colors": [],
-        "website": "https://www.statestreet.com/"
+        "website": "https://www.statestreet.com"
     },
     {
         "routing": "011000536",
@@ -140,7 +140,8 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.fnbanksuffield.com"
     },
     {
         "routing": "011102502",
@@ -152,7 +153,8 @@
         "settlement": false,
         "updated": 1293080400000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.unionsavings.com"
     },
     {
         "routing": "011102612",
@@ -164,7 +166,8 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.nbtbank.com"
     },
     {
         "routing": "011102638",
@@ -176,7 +179,8 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://ironbank.com"
     },
     {
         "routing": "011102667",
@@ -188,7 +192,8 @@
         "settlement": false,
         "updated": 1496980800000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.nbtbank.com"
     },
     {
         "routing": "011103093",
@@ -205,7 +210,8 @@
             "#003F2D",
             "#54B848",
             "#FFFFFF"
-        ]
+        ],
+        "website": "https://locations.td.com"
     },
     {
         "routing": "011104335",
@@ -217,7 +223,8 @@
         "settlement": false,
         "updated": 1541131200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://bankpatriot.com"
     },
     {
         "routing": "011104351",
@@ -229,7 +236,8 @@
         "settlement": true,
         "updated": 945925200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.liberty-bank.com"
     },
     {
         "routing": "011110617",
@@ -241,7 +249,8 @@
         "settlement": false,
         "updated": 1522987200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.acbb.com"
     },
     {
         "routing": "011110659",
@@ -253,7 +262,8 @@
         "settlement": false,
         "updated": 1372046400000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.liberty-bank.com"
     },
     {
         "routing": "011110756",
@@ -265,7 +275,8 @@
         "settlement": false,
         "updated": 1292907600000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.newhavenbank.com"
     },
     {
         "routing": "011175212",
@@ -277,7 +288,8 @@
         "settlement": false,
         "updated": 1439438400000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://ccbankonline.com"
     },
     {
         "routing": "011200585",
@@ -289,7 +301,8 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://m.yelp.com"
     },
     {
         "routing": "011200608",
@@ -302,7 +315,8 @@
         "settlement": false,
         "updated": 1336363200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.key.com"
     },
     {
         "routing": "011201306",
@@ -314,7 +328,8 @@
         "settlement": false,
         "updated": 1159416000000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.camdennational.bank"
     },
     {
         "routing": "011201380",
@@ -326,7 +341,8 @@
         "settlement": false,
         "updated": 1268024400000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.camdennational.bank"
     },
     {
         "routing": "011201432",
@@ -338,7 +354,8 @@
         "settlement": false,
         "updated": 1424408400000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://m.yelp.com"
     },
     {
         "routing": "011201458",
@@ -350,7 +367,8 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.camdennational.bank"
     },
     {
         "routing": "011201490",
@@ -362,7 +380,8 @@
         "settlement": false,
         "updated": 1444968000000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.camdennational.bank"
     },
     {
         "routing": "011201500",
@@ -374,7 +393,8 @@
         "settlement": false,
         "updated": 1424408400000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://m.yelp.com"
     },
     {
         "routing": "011201526",
@@ -386,7 +406,8 @@
         "settlement": false,
         "updated": 1424408400000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://m.yelp.com"
     },
     {
         "routing": "011201759",
@@ -398,7 +419,8 @@
         "settlement": true,
         "updated": 1117771200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.barharbor.bank"
     },
     {
         "routing": "011201830",
@@ -410,7 +432,8 @@
         "settlement": true,
         "updated": 1455858000000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.thefirst.com"
     },
     {
         "routing": "011201995",
@@ -422,7 +445,8 @@
         "settlement": false,
         "updated": null,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.androscogginbank.com"
     },
     {
         "routing": "011202392",
@@ -434,7 +458,8 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.katahdintrust.com"
     },
     {
         "routing": "011202907",
@@ -446,7 +471,8 @@
         "settlement": false,
         "updated": 1444968000000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.camdennational.bank"
     },
     {
         "routing": "011202910",
@@ -463,7 +489,8 @@
             "#003F2D",
             "#54B848",
             "#FFFFFF"
-        ]
+        ],
+        "website": "https://locations.td.com"
     },
     {
         "routing": "011300142",
@@ -475,7 +502,8 @@
         "settlement": false,
         "updated": 1526011200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.berkshirebank.com"
     },
     {
         "routing": "011300595",
@@ -487,7 +515,8 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.cambridgetrust.com"
     },
     {
         "routing": "011301390",
@@ -499,7 +528,8 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.centurybankandtrust.com"
     },
     {
         "routing": "011301798",
@@ -511,7 +541,8 @@
         "settlement": true,
         "updated": 1020225600000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.easternbank.com"
     },
     {
         "routing": "011301992",
@@ -523,7 +554,8 @@
         "settlement": false,
         "updated": 1415336400000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.bankfive.com"
     },
     {
         "routing": "011302603",
@@ -535,7 +567,8 @@
         "settlement": true,
         "updated": 1280116800000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://m.yelp.com"
     },
     {
         "routing": "011302616",
@@ -547,7 +580,8 @@
         "settlement": false,
         "updated": 1424408400000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://m.yelp.com"
     },
     {
         "routing": "011302742",
@@ -559,7 +593,8 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.enterprisebanking.com"
     },
     {
         "routing": "011302768",
@@ -571,7 +606,8 @@
         "settlement": false,
         "updated": 1424408400000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://m.yelp.com"
     },
     {
         "routing": "011303097",
@@ -583,7 +619,8 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.nbtc.com"
     },
     {
         "routing": "011303327",
@@ -595,7 +632,8 @@
         "settlement": true,
         "updated": 1542344400000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.rocklandtrust.com"
     },
     {
         "routing": "011304300",
@@ -607,7 +645,8 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://ngbank.com"
     },
     {
         "routing": "011304478",
@@ -619,7 +658,8 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.rocklandtrust.com"
     },
     {
         "routing": "011304711",
@@ -631,7 +671,8 @@
         "settlement": true,
         "updated": 1344830400000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.brooklinebank.com"
     },
     {
         "routing": "011305202",
@@ -643,7 +684,8 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.mnbonline.com"
     },
     {
         "routing": "011305260",
@@ -655,7 +697,8 @@
         "settlement": false,
         "updated": 1414123200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.institutionforsavings.com"
     },
     {
         "routing": "011305684",
@@ -667,7 +710,8 @@
         "settlement": false,
         "updated": 1498708800000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.rocklandtrust.com"
     },
     {
         "routing": "011307129",
@@ -679,7 +723,8 @@
         "settlement": false,
         "updated": 1379563200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.leaderbank.com"
     },
     {
         "routing": "011307213",
@@ -691,7 +736,8 @@
         "settlement": false,
         "updated": 1527825600000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.brooklinebank.com"
     },
     {
         "routing": "011375384",
@@ -703,7 +749,8 @@
         "settlement": false,
         "updated": 1435636800000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.avidiabank.com"
     },
     {
         "routing": "011400071",
@@ -720,7 +767,8 @@
             "#003F2D",
             "#54B848",
             "#FFFFFF"
-        ]
+        ],
+        "website": "https://locations.td.com"
     },
     {
         "routing": "011400149",
@@ -732,7 +780,8 @@
         "settlement": true,
         "updated": 1268024400000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://stmarysbank.com"
     },
     {
         "routing": "011401850",
@@ -744,7 +793,8 @@
         "settlement": true,
         "updated": 1175140800000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://bankofnewengland.com"
     },
     {
         "routing": "011401928",
@@ -756,7 +806,8 @@
         "settlement": false,
         "updated": 1379563200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.themerrimack.com"
     },
     {
         "routing": "011401960",
@@ -768,7 +819,8 @@
         "settlement": false,
         "updated": 1424408400000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://m.yelp.com"
     },
     {
         "routing": "011402024",
@@ -780,7 +832,8 @@
         "settlement": false,
         "updated": 1418101200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.easternbank.com"
     },
     {
         "routing": "011402053",
@@ -792,7 +845,8 @@
         "settlement": false,
         "updated": 1355374800000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.nbtbank.com"
     },
     {
         "routing": "011402079",
@@ -804,7 +858,8 @@
         "settlement": false,
         "updated": 1201582800000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.linkedin.com"
     },
     {
         "routing": "011402105",
@@ -816,7 +871,8 @@
         "settlement": false,
         "updated": 1522036800000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.primarybanknh.com"
     },
     {
         "routing": "011500120",
@@ -828,7 +884,8 @@
         "settlement": true,
         "updated": 1422939600000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://locations.citizensbank.com"
     },
     {
         "routing": "011500858",
@@ -840,7 +897,8 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.washtrust.com"
     },
     {
         "routing": "011500913",
@@ -852,7 +910,8 @@
         "settlement": true,
         "updated": 1484802000000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.centrevillebank.com"
     },
     {
         "routing": "011501682",
@@ -864,7 +923,8 @@
         "settlement": true,
         "updated": 1052971200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.bankri.com"
     },
     {
         "routing": "011501705",
@@ -876,7 +936,8 @@
         "settlement": false,
         "updated": 1380254400000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.mass.gov"
     },
     {
         "routing": "011501718",
@@ -888,7 +949,8 @@
         "settlement": false,
         "updated": 1049173200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.independence-bank.com"
     },
     {
         "routing": "011600020",
@@ -900,7 +962,8 @@
         "settlement": false,
         "updated": 1498708800000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://cbna.com"
     },
     {
         "routing": "011600033",
@@ -917,7 +980,8 @@
             "#003F2D",
             "#54B848",
             "#FFFFFF"
-        ]
+        ],
+        "website": "https://locations.td.com"
     },
     {
         "routing": "011600062",
@@ -929,7 +993,8 @@
         "settlement": false,
         "updated": 1424408400000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://m.yelp.com"
     },
     {
         "routing": "011600567",
@@ -941,7 +1006,8 @@
         "settlement": true,
         "updated": 1415336400000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.ptcvt.com"
     },
     {
         "routing": "011601029",
@@ -953,7 +1019,8 @@
         "settlement": true,
         "updated": 1357794000000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.communitynationalbank.com"
     },
     {
         "routing": "011601074",
@@ -965,7 +1032,8 @@
         "settlement": false,
         "updated": 1415336400000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.berkshirebank.com"
     },
     {
         "routing": "011601087",
@@ -977,7 +1045,8 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://nbmvt.com"
     },
     {
         "routing": "011601100",
@@ -989,7 +1058,8 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.ublocal.com"
     },
     {
         "routing": "011601142",
@@ -1001,7 +1071,8 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://fnborwell.com"
     },
     {
         "routing": "011700425",
@@ -1013,7 +1084,8 @@
         "settlement": true,
         "updated": 1332907200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.northwaybank.com"
     },
     {
         "routing": "011701288",
@@ -1025,7 +1097,8 @@
         "settlement": true,
         "updated": 1415336400000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.northwaybank.com"
     },
     {
         "routing": "011701314",
@@ -1037,7 +1110,8 @@
         "settlement": false,
         "updated": 1530763200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.bangor.com"
     },
     {
         "routing": "011701987",
@@ -1049,7 +1123,8 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.ledyard.bank"
     },
     {
         "routing": "011802488",
@@ -1061,7 +1136,8 @@
         "settlement": false,
         "updated": 1424408400000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://m.yelp.com"
     },
     {
         "routing": "011910697",
@@ -1073,7 +1149,8 @@
         "settlement": false,
         "updated": 1355806800000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.berkshirebank.com"
     },
     {
         "routing": "011975221",
@@ -1085,7 +1162,8 @@
         "settlement": false,
         "updated": 1338523200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.huntington.com"
     },
     {
         "routing": "021000018",
@@ -1097,7 +1175,8 @@
         "settlement": true,
         "updated": 1214884800000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.bny.com"
     },
     {
         "routing": "021000021",
@@ -1113,7 +1192,8 @@
         "colors": [
             "#004FC2",
             "#FFFFFF"
-        ]
+        ],
+        "website": "https://www.jpmorganchase.com"
     },
     {
         "routing": "021000089",
@@ -1129,7 +1209,8 @@
         "colors": [
             "#1C4882",
             "#CC2131"
-        ]
+        ],
+        "website": "https://www.citi.com"
     },
     {
         "routing": "021001033",
@@ -1141,7 +1222,8 @@
         "settlement": true,
         "updated": 1031544000000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.db.com"
     },
     {
         "routing": "021001088",
@@ -1153,7 +1235,8 @@
         "settlement": true,
         "updated": 1340164800000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.us.hsbc.com"
     },
     {
         "routing": "021001208",
@@ -1165,7 +1248,8 @@
         "settlement": true,
         "updated": 1540958400000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.newyorkfed.org"
     },
     {
         "routing": "021001486",
@@ -1181,7 +1265,8 @@
         "colors": [
             "#1C4882",
             "#CC2131"
-        ]
+        ],
+        "website": "https://www.citi.com"
     },
     {
         "routing": "021004823",
@@ -1193,7 +1278,8 @@
         "settlement": false,
         "updated": 1415336400000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.us.hsbc.com"
     },
     {
         "routing": "021030004",
@@ -1205,7 +1291,8 @@
         "settlement": false,
         "updated": 1440734400000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.fcc.gov"
     },
     {
         "routing": "021031003",
@@ -1217,7 +1304,8 @@
         "settlement": true,
         "updated": 1397188800000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.fhlb-of.com"
     },
     {
         "routing": "021033205",
@@ -1229,7 +1317,8 @@
         "settlement": true,
         "updated": 1397188800000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.freddiemac.com"
     },
     {
         "routing": "021033409",
@@ -1241,7 +1330,8 @@
         "settlement": true,
         "updated": 1397188800000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.farmcreditfunding.com"
     },
     {
         "routing": "021033506",
@@ -1253,7 +1343,8 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.linkedin.com"
     },
     {
         "routing": "021033519",
@@ -1265,7 +1356,8 @@
         "settlement": true,
         "updated": 1459396800000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.guidanceresidential.com"
     },
     {
         "routing": "021036008",
@@ -1277,7 +1369,8 @@
         "settlement": true,
         "updated": 1464235200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.cheme.washington.edu"
     },
     {
         "routing": "021036011",
@@ -1289,7 +1382,8 @@
         "settlement": true,
         "updated": 1464235200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.newyorkfed.org"
     },
     {
         "routing": "021038200",
@@ -1301,7 +1395,8 @@
         "settlement": true,
         "updated": 1459396800000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.farmcreditfunding.com"
     },
     {
         "routing": "021038857",
@@ -1313,7 +1408,8 @@
         "settlement": true,
         "updated": 1459396800000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.fhlbdm.com"
     },
     {
         "routing": "021039500",
@@ -1325,7 +1421,8 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.fanniemae.com"
     },
     {
         "routing": "021039513",
@@ -1337,7 +1434,8 @@
         "settlement": true,
         "updated": 1221710400000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.freddiemac.com"
     },
     {
         "routing": "021039526",
@@ -1349,7 +1447,8 @@
         "settlement": true,
         "updated": 1459396800000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://finance.yahoo.com"
     },
     {
         "routing": "021039539",
@@ -1361,7 +1460,8 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://selling-guide.fanniemae.com"
     },
     {
         "routing": "021050165",
@@ -1373,7 +1473,8 @@
         "settlement": true,
         "updated": 1459396800000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.farmermac.com"
     },
     {
         "routing": "021050178",
@@ -1385,7 +1486,8 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.farmermac.com"
     },
     {
         "routing": "021051180",
@@ -1397,7 +1499,8 @@
         "settlement": false,
         "updated": 1066708800000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.dot.ny.gov"
     },
     {
         "routing": "021051274",
@@ -1409,7 +1512,8 @@
         "settlement": false,
         "updated": 1458532800000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.dtcc.com"
     },
     {
         "routing": "021051287",
@@ -1421,7 +1525,8 @@
         "settlement": false,
         "updated": 1458532800000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.dtcc.com"
     },
     {
         "routing": "021051371",
@@ -1433,7 +1538,8 @@
         "settlement": true,
         "updated": 1024977600000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.ginniemae.gov"
     },
     {
         "routing": "021052040",
@@ -1445,7 +1551,8 @@
         "settlement": true,
         "updated": 1415336400000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.newyorkfed.org"
     },
     {
         "routing": "021052367",
@@ -1470,7 +1577,8 @@
         "settlement": true,
         "updated": 1542949200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://wise.com"
     },
     {
         "routing": "021053065",
@@ -1482,7 +1590,8 @@
         "settlement": false,
         "updated": 1448341200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.federalreserve.gov"
     },
     {
         "routing": "021053968",
@@ -1494,7 +1603,8 @@
         "settlement": false,
         "updated": 1510290000000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.eastrutherfordnj.net"
     },
     {
         "routing": "021053984",
@@ -1506,7 +1616,8 @@
         "settlement": true,
         "updated": 1534478400000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://capitalmarkets.freddiemac.com"
     },
     {
         "routing": "021053997",
@@ -1518,7 +1629,8 @@
         "settlement": true,
         "updated": 1540872000000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://capitalmarkets.fanniemae.com"
     },
     {
         "routing": "021054035",
@@ -1530,7 +1642,8 @@
         "settlement": true,
         "updated": 1103778000000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.investopedia.com"
     },
     {
         "routing": "021054064",
@@ -1542,7 +1655,8 @@
         "settlement": true,
         "updated": 1103778000000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://nj.gov"
     },
     {
         "routing": "021054527",
@@ -1554,7 +1668,8 @@
         "settlement": true,
         "updated": 1155787200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.farmcrediteast.com"
     },
     {
         "routing": "021054530",
@@ -1566,7 +1681,8 @@
         "settlement": true,
         "updated": 1252987200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.cushmanwakefield.com"
     },
     {
         "routing": "021054543",
@@ -1578,7 +1694,8 @@
         "settlement": true,
         "updated": 1397188800000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.usbanklocations.com"
     },
     {
         "routing": "021054556",
@@ -1590,7 +1707,8 @@
         "settlement": true,
         "updated": 1151640000000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.eastrutherfordnj.net"
     },
     {
         "routing": "021054569",
@@ -1602,7 +1720,8 @@
         "settlement": true,
         "updated": 1151640000000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.eastrutherfordnj.net"
     },
     {
         "routing": "021054572",
@@ -1614,7 +1733,8 @@
         "settlement": true,
         "updated": 1151640000000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://sf.freddiemac.com"
     },
     {
         "routing": "021054585",
@@ -1626,7 +1746,8 @@
         "settlement": true,
         "updated": 1151640000000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://selling-guide.fanniemae.com"
     },
     {
         "routing": "021054598",
@@ -1638,7 +1759,8 @@
         "settlement": true,
         "updated": 1151640000000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.farmermac.com"
     },
     {
         "routing": "021054611",
@@ -1650,7 +1772,8 @@
         "settlement": true,
         "updated": 1151640000000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.afdb.org"
     },
     {
         "routing": "021054624",
@@ -1662,7 +1785,8 @@
         "settlement": true,
         "updated": 1151640000000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.adb.org"
     },
     {
         "routing": "021054637",
@@ -1674,7 +1798,8 @@
         "settlement": true,
         "updated": 1151640000000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://publications.iadb.org"
     },
     {
         "routing": "021054640",
@@ -1686,7 +1811,8 @@
         "settlement": true,
         "updated": 1151640000000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.nj.gov"
     },
     {
         "routing": "021054653",
@@ -1698,7 +1824,8 @@
         "settlement": true,
         "updated": 1151640000000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://locators.bankofamerica.com"
     },
     {
         "routing": "021054666",
@@ -1710,7 +1837,8 @@
         "settlement": true,
         "updated": 1151640000000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.ginniemae.gov"
     },
     {
         "routing": "021054679",
@@ -1722,7 +1850,8 @@
         "settlement": true,
         "updated": 1151640000000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.ginniemae.gov"
     },
     {
         "routing": "021054682",
@@ -1734,7 +1863,8 @@
         "settlement": true,
         "updated": 1151640000000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.va.gov"
     },
     {
         "routing": "021054695",
@@ -1746,7 +1876,8 @@
         "settlement": true,
         "updated": 1151640000000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.tva.com"
     },
     {
         "routing": "021054718",
@@ -1758,7 +1889,8 @@
         "settlement": true,
         "updated": 1151640000000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://en.wikipedia.org"
     },
     {
         "routing": "021054721",
@@ -1770,7 +1902,8 @@
         "settlement": true,
         "updated": 1151640000000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.frbservices.org"
     },
     {
         "routing": "021054734",
@@ -1782,7 +1915,8 @@
         "settlement": true,
         "updated": 1459396800000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.farmcreditfunding.com"
     },
     {
         "routing": "021054747",
@@ -1794,7 +1928,8 @@
         "settlement": true,
         "updated": 1524024000000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.farmcreditfunding.com"
     },
     {
         "routing": "021054750",
@@ -1806,7 +1941,8 @@
         "settlement": true,
         "updated": 1459396800000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://singlefamily.fanniemae.com"
     },
     {
         "routing": "021054763",
@@ -1818,7 +1954,8 @@
         "settlement": true,
         "updated": 1459396800000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.fhlbboston.com"
     },
     {
         "routing": "021054802",
@@ -1830,7 +1967,8 @@
         "settlement": true,
         "updated": 1152504000000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.worldbank.org"
     },
     {
         "routing": "021054941",
@@ -1842,7 +1980,8 @@
         "settlement": true,
         "updated": 1459396800000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.farmermac.com"
     },
     {
         "routing": "021055979",
@@ -1854,7 +1993,8 @@
         "settlement": true,
         "updated": 1245816000000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.nachc.org"
     },
     {
         "routing": "021056295",
@@ -1866,7 +2006,8 @@
         "settlement": true,
         "updated": 1537329600000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.mapquest.com"
     },
     {
         "routing": "021056321",
@@ -1878,7 +2019,8 @@
         "settlement": true,
         "updated": 1274241600000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://web.cvent.com"
     },
     {
         "routing": "021056334",
@@ -1890,7 +2032,8 @@
         "settlement": true,
         "updated": 1273723200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.eastrutherfordnj.net"
     },
     {
         "routing": "021059438",
@@ -1902,7 +2045,8 @@
         "settlement": true,
         "updated": 1394683200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.boem.gov"
     },
     {
         "routing": "021080025",
@@ -1914,7 +2058,8 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.worldbank.org"
     },
     {
         "routing": "021080038",
@@ -1926,7 +2071,8 @@
         "settlement": true,
         "updated": 1420520400000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.nadb.org"
     },
     {
         "routing": "021080054",
@@ -1938,7 +2084,8 @@
         "settlement": false,
         "updated": 932097600000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.nadb.org"
     },
     {
         "routing": "021080070",
@@ -1950,7 +2097,8 @@
         "settlement": true,
         "updated": 1045717200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.ecb.europa.eu"
     },
     {
         "routing": "021080083",
@@ -1962,7 +2110,8 @@
         "settlement": false,
         "updated": null,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.state.gov"
     },
     {
         "routing": "021080135",
@@ -1974,7 +2123,8 @@
         "settlement": false,
         "updated": 1426132800000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.un.org"
     },
     {
         "routing": "021080148",
@@ -1986,7 +2136,8 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.ecb.europa.eu"
     },
     {
         "routing": "021080151",
@@ -1998,7 +2149,8 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.ecb.europa.eu"
     },
     {
         "routing": "021080164",
@@ -2010,7 +2162,8 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://wise.com"
     },
     {
         "routing": "021080177",
@@ -2022,7 +2175,8 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.ecb.europa.eu"
     },
     {
         "routing": "021080180",
@@ -2034,7 +2188,8 @@
         "settlement": true,
         "updated": 1064376000000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://tadf.info"
     },
     {
         "routing": "021080193",
@@ -2046,7 +2201,8 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://wise.com"
     },
     {
         "routing": "021080232",
@@ -2058,7 +2214,8 @@
         "settlement": false,
         "updated": 1426132800000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.dfat.gov.au"
     },
     {
         "routing": "021080245",
@@ -2070,7 +2227,8 @@
         "settlement": true,
         "updated": 1396238400000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://dos.ny.gov"
     },
     {
         "routing": "021080258",
@@ -2082,7 +2240,8 @@
         "settlement": false,
         "updated": null,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.adb.org"
     },
     {
         "routing": "021080261",
@@ -2094,7 +2253,8 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.bundesbank.de"
     },
     {
         "routing": "021080274",
@@ -2106,7 +2266,8 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.ecb.europa.eu"
     },
     {
         "routing": "021080287",
@@ -2118,7 +2279,8 @@
         "settlement": false,
         "updated": 1426132800000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.adb.org"
     },
     {
         "routing": "021080300",
@@ -2130,7 +2292,8 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.afdb.org"
     },
     {
         "routing": "021080313",
@@ -2142,7 +2305,8 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.afdb.org"
     },
     {
         "routing": "021080326",
@@ -2154,7 +2318,8 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://wise.com"
     },
     {
         "routing": "021080339",
@@ -2166,7 +2331,8 @@
         "settlement": true,
         "updated": 930801600000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://wise.com"
     },
     {
         "routing": "021080342",
@@ -2178,7 +2344,8 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.ecb.europa.eu"
     },
     {
         "routing": "021080355",
@@ -2190,7 +2357,8 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.dfs.ny.gov"
     },
     {
         "routing": "021080368",
@@ -2202,7 +2370,8 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.bportugal.pt"
     },
     {
         "routing": "021080371",
@@ -2214,7 +2383,8 @@
         "settlement": true,
         "updated": 1416546000000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://wise.com"
     },
     {
         "routing": "021080384",
@@ -2226,7 +2396,8 @@
         "settlement": true,
         "updated": 1017118800000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.afdb.org"
     },
     {
         "routing": "021080410",
@@ -2238,7 +2409,8 @@
         "settlement": true,
         "updated": 1023940800000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.government.nl"
     },
     {
         "routing": "021080562",
@@ -2250,7 +2422,8 @@
         "settlement": true,
         "updated": 995601600000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.iadb.org"
     },
     {
         "routing": "021080591",
@@ -2262,7 +2435,8 @@
         "settlement": true,
         "updated": 1039582800000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://ramp.com"
     },
     {
         "routing": "021080601",
@@ -2274,7 +2448,8 @@
         "settlement": true,
         "updated": 1447045200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.nysd.uscourts.gov"
     },
     {
         "routing": "021080630",
@@ -2286,7 +2461,8 @@
         "settlement": true,
         "updated": 1069650000000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.imf.org"
     },
     {
         "routing": "021080669",
@@ -2298,7 +2474,8 @@
         "settlement": true,
         "updated": 1083038400000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.cbcg.me"
     },
     {
         "routing": "021080740",
@@ -2310,7 +2487,8 @@
         "settlement": true,
         "updated": 1375934400000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.bancocentral.tl"
     },
     {
         "routing": "021080850",
@@ -2322,7 +2500,8 @@
         "settlement": true,
         "updated": 1103518800000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://ina.iq"
     },
     {
         "routing": "021080892",
@@ -2334,7 +2513,8 @@
         "settlement": true,
         "updated": 1112760000000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://cashmgmt.usbank.com"
     },
     {
         "routing": "021080902",
@@ -2346,7 +2526,8 @@
         "settlement": true,
         "updated": 1112760000000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.bc.edu"
     },
     {
         "routing": "021080915",
@@ -2358,7 +2539,8 @@
         "settlement": true,
         "updated": 1118116800000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://library.columbia.edu"
     },
     {
         "routing": "021080960",
@@ -2370,7 +2552,8 @@
         "settlement": true,
         "updated": 1118203200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://pitchbook.com"
     },
     {
         "routing": "021080973",
@@ -2382,7 +2565,8 @@
         "settlement": true,
         "updated": 1375934400000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://wise.com"
     },
     {
         "routing": "021081079",
@@ -2394,7 +2578,8 @@
         "settlement": false,
         "updated": null,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://esd.ny.gov"
     },
     {
         "routing": "021081082",
@@ -2406,7 +2591,8 @@
         "settlement": true,
         "updated": 1164949200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://ofac.treasury.gov"
     },
     {
         "routing": "021081189",
@@ -2418,7 +2604,8 @@
         "settlement": true,
         "updated": 1168232400000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.oenb.at"
     },
     {
         "routing": "021081215",
@@ -2430,7 +2617,8 @@
         "settlement": true,
         "updated": 1207281600000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.nbcoxsackie.com"
     },
     {
         "routing": "021081228",
@@ -2442,7 +2630,8 @@
         "settlement": true,
         "updated": 1218081600000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://embassies.net"
     },
     {
         "routing": "021081231",
@@ -2454,7 +2643,8 @@
         "settlement": true,
         "updated": 1280116800000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://en.wikipedia.org"
     },
     {
         "routing": "021081260",
@@ -2466,7 +2656,8 @@
         "settlement": true,
         "updated": 1421816400000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.afdb.org"
     },
     {
         "routing": "021081273",
@@ -2478,7 +2669,8 @@
         "settlement": true,
         "updated": 1505966400000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://newsroom.bankofamerica.com"
     },
     {
         "routing": "021081286",
@@ -2490,7 +2682,8 @@
         "settlement": true,
         "updated": 1213588800000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://ramp.com"
     },
     {
         "routing": "021081299",
@@ -2502,7 +2695,8 @@
         "settlement": true,
         "updated": 1490241600000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.bnr.rw"
     },
     {
         "routing": "021081309",
@@ -2514,7 +2708,8 @@
         "settlement": true,
         "updated": 1223611200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.bny.com"
     },
     {
         "routing": "021081354",
@@ -2526,7 +2721,8 @@
         "settlement": false,
         "updated": 1230613200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.euroclear.com"
     },
     {
         "routing": "021081367",
@@ -2538,7 +2734,8 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.worldbank.org"
     },
     {
         "routing": "021081406",
@@ -2550,7 +2747,8 @@
         "settlement": false,
         "updated": 1221796800000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.boj.or.jp"
     },
     {
         "routing": "021081419",
@@ -2562,7 +2760,8 @@
         "settlement": false,
         "updated": 1222315200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://wise.com"
     },
     {
         "routing": "021081422",
@@ -2574,7 +2773,8 @@
         "settlement": true,
         "updated": 1226466000000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.nbim.no"
     },
     {
         "routing": "021081448",
@@ -2586,7 +2786,8 @@
         "settlement": true,
         "updated": 1312948800000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.riksbank.se"
     },
     {
         "routing": "021081451",
@@ -2598,7 +2799,8 @@
         "settlement": false,
         "updated": 1222315200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.rba.gov.au"
     },
     {
         "routing": "021081464",
@@ -2610,7 +2812,8 @@
         "settlement": true,
         "updated": 1420520400000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.afdb.org"
     },
     {
         "routing": "021081477",
@@ -2622,7 +2825,8 @@
         "settlement": false,
         "updated": 1420606800000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.afdb.org"
     },
     {
         "routing": "021081493",
@@ -2634,7 +2838,8 @@
         "settlement": false,
         "updated": 1225339200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://nbg.gov.ge"
     },
     {
         "routing": "021081503",
@@ -2646,7 +2851,8 @@
         "settlement": false,
         "updated": 1241150400000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://nyc.evershinecpa.com"
     },
     {
         "routing": "021081516",
@@ -2658,7 +2864,8 @@
         "settlement": false,
         "updated": 1227589200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://wise.com"
     },
     {
         "routing": "021081529",
@@ -2670,7 +2877,8 @@
         "settlement": true,
         "updated": 1230699600000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://support.ramp.network"
     },
     {
         "routing": "021081532",
@@ -2682,7 +2890,8 @@
         "settlement": true,
         "updated": 1230613200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.ecb.europa.eu"
     },
     {
         "routing": "021081558",
@@ -2694,7 +2903,8 @@
         "settlement": true,
         "updated": 1334635200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.federalreserve.gov"
     },
     {
         "routing": "021081561",
@@ -2706,7 +2916,8 @@
         "settlement": true,
         "updated": 1334635200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.nbb.be"
     },
     {
         "routing": "021081574",
@@ -2718,7 +2929,8 @@
         "settlement": true,
         "updated": 1257397200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.centralbank.cy"
     },
     {
         "routing": "021081587",
@@ -2730,7 +2942,8 @@
         "settlement": true,
         "updated": 1334721600000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.suomenpankki.fi"
     },
     {
         "routing": "021081590",
@@ -2742,7 +2955,8 @@
         "settlement": true,
         "updated": 1415336400000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.nyc.gov"
     },
     {
         "routing": "021081613",
@@ -2754,7 +2968,8 @@
         "settlement": true,
         "updated": 1334721600000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.banque-france.fr"
     },
     {
         "routing": "021081626",
@@ -2766,7 +2981,8 @@
         "settlement": true,
         "updated": 1237521600000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.bundesbank.de"
     },
     {
         "routing": "021081639",
@@ -2778,7 +2994,8 @@
         "settlement": true,
         "updated": 1416546000000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.bankofgreece.gr"
     },
     {
         "routing": "021081642",
@@ -2790,7 +3007,8 @@
         "settlement": true,
         "updated": 1267074000000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.centralbank.ie"
     },
     {
         "routing": "021081655",
@@ -2802,7 +3020,8 @@
         "settlement": true,
         "updated": 1445572800000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.bancaditalia.it"
     },
     {
         "routing": "021081668",
@@ -2814,7 +3033,8 @@
         "settlement": true,
         "updated": 1334721600000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://about.chubb.com"
     },
     {
         "routing": "021081671",
@@ -2826,7 +3046,8 @@
         "settlement": true,
         "updated": 1257397200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.centralbankmalta.org"
     },
     {
         "routing": "021081684",
@@ -2838,7 +3059,8 @@
         "settlement": true,
         "updated": 1334721600000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.dnb.nl"
     },
     {
         "routing": "021081697",
@@ -2850,7 +3072,8 @@
         "settlement": true,
         "updated": 1257397200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.bportugal.pt"
     },
     {
         "routing": "021081710",
@@ -2862,7 +3085,8 @@
         "settlement": false,
         "updated": 1509422400000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.cbbh.ba"
     },
     {
         "routing": "021081723",
@@ -2874,7 +3098,8 @@
         "settlement": true,
         "updated": 1334721600000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://bankaslovenije.blob.core.windows.net"
     },
     {
         "routing": "021081736",
@@ -2886,7 +3111,8 @@
         "settlement": true,
         "updated": 1269835200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.bde.es"
     },
     {
         "routing": "021081752",
@@ -2898,7 +3124,8 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.miga.org"
     },
     {
         "routing": "021081778",
@@ -2910,7 +3137,8 @@
         "settlement": true,
         "updated": 1066104000000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://ramp.com"
     },
     {
         "routing": "021081794",
@@ -2922,7 +3150,8 @@
         "settlement": false,
         "updated": 1234501200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.mapquest.com"
     },
     {
         "routing": "021081804",
@@ -2946,7 +3175,8 @@
         "settlement": true,
         "updated": 1485406800000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.centralbank.go.ke"
     },
     {
         "routing": "021081820",
@@ -2970,7 +3200,8 @@
         "settlement": true,
         "updated": 1235710800000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.dfs.ny.gov"
     },
     {
         "routing": "021081859",
@@ -2982,7 +3213,8 @@
         "settlement": false,
         "updated": 1236142800000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.newyorkfed.org"
     },
     {
         "routing": "021081888",
@@ -2994,7 +3226,8 @@
         "settlement": false,
         "updated": 1237867200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.newyorkfed.org"
     },
     {
         "routing": "021081891",
@@ -3006,7 +3239,8 @@
         "settlement": true,
         "updated": 1218600000000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.nbk.com"
     },
     {
         "routing": "021081901",
@@ -3018,7 +3252,8 @@
         "settlement": true,
         "updated": 1280116800000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.nbk.com"
     },
     {
         "routing": "021081927",
@@ -3030,7 +3265,8 @@
         "settlement": true,
         "updated": 1505275200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://ramp.com"
     },
     {
         "routing": "021081930",
@@ -3042,7 +3278,8 @@
         "settlement": true,
         "updated": 1247716800000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://support.ramp.com"
     },
     {
         "routing": "021081985",
@@ -3054,7 +3291,8 @@
         "settlement": true,
         "updated": 1247630400000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.boj.or.jp"
     },
     {
         "routing": "021081998",
@@ -3066,7 +3304,8 @@
         "settlement": true,
         "updated": 1246507200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.indiainnewyork.gov.in"
     },
     {
         "routing": "021082007",
@@ -3078,7 +3317,8 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.internationaldisabilityalliance.org"
     },
     {
         "routing": "021082010",
@@ -3102,7 +3342,8 @@
         "settlement": false,
         "updated": 1261630800000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://wise.com"
     },
     {
         "routing": "021082146",
@@ -3126,7 +3367,8 @@
         "settlement": false,
         "updated": 1426132800000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.ifad.org"
     },
     {
         "routing": "021082162",
@@ -3138,7 +3380,8 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.ifc.org"
     },
     {
         "routing": "021082191",
@@ -3150,7 +3393,8 @@
         "settlement": false,
         "updated": 1334721600000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.bankofcanada.ca"
     },
     {
         "routing": "021082227",
@@ -3162,7 +3406,8 @@
         "settlement": false,
         "updated": 1271995200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.nepadippf-org.afdbnet.com"
     },
     {
         "routing": "021082230",
@@ -3174,7 +3419,8 @@
         "settlement": false,
         "updated": 1532491200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www2.mfa.gov.lv"
     },
     {
         "routing": "021082243",
@@ -3186,7 +3432,8 @@
         "settlement": false,
         "updated": 1275451200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.bou.or.ug"
     },
     {
         "routing": "021082256",
@@ -3198,7 +3445,8 @@
         "settlement": true,
         "updated": 1296104400000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.eestipank.ee"
     },
     {
         "routing": "021082272",
@@ -3210,7 +3458,8 @@
         "settlement": true,
         "updated": 1320292800000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://wise.com"
     },
     {
         "routing": "021082285",
@@ -3222,7 +3471,8 @@
         "settlement": false,
         "updated": 1329973200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://wise.com"
     },
     {
         "routing": "021082298",
@@ -3234,7 +3484,8 @@
         "settlement": true,
         "updated": 1368763200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.cbvs.sr"
     },
     {
         "routing": "021082308",
@@ -3246,7 +3497,8 @@
         "settlement": false,
         "updated": 1231477200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.newyorkfed.org"
     },
     {
         "routing": "021082311",
@@ -3258,7 +3510,8 @@
         "settlement": true,
         "updated": 1334721600000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://dos.ny.gov"
     },
     {
         "routing": "021082324",
@@ -3282,7 +3535,8 @@
         "settlement": false,
         "updated": 1487653200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.imf.org"
     },
     {
         "routing": "021082353",
@@ -3294,7 +3548,8 @@
         "settlement": false,
         "updated": 1294894800000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://wise.com"
     },
     {
         "routing": "021082366",
@@ -3306,7 +3561,8 @@
         "settlement": false,
         "updated": 1302667200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.ghanaweb.com"
     },
     {
         "routing": "021082379",
@@ -3330,7 +3586,8 @@
         "settlement": false,
         "updated": null,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.imf.org"
     },
     {
         "routing": "021082418",
@@ -3342,7 +3599,8 @@
         "settlement": true,
         "updated": 1357794000000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://boss.gov.ss"
     },
     {
         "routing": "021082489",
@@ -3354,7 +3612,8 @@
         "settlement": false,
         "updated": null,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.imf.org"
     },
     {
         "routing": "021082492",
@@ -3366,7 +3625,8 @@
         "settlement": false,
         "updated": 1420606800000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.imf.org"
     },
     {
         "routing": "021082502",
@@ -3378,7 +3638,8 @@
         "settlement": false,
         "updated": 1312776000000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.bportugal.pt"
     },
     {
         "routing": "021082528",
@@ -3390,7 +3651,8 @@
         "settlement": true,
         "updated": 1346299200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.bog.gov.gh"
     },
     {
         "routing": "021082531",
@@ -3402,7 +3664,8 @@
         "settlement": true,
         "updated": 1346299200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.bog.gov.gh"
     },
     {
         "routing": "021082544",
@@ -3414,7 +3677,8 @@
         "settlement": false,
         "updated": 1389589200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://mission-ny.mod.gov.il"
     },
     {
         "routing": "021082557",
@@ -3426,7 +3690,8 @@
         "settlement": true,
         "updated": 1326430800000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://ramp.com"
     },
     {
         "routing": "021082586",
@@ -3438,7 +3703,8 @@
         "settlement": true,
         "updated": 1294722000000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://wise.com"
     },
     {
         "routing": "021082599",
@@ -3450,7 +3716,8 @@
         "settlement": false,
         "updated": 1389070800000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.ecb.europa.eu"
     },
     {
         "routing": "021082609",
@@ -3462,7 +3729,8 @@
         "settlement": true,
         "updated": 1479445200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.sec.gov"
     },
     {
         "routing": "021082612",
@@ -3474,7 +3742,8 @@
         "settlement": false,
         "updated": 1416546000000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.sec.gov"
     },
     {
         "routing": "021082625",
@@ -3498,7 +3767,8 @@
         "settlement": false,
         "updated": 1334721600000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.consumerfinance.gov"
     },
     {
         "routing": "021082803",
@@ -3510,7 +3780,8 @@
         "settlement": false,
         "updated": 1416546000000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.osc.ny.gov"
     },
     {
         "routing": "021082816",
@@ -3522,7 +3793,8 @@
         "settlement": true,
         "updated": 1136869200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://cashmgmt.usbank.com"
     },
     {
         "routing": "021082832",
@@ -3546,7 +3818,8 @@
         "settlement": true,
         "updated": 1487134800000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.centralbank.gov.ye"
     },
     {
         "routing": "021082926",
@@ -3558,7 +3831,8 @@
         "settlement": true,
         "updated": 1405915200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://wise.com"
     },
     {
         "routing": "021082939",
@@ -3570,7 +3844,8 @@
         "settlement": true,
         "updated": 1408507200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.bank.lv"
     },
     {
         "routing": "021082942",
@@ -3582,7 +3857,8 @@
         "settlement": true,
         "updated": 1400040000000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://ramp.com"
     },
     {
         "routing": "021082968",
@@ -3594,7 +3870,8 @@
         "settlement": true,
         "updated": 1402459200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://ramp.com"
     },
     {
         "routing": "021082971",
@@ -3606,7 +3883,8 @@
         "settlement": true,
         "updated": 1394424000000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.nbrb.by"
     },
     {
         "routing": "021082997",
@@ -3618,7 +3896,8 @@
         "settlement": true,
         "updated": 1301544000000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://wise.com"
     },
     {
         "routing": "021083006",
@@ -3630,7 +3909,8 @@
         "settlement": true,
         "updated": 1520312400000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://wise.com"
     },
     {
         "routing": "021083019",
@@ -3642,7 +3922,8 @@
         "settlement": true,
         "updated": 1201755600000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.state.gov"
     },
     {
         "routing": "021083035",
@@ -3654,7 +3935,8 @@
         "settlement": true,
         "updated": 1201755600000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.algeria-cgny.org"
     },
     {
         "routing": "021083048",
@@ -3666,7 +3948,8 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.bmeia.gv.at"
     },
     {
         "routing": "021083051",
@@ -3678,7 +3961,8 @@
         "settlement": false,
         "updated": null,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.mofa.gov.ae"
     },
     {
         "routing": "021083064",
@@ -3690,7 +3974,8 @@
         "settlement": false,
         "updated": 1339387200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.bmeia.gv.at"
     },
     {
         "routing": "021083077",
