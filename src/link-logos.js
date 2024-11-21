@@ -10,7 +10,7 @@ banks.forEach(i => {
     
     if (i.logo != undefined) {
 
-        output[i.routing] = i.logo;        
+        output[i.routing] = i.logo;
         
     }
 
