@@ -9,7 +9,8 @@
         "settlement": true,
         "updated": 1094788800000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.bostonfed.org/"
     },
     {
         "routing": "011000028",
@@ -21,7 +22,8 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.statestreet.com/"
     },
     {
         "routing": "011000536",
@@ -33,7 +35,8 @@
         "settlement": true,
         "updated": 1503028800000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://fhlbanks.com"
     },
     {
         "routing": "011001234",
@@ -45,7 +48,8 @@
         "settlement": false,
         "updated": 1493006400000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.bny.com"
     },
     {
         "routing": "011001276",
@@ -57,7 +61,8 @@
         "settlement": true,
         "updated": 1041310800000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.oneunited.com"
     },
     {
         "routing": "011001881",
@@ -69,7 +74,8 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.fiduciary-trust.com"
     },
     {
         "routing": "011002343",
@@ -81,7 +87,8 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.svb.com"
     },
     {
         "routing": "011002877",
@@ -93,7 +100,8 @@
         "settlement": false,
         "updated": 1415336400000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://www.eastwestbank.com"
     },
     {
         "routing": "011075150",
@@ -106,7 +114,8 @@
         "settlement": true,
         "updated": 1383019200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://locations.santanderbank.com"
     },
     {
         "routing": "011102133",
@@ -118,7 +127,8 @@
         "settlement": false,
         "updated": 1479445200000,
         "country": "USA",
-        "colors": []
+        "colors": [],
+        "website": "https://bankhometown.com"
     },
     {
         "routing": "011102353",

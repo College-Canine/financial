@@ -1,0 +1,16 @@
+{
+  "name": "src",
+  "version": "1.0.0",
+  "description": "const fs = require('fs') const path = require('path')",
+  "main": "branding.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "buscar.io": "^1.8.1",
+    "google-search-scraper": "^0.1.0"
+  }
+}
