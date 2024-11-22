@@ -1,0 +1,15 @@
+{
+    "routing": "041201635",
+    "short": "CIVISTA BANK",
+    "long": "CIVISTA BANK",
+    "state": "OH",
+    "city": "SANDUSKY",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1425618000000,
+    "country": "USA",
+    "colors": [],
+    "name": "Civista Bank",
+    "website": "https://www.civista.bank",
+    "logo": "civista.svg"
+}

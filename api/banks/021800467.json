@@ -1,0 +1,15 @@
+{
+    "routing": "021800467",
+    "short": "URU USD FRN A PC",
+    "long": "URUGUAY USD FRN SERIES A/FOREIGN",
+    "state": "",
+    "city": "",
+    "transfer": false,
+    "settlement": true,
+    "updated": 1447045200000,
+    "country": "USA",
+    "colors": [],
+    "name": "Uruguay Usd Frn Series A/foreign",
+    "website": "https://cbonds.com",
+    "logo": "cbonds.svg"
+}

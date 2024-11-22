@@ -1,0 +1,15 @@
+{
+    "routing": "051504429",
+    "short": "WHITESVILLE ST BK",
+    "long": "WHITESVILLE STATE BANK",
+    "state": "WV",
+    "city": "WHITESVILLE",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1315972800000,
+    "country": "USA",
+    "colors": [],
+    "name": "Whitesville State Bank",
+    "website": "https://www.whitesvillesb.com",
+    "logo": "whitesvillesb.svg"
+}

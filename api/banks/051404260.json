@@ -1,0 +1,15 @@
+{
+    "routing": "051404260",
+    "short": "BB&T VA",
+    "long": "BRANCH BANKING & TRUST CO - VIRGINIA",
+    "state": "VA",
+    "city": "RICHMOND",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1415336400000,
+    "country": "USA",
+    "colors": [],
+    "name": "Branch Banking & Trust - Virginia",
+    "website": "https://www.mapquest.com",
+    "logo": "mapquest.svg"
+}

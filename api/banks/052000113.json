@@ -1,0 +1,15 @@
+{
+    "routing": "052000113",
+    "short": "ALLFIRST BANK",
+    "long": "MANUFACTURERS & TRADERS TRUST CO",
+    "state": "MD",
+    "city": "BALTIMORE",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1474948800000,
+    "country": "USA",
+    "colors": [],
+    "name": "Manufacturers & Traders Trust",
+    "website": "https://www.mtb.com",
+    "logo": "mtb.svg"
+}

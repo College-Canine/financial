@@ -1,0 +1,15 @@
+{
+    "routing": "051504571",
+    "short": "PREMIER BANK INC",
+    "long": "PREMIER BANK, INC",
+    "state": "WV",
+    "city": "HUNTINGTON",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1539316800000,
+    "country": "USA",
+    "colors": [],
+    "name": "Premier Bank Inc",
+    "website": "https://www.bloomberg.com",
+    "logo": "bloomberg.svg"
+}

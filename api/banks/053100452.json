@@ -1,0 +1,15 @@
+{
+    "routing": "053100452",
+    "short": "MECH FAR BK DURHAM",
+    "long": "MECHANICS & FARMERS BANK",
+    "state": "NC",
+    "city": "DURHAM",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [],
+    "name": "Mechanics & Farmers Bank",
+    "website": "https://www.mfbonline.com",
+    "logo": "mfbonline.svg"
+}

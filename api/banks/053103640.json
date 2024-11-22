@@ -1,0 +1,15 @@
+{
+    "routing": "053103640",
+    "short": "FMB GRANITE QUARRY",
+    "long": "FARMERS & MERCHANTS BANK",
+    "state": "NC",
+    "city": "SALISBURY",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1178251200000,
+    "country": "USA",
+    "colors": [],
+    "name": "Farmers & Merchants Bank",
+    "website": "https://www.fmbnc.com",
+    "logo": "fmbnc.svg"
+}

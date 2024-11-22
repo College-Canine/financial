@@ -1,0 +1,15 @@
+{
+    "routing": "044108078",
+    "short": "PATASKALA BKG CO",
+    "long": "THE PATASKALA BANKING COMPANY",
+    "state": "OH",
+    "city": "PATASKALA",
+    "transfer": false,
+    "settlement": true,
+    "updated": 1513227600000,
+    "country": "USA",
+    "colors": [],
+    "name": "The Pataskala Banking Company",
+    "website": "https://www.pataskalabank.com",
+    "logo": "pataskalabank.svg"
+}

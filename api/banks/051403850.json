@@ -1,0 +1,15 @@
+{
+    "routing": "051403850",
+    "short": "VA COMM BANKLANC",
+    "long": "VIRGINIA COMMONWEALTH BANK",
+    "state": "VA",
+    "city": "RICHMOND",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1510290000000,
+    "country": "USA",
+    "colors": [],
+    "name": "Virginia Commonwealth Bank",
+    "website": "https://www.mapquest.com",
+    "logo": "mapquest.svg"
+}

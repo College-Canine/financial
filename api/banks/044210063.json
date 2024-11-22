@@ -1,0 +1,15 @@
+{
+    "routing": "044210063",
+    "short": "KINGSTON NATL",
+    "long": "KINGSTON NATIONAL BANK",
+    "state": "OH",
+    "city": "KINGSTON",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1415336400000,
+    "country": "USA",
+    "colors": [],
+    "name": "Kingston National Bank",
+    "website": "https://www.kingstonnationalbank.com",
+    "logo": "kingstonnationalbank.svg"
+}

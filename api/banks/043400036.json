@@ -1,0 +1,15 @@
+{
+    "routing": "043400036",
+    "short": "WESBANCO WHEELING",
+    "long": "WESBANCO BANK, INC.",
+    "state": "WV",
+    "city": "WHEELING",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1478581200000,
+    "country": "USA",
+    "colors": [],
+    "name": "Wesbanco Bank Inc",
+    "website": "https://www.wesbanco.com",
+    "logo": "wesbanco.svg"
+}

@@ -1,0 +1,15 @@
+{
+    "routing": "051005106",
+    "short": "COMMUNITY BKRS BK",
+    "long": "COMMUNITY BANKERS BANK",
+    "state": "VA",
+    "city": "MIDLOTHIAN",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1503028800000,
+    "country": "USA",
+    "colors": [],
+    "name": "Community Bankers Bank",
+    "website": "https://cbbonline.com",
+    "logo": "cbbonline.svg"
+}

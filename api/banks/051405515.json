@@ -1,0 +1,18 @@
+{
+    "routing": "051405515",
+    "short": "CAP ONE RICH",
+    "long": "CAPITAL ONE BANK (USA), NA",
+    "logo": "capital-one.svg",
+    "state": "VA",
+    "city": "GLEN ALLEN",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1508990400000,
+    "country": "USA",
+    "colors": [
+        "#D03027",
+        "#004977"
+    ],
+    "name": "Capital One Bank (usa)",
+    "website": "https://m.yelp.com"
+}

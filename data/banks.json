@@ -13757,7 +13757,9 @@
         "updated": 1447045200000,
         "country": "USA",
         "colors": [],
-        "name": "Uruguay Usd Frn Series A/foreign"
+        "name": "Uruguay Usd Frn Series A/foreign",
+        "website": "https://cbonds.com",
+        "logo": "cbonds.svg"
     },
     {
         "routing": "021800470",
@@ -18770,7 +18772,8 @@
             "#4fba47",
             "#fafefd"
         ],
-        "name": "TD Bank"
+        "name": "TD Bank",
+        "website": "https://locations.td.com"
     },
     {
         "routing": "031203915",
@@ -18977,7 +18980,9 @@
         "updated": 1354165200000,
         "country": "USA",
         "colors": [],
-        "name": "1st Colonial Community Bank"
+        "name": "1st Colonial Community Bank",
+        "website": "https://www.1stcolonial.com",
+        "logo": "1stcolonial.svg"
     },
     {
         "routing": "031207885",
@@ -19962,7 +19967,9 @@
         "updated": 1516683600000,
         "country": "USA",
         "colors": [],
-        "name": "First Bank Of Lilly"
+        "name": "First Bank Of Lilly",
+        "website": "https://www.somersettrust.com",
+        "logo": "somersettrust.svg"
     },
     {
         "routing": "031312288",
@@ -20361,7 +20368,9 @@
         "updated": 1415336400000,
         "country": "USA",
         "colors": [],
-        "name": "Wilmington Trust Fsb"
+        "name": "Wilmington Trust Fsb",
+        "website": "https://www.mapquest.com",
+        "logo": "mapquest.svg"
     },
     {
         "routing": "031907790",
@@ -20452,7 +20461,9 @@
         "updated": 1268024400000,
         "country": "USA",
         "colors": [],
-        "name": "First National Bank & Trust Company"
+        "name": "First National Bank & Trust Company",
+        "website": "https://www.fnbn.com",
+        "logo": "fnbn.svg"
     },
     {
         "routing": "031913438",
@@ -20485,7 +20496,9 @@
         "updated": 1543813200000,
         "country": "USA",
         "colors": [],
-        "name": "Linkbank"
+        "name": "Linkbank",
+        "website": "https://www.linkbank.com",
+        "logo": "linkbank.svg"
     },
     {
         "routing": "031918828",
@@ -20498,7 +20511,9 @@
         "updated": 1366171200000,
         "country": "USA",
         "colors": [],
-        "name": "Meridian Bank"
+        "name": "Meridian Bank",
+        "website": "https://www.meridianbanker.com",
+        "logo": "meridianbanker.svg"
     },
     {
         "routing": "031918844",
@@ -20603,7 +20618,9 @@
         "updated": 1443153600000,
         "country": "USA",
         "colors": [],
-        "name": "The Haverford Trust Company"
+        "name": "The Haverford Trust Company",
+        "website": "https://haverfordquality.com",
+        "logo": "haverfordquality.svg"
     },
     {
         "routing": "036002247",
@@ -20713,7 +20730,9 @@
         "updated": 1314936000000,
         "country": "USA",
         "colors": [],
-        "name": "Noah Bank"
+        "name": "Noah Bank",
+        "website": "https://www.ncif.org",
+        "logo": "ncif.svg"
     },
     {
         "routing": "036076150",
@@ -20844,7 +20863,9 @@
         "updated": 1425618000000,
         "country": "USA",
         "colors": [],
-        "name": "Civista Bank"
+        "name": "Civista Bank",
+        "website": "https://www.civista.bank",
+        "logo": "civista.svg"
     },
     {
         "routing": "041201813",
@@ -21123,7 +21144,9 @@
         "updated": 1316145600000,
         "country": "USA",
         "colors": [],
-        "name": "The Farmers State Bank Of West Salem"
+        "name": "The Farmers State Bank Of West Salem",
+        "website": "https://www.farmersstate-oh.com",
+        "logo": "farmersstate-oh.svg"
     },
     {
         "routing": "041208719",
@@ -21230,7 +21253,9 @@
         "updated": null,
         "country": "USA",
         "colors": [],
-        "name": "Cortland Savings And Banking Company"
+        "name": "Cortland Savings And Banking Company",
+        "website": "https://ir.farmersbankgroup.com",
+        "logo": "farmersbankgroup.svg"
     },
     {
         "routing": "041209420",
@@ -21243,7 +21268,9 @@
         "updated": 1446177600000,
         "country": "USA",
         "colors": [],
-        "name": "The First National Bank Of Dennison"
+        "name": "The First National Bank Of Dennison",
+        "website": "https://www.fnbdennison.com",
+        "logo": "fnbdennison.svg"
     },
     {
         "routing": "041209488",
@@ -21438,7 +21465,9 @@
         "updated": 943938000000,
         "country": "USA",
         "colors": [],
-        "name": "The First National Bank Of Sycamore"
+        "name": "The First National Bank Of Sycamore",
+        "website": "https://www.sycamore.bank",
+        "logo": "sycamore.svg"
     },
     {
         "routing": "041212983",
@@ -21895,7 +21924,9 @@
         "updated": 945147600000,
         "country": "USA",
         "colors": [],
-        "name": "Citizens National Bank Of Somerset"
+        "name": "Citizens National Bank Of Somerset",
+        "website": "https://www.cnbsomerset.com",
+        "logo": "cnbsomerset.svg"
     },
     {
         "routing": "042101514",
@@ -22183,7 +22214,9 @@
         "updated": 1467259200000,
         "country": "USA",
         "colors": [],
-        "name": "Citizens Bank Of Kentucky Inc"
+        "name": "Citizens Bank Of Kentucky Inc",
+        "website": "https://www.wercitizens.bank",
+        "logo": "wercitizens.svg"
     },
     {
         "routing": "042103460",
@@ -22474,7 +22507,8 @@
         "updated": 942037200000,
         "country": "USA",
         "colors": [],
-        "name": "Commercial Bank"
+        "name": "Commercial Bank",
+        "website": "https://commercialbankky.bank"
     },
     {
         "routing": "042106580",
@@ -22748,7 +22782,9 @@
         "updated": 1533096000000,
         "country": "USA",
         "colors": [],
-        "name": "First National Bank Of Blanchester"
+        "name": "First National Bank Of Blanchester",
+        "website": "https://www.fnbblanchester.com",
+        "logo": "fnbblanchester.svg"
     },
     {
         "routing": "042206503",
@@ -22848,7 +22884,9 @@
         "updated": null,
         "country": "USA",
         "colors": [],
-        "name": "The Farmers State Bank"
+        "name": "The Farmers State Bank",
+        "website": "https://www.myfsb.bank",
+        "logo": "myfsb.svg"
     },
     {
         "routing": "042211572",
@@ -23081,7 +23119,9 @@
         "updated": 1381464000000,
         "country": "USA",
         "colors": [],
-        "name": "The Bank Of New York Mellon"
+        "name": "The Bank Of New York Mellon",
+        "website": "https://www.bny.com",
+        "logo": "bny.svg"
     },
     {
         "routing": "043001435",
@@ -23187,7 +23227,8 @@
         "updated": null,
         "country": "USA",
         "colors": [],
-        "name": "Citizens National Bank Of Woodsfield"
+        "name": "Citizens National Bank Of Woodsfield",
+        "website": "https://cnbwoodsfield.com"
     },
     {
         "routing": "043211160",
@@ -23285,7 +23326,8 @@
         "updated": 1231909200000,
         "country": "USA",
         "colors": [],
-        "name": "Community First Bank"
+        "name": "Community First Bank",
+        "website": "https://m.yelp.com"
     },
     {
         "routing": "043308426",
@@ -23405,7 +23447,9 @@
         "updated": 1116216000000,
         "country": "USA",
         "colors": [],
-        "name": "Marion Center Bank"
+        "name": "Marion Center Bank",
+        "website": "https://www.marioncenterbank.com",
+        "logo": "marioncenterbank.svg"
     },
     {
         "routing": "043312386",
@@ -23418,7 +23462,9 @@
         "updated": 1498536000000,
         "country": "USA",
         "colors": [],
-        "name": "The Mars Bank"
+        "name": "The Mars Bank",
+        "website": "https://investors.marsbank.com",
+        "logo": "marsbank.svg"
     },
     {
         "routing": "043313259",
@@ -23431,7 +23477,9 @@
         "updated": null,
         "country": "USA",
         "colors": [],
-        "name": "Mercer County State Bank"
+        "name": "Mercer County State Bank",
+        "website": "https://www.mcsbank.bank",
+        "logo": "mcsbank.svg"
     },
     {
         "routing": "043315147",
@@ -23444,7 +23492,8 @@
         "updated": null,
         "country": "USA",
         "colors": [],
-        "name": "Elderton State Bank"
+        "name": "Elderton State Bank",
+        "website": "https://www.eldertonbank.com"
     },
     {
         "routing": "043318092",
@@ -23457,7 +23506,9 @@
         "updated": 1352178000000,
         "country": "USA",
         "colors": [],
-        "name": "First National Bank Of Pennsylvania"
+        "name": "First National Bank Of Pennsylvania",
+        "website": "https://locations.fnb-online.com",
+        "logo": "fnb-online.svg"
     },
     {
         "routing": "043318500",
@@ -23470,7 +23521,9 @@
         "updated": 931406400000,
         "country": "USA",
         "colors": [],
-        "name": "Enterprise Bank"
+        "name": "Enterprise Bank",
+        "website": "https://www.enterprisebankpgh.com",
+        "logo": "enterprisebankpgh.svg"
     },
     {
         "routing": "043318791",
@@ -23483,7 +23536,9 @@
         "updated": 1123819200000,
         "country": "USA",
         "colors": [],
-        "name": "Clarion County Community Bank"
+        "name": "Clarion County Community Bank",
+        "website": "https://clarionbank.com",
+        "logo": "clarionbank.svg"
     },
     {
         "routing": "043400036",
@@ -23496,7 +23551,9 @@
         "updated": 1478581200000,
         "country": "USA",
         "colors": [],
-        "name": "Wesbanco Bank Inc"
+        "name": "Wesbanco Bank Inc",
+        "website": "https://www.wesbanco.com",
+        "logo": "wesbanco.svg"
     },
     {
         "routing": "043401190",
@@ -23509,7 +23566,9 @@
         "updated": 1482210000000,
         "country": "USA",
         "colors": [],
-        "name": "Wesbanco Bank Inc"
+        "name": "Wesbanco Bank Inc",
+        "website": "https://www.wesbanco.com",
+        "logo": "wesbanco.svg"
     },
     {
         "routing": "043404443",
@@ -23522,7 +23581,9 @@
         "updated": 1280289600000,
         "country": "USA",
         "colors": [],
-        "name": "Union Bank Inc"
+        "name": "Union Bank Inc",
+        "website": "https://www.hometownbanc.bank",
+        "logo": "hometownbanc.svg"
     },
     {
         "routing": "043404647",
@@ -23535,7 +23596,8 @@
         "updated": 1496203200000,
         "country": "USA",
         "colors": [],
-        "name": "Main Street Bank"
+        "name": "Main Street Bank",
+        "website": "https://www.mymainstreetbank.bank"
     },
     {
         "routing": "043450015",
@@ -23548,7 +23610,9 @@
         "updated": 1310702400000,
         "country": "USA",
         "colors": [],
-        "name": "Security National Trust"
+        "name": "Security National Trust",
+        "website": "https://www.securitynationaltrust.com",
+        "logo": "securitynationaltrust.svg"
     },
     {
         "routing": "044000024",
@@ -23578,7 +23642,8 @@
             "#004FC2",
             "#FFFFFF"
         ],
-        "name": "JP-Morgan Chase Bank"
+        "name": "JP-Morgan Chase Bank",
+        "website": "https://locator.chase.com"
     },
     {
         "routing": "044002051",
@@ -23591,7 +23656,8 @@
         "updated": 1500609600000,
         "country": "USA",
         "colors": [],
-        "name": "United Bankers Bank Ohio"
+        "name": "United Bankers Bank Ohio",
+        "website": "https://www.ubb.bank"
     },
     {
         "routing": "044002909",
@@ -23604,7 +23670,9 @@
         "updated": null,
         "country": "USA",
         "colors": [],
-        "name": "First City Bank"
+        "name": "First City Bank",
+        "website": "https://www.linkedin.com",
+        "logo": "linkedin.svg"
     },
     {
         "routing": "044072324",
@@ -23617,7 +23685,9 @@
         "updated": 1542603600000,
         "country": "USA",
         "colors": [],
-        "name": "Axos Bank"
+        "name": "Axos Bank",
+        "website": "https://www.axosbank.com",
+        "logo": "axosbank.svg"
     },
     {
         "routing": "044101305",
@@ -23630,7 +23700,9 @@
         "updated": null,
         "country": "USA",
         "colors": [],
-        "name": "The Park National Bank"
+        "name": "The Park National Bank",
+        "website": "https://parknationalbank.com",
+        "logo": "parknationalbank.svg"
     },
     {
         "routing": "044101745",
@@ -23643,7 +23715,9 @@
         "updated": 1223956800000,
         "country": "USA",
         "colors": [],
-        "name": "The Fahey Banking Company"
+        "name": "The Fahey Banking Company",
+        "website": "https://www.faheybank.bank",
+        "logo": "faheybank.svg"
     },
     {
         "routing": "044102647",
@@ -23656,7 +23730,9 @@
         "updated": 1420002000000,
         "country": "USA",
         "colors": [],
-        "name": "Standing Stone Bank"
+        "name": "Standing Stone Bank",
+        "website": "https://www.standingstonebank.com",
+        "logo": "standingstonebank.svg"
     },
     {
         "routing": "044103086",
@@ -23669,7 +23745,9 @@
         "updated": 1503460800000,
         "country": "USA",
         "colors": [],
-        "name": "First Commonwealth Bank"
+        "name": "First Commonwealth Bank",
+        "website": "https://www.fcbanking.com",
+        "logo": "fcbanking.svg"
     },
     {
         "routing": "044103976",
@@ -23695,7 +23773,9 @@
         "updated": 1243483200000,
         "country": "USA",
         "colors": [],
-        "name": "The Community Bank"
+        "name": "The Community Bank",
+        "website": "https://www.thecombank.com",
+        "logo": "thecombank.svg"
     },
     {
         "routing": "044105819",
@@ -23708,7 +23788,9 @@
         "updated": null,
         "country": "USA",
         "colors": [],
-        "name": "Peoples Natl. Bank Of New Lexington"
+        "name": "Peoples Natl. Bank Of New Lexington",
+        "website": "https://www.psbohio.com",
+        "logo": "psbohio.svg"
     },
     {
         "routing": "044106384",
@@ -23721,7 +23803,9 @@
         "updated": null,
         "country": "USA",
         "colors": [],
-        "name": "First National Bank Of Mcconnelsville"
+        "name": "First National Bank Of Mcconnelsville",
+        "website": "https://www.first-national.com",
+        "logo": "first-national.svg"
     },
     {
         "routing": "044106397",
@@ -23734,7 +23818,9 @@
         "updated": null,
         "country": "USA",
         "colors": [],
-        "name": "Citizens Natl Bank Of Mcconnelsville"
+        "name": "Citizens Natl Bank Of Mcconnelsville",
+        "website": "https://www.cnb-online.net",
+        "logo": "cnb-online.svg"
     },
     {
         "routing": "044106588",
@@ -23747,7 +23833,9 @@
         "updated": null,
         "country": "USA",
         "colors": [],
-        "name": "The Richwood Banking Company"
+        "name": "The Richwood Banking Company",
+        "website": "https://richwoodbank.com",
+        "logo": "richwoodbank.svg"
     },
     {
         "routing": "044106944",
@@ -23760,7 +23848,9 @@
         "updated": 1479445200000,
         "country": "USA",
         "colors": [],
-        "name": "Peoples Bank"
+        "name": "Peoples Bank",
+        "website": "https://locations.peoplesbancorp.com",
+        "logo": "peoplesbancorp.svg"
     },
     {
         "routing": "044107163",
@@ -23786,7 +23876,9 @@
         "updated": 1485925200000,
         "country": "USA",
         "colors": [],
-        "name": "The Union Banking Company"
+        "name": "The Union Banking Company",
+        "website": "https://www.bankatubc.com",
+        "logo": "bankatubc.svg"
     },
     {
         "routing": "044108078",
@@ -23799,7 +23891,9 @@
         "updated": 1513227600000,
         "country": "USA",
         "colors": [],
-        "name": "The Pataskala Banking Company"
+        "name": "The Pataskala Banking Company",
+        "website": "https://www.pataskalabank.com",
+        "logo": "pataskalabank.svg"
     },
     {
         "routing": "044108641",
@@ -23812,7 +23906,9 @@
         "updated": 1061438400000,
         "country": "USA",
         "colors": [],
-        "name": "The Huntington National Bank"
+        "name": "The Huntington National Bank",
+        "website": "https://www.huntington.com",
+        "logo": "huntington.svg"
     },
     {
         "routing": "044109297",
@@ -23825,7 +23921,9 @@
         "updated": 1156132800000,
         "country": "USA",
         "colors": [],
-        "name": "North Valley Bank"
+        "name": "North Valley Bank",
+        "website": "https://www.nvboh.bank",
+        "logo": "nvboh.svg"
     },
     {
         "routing": "044109336",
@@ -23838,7 +23936,9 @@
         "updated": 951368400000,
         "country": "USA",
         "colors": [],
-        "name": "Heartland Bank"
+        "name": "Heartland Bank",
+        "website": "https://www.heartland.bank",
+        "logo": "heartland.svg"
     },
     {
         "routing": "044109417",
@@ -23851,7 +23951,9 @@
         "updated": 1542171600000,
         "country": "USA",
         "colors": [],
-        "name": "Buckeye State Bank"
+        "name": "Buckeye State Bank",
+        "website": "https://www.joinbsb.com",
+        "logo": "joinbsb.svg"
     },
     {
         "routing": "044111557",
@@ -23864,7 +23966,9 @@
         "updated": 1052884800000,
         "country": "USA",
         "colors": [],
-        "name": "Commodore Bank"
+        "name": "Commodore Bank",
+        "website": "https://www.nvboh.bank",
+        "logo": "nvboh.svg"
     },
     {
         "routing": "044112488",
@@ -23877,7 +23981,8 @@
         "updated": 936158400000,
         "country": "USA",
         "colors": [],
-        "name": "The Peoples Bank"
+        "name": "The Peoples Bank",
+        "website": "https://peoplesgambier.com"
     },
     {
         "routing": "044114716",
@@ -23890,7 +23995,9 @@
         "updated": null,
         "country": "USA",
         "colors": [],
-        "name": "The Citizens Bank Of Logan"
+        "name": "The Citizens Bank Of Logan",
+        "website": "https://www.hockinghills.com",
+        "logo": "hockinghills.svg"
     },
     {
         "routing": "044115809",
@@ -23908,7 +24015,8 @@
             "#55A939",
             "#FFFFFF"
         ],
-        "name": "Woodforest National Bank"
+        "name": "Woodforest National Bank",
+        "website": "https://www.woodforest.com"
     },
     {
         "routing": "044201030",
@@ -23921,7 +24029,9 @@
         "updated": 1381464000000,
         "country": "USA",
         "colors": [],
-        "name": "The Hocking Valley Bank"
+        "name": "The Hocking Valley Bank",
+        "website": "https://www.hvbonline.com",
+        "logo": "hvbonline.svg"
     },
     {
         "routing": "044202505",
@@ -23934,7 +24044,9 @@
         "updated": 1479445200000,
         "country": "USA",
         "colors": [],
-        "name": "Peoples Bank"
+        "name": "Peoples Bank",
+        "website": "https://www.peoplesbancorp.com",
+        "logo": "peoplesbancorp.svg"
     },
     {
         "routing": "044204370",
@@ -23947,7 +24059,9 @@
         "updated": 1507780800000,
         "country": "USA",
         "colors": [],
-        "name": "Ohio Valley Bank Company The"
+        "name": "Ohio Valley Bank Company The",
+        "website": "https://www.ovbc.com",
+        "logo": "ovbc.svg"
     },
     {
         "routing": "044205146",
@@ -23960,7 +24074,9 @@
         "updated": 936331200000,
         "country": "USA",
         "colors": [],
-        "name": "The Farmers Bank & Svgs"
+        "name": "The Farmers Bank & Svgs",
+        "website": "https://www.fbsc.com",
+        "logo": "fbsc.svg"
     },
     {
         "routing": "044206475",
@@ -23973,7 +24089,9 @@
         "updated": null,
         "country": "USA",
         "colors": [],
-        "name": "The First National Bank Of Waverly"
+        "name": "The First National Bank Of Waverly",
+        "website": "https://www.thefirstnational.com",
+        "logo": "thefirstnational.svg"
     },
     {
         "routing": "044207283",
@@ -23986,7 +24104,9 @@
         "updated": 1482210000000,
         "country": "USA",
         "colors": [],
-        "name": "Wesbanco Bank Inc"
+        "name": "Wesbanco Bank Inc",
+        "website": "https://www.wesbanco.com",
+        "logo": "wesbanco.svg"
     },
     {
         "routing": "044208512",
@@ -23999,7 +24119,9 @@
         "updated": 991195200000,
         "country": "USA",
         "colors": [],
-        "name": "Home National Bank"
+        "name": "Home National Bank",
+        "website": "https://homenatlbank.com",
+        "logo": "homenatlbank.svg"
     },
     {
         "routing": "044208936",
@@ -24012,7 +24134,9 @@
         "updated": null,
         "country": "USA",
         "colors": [],
-        "name": "The Citizens Bank Company"
+        "name": "The Citizens Bank Company",
+        "website": "https://www.thecitizens.com",
+        "logo": "thecitizens.svg"
     },
     {
         "routing": "044210063",
@@ -24025,7 +24149,9 @@
         "updated": 1415336400000,
         "country": "USA",
         "colors": [],
-        "name": "Kingston National Bank"
+        "name": "Kingston National Bank",
+        "website": "https://www.kingstonnationalbank.com",
+        "logo": "kingstonnationalbank.svg"
     },
     {
         "routing": "044210403",
@@ -24038,7 +24164,9 @@
         "updated": 1280289600000,
         "country": "USA",
         "colors": [],
-        "name": "Vinton County Natl Bank Of Mcarthur"
+        "name": "Vinton County Natl Bank Of Mcarthur",
+        "website": "https://www.vcnbfamily.bank",
+        "logo": "vcnbfamily.svg"
     },
     {
         "routing": "044211910",
@@ -24051,7 +24179,9 @@
         "updated": 1415336400000,
         "country": "USA",
         "colors": [],
-        "name": "Waterford Commercial And Savings Bank"
+        "name": "Waterford Commercial And Savings Bank",
+        "website": "https://www.waterfordbank.com",
+        "logo": "waterfordbank.svg"
     },
     {
         "routing": "044215521",
@@ -24064,7 +24194,9 @@
         "updated": 933566400000,
         "country": "USA",
         "colors": [],
-        "name": "Settlers Bank"
+        "name": "Settlers Bank",
+        "website": "https://www.settlers.bank",
+        "logo": "settlers.svg"
     },
     {
         "routing": "051000033",
@@ -24077,7 +24209,9 @@
         "updated": 931838400000,
         "country": "USA",
         "colors": [],
-        "name": "Federal Reserve Bank Of Richmond"
+        "name": "Federal Reserve Bank Of Richmond",
+        "website": "https://www.richmondfed.org",
+        "logo": "richmondfed.svg"
     },
     {
         "routing": "051005106",
@@ -24090,7 +24224,9 @@
         "updated": 1503028800000,
         "country": "USA",
         "colors": [],
-        "name": "Community Bankers Bank"
+        "name": "Community Bankers Bank",
+        "website": "https://cbbonline.com",
+        "logo": "cbbonline.svg"
     },
     {
         "routing": "051074030",
@@ -24103,7 +24239,9 @@
         "updated": 1439870400000,
         "country": "USA",
         "colors": [],
-        "name": "Union Bank & Trust"
+        "name": "Union Bank & Trust",
+        "website": "https://locations.atlanticunionbank.com",
+        "logo": "atlanticunionbank.svg"
     },
     {
         "routing": "051099992",
@@ -24129,7 +24267,9 @@
         "updated": 1422853200000,
         "country": "USA",
         "colors": [],
-        "name": "American Natl Bank & Trust"
+        "name": "American Natl Bank & Trust",
+        "website": "https://bank.amnb.com",
+        "logo": "amnb.svg"
     },
     {
         "routing": "051401043",
@@ -24142,7 +24282,9 @@
         "updated": 1501041600000,
         "country": "USA",
         "colors": [],
-        "name": "Movement Bank"
+        "name": "Movement Bank",
+        "website": "https://www.movementbank.com",
+        "logo": "movementbank.svg"
     },
     {
         "routing": "051401153",
@@ -24155,7 +24297,9 @@
         "updated": null,
         "country": "USA",
         "colors": [],
-        "name": "Grundy National Bank"
+        "name": "Grundy National Bank",
+        "website": "https://mylegacybank.net",
+        "logo": "mylegacybank.svg"
     },
     {
         "routing": "051401849",
@@ -24168,7 +24312,9 @@
         "updated": null,
         "country": "USA",
         "colors": [],
-        "name": "The Bank Of Marion"
+        "name": "The Bank Of Marion",
+        "website": "https://www.bankofmarionva.com",
+        "logo": "bankofmarionva.svg"
     },
     {
         "routing": "051402220",
@@ -24194,7 +24340,8 @@
         "updated": 1182398400000,
         "country": "USA",
         "colors": [],
-        "name": "Citizens Bank & Trust"
+        "name": "Citizens Bank & Trust",
+        "website": "https://www.cbtva.com"
     },
     {
         "routing": "051402259",
@@ -24220,7 +24367,9 @@
         "updated": 1481259600000,
         "country": "USA",
         "colors": [],
-        "name": "Blue Ridge Bank National Associatio"
+        "name": "Blue Ridge Bank National Associatio",
+        "website": "https://www.mybrb.bank",
+        "logo": "mybrb.svg"
     },
     {
         "routing": "051402482",
@@ -24233,7 +24382,9 @@
         "updated": 1536120000000,
         "country": "USA",
         "colors": [],
-        "name": "Benchmark Community Bank"
+        "name": "Benchmark Community Bank",
+        "website": "https://www.bcbonline.com",
+        "logo": "bcbonline.svg"
     },
     {
         "routing": "051402518",
@@ -24246,7 +24397,9 @@
         "updated": null,
         "country": "USA",
         "colors": [],
-        "name": "Bank Of Clarke County"
+        "name": "Bank Of Clarke County",
+        "website": "https://www.bankofclarke.bank",
+        "logo": "bankofclarke.svg"
     },
     {
         "routing": "051402550",
@@ -24259,7 +24412,9 @@
         "updated": 1351483200000,
         "country": "USA",
         "colors": [],
-        "name": "Bank Of Botetourt"
+        "name": "Bank Of Botetourt",
+        "website": "https://www.bankofbotetourt.com",
+        "logo": "bankofbotetourt.svg"
     },
     {
         "routing": "051402589",
@@ -24272,7 +24427,9 @@
         "updated": null,
         "country": "USA",
         "colors": [],
-        "name": "First Bank"
+        "name": "First Bank",
+        "website": "https://www.fbvirginia.com",
+        "logo": "fbvirginia.svg"
     },
     {
         "routing": "051402974",
@@ -24285,7 +24442,9 @@
         "updated": 1439956800000,
         "country": "USA",
         "colors": [],
-        "name": "Union Bank & Trust"
+        "name": "Union Bank & Trust",
+        "website": "https://www.ubt.com",
+        "logo": "ubt.svg"
     },
     {
         "routing": "051403041",
@@ -24311,7 +24470,9 @@
         "updated": null,
         "country": "USA",
         "colors": [],
-        "name": "The Natl Bank Of Blacksburg"
+        "name": "The Natl Bank Of Blacksburg",
+        "website": "https://nbbank.com",
+        "logo": "nbbank.svg"
     },
     {
         "routing": "051403164",
@@ -24324,7 +24485,9 @@
         "updated": 1424235600000,
         "country": "USA",
         "colors": [],
-        "name": "Union Bank & Trust"
+        "name": "Union Bank & Trust",
+        "website": "https://www.atlanticunionbank.com",
+        "logo": "atlanticunionbank.svg"
     },
     {
         "routing": "051403465",
@@ -24337,7 +24500,9 @@
         "updated": 1439956800000,
         "country": "USA",
         "colors": [],
-        "name": "Union Bank & Trust"
+        "name": "Union Bank & Trust",
+        "website": "https://locations.atlanticunionbank.com",
+        "logo": "atlanticunionbank.svg"
     },
     {
         "routing": "051403588",
@@ -24350,7 +24515,9 @@
         "updated": null,
         "country": "USA",
         "colors": [],
-        "name": "The Bank Of Fincastle"
+        "name": "The Bank Of Fincastle",
+        "website": "https://www.visitroanokeva.com",
+        "logo": "visitroanokeva.svg"
     },
     {
         "routing": "051403672",
@@ -24363,7 +24530,9 @@
         "updated": 1143522000000,
         "country": "USA",
         "colors": [],
-        "name": "Trupoint Bank"
+        "name": "Trupoint Bank",
+        "website": "https://www.trupointbank.com",
+        "logo": "trupointbank.svg"
     },
     {
         "routing": "051403766",
@@ -24389,7 +24558,8 @@
         "updated": null,
         "country": "USA",
         "colors": [],
-        "name": "Chesapeake Bank"
+        "name": "Chesapeake Bank",
+        "website": "https://ches.bank"
     },
     {
         "routing": "051403818",
@@ -24402,7 +24572,9 @@
         "updated": null,
         "country": "USA",
         "colors": [],
-        "name": "Powell Valley National Bank"
+        "name": "Powell Valley National Bank",
+        "website": "https://www.powellvalleybank.com",
+        "logo": "powellvalleybank.svg"
     },
     {
         "routing": "051403850",
@@ -24415,7 +24587,9 @@
         "updated": 1510290000000,
         "country": "USA",
         "colors": [],
-        "name": "Virginia Commonwealth Bank"
+        "name": "Virginia Commonwealth Bank",
+        "website": "https://www.mapquest.com",
+        "logo": "mapquest.svg"
     },
     {
         "routing": "051403931",
@@ -24428,7 +24602,9 @@
         "updated": 1510290000000,
         "country": "USA",
         "colors": [],
-        "name": "Touchstone Bank"
+        "name": "Touchstone Bank",
+        "website": "https://www.touchstone.bank",
+        "logo": "touchstone.svg"
     },
     {
         "routing": "051403957",
@@ -24441,7 +24617,8 @@
         "updated": 1329800400000,
         "country": "USA",
         "colors": [],
-        "name": "Carter Bank And Trust"
+        "name": "Carter Bank And Trust",
+        "website": "https://www.carterbank.com"
     },
     {
         "routing": "051404008",
@@ -24454,7 +24631,9 @@
         "updated": 1464926400000,
         "country": "USA",
         "colors": [],
-        "name": "Southern Bank & Trust"
+        "name": "Southern Bank & Trust",
+        "website": "https://www.southernbank.com",
+        "logo": "southernbank.svg"
     },
     {
         "routing": "051404037",
@@ -24467,7 +24646,9 @@
         "updated": null,
         "country": "USA",
         "colors": [],
-        "name": "Virginia Community Bank"
+        "name": "Virginia Community Bank",
+        "website": "https://www.mapquest.com",
+        "logo": "mapquest.svg"
     },
     {
         "routing": "051404163",
@@ -24480,7 +24661,8 @@
         "updated": 1415336400000,
         "country": "USA",
         "colors": [],
-        "name": "Lee Bank & Trust"
+        "name": "Lee Bank & Trust",
+        "website": "https://www.leebank24.com"
     },
     {
         "routing": "051404260",
@@ -24493,7 +24675,9 @@
         "updated": 1415336400000,
         "country": "USA",
         "colors": [],
-        "name": "Branch Banking & Trust - Virginia"
+        "name": "Branch Banking & Trust - Virginia",
+        "website": "https://www.mapquest.com",
+        "logo": "mapquest.svg"
     },
     {
         "routing": "051404325",
@@ -24506,7 +24690,9 @@
         "updated": 981522000000,
         "country": "USA",
         "colors": [],
-        "name": "Pioneer Bank"
+        "name": "Pioneer Bank",
+        "website": "https://www.pioneerbks.com",
+        "logo": "pioneerbks.svg"
     },
     {
         "routing": "051404419",
@@ -24519,7 +24705,9 @@
         "updated": null,
         "country": "USA",
         "colors": [],
-        "name": "Farmers And Merchants Bank"
+        "name": "Farmers And Merchants Bank",
+        "website": "https://www.fmbankva.com",
+        "logo": "fmbankva.svg"
     },
     {
         "routing": "051404464",
@@ -24545,7 +24733,9 @@
         "updated": 1439956800000,
         "country": "USA",
         "colors": [],
-        "name": "Union Bank & Trust"
+        "name": "Union Bank & Trust",
+        "website": "https://locations.atlanticunionbank.com",
+        "logo": "atlanticunionbank.svg"
     },
     {
         "routing": "051404545",
@@ -24558,7 +24748,9 @@
         "updated": 1388984400000,
         "country": "USA",
         "colors": [],
-        "name": "Farmers And Miners Bank"
+        "name": "Farmers And Miners Bank",
+        "website": "https://www.farmersandminersbank.com",
+        "logo": "farmersandminersbank.svg"
     },
     {
         "routing": "051404642",
@@ -24571,7 +24763,9 @@
         "updated": 927172800000,
         "country": "USA",
         "colors": [],
-        "name": "Bank Of Southside Virginia"
+        "name": "Bank Of Southside Virginia",
+        "website": "https://www.bsvnet.com",
+        "logo": "bsvnet.svg"
     },
     {
         "routing": "051404684",
@@ -24597,7 +24791,9 @@
         "updated": 1172725200000,
         "country": "USA",
         "colors": [],
-        "name": "Peoples Community Bank"
+        "name": "Peoples Community Bank",
+        "website": "https://www.peoplescommunitybank.com",
+        "logo": "peoplescommunitybank.svg"
     },
     {
         "routing": "051404901",
@@ -24610,7 +24806,9 @@
         "updated": 931924800000,
         "country": "USA",
         "colors": [],
-        "name": "Citizens & Farmers Bank"
+        "name": "Citizens & Farmers Bank",
+        "website": "https://www.cffc.com",
+        "logo": "cffc.svg"
     },
     {
         "routing": "051404914",
@@ -24623,7 +24821,9 @@
         "updated": 1246248000000,
         "country": "USA",
         "colors": [],
-        "name": "Highlands Union Bank"
+        "name": "Highlands Union Bank",
+        "website": "https://en.wikipedia.org",
+        "logo": "wikipedia.svg"
     },
     {
         "routing": "051405188",
@@ -24636,7 +24836,9 @@
         "updated": 1527652800000,
         "country": "USA",
         "colors": [],
-        "name": "Union Bank & Trust"
+        "name": "Union Bank & Trust",
+        "website": "https://www.atlanticunionbank.com",
+        "logo": "atlanticunionbank.svg"
     },
     {
         "routing": "051405395",
@@ -24649,7 +24851,9 @@
         "updated": 1516856400000,
         "country": "USA",
         "colors": [],
-        "name": "Farmers & Mer Bank Of Craig"
+        "name": "Farmers & Mer Bank Of Craig",
+        "website": "https://www.fmbankcraig.com",
+        "logo": "fmbankcraig.svg"
     },
     {
         "routing": "051405450",
@@ -24679,7 +24883,8 @@
             "#D03027",
             "#004977"
         ],
-        "name": "Capital One Bank (usa)"
+        "name": "Capital One Bank (usa)",
+        "website": "https://m.yelp.com"
     },
     {
         "routing": "051405528",
@@ -24692,7 +24897,9 @@
         "updated": 1246852800000,
         "country": "USA",
         "colors": [],
-        "name": "The Farmers Bank Of Appomattox"
+        "name": "The Farmers Bank Of Appomattox",
+        "website": "https://www.thefarmersbankva.com",
+        "logo": "thefarmersbankva.svg"
     },
     {
         "routing": "051405670",
@@ -24718,7 +24925,9 @@
         "updated": null,
         "country": "USA",
         "colors": [],
-        "name": "The Old Point Natl Bank Of Phoebus"
+        "name": "The Old Point Natl Bank Of Phoebus",
+        "website": "https://www.oldpoint.com",
+        "logo": "oldpoint.svg"
     },
     {
         "routing": "051406909",
@@ -24731,7 +24940,9 @@
         "updated": 1397102400000,
         "country": "USA",
         "colors": [],
-        "name": "Essex Bank"
+        "name": "Essex Bank",
+        "website": "https://www.bankwithunited.com",
+        "logo": "bankwithunited.svg"
     },
     {
         "routing": "051407296",
@@ -24744,7 +24955,9 @@
         "updated": null,
         "country": "USA",
         "colors": [],
-        "name": "Virginia Bank & Trust"
+        "name": "Virginia Bank & Trust",
+        "website": "https://www.1stnatbk.com",
+        "logo": "1stnatbk.svg"
     },
     {
         "routing": "051408868",
@@ -24757,7 +24970,9 @@
         "updated": null,
         "country": "USA",
         "colors": [],
-        "name": "Virginia National Bank"
+        "name": "Virginia National Bank",
+        "website": "https://www.vnb.com",
+        "logo": "vnb.svg"
     },
     {
         "routing": "051408897",
@@ -24770,7 +24985,9 @@
         "updated": 1501473600000,
         "country": "USA",
         "colors": [],
-        "name": "New Peoples Bank Inc"
+        "name": "New Peoples Bank Inc",
+        "website": "https://www.newpeoples.bank",
+        "logo": "newpeoples.svg"
     },
     {
         "routing": "051408910",
@@ -24783,7 +25000,9 @@
         "updated": 1466740800000,
         "country": "USA",
         "colors": [],
-        "name": "Townebank"
+        "name": "Townebank",
+        "website": "https://www.townebank.com",
+        "logo": "townebank.svg"
     },
     {
         "routing": "051408936",
@@ -24796,7 +25015,9 @@
         "updated": 1439956800000,
         "country": "USA",
         "colors": [],
-        "name": "Union Bank & Trust"
+        "name": "Union Bank & Trust",
+        "website": "https://locations.atlanticunionbank.com",
+        "logo": "atlanticunionbank.svg"
     },
     {
         "routing": "051408949",
@@ -24809,7 +25030,9 @@
         "updated": null,
         "country": "USA",
         "colors": [],
-        "name": "Townebank"
+        "name": "Townebank",
+        "website": "https://www.townebank.com",
+        "logo": "townebank.svg"
     },
     {
         "routing": "051409016",
@@ -24822,7 +25045,9 @@
         "updated": 1453784400000,
         "country": "USA",
         "colors": [],
-        "name": "Bank Of The James"
+        "name": "Bank Of The James",
+        "website": "https://www.bankofthejames.bank",
+        "logo": "bankofthejames.svg"
     },
     {
         "routing": "051409029",
@@ -24848,7 +25073,9 @@
         "updated": 1527220800000,
         "country": "USA",
         "colors": [],
-        "name": "Union Bank & Trust"
+        "name": "Union Bank & Trust",
+        "website": "https://www.atlanticunionbank.com",
+        "logo": "atlanticunionbank.svg"
     },
     {
         "routing": "051409278",
@@ -24861,7 +25088,9 @@
         "updated": 1529035200000,
         "country": "USA",
         "colors": [],
-        "name": "Sonabank"
+        "name": "Sonabank",
+        "website": "https://primisbank.com",
+        "logo": "primisbank.svg"
     },
     {
         "routing": "051409320",
@@ -24874,7 +25103,9 @@
         "updated": 1351483200000,
         "country": "USA",
         "colors": [],
-        "name": "Hometown Bank"
+        "name": "Hometown Bank",
+        "website": "https://roanoke.family",
+        "logo": "roanoke.svg"
     },
     {
         "routing": "051409414",
@@ -24887,7 +25118,8 @@
         "updated": 1426824000000,
         "country": "USA",
         "colors": [],
-        "name": "Old Dominion National Bank"
+        "name": "Old Dominion National Bank",
+        "website": "https://www.odnb.bank"
     },
     {
         "routing": "051409456",
@@ -24900,7 +25132,9 @@
         "updated": 1415336400000,
         "country": "USA",
         "colors": [],
-        "name": "Select Bank"
+        "name": "Select Bank",
+        "website": "https://www.myselectbank.com",
+        "logo": "myselectbank.svg"
     },
     {
         "routing": "051409579",
@@ -24913,7 +25147,8 @@
         "updated": 1229490000000,
         "country": "USA",
         "colors": [],
-        "name": "Virginia Partners Bank"
+        "name": "Virginia Partners Bank",
+        "website": "https://m.yelp.com"
     },
     {
         "routing": "051500562",
@@ -24926,7 +25161,9 @@
         "updated": 1061438400000,
         "country": "USA",
         "colors": [],
-        "name": "Wesbanco Bank Wheeling"
+        "name": "Wesbanco Bank Wheeling",
+        "website": "https://www.wesbanco.com",
+        "logo": "wesbanco.svg"
     },
     {
         "routing": "051500753",
@@ -24939,7 +25176,9 @@
         "updated": 1061438400000,
         "country": "USA",
         "colors": [],
-        "name": "Wesbanco Bank Wheeling"
+        "name": "Wesbanco Bank Wheeling",
+        "website": "https://www.wesbanco.com",
+        "logo": "wesbanco.svg"
     },
     {
         "routing": "051501024",
@@ -24952,7 +25191,9 @@
         "updated": null,
         "country": "USA",
         "colors": [],
-        "name": "Logan Bank & Trust Company"
+        "name": "Logan Bank & Trust Company",
+        "website": "https://www.lbandt.com",
+        "logo": "lbandt.svg"
     },
     {
         "routing": "051501134",
@@ -24965,7 +25206,9 @@
         "updated": null,
         "country": "USA",
         "colors": [],
-        "name": "Davis Trust Company"
+        "name": "Davis Trust Company",
+        "website": "https://www.davistrust.com",
+        "logo": "davistrust.svg"
     },
     {
         "routing": "051501150",
@@ -24978,7 +25221,9 @@
         "updated": 1246334400000,
         "country": "USA",
         "colors": [],
-        "name": "Citizens Bank Of West Virginia Inc"
+        "name": "Citizens Bank Of West Virginia Inc",
+        "website": "https://www.citizenswv.com",
+        "logo": "citizenswv.svg"
     },
     {
         "routing": "051501163",
@@ -24991,7 +25236,9 @@
         "updated": 1351483200000,
         "country": "USA",
         "colors": [],
-        "name": "Community Bank Of Parkersburg"
+        "name": "Community Bank Of Parkersburg",
+        "website": "https://www.communitybankpkbg.com",
+        "logo": "communitybankpkbg.svg"
     },
     {
         "routing": "051501257",
@@ -25004,7 +25251,9 @@
         "updated": 1332388800000,
         "country": "USA",
         "colors": [],
-        "name": "First National Bank Of Williamson"
+        "name": "First National Bank Of Williamson",
+        "website": "https://yourfnbonline.com",
+        "logo": "yourfnbonline.svg"
     },
     {
         "routing": "051501299",
@@ -25017,7 +25266,9 @@
         "updated": 1314158400000,
         "country": "USA",
         "colors": [],
-        "name": "First Community Bank"
+        "name": "First Community Bank",
+        "website": "https://www.firstcommunitybank.com",
+        "logo": "firstcommunitybank.svg"
     },
     {
         "routing": "051501325",
@@ -25043,7 +25294,9 @@
         "updated": null,
         "country": "USA",
         "colors": [],
-        "name": "First Exchange Bank"
+        "name": "First Exchange Bank",
+        "website": "https://www.firstexchangebank.com",
+        "logo": "firstexchangebank.svg"
     },
     {
         "routing": "051501451",
@@ -25056,7 +25309,9 @@
         "updated": null,
         "country": "USA",
         "colors": [],
-        "name": "The Citizens Bank"
+        "name": "The Citizens Bank",
+        "website": "https://www.citizensbankweston.com",
+        "logo": "citizensbankweston.svg"
     },
     {
         "routing": "051501671",
@@ -25069,7 +25324,9 @@
         "updated": 933220800000,
         "country": "USA",
         "colors": [],
-        "name": "Mountain Valley Bank"
+        "name": "Mountain Valley Bank",
+        "website": "https://www.mountainvalleybank.com",
+        "logo": "mountainvalleybank.svg"
     },
     {
         "routing": "051501723",
@@ -25082,7 +25339,9 @@
         "updated": 1355202000000,
         "country": "USA",
         "colors": [],
-        "name": "Mcnb Bank & Trust"
+        "name": "Mcnb Bank & Trust",
+        "website": "https://www.mcnbbanks.com",
+        "logo": "mcnbbanks.svg"
     },
     {
         "routing": "051501765",
@@ -25095,7 +25354,9 @@
         "updated": 1415336400000,
         "country": "USA",
         "colors": [],
-        "name": "The Pleasants County Bank"
+        "name": "The Pleasants County Bank",
+        "website": "https://www.pcbsm.com",
+        "logo": "pcbsm.svg"
     },
     {
         "routing": "051501817",
@@ -25121,7 +25382,9 @@
         "updated": 1516856400000,
         "country": "USA",
         "colors": [],
-        "name": "West Union Bank"
+        "name": "West Union Bank",
+        "website": "https://www.westunionbank.com",
+        "logo": "westunionbank.svg"
     },
     {
         "routing": "051502175",
@@ -25134,7 +25397,9 @@
         "updated": 1164862800000,
         "country": "USA",
         "colors": [],
-        "name": "Cornerstone Bank Inc"
+        "name": "Cornerstone Bank Inc",
+        "website": "https://pitchbook.com",
+        "logo": "pitchbook.svg"
     },
     {
         "routing": "051502201",
@@ -25147,7 +25412,8 @@
         "updated": null,
         "country": "USA",
         "colors": [],
-        "name": "Fayette County National Bank"
+        "name": "Fayette County National Bank",
+        "website": "https://www.fcnbonline.com"
     },
     {
         "routing": "051502395",
@@ -25160,7 +25426,9 @@
         "updated": null,
         "country": "USA",
         "colors": [],
-        "name": "The Bank Of Monroe"
+        "name": "The Bank Of Monroe",
+        "website": "https://www.mybankofmonroe.com",
+        "logo": "mybankofmonroe.svg"
     },
     {
         "routing": "051502421",
@@ -25173,7 +25441,9 @@
         "updated": 1507176000000,
         "country": "USA",
         "colors": [],
-        "name": "Calhoun County Bank Inc"
+        "name": "Calhoun County Bank Inc",
+        "website": "https://www.calhounbanks.com",
+        "logo": "calhounbanks.svg"
     },
     {
         "routing": "051502528",
@@ -25199,7 +25469,9 @@
         "updated": 1129003200000,
         "country": "USA",
         "colors": [],
-        "name": "Clear Mountain Bank"
+        "name": "Clear Mountain Bank",
+        "website": "https://www.clearmountain.bank",
+        "logo": "clearmountain.svg"
     },
     {
         "routing": "051502641",
@@ -25212,7 +25484,9 @@
         "updated": 1499659200000,
         "country": "USA",
         "colors": [],
-        "name": "Clay County Bank Inc"
+        "name": "Clay County Bank Inc",
+        "website": "https://claycounty.bank",
+        "logo": "claycounty.svg"
     },
     {
         "routing": "051502858",
@@ -25225,7 +25499,8 @@
         "updated": null,
         "country": "USA",
         "colors": [],
-        "name": "Putnam County Bank"
+        "name": "Putnam County Bank",
+        "website": "https://www.pcbwv.bank"
     },
     {
         "routing": "051502913",
@@ -25238,7 +25513,8 @@
         "updated": null,
         "country": "USA",
         "colors": [],
-        "name": "The Harrison County Bank"
+        "name": "The Harrison County Bank",
+        "website": "https://www.hcbwv.com"
     },
     {
         "routing": "051503051",
@@ -25264,7 +25540,9 @@
         "updated": 1237348800000,
         "country": "USA",
         "colors": [],
-        "name": "Miners & Merchants Bank"
+        "name": "Miners & Merchants Bank",
+        "website": "https://www.minersandmerchantsbank.com",
+        "logo": "minersandmerchantsbank.svg"
     },
     {
         "routing": "051503145",
@@ -25277,7 +25555,9 @@
         "updated": 1351483200000,
         "country": "USA",
         "colors": [],
-        "name": "The Poca Valley Bank"
+        "name": "The Poca Valley Bank",
+        "website": "https://www.mapquest.com",
+        "logo": "mapquest.svg"
     },
     {
         "routing": "051503323",
@@ -25290,7 +25570,9 @@
         "updated": 1249963200000,
         "country": "USA",
         "colors": [],
-        "name": "First Neighborhood Bank Inc"
+        "name": "First Neighborhood Bank Inc",
+        "website": "https://www.firstneighborhoodbank.com",
+        "logo": "firstneighborhoodbank.svg"
     },
     {
         "routing": "051503394",
@@ -25303,7 +25585,9 @@
         "updated": 1037768400000,
         "country": "USA",
         "colors": [],
-        "name": "Bb&t West Virginia"
+        "name": "Bb&t West Virginia",
+        "website": "https://www.truist.com",
+        "logo": "truist.svg"
     },
     {
         "routing": "051503556",
@@ -25316,7 +25600,8 @@
         "updated": 1214971200000,
         "country": "USA",
         "colors": [],
-        "name": "First Peoples Bank Inc"
+        "name": "First Peoples Bank Inc",
+        "website": "https://firstpeoplesbank.org"
     },
     {
         "routing": "051503909",
@@ -25329,7 +25614,9 @@
         "updated": 1412568000000,
         "country": "USA",
         "colors": [],
-        "name": "Williamstown Bank Inc"
+        "name": "Williamstown Bank Inc",
+        "website": "https://www.williamstownbank.com",
+        "logo": "williamstownbank.svg"
     },
     {
         "routing": "051504254",
@@ -25342,7 +25629,9 @@
         "updated": 1248408000000,
         "country": "USA",
         "colors": [],
-        "name": "Pendleton Community Bank Inc"
+        "name": "Pendleton Community Bank Inc",
+        "website": "https://www.yourbank.bank",
+        "logo": "yourbank.svg"
     },
     {
         "routing": "051504319",
@@ -25355,7 +25644,9 @@
         "updated": 934862400000,
         "country": "USA",
         "colors": [],
-        "name": "Pioneer Community Bank"
+        "name": "Pioneer Community Bank",
+        "website": "https://www.pioneercommunitybank.com",
+        "logo": "pioneercommunitybank.svg"
     },
     {
         "routing": "051504377",
@@ -25368,7 +25659,9 @@
         "updated": 1086667200000,
         "country": "USA",
         "colors": [],
-        "name": "Freedom Bank Inc"
+        "name": "Freedom Bank Inc",
+        "website": "https://www.freedombankwv.com",
+        "logo": "freedombankwv.svg"
     },
     {
         "routing": "051504429",
@@ -25381,7 +25674,9 @@
         "updated": 1315972800000,
         "country": "USA",
         "colors": [],
-        "name": "Whitesville State Bank"
+        "name": "Whitesville State Bank",
+        "website": "https://www.whitesvillesb.com",
+        "logo": "whitesvillesb.svg"
     },
     {
         "routing": "051504571",
@@ -25394,7 +25689,9 @@
         "updated": 1539316800000,
         "country": "USA",
         "colors": [],
-        "name": "Premier Bank Inc"
+        "name": "Premier Bank Inc",
+        "website": "https://www.bloomberg.com",
+        "logo": "bloomberg.svg"
     },
     {
         "routing": "051504597",
@@ -25407,7 +25704,9 @@
         "updated": 1539144000000,
         "country": "USA",
         "colors": [],
-        "name": "Mvb Bank Inc"
+        "name": "Mvb Bank Inc",
+        "website": "https://mvbbanking.com",
+        "logo": "mvbbanking.svg"
     },
     {
         "routing": "051736158",
@@ -25420,7 +25719,9 @@
         "updated": 1450674000000,
         "country": "USA",
         "colors": [],
-        "name": "Treasurydirect"
+        "name": "Treasurydirect",
+        "website": "https://www.treasurydirect.gov",
+        "logo": "treasurydirect.svg"
     },
     {
         "routing": "051900395",
@@ -25433,7 +25734,9 @@
         "updated": 1513746000000,
         "country": "USA",
         "colors": [],
-        "name": "United Bank"
+        "name": "United Bank",
+        "website": "https://locations.bankwithunited.com",
+        "logo": "bankwithunited.svg"
     },
     {
         "routing": "051904524",
@@ -25446,7 +25749,9 @@
         "updated": null,
         "country": "USA",
         "colors": [],
-        "name": "City National Bank Of West Virginia"
+        "name": "City National Bank Of West Virginia",
+        "website": "https://www.bankatcity.com",
+        "logo": "bankatcity.svg"
     },
     {
         "routing": "052000113",
@@ -25459,7 +25764,9 @@
         "updated": 1474948800000,
         "country": "USA",
         "colors": [],
-        "name": "Manufacturers & Traders Trust"
+        "name": "Manufacturers & Traders Trust",
+        "website": "https://www.mtb.com",
+        "logo": "mtb.svg"
     },
     {
         "routing": "052000278",
@@ -25472,7 +25779,9 @@
         "updated": 1540958400000,
         "country": "USA",
         "colors": [],
-        "name": "Baltimore - Frb Richmond"
+        "name": "Baltimore - Frb Richmond",
+        "website": "https://www.richmondfed.org",
+        "logo": "richmondfed.svg"
     },
     {
         "routing": "052001772",
@@ -25485,7 +25794,9 @@
         "updated": null,
         "country": "USA",
         "colors": [],
-        "name": "The Harbor Bank Of Maryland"
+        "name": "The Harbor Bank Of Maryland",
+        "website": "https://www.theharborbank.com",
+        "logo": "theharborbank.svg"
     },
     {
         "routing": "052073519",
@@ -25498,7 +25809,9 @@
         "updated": 1343966400000,
         "country": "USA",
         "colors": [],
-        "name": "Cfg Community Bank"
+        "name": "Cfg Community Bank",
+        "website": "https://www.cfg.bank",
+        "logo": "cfg.svg"
     },
     {
         "routing": "052073564",
@@ -25511,7 +25824,9 @@
         "updated": 1477022400000,
         "country": "USA",
         "colors": [],
-        "name": "M.y. Safra Bank Fsb"
+        "name": "M.y. Safra Bank Fsb",
+        "website": "https://www.mysafra.com",
+        "logo": "mysafra.svg"
     },
     {
         "routing": "052100466",
@@ -25524,7 +25839,9 @@
         "updated": 1414728000000,
         "country": "USA",
         "colors": [],
-        "name": "1880 Bank"
+        "name": "1880 Bank",
+        "website": "https://www.bayvanguard.com",
+        "logo": "bayvanguard.svg"
     },
     {
         "routing": "052100741",
@@ -25537,7 +25854,9 @@
         "updated": 1152244800000,
         "country": "USA",
         "colors": [],
-        "name": "The Peoples Bank"
+        "name": "The Peoples Bank",
+        "website": "https://pbkc.com",
+        "logo": "pbkc.svg"
     },
     {
         "routing": "052100932",
@@ -25550,7 +25869,9 @@
         "updated": 1467691200000,
         "country": "USA",
         "colors": [],
-        "name": "Shore United Bank"
+        "name": "Shore United Bank",
+        "website": "https://www.shoreunitedbank.com",
+        "logo": "shoreunitedbank.svg"
     },
     {
         "routing": "052100987",
@@ -25563,7 +25884,9 @@
         "updated": null,
         "country": "USA",
         "colors": [],
-        "name": "First United Bank & Trust"
+        "name": "First United Bank & Trust",
+        "website": "https://mybank.com",
+        "logo": "mybank.svg"
     },
     {
         "routing": "052101012",
@@ -25576,7 +25899,9 @@
         "updated": 1351483200000,
         "country": "USA",
         "colors": [],
-        "name": "Calvin B Taylor Banking"
+        "name": "Calvin B Taylor Banking",
+        "website": "https://www.taylorbank.com",
+        "logo": "taylorbank.svg"
     },
     {
         "routing": "052101669",
@@ -25589,7 +25914,9 @@
         "updated": null,
         "country": "USA",
         "colors": [],
-        "name": "The Hebron Savings Bank"
+        "name": "The Hebron Savings Bank",
+        "website": "https://www.hebronsavingsbank.com",
+        "logo": "hebronsavingsbank.svg"
     },
     {
         "routing": "052101931",
@@ -25602,7 +25929,9 @@
         "updated": 995428800000,
         "country": "USA",
         "colors": [],
-        "name": "Provident State Bank Inc"
+        "name": "Provident State Bank Inc",
+        "website": "https://www.linkedin.com",
+        "logo": "linkedin.svg"
     },
     {
         "routing": "052101957",
@@ -25615,7 +25944,9 @@
         "updated": 1415336400000,
         "country": "USA",
         "colors": [],
-        "name": "Queenstown Bank Of Maryland"
+        "name": "Queenstown Bank Of Maryland",
+        "website": "https://www.queenstownbank.com",
+        "logo": "queenstownbank.svg"
     },
     {
         "routing": "052102228",
@@ -25628,7 +25959,9 @@
         "updated": null,
         "country": "USA",
         "colors": [],
-        "name": "Chesapeake Bank And Trust Company"
+        "name": "Chesapeake Bank And Trust Company",
+        "website": "https://www.chesapeaketrust.com",
+        "logo": "chesapeaketrust.svg"
     },
     {
         "routing": "052102312",
@@ -25654,7 +25987,9 @@
         "updated": 1499659200000,
         "country": "USA",
         "colors": [],
-        "name": "The Farmers Bank Of Willards"
+        "name": "The Farmers Bank Of Willards",
+        "website": "https://fbwbank.com",
+        "logo": "fbwbank.svg"
     },
     {
         "routing": "052103065",
@@ -25667,7 +26002,8 @@
         "updated": 1287720000000,
         "country": "USA",
         "colors": [],
-        "name": "The Bank Of Delmarva"
+        "name": "The Bank Of Delmarva",
+        "website": "https://m.yelp.com"
     },
     {
         "routing": "052173464",
@@ -25684,7 +26020,8 @@
             "#FEFFFF",
             "#048566"
         ],
-        "name": "M&t Bank"
+        "name": "M&t Bank",
+        "website": "https://locations.mtb.com"
     },
     {
         "routing": "052201925",
@@ -25697,7 +26034,9 @@
         "updated": null,
         "country": "USA",
         "colors": [],
-        "name": "The Bank Of Romney"
+        "name": "The Bank Of Romney",
+        "website": "https://www.bankofromney.net",
+        "logo": "bankofromney.svg"
     },
     {
         "routing": "052201938",
@@ -25710,7 +26049,9 @@
         "updated": 1103691600000,
         "country": "USA",
         "colors": [],
-        "name": "Fnb Bank Inc"
+        "name": "Fnb Bank Inc",
+        "website": "https://www.fnbtoday.com",
+        "logo": "fnbtoday.svg"
     },
     {
         "routing": "052202225",
@@ -25736,7 +26077,9 @@
         "updated": 1499659200000,
         "country": "USA",
         "colors": [],
-        "name": "The Grant County Bank"
+        "name": "The Grant County Bank",
+        "website": "https://www.grantcountybank.com",
+        "logo": "grantcountybank.svg"
     },
     {
         "routing": "052203703",
@@ -25749,7 +26092,9 @@
         "updated": null,
         "country": "USA",
         "colors": [],
-        "name": "Capon Valley Bank"
+        "name": "Capon Valley Bank",
+        "website": "https://www.caponvalleybank.com",
+        "logo": "caponvalleybank.svg"
     },
     {
         "routing": "052204359",
@@ -25762,7 +26107,9 @@
         "updated": 1167368400000,
         "country": "USA",
         "colors": [],
-        "name": "Cnb Bank Inc"
+        "name": "Cnb Bank Inc",
+        "website": "https://www.cnb.bank",
+        "logo": "cnb.svg"
     },
     {
         "routing": "053000196",
@@ -25779,7 +26126,8 @@
             "#E31837",
             "#012169"
         ],
-        "name": "Bank Of America"
+        "name": "Bank Of America",
+        "website": "https://locators.bankofamerica.com"
     },
     {
         "routing": "053000206",
@@ -25805,7 +26153,9 @@
         "updated": 1524196800000,
         "country": "USA",
         "colors": [],
-        "name": "South State Bank - Park"
+        "name": "South State Bank - Park",
+        "website": "https://www.southstatebank.com",
+        "logo": "southstatebank.svg"
     },
     {
         "routing": "053100300",
@@ -25818,7 +26168,9 @@
         "updated": 1503028800000,
         "country": "USA",
         "colors": [],
-        "name": "First-citizens Bank & Trust"
+        "name": "First-citizens Bank & Trust",
+        "website": "https://locations.firstcitizens.com",
+        "logo": "firstcitizens.svg"
     },
     {
         "routing": "053100452",
@@ -25831,7 +26183,9 @@
         "updated": null,
         "country": "USA",
         "colors": [],
-        "name": "Mechanics & Farmers Bank"
+        "name": "Mechanics & Farmers Bank",
+        "website": "https://www.mfbonline.com",
+        "logo": "mfbonline.svg"
     },
     {
         "routing": "053101121",
@@ -25857,7 +26211,9 @@
         "updated": null,
         "country": "USA",
         "colors": [],
-        "name": "Southern Bank & Trust"
+        "name": "Southern Bank & Trust",
+        "website": "https://www.southernbank.com",
+        "logo": "southernbank.svg"
     },
     {
         "routing": "053103585",
@@ -25870,7 +26226,9 @@
         "updated": 1280462400000,
         "country": "USA",
         "colors": [],
-        "name": "Fidelity Bank"
+        "name": "Fidelity Bank",
+        "website": "https://www.fidelitybanknc.com",
+        "logo": "fidelitybanknc.svg"
     },
     {
         "routing": "053103640",
@@ -25883,7 +26241,9 @@
         "updated": 1178251200000,
         "country": "USA",
         "colors": [],
-        "name": "Farmers & Merchants Bank"
+        "name": "Farmers & Merchants Bank",
+        "website": "https://www.fmbnc.com",
+        "logo": "fmbnc.svg"
     },
     {
         "routing": "053103682",
@@ -25896,7 +26256,9 @@
         "updated": null,
         "country": "USA",
         "colors": [],
-        "name": "Lumbee Guaranty Bank"
+        "name": "Lumbee Guaranty Bank",
+        "website": "https://www.lumbeeguarantybank.com",
+        "logo": "lumbeeguarantybank.svg"
     },
     {
         "routing": "053104568",
@@ -25909,7 +26271,9 @@
         "updated": 1504843200000,
         "country": "USA",
         "colors": [],
-        "name": "First Bank"
+        "name": "First Bank",
+        "website": "https://localfirstbank.com",
+        "logo": "localfirstbank.svg"
     },
     {
         "routing": "053104869",

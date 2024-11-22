@@ -1,0 +1,15 @@
+{
+    "routing": "043404443",
+    "short": "UNION SISTERSVILLE",
+    "long": "UNION BANK INC.",
+    "state": "WV",
+    "city": "SISTERSVILLE",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1280289600000,
+    "country": "USA",
+    "colors": [],
+    "name": "Union Bank Inc",
+    "website": "https://www.hometownbanc.bank",
+    "logo": "hometownbanc.svg"
+}

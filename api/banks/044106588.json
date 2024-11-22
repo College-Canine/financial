@@ -1,0 +1,15 @@
+{
+    "routing": "044106588",
+    "short": "RICHWOOD BANKING",
+    "long": "THE RICHWOOD BANKING COMPANY",
+    "state": "OH",
+    "city": "RICHWOOD",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [],
+    "name": "The Richwood Banking Company",
+    "website": "https://richwoodbank.com",
+    "logo": "richwoodbank.svg"
+}

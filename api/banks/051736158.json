@@ -1,0 +1,15 @@
+{
+    "routing": "051736158",
+    "short": "TREASURYDIRECT",
+    "long": "TREASURYDIRECT",
+    "state": "DC",
+    "city": "WASHINGTON",
+    "transfer": false,
+    "settlement": true,
+    "updated": 1450674000000,
+    "country": "USA",
+    "colors": [],
+    "name": "Treasurydirect",
+    "website": "https://www.treasurydirect.gov",
+    "logo": "treasurydirect.svg"
+}

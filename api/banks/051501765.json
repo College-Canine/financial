@@ -1,0 +1,15 @@
+{
+    "routing": "051501765",
+    "short": "PLEASANTS ST MARYS",
+    "long": "THE PLEASANTS COUNTY BANK",
+    "state": "WV",
+    "city": "SAINT MARYS",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1415336400000,
+    "country": "USA",
+    "colors": [],
+    "name": "The Pleasants County Bank",
+    "website": "https://www.pcbsm.com",
+    "logo": "pcbsm.svg"
+}

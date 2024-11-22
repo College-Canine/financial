@@ -1,0 +1,15 @@
+{
+    "routing": "051402974",
+    "short": "RNB UNION",
+    "long": "UNION BANK & TRUST",
+    "state": "VA",
+    "city": "WASHINGTON",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1439956800000,
+    "country": "USA",
+    "colors": [],
+    "name": "Union Bank & Trust",
+    "website": "https://www.ubt.com",
+    "logo": "ubt.svg"
+}

@@ -1,0 +1,15 @@
+{
+    "routing": "051504254",
+    "short": "PENDLETON COMM BK",
+    "long": "PENDLETON COMMUNITY BANK, INC.",
+    "state": "WV",
+    "city": "FRANKLIN",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1248408000000,
+    "country": "USA",
+    "colors": [],
+    "name": "Pendleton Community Bank Inc",
+    "website": "https://www.yourbank.bank",
+    "logo": "yourbank.svg"
+}

@@ -1,0 +1,15 @@
+{
+    "routing": "052100987",
+    "short": "FIR UNITED OAKLAND",
+    "long": "FIRST UNITED BK & TR",
+    "state": "MD",
+    "city": "OAKLAND",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [],
+    "name": "First United Bank & Trust",
+    "website": "https://mybank.com",
+    "logo": "mybank.svg"
+}

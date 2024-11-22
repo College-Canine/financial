@@ -1,0 +1,15 @@
+{
+    "routing": "051401153",
+    "short": "GRUNDY NATL",
+    "long": "GRUNDY NATIONAL BANK",
+    "state": "VA",
+    "city": "GRUNDY",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [],
+    "name": "Grundy National Bank",
+    "website": "https://mylegacybank.net",
+    "logo": "mylegacybank.svg"
+}

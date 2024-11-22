@@ -1,0 +1,15 @@
+{
+    "routing": "051406909",
+    "short": "BK ESSEX TAPHANOCK",
+    "long": "ESSEX BANK",
+    "state": "VA",
+    "city": "RICHMOND",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1397102400000,
+    "country": "USA",
+    "colors": [],
+    "name": "Essex Bank",
+    "website": "https://www.bankwithunited.com",
+    "logo": "bankwithunited.svg"
+}

@@ -1,0 +1,15 @@
+{
+    "routing": "051408949",
+    "short": "TOWNEBANK PORTS VA",
+    "long": "TOWNEBANK",
+    "state": "VA",
+    "city": "PORTSMOUTH",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [],
+    "name": "Townebank",
+    "website": "https://www.townebank.com",
+    "logo": "townebank.svg"
+}

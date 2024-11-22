@@ -1,0 +1,15 @@
+{
+    "routing": "051404037",
+    "short": "VA COMM LOUISA",
+    "long": "VIRGINIA COMMUNITY BANK",
+    "state": "VA",
+    "city": "LOUISA",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [],
+    "name": "Virginia Community Bank",
+    "website": "https://www.mapquest.com",
+    "logo": "mapquest.svg"
+}

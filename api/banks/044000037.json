@@ -1,0 +1,18 @@
+{
+    "routing": "044000037",
+    "short": "JPMCHASE OHIO",
+    "long": "JPMORGAN CHASE BANK, NA",
+    "logo": "chase.svg",
+    "state": "OH",
+    "city": "COLUMBUS",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1415336400000,
+    "country": "USA",
+    "colors": [
+        "#004FC2",
+        "#FFFFFF"
+    ],
+    "name": "JP-Morgan Chase Bank",
+    "website": "https://locator.chase.com"
+}

@@ -1,0 +1,15 @@
+{
+    "routing": "053103682",
+    "short": "LUMBEE GUAR BK PEM",
+    "long": "LUMBEE GUARANTY BANK",
+    "state": "NC",
+    "city": "PEMBROKE",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [],
+    "name": "Lumbee Guaranty Bank",
+    "website": "https://www.lumbeeguarantybank.com",
+    "logo": "lumbeeguarantybank.svg"
+}

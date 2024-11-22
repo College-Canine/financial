@@ -1,0 +1,15 @@
+{
+    "routing": "051401027",
+    "short": "AMER NATL DANVILLE",
+    "long": "AMERICAN NATL BK & TR CO",
+    "state": "VA",
+    "city": "DANVILLE",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1422853200000,
+    "country": "USA",
+    "colors": [],
+    "name": "American Natl Bank & Trust",
+    "website": "https://bank.amnb.com",
+    "logo": "amnb.svg"
+}

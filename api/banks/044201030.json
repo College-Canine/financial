@@ -1,0 +1,15 @@
+{
+    "routing": "044201030",
+    "short": "HOCKING ATHENS",
+    "long": "THE HOCKING VALLEY BANK",
+    "state": "OH",
+    "city": "ATHENS",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1381464000000,
+    "country": "USA",
+    "colors": [],
+    "name": "The Hocking Valley Bank",
+    "website": "https://www.hvbonline.com",
+    "logo": "hvbonline.svg"
+}

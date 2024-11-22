@@ -1,0 +1,15 @@
+{
+    "routing": "051408868",
+    "short": "VA NB CHARLOTTESVL",
+    "long": "VIRGINIA NATIONAL BANK",
+    "state": "VA",
+    "city": "CHARLOTTESVILLE",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [],
+    "name": "Virginia National Bank",
+    "website": "https://www.vnb.com",
+    "logo": "vnb.svg"
+}

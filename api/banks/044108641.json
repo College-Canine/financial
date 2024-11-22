@@ -1,0 +1,15 @@
+{
+    "routing": "044108641",
+    "short": "HUNT SERV COLUMBUS",
+    "long": "THE HUNTINGTON NATIONAL BANK",
+    "state": "OH",
+    "city": "COLUMBUS",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1061438400000,
+    "country": "USA",
+    "colors": [],
+    "name": "The Huntington National Bank",
+    "website": "https://www.huntington.com",
+    "logo": "huntington.svg"
+}

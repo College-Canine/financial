@@ -1,0 +1,15 @@
+{
+    "routing": "031918569",
+    "short": "LINKBANK",
+    "long": "LINKBANK",
+    "state": "PA",
+    "city": "WEST CHESTER",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1543813200000,
+    "country": "USA",
+    "colors": [],
+    "name": "Linkbank",
+    "website": "https://www.linkbank.com",
+    "logo": "linkbank.svg"
+}

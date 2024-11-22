@@ -1,0 +1,15 @@
+{
+    "routing": "051402372",
+    "short": "BLUE RIDGE BK NA",
+    "long": "BLUE RIDGE BANK, NATIONAL ASSOCIATIO",
+    "state": "VA",
+    "city": "MARTINSVILLE",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1481259600000,
+    "country": "USA",
+    "colors": [],
+    "name": "Blue Ridge Bank National Associatio",
+    "website": "https://www.mybrb.bank",
+    "logo": "mybrb.svg"
+}

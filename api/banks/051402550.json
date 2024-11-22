@@ -1,0 +1,15 @@
+{
+    "routing": "051402550",
+    "short": "BK BOTETOURT VA",
+    "long": "BANK OF BOTETOURT",
+    "state": "VA",
+    "city": "BUCHANAN",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1351483200000,
+    "country": "USA",
+    "colors": [],
+    "name": "Bank Of Botetourt",
+    "website": "https://www.bankofbotetourt.com",
+    "logo": "bankofbotetourt.svg"
+}

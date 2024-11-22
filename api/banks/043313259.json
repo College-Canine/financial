@@ -1,0 +1,15 @@
+{
+    "routing": "043313259",
+    "short": "MERCER ST SANDY LK",
+    "long": "MERCER COUNTY STATE BANK",
+    "state": "PA",
+    "city": "SANDY LAKE",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [],
+    "name": "Mercer County State Bank",
+    "website": "https://www.mcsbank.bank",
+    "logo": "mcsbank.svg"
+}

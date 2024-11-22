@@ -1,0 +1,15 @@
+{
+    "routing": "051501354",
+    "short": "FIR EXCH MANNINGTN",
+    "long": "FIRST EXCHANGE BANK",
+    "state": "WV",
+    "city": "MANNINGTON",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [],
+    "name": "First Exchange Bank",
+    "website": "https://www.firstexchangebank.com",
+    "logo": "firstexchangebank.svg"
+}

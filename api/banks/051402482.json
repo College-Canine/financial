@@ -1,0 +1,15 @@
+{
+    "routing": "051402482",
+    "short": "BENCHMK CB KENBRDG",
+    "long": "BENCHMARK COMMUNITY BANK",
+    "state": "VA",
+    "city": "KENBRIDGE",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1536120000000,
+    "country": "USA",
+    "colors": [],
+    "name": "Benchmark Community Bank",
+    "website": "https://www.bcbonline.com",
+    "logo": "bcbonline.svg"
+}

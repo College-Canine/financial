@@ -1,0 +1,15 @@
+{
+    "routing": "052101012",
+    "short": "CALVIN BKG BERLIN",
+    "long": "CALVIN B TAYLOR BANKING CO",
+    "state": "MD",
+    "city": "BERLIN",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1351483200000,
+    "country": "USA",
+    "colors": [],
+    "name": "Calvin B Taylor Banking",
+    "website": "https://www.taylorbank.com",
+    "logo": "taylorbank.svg"
+}

@@ -1,0 +1,15 @@
+{
+    "routing": "051401043",
+    "short": "MOVEMENT BK",
+    "long": "MOVEMENT BANK",
+    "state": "VA",
+    "city": "DANVILLE",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1501041600000,
+    "country": "USA",
+    "colors": [],
+    "name": "Movement Bank",
+    "website": "https://www.movementbank.com",
+    "logo": "movementbank.svg"
+}

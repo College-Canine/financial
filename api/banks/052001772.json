@@ -1,0 +1,15 @@
+{
+    "routing": "052001772",
+    "short": "HARBOR BK BALT",
+    "long": "THE HARBOR BANK OF MARYLAND",
+    "state": "MD",
+    "city": "BALTIMORE",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [],
+    "name": "The Harbor Bank Of Maryland",
+    "website": "https://www.theharborbank.com",
+    "logo": "theharborbank.svg"
+}

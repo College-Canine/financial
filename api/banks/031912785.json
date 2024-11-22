@@ -1,0 +1,15 @@
+{
+    "routing": "031912785",
+    "short": "FIRST NEWTOWN",
+    "long": "FIRST NATIONAL BANK & TRUST COMPANY",
+    "state": "PA",
+    "city": "NEWTOWN",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1268024400000,
+    "country": "USA",
+    "colors": [],
+    "name": "First National Bank & Trust Company",
+    "website": "https://www.fnbn.com",
+    "logo": "fnbn.svg"
+}

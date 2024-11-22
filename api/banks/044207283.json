@@ -1,0 +1,15 @@
+{
+    "routing": "044207283",
+    "short": "OAK HILL BANKS",
+    "long": "WESBANCO BANK, INC.",
+    "state": "OH",
+    "city": "JACKSON",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1482210000000,
+    "country": "USA",
+    "colors": [],
+    "name": "Wesbanco Bank Inc",
+    "website": "https://www.wesbanco.com",
+    "logo": "wesbanco.svg"
+}

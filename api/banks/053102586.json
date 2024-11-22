@@ -1,0 +1,15 @@
+{
+    "routing": "053102586",
+    "short": "SOUTHERN MT OLIVE",
+    "long": "SOUTHERN BANK & TRUST CO",
+    "state": "NC",
+    "city": "MOUNT OLIVE",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [],
+    "name": "Southern Bank & Trust",
+    "website": "https://www.southernbank.com",
+    "logo": "southernbank.svg"
+}

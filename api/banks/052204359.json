@@ -1,0 +1,15 @@
+{
+    "routing": "052204359",
+    "short": "CNB BANK, INC",
+    "long": "CNB BANK, INC",
+    "state": "WV",
+    "city": "BERKELEY SPRINGS",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1167368400000,
+    "country": "USA",
+    "colors": [],
+    "name": "Cnb Bank Inc",
+    "website": "https://www.cnb.bank",
+    "logo": "cnb.svg"
+}

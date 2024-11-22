@@ -1,0 +1,15 @@
+{
+    "routing": "044109297",
+    "short": "N VALLEY CORNING",
+    "long": "NORTH VALLEY BANK",
+    "state": "OH",
+    "city": "ZANESVILLE",
+    "transfer": false,
+    "settlement": true,
+    "updated": 1156132800000,
+    "country": "USA",
+    "colors": [],
+    "name": "North Valley Bank",
+    "website": "https://www.nvboh.bank",
+    "logo": "nvboh.svg"
+}

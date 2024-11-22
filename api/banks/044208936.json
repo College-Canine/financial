@@ -1,0 +1,15 @@
+{
+    "routing": "044208936",
+    "short": "CITIZENS BEVERLY",
+    "long": "THE CITIZENS BANK COMPANY",
+    "state": "OH",
+    "city": "BEVERLY",
+    "transfer": true,
+    "settlement": false,
+    "updated": null,
+    "country": "USA",
+    "colors": [],
+    "name": "The Citizens Bank Company",
+    "website": "https://www.thecitizens.com",
+    "logo": "thecitizens.svg"
+}

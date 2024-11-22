@@ -1,0 +1,15 @@
+{
+    "routing": "044109336",
+    "short": "HEARTLAND CROTON",
+    "long": "HEARTLAND BANK",
+    "state": "OH",
+    "city": "GAHANNA",
+    "transfer": true,
+    "settlement": true,
+    "updated": 951368400000,
+    "country": "USA",
+    "colors": [],
+    "name": "Heartland Bank",
+    "website": "https://www.heartland.bank",
+    "logo": "heartland.svg"
+}

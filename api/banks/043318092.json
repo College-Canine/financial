@@ -1,0 +1,15 @@
+{
+    "routing": "043318092",
+    "short": "FNB OF PA",
+    "long": "FIRST NATIONAL BANK OF PENNSYLVANIA",
+    "state": "PA",
+    "city": "HERMITAGE",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1352178000000,
+    "country": "USA",
+    "colors": [],
+    "name": "First National Bank Of Pennsylvania",
+    "website": "https://locations.fnb-online.com",
+    "logo": "fnb-online.svg"
+}

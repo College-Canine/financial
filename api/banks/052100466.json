@@ -1,0 +1,15 @@
+{
+    "routing": "052100466",
+    "short": "1880 BK",
+    "long": "1880 BANK",
+    "state": "MD",
+    "city": "CAMBRIDGE",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1414728000000,
+    "country": "USA",
+    "colors": [],
+    "name": "1880 Bank",
+    "website": "https://www.bayvanguard.com",
+    "logo": "bayvanguard.svg"
+}

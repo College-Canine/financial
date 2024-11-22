@@ -1,0 +1,15 @@
+{
+    "routing": "044002909",
+    "short": "FIRST CITY BK COL",
+    "long": "FIRST CITY BANK",
+    "state": "OH",
+    "city": "COLUMBUS",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [],
+    "name": "First City Bank",
+    "website": "https://www.linkedin.com",
+    "logo": "linkedin.svg"
+}

@@ -1,0 +1,15 @@
+{
+    "routing": "052203703",
+    "short": "CAP VAL WARDENSVLE",
+    "long": "CAPON VALLEY BANK",
+    "state": "WV",
+    "city": "WARDENSVILLE",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [],
+    "name": "Capon Valley Bank",
+    "website": "https://www.caponvalleybank.com",
+    "logo": "caponvalleybank.svg"
+}

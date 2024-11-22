@@ -1,0 +1,15 @@
+{
+    "routing": "051501150",
+    "short": "CITZ BK OF WV INC",
+    "long": "CITIZENS BANK OF WEST VIRGINIA INC.",
+    "state": "WV",
+    "city": "ELKINS",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1246334400000,
+    "country": "USA",
+    "colors": [],
+    "name": "Citizens Bank Of West Virginia Inc",
+    "website": "https://www.citizenswv.com",
+    "logo": "citizenswv.svg"
+}

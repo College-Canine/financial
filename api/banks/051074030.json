@@ -1,0 +1,15 @@
+{
+    "routing": "051074030",
+    "short": "FIRST MARKET BANK",
+    "long": "UNION BANK & TRUST",
+    "state": "VA",
+    "city": "RUTHER GLEN",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1439870400000,
+    "country": "USA",
+    "colors": [],
+    "name": "Union Bank & Trust",
+    "website": "https://locations.atlanticunionbank.com",
+    "logo": "atlanticunionbank.svg"
+}

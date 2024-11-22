@@ -1,0 +1,15 @@
+{
+    "routing": "051000033",
+    "short": "FRB RICH",
+    "long": "FEDERAL RESERVE BANK OF RICHMOND",
+    "state": "VA",
+    "city": "RICHMOND",
+    "transfer": true,
+    "settlement": true,
+    "updated": 931838400000,
+    "country": "USA",
+    "colors": [],
+    "name": "Federal Reserve Bank Of Richmond",
+    "website": "https://www.richmondfed.org",
+    "logo": "richmondfed.svg"
+}

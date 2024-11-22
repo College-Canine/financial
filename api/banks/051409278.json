@@ -1,0 +1,15 @@
+{
+    "routing": "051409278",
+    "short": "SONABANK VA",
+    "long": "SONABANK",
+    "state": "VA",
+    "city": "GLEN ALLEN",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1529035200000,
+    "country": "USA",
+    "colors": [],
+    "name": "Sonabank",
+    "website": "https://primisbank.com",
+    "logo": "primisbank.svg"
+}

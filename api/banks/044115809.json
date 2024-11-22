@@ -1,0 +1,19 @@
+{
+    "routing": "044115809",
+    "short": "WOODFOREST NB",
+    "long": "WOODFOREST NATIONAL BANK",
+    "logo": "woodforest.svg",
+    "state": "TX",
+    "city": "THE WOODLANDS",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1155700800000,
+    "country": "USA",
+    "colors": [
+        "#010101",
+        "#55A939",
+        "#FFFFFF"
+    ],
+    "name": "Woodforest National Bank",
+    "website": "https://www.woodforest.com"
+}

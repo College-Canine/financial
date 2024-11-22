@@ -1,0 +1,15 @@
+{
+    "routing": "031312233",
+    "short": "FIRST BK OF LILLY",
+    "long": "FIRST BANK OF LILLY",
+    "state": "PA",
+    "city": "LILLY",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1516683600000,
+    "country": "USA",
+    "colors": [],
+    "name": "First Bank Of Lilly",
+    "website": "https://www.somersettrust.com",
+    "logo": "somersettrust.svg"
+}

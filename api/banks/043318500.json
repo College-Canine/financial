@@ -1,0 +1,15 @@
+{
+    "routing": "043318500",
+    "short": "ENTERPRISE ALLISON",
+    "long": "ENTERPRISE BANK",
+    "state": "PA",
+    "city": "ALLISON PARK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 931406400000,
+    "country": "USA",
+    "colors": [],
+    "name": "Enterprise Bank",
+    "website": "https://www.enterprisebankpgh.com",
+    "logo": "enterprisebankpgh.svg"
+}

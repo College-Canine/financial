@@ -1,0 +1,15 @@
+{
+    "routing": "051403164",
+    "short": "UNION BANK & TRUST",
+    "long": "UNION BANK & TRUST",
+    "state": "VA",
+    "city": "RICHMOND",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1424235600000,
+    "country": "USA",
+    "colors": [],
+    "name": "Union Bank & Trust",
+    "website": "https://www.atlanticunionbank.com",
+    "logo": "atlanticunionbank.svg"
+}

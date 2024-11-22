@@ -1,0 +1,15 @@
+{
+    "routing": "042206422",
+    "short": "FIRST BLANCHESTER",
+    "long": "FIRST NATIONAL BANK OF BLANCHESTER",
+    "state": "OH",
+    "city": "BLANCHESTER",
+    "transfer": false,
+    "settlement": true,
+    "updated": 1533096000000,
+    "country": "USA",
+    "colors": [],
+    "name": "First National Bank Of Blanchester",
+    "website": "https://www.fnbblanchester.com",
+    "logo": "fnbblanchester.svg"
+}

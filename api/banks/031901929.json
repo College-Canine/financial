@@ -1,0 +1,15 @@
+{
+    "routing": "031901929",
+    "short": "WILM TR FSB",
+    "long": "WILMINGTON TRUST FSB",
+    "state": "PA",
+    "city": "VILLANOVA",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1415336400000,
+    "country": "USA",
+    "colors": [],
+    "name": "Wilmington Trust Fsb",
+    "website": "https://www.mapquest.com",
+    "logo": "mapquest.svg"
+}

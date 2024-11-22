@@ -1,0 +1,15 @@
+{
+    "routing": "043312373",
+    "short": "MARION CENTER BANK",
+    "long": "MARION CENTER BANK",
+    "state": "PA",
+    "city": "MARION CENTER",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1116216000000,
+    "country": "USA",
+    "colors": [],
+    "name": "Marion Center Bank",
+    "website": "https://www.marioncenterbank.com",
+    "logo": "marioncenterbank.svg"
+}

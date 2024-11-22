@@ -1,0 +1,15 @@
+{
+    "routing": "051502599",
+    "short": "CLEAR MOUNTAIN BK",
+    "long": "CLEAR MOUNTAIN BANK",
+    "state": "WV",
+    "city": "BRUCETON MILLS",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1129003200000,
+    "country": "USA",
+    "colors": [],
+    "name": "Clear Mountain Bank",
+    "website": "https://www.clearmountain.bank",
+    "logo": "clearmountain.svg"
+}

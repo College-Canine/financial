@@ -1,0 +1,15 @@
+{
+    "routing": "051402589",
+    "short": "FIRST STRASBURG",
+    "long": "FIRST BANK",
+    "state": "VA",
+    "city": "STRASBURG",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [],
+    "name": "First Bank",
+    "website": "https://www.fbvirginia.com",
+    "logo": "fbvirginia.svg"
+}

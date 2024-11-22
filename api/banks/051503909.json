@@ -1,0 +1,15 @@
+{
+    "routing": "051503909",
+    "short": "WILLIAMSTOWN  BK,",
+    "long": "WILLIAMSTOWN BANK, INC",
+    "state": "WV",
+    "city": "WILLIAMSTOWN",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1412568000000,
+    "country": "USA",
+    "colors": [],
+    "name": "Williamstown Bank Inc",
+    "website": "https://www.williamstownbank.com",
+    "logo": "williamstownbank.svg"
+}

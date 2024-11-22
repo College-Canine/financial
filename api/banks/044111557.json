@@ -1,0 +1,15 @@
+{
+    "routing": "044111557",
+    "short": "COMMODORE BANK",
+    "long": "COMMODORE BANK",
+    "state": "OH",
+    "city": "SOMERSET",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1052884800000,
+    "country": "USA",
+    "colors": [],
+    "name": "Commodore Bank",
+    "website": "https://www.nvboh.bank",
+    "logo": "nvboh.svg"
+}

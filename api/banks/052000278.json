@@ -1,0 +1,15 @@
+{
+    "routing": "052000278",
+    "short": "FRB BALT",
+    "long": "BALTIMORE - FRB RICHMOND",
+    "state": "MD",
+    "city": "BALTIMORE",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1540958400000,
+    "country": "USA",
+    "colors": [],
+    "name": "Baltimore - Frb Richmond",
+    "website": "https://www.richmondfed.org",
+    "logo": "richmondfed.svg"
+}

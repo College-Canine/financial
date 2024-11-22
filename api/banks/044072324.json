@@ -1,0 +1,15 @@
+{
+    "routing": "044072324",
+    "short": "AXOS BANK",
+    "long": "AXOS BANK",
+    "state": "CA",
+    "city": "SAN DIEGO",
+    "transfer": false,
+    "settlement": true,
+    "updated": 1542603600000,
+    "country": "USA",
+    "colors": [],
+    "name": "Axos Bank",
+    "website": "https://www.axosbank.com",
+    "logo": "axosbank.svg"
+}

@@ -1,0 +1,15 @@
+{
+    "routing": "044105576",
+    "short": "THE COMMUNITY BANK",
+    "long": "THE COMMUNITY BANK",
+    "state": "OH",
+    "city": "ZANESVILLE",
+    "transfer": false,
+    "settlement": true,
+    "updated": 1243483200000,
+    "country": "USA",
+    "colors": [],
+    "name": "The Community Bank",
+    "website": "https://www.thecombank.com",
+    "logo": "thecombank.svg"
+}

@@ -1,0 +1,15 @@
+{
+    "routing": "052100932",
+    "short": "SHORE UNITED BANK",
+    "long": "SHORE UNITED BANK",
+    "state": "MD",
+    "city": "EASTON",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1467691200000,
+    "country": "USA",
+    "colors": [],
+    "name": "Shore United Bank",
+    "website": "https://www.shoreunitedbank.com",
+    "logo": "shoreunitedbank.svg"
+}

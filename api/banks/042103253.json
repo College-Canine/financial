@@ -1,0 +1,15 @@
+{
+    "routing": "042103253",
+    "short": "CITZ PAINTSVILLE",
+    "long": "CITIZENS BANK OF KENTUCKY, INC.",
+    "state": "KY",
+    "city": "PAINTSVILLE",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1467259200000,
+    "country": "USA",
+    "colors": [],
+    "name": "Citizens Bank Of Kentucky Inc",
+    "website": "https://www.wercitizens.bank",
+    "logo": "wercitizens.svg"
+}

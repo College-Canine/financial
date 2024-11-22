@@ -1,0 +1,15 @@
+{
+    "routing": "053104568",
+    "short": "FIRST BANK NC",
+    "long": "FIRST BANK",
+    "state": "NC",
+    "city": "SOUTHERN PINES",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1504843200000,
+    "country": "USA",
+    "colors": [],
+    "name": "First Bank",
+    "website": "https://localfirstbank.com",
+    "logo": "localfirstbank.svg"
+}

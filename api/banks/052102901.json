@@ -1,0 +1,15 @@
+{
+    "routing": "052102901",
+    "short": "FARMERS WILLARDS",
+    "long": "THE FARMERS BANK OF WILLARDS",
+    "state": "MD",
+    "city": "WILLARDS",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1499659200000,
+    "country": "USA",
+    "colors": [],
+    "name": "The Farmers Bank Of Willards",
+    "website": "https://fbwbank.com",
+    "logo": "fbwbank.svg"
+}

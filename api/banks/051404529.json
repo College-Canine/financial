@@ -1,0 +1,15 @@
+{
+    "routing": "051404529",
+    "short": "NNSB UNION",
+    "long": "UNION BANK & TRUST",
+    "state": "VA",
+    "city": "WARSAW",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1439956800000,
+    "country": "USA",
+    "colors": [],
+    "name": "Union Bank & Trust",
+    "website": "https://locations.atlanticunionbank.com",
+    "logo": "atlanticunionbank.svg"
+}

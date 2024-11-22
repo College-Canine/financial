@@ -1,0 +1,15 @@
+{
+    "routing": "052201925",
+    "short": "BANK OF ROMNEY",
+    "long": "THE BANK OF ROMNEY",
+    "state": "WV",
+    "city": "ROMNEY",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [],
+    "name": "The Bank Of Romney",
+    "website": "https://www.bankofromney.net",
+    "logo": "bankofromney.svg"
+}

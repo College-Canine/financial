@@ -1,0 +1,15 @@
+{
+    "routing": "051409016",
+    "short": "BANK OF THE JAMES",
+    "long": "BANK OF THE JAMES",
+    "state": "VA",
+    "city": "LYNCHBURG",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1453784400000,
+    "country": "USA",
+    "colors": [],
+    "name": "Bank Of The James",
+    "website": "https://www.bankofthejames.bank",
+    "logo": "bankofthejames.svg"
+}

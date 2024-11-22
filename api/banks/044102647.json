@@ -1,0 +1,15 @@
+{
+    "routing": "044102647",
+    "short": "STANDING LANCASTER",
+    "long": "STANDING STONE BANK",
+    "state": "OH",
+    "city": "LANCASTER",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1420002000000,
+    "country": "USA",
+    "colors": [],
+    "name": "Standing Stone Bank",
+    "website": "https://www.standingstonebank.com",
+    "logo": "standingstonebank.svg"
+}

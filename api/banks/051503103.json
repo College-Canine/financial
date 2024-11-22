@@ -1,0 +1,15 @@
+{
+    "routing": "051503103",
+    "short": "MM BK THOMAS WVA",
+    "long": "MINERS & MERCHANTS BANK",
+    "state": "WV",
+    "city": "THOMAS",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1237348800000,
+    "country": "USA",
+    "colors": [],
+    "name": "Miners & Merchants Bank",
+    "website": "https://www.minersandmerchantsbank.com",
+    "logo": "minersandmerchantsbank.svg"
+}

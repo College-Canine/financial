@@ -1,0 +1,15 @@
+{
+    "routing": "052073519",
+    "short": "CFG COMMUNITY BK",
+    "long": "CFG COMMUNITY BANK",
+    "state": "MD",
+    "city": "BALTIMORE",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1343966400000,
+    "country": "USA",
+    "colors": [],
+    "name": "Cfg Community Bank",
+    "website": "https://www.cfg.bank",
+    "logo": "cfg.svg"
+}

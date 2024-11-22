@@ -1,0 +1,15 @@
+{
+    "routing": "052201938",
+    "short": "FNB BANK, INC.",
+    "long": "FNB BANK, INC.",
+    "state": "WV",
+    "city": "ROMNEY",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1103691600000,
+    "country": "USA",
+    "colors": [],
+    "name": "Fnb Bank Inc",
+    "website": "https://www.fnbtoday.com",
+    "logo": "fnbtoday.svg"
+}

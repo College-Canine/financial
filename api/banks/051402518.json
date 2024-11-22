@@ -1,0 +1,15 @@
+{
+    "routing": "051402518",
+    "short": "BANK CLARKE CNTY",
+    "long": "BANK OF CLARKE COUNTY",
+    "state": "VA",
+    "city": "BERRYVILLE",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [],
+    "name": "Bank Of Clarke County",
+    "website": "https://www.bankofclarke.bank",
+    "logo": "bankofclarke.svg"
+}

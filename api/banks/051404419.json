@@ -1,0 +1,15 @@
+{
+    "routing": "051404419",
+    "short": "FMB TIMBERVILLE",
+    "long": "FARMERS AND MERCHANTS BANK",
+    "state": "VA",
+    "city": "TIMBERVILLE",
+    "transfer": false,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [],
+    "name": "Farmers And Merchants Bank",
+    "website": "https://www.fmbankva.com",
+    "logo": "fmbankva.svg"
+}

@@ -1,0 +1,15 @@
+{
+    "routing": "051403465",
+    "short": "KING GEO STATE BK",
+    "long": "UNION BANK & TRUST",
+    "state": "VA",
+    "city": "RUTHER GLEN",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1439956800000,
+    "country": "USA",
+    "colors": [],
+    "name": "Union Bank & Trust",
+    "website": "https://locations.atlanticunionbank.com",
+    "logo": "atlanticunionbank.svg"
+}

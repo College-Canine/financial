@@ -1,0 +1,15 @@
+{
+    "routing": "051502641",
+    "short": "CLAY COUNTY BK WV",
+    "long": "CLAY COUNTY BANK, INC",
+    "state": "WV",
+    "city": "CLAY",
+    "transfer": false,
+    "settlement": true,
+    "updated": 1499659200000,
+    "country": "USA",
+    "colors": [],
+    "name": "Clay County Bank Inc",
+    "website": "https://claycounty.bank",
+    "logo": "claycounty.svg"
+}

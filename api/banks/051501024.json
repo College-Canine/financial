@@ -1,0 +1,15 @@
+{
+    "routing": "051501024",
+    "short": "LOGAN BK TR WVA",
+    "long": "LOGAN BANK & TRUST COMPANY",
+    "state": "WV",
+    "city": "LOGAN",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [],
+    "name": "Logan Bank & Trust Company",
+    "website": "https://www.lbandt.com",
+    "logo": "lbandt.svg"
+}

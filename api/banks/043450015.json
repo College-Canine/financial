@@ -1,0 +1,15 @@
+{
+    "routing": "043450015",
+    "short": "SECURITY WHEELING",
+    "long": "SECURITY NATIONAL TRUST CO.",
+    "state": "WV",
+    "city": "WHEELING",
+    "transfer": false,
+    "settlement": true,
+    "updated": 1310702400000,
+    "country": "USA",
+    "colors": [],
+    "name": "Security National Trust",
+    "website": "https://www.securitynationaltrust.com",
+    "logo": "securitynationaltrust.svg"
+}

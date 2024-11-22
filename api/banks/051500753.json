@@ -1,0 +1,15 @@
+{
+    "routing": "051500753",
+    "short": "WESBANCO FAIRMONT",
+    "long": "WESBANCO BANK WHEELING",
+    "state": "WV",
+    "city": "FAIRMONT",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1061438400000,
+    "country": "USA",
+    "colors": [],
+    "name": "Wesbanco Bank Wheeling",
+    "website": "https://www.wesbanco.com",
+    "logo": "wesbanco.svg"
+}

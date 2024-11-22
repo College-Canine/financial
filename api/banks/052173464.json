@@ -1,0 +1,18 @@
+{
+    "routing": "052173464",
+    "short": "WILM TR FSB MD",
+    "long": "M&T BANK",
+    "logo": "mt_bank.svg",
+    "state": "DE",
+    "city": "WILMINGTON",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1415336400000,
+    "country": "USA",
+    "colors": [
+        "#FEFFFF",
+        "#048566"
+    ],
+    "name": "M&t Bank",
+    "website": "https://locations.mtb.com"
+}

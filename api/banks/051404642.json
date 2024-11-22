@@ -1,0 +1,15 @@
+{
+    "routing": "051404642",
+    "short": "BK SOUTH CARSON VA",
+    "long": "BANK OF SOUTHSIDE VIRGINIA",
+    "state": "VA",
+    "city": "CARSON",
+    "transfer": true,
+    "settlement": true,
+    "updated": 927172800000,
+    "country": "USA",
+    "colors": [],
+    "name": "Bank Of Southside Virginia",
+    "website": "https://www.bsvnet.com",
+    "logo": "bsvnet.svg"
+}

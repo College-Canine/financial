@@ -1,0 +1,15 @@
+{
+    "routing": "052102228",
+    "short": "CHESAPK CHESTERTWN",
+    "long": "CHESAPEAKE BANK AND TRUST COMPANY",
+    "state": "MD",
+    "city": "CHESTERTOWN",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [],
+    "name": "Chesapeake Bank And Trust Company",
+    "website": "https://www.chesapeaketrust.com",
+    "logo": "chesapeaketrust.svg"
+}

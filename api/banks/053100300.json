@@ -1,0 +1,15 @@
+{
+    "routing": "053100300",
+    "short": "FIRST CITZ RALEIGH",
+    "long": "FIRST-CITIZENS BANK & TRUST CO",
+    "state": "NC",
+    "city": "RALEIGH",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1503028800000,
+    "country": "USA",
+    "colors": [],
+    "name": "First-citizens Bank & Trust",
+    "website": "https://locations.firstcitizens.com",
+    "logo": "firstcitizens.svg"
+}

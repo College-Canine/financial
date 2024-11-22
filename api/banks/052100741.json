@@ -1,0 +1,15 @@
+{
+    "routing": "052100741",
+    "short": "PEOPLES CHESTERTWN",
+    "long": "THE PEOPLES BANK",
+    "state": "MD",
+    "city": "CHESTERTOWN",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1152244800000,
+    "country": "USA",
+    "colors": [],
+    "name": "The Peoples Bank",
+    "website": "https://pbkc.com",
+    "logo": "pbkc.svg"
+}

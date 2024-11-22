@@ -1,0 +1,15 @@
+{
+    "routing": "051409320",
+    "short": "HOMETOWN BK",
+    "long": "HOMETOWN BANK",
+    "state": "VA",
+    "city": "ROANOKE",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1351483200000,
+    "country": "USA",
+    "colors": [],
+    "name": "Hometown Bank",
+    "website": "https://roanoke.family",
+    "logo": "roanoke.svg"
+}

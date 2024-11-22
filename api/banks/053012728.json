@@ -1,0 +1,15 @@
+{
+    "routing": "053012728",
+    "short": "SOUTH ST BK - PARK",
+    "long": "SOUTH STATE BANK - PARK",
+    "state": "SC",
+    "city": "COLUMBIA",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1524196800000,
+    "country": "USA",
+    "colors": [],
+    "name": "South State Bank - Park",
+    "website": "https://www.southstatebank.com",
+    "logo": "southstatebank.svg"
+}

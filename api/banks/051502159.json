@@ -1,0 +1,15 @@
+{
+    "routing": "051502159",
+    "short": "WEST UNION BK",
+    "long": "WEST UNION BANK",
+    "state": "WV",
+    "city": "WEST UNION",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1516856400000,
+    "country": "USA",
+    "colors": [],
+    "name": "West Union Bank",
+    "website": "https://www.westunionbank.com",
+    "logo": "westunionbank.svg"
+}

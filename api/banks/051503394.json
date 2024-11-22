@@ -1,0 +1,15 @@
+{
+    "routing": "051503394",
+    "short": "BB&T WEST VIRGINIA",
+    "long": "BB&T WEST VIRGINIA",
+    "state": "WV",
+    "city": "WILLIAMSON",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1037768400000,
+    "country": "USA",
+    "colors": [],
+    "name": "Bb&t West Virginia",
+    "website": "https://www.truist.com",
+    "logo": "truist.svg"
+}

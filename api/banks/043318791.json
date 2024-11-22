@@ -1,0 +1,15 @@
+{
+    "routing": "043318791",
+    "short": "CLARION CTY BANK",
+    "long": "CLARION COUNTY COMMUNITY BANK",
+    "state": "PA",
+    "city": "CLARION",
+    "transfer": false,
+    "settlement": false,
+    "updated": 1123819200000,
+    "country": "USA",
+    "colors": [],
+    "name": "Clarion County Community Bank",
+    "website": "https://clarionbank.com",
+    "logo": "clarionbank.svg"
+}

@@ -1,0 +1,15 @@
+{
+    "routing": "051501671",
+    "short": "MT VAL BK ELKINS",
+    "long": "MOUNTAIN VALLEY BANK, NA",
+    "state": "WV",
+    "city": "ELKINS",
+    "transfer": true,
+    "settlement": true,
+    "updated": 933220800000,
+    "country": "USA",
+    "colors": [],
+    "name": "Mountain Valley Bank",
+    "website": "https://www.mountainvalleybank.com",
+    "logo": "mountainvalleybank.svg"
+}

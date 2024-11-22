@@ -1,0 +1,15 @@
+{
+    "routing": "051502421",
+    "short": "CALHOUN CO GRNTSVL",
+    "long": "CALHOUN COUNTY BANK, INC.",
+    "state": "WV",
+    "city": "GRANTSVILLE",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1507176000000,
+    "country": "USA",
+    "colors": [],
+    "name": "Calhoun County Bank Inc",
+    "website": "https://www.calhounbanks.com",
+    "logo": "calhounbanks.svg"
+}

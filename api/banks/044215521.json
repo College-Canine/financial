@@ -1,0 +1,15 @@
+{
+    "routing": "044215521",
+    "short": "SETTLERS MARIETTA",
+    "long": "SETTLERS BANK",
+    "state": "OH",
+    "city": "MARIETTA",
+    "transfer": true,
+    "settlement": true,
+    "updated": 933566400000,
+    "country": "USA",
+    "colors": [],
+    "name": "Settlers Bank",
+    "website": "https://www.settlers.bank",
+    "logo": "settlers.svg"
+}

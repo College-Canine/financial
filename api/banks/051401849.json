@@ -1,0 +1,15 @@
+{
+    "routing": "051401849",
+    "short": "BK OF MARION VA",
+    "long": "THE BANK OF MARION",
+    "state": "VA",
+    "city": "MARION",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [],
+    "name": "The Bank Of Marion",
+    "website": "https://www.bankofmarionva.com",
+    "logo": "bankofmarionva.svg"
+}

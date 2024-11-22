@@ -1,0 +1,15 @@
+{
+    "routing": "044208512",
+    "short": "HOME NB RACINE",
+    "long": "HOME NATIONAL BANK",
+    "state": "OH",
+    "city": "RACINE",
+    "transfer": true,
+    "settlement": true,
+    "updated": 991195200000,
+    "country": "USA",
+    "colors": [],
+    "name": "Home National Bank",
+    "website": "https://homenatlbank.com",
+    "logo": "homenatlbank.svg"
+}

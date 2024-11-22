@@ -1,0 +1,15 @@
+{
+    "routing": "044202505",
+    "short": "PEOPLES BANK",
+    "long": "PEOPLES BANK",
+    "state": "OH",
+    "city": "MARIETTA",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1479445200000,
+    "country": "USA",
+    "colors": [],
+    "name": "Peoples Bank",
+    "website": "https://www.peoplesbancorp.com",
+    "logo": "peoplesbancorp.svg"
+}

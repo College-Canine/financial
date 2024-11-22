@@ -1,0 +1,15 @@
+{
+    "routing": "051405395",
+    "short": "FMB NEW CASTLE",
+    "long": "FARMERS & MER BK OF CRAIG CO",
+    "state": "VA",
+    "city": "NEW CASTLE",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1516856400000,
+    "country": "USA",
+    "colors": [],
+    "name": "Farmers & Mer Bank Of Craig",
+    "website": "https://www.fmbankcraig.com",
+    "logo": "fmbankcraig.svg"
+}

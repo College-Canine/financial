@@ -1,0 +1,15 @@
+{
+    "routing": "044106944",
+    "short": "PEOPLES BANK",
+    "long": "PEOPLES BANK",
+    "state": "OH",
+    "city": "CALDWELL",
+    "transfer": false,
+    "settlement": true,
+    "updated": 1479445200000,
+    "country": "USA",
+    "colors": [],
+    "name": "Peoples Bank",
+    "website": "https://locations.peoplesbancorp.com",
+    "logo": "peoplesbancorp.svg"
+}

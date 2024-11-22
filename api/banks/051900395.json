@@ -1,0 +1,15 @@
+{
+    "routing": "051900395",
+    "short": "UNITED FAIRFAX",
+    "long": "UNITED BANK",
+    "state": "VA",
+    "city": "FAIRFAX",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1513746000000,
+    "country": "USA",
+    "colors": [],
+    "name": "United Bank",
+    "website": "https://locations.bankwithunited.com",
+    "logo": "bankwithunited.svg"
+}

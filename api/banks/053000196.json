@@ -1,0 +1,18 @@
+{
+    "routing": "053000196",
+    "short": "BK AMERICA NC",
+    "long": "BANK OF AMERICA NA",
+    "logo": "bofa.svg",
+    "state": "NC",
+    "city": "CHARLOTTE",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1352782800000,
+    "country": "USA",
+    "colors": [
+        "#E31837",
+        "#012169"
+    ],
+    "name": "Bank Of America",
+    "website": "https://locators.bankofamerica.com"
+}

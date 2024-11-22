@@ -1,0 +1,15 @@
+{
+    "routing": "052101669",
+    "short": "HEBRON SB HEBRON",
+    "long": "THE HEBRON SAVINGS BANK",
+    "state": "MD",
+    "city": "HEBRON",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [],
+    "name": "The Hebron Savings Bank",
+    "website": "https://www.hebronsavingsbank.com",
+    "logo": "hebronsavingsbank.svg"
+}

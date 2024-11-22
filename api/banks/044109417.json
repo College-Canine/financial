@@ -1,0 +1,15 @@
+{
+    "routing": "044109417",
+    "short": "CITIZENS DEGRAFF",
+    "long": "BUCKEYE STATE BANK",
+    "state": "OH",
+    "city": "POWELL",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1542171600000,
+    "country": "USA",
+    "colors": [],
+    "name": "Buckeye State Bank",
+    "website": "https://www.joinbsb.com",
+    "logo": "joinbsb.svg"
+}

@@ -1,0 +1,15 @@
+{
+    "routing": "053103585",
+    "short": "FID FUQUAY VARINA",
+    "long": "FIDELITY BANK",
+    "state": "NC",
+    "city": "FUQUAY VARINA",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1280462400000,
+    "country": "USA",
+    "colors": [],
+    "name": "Fidelity Bank",
+    "website": "https://www.fidelitybanknc.com",
+    "logo": "fidelitybanknc.svg"
+}

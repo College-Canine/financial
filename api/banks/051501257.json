@@ -1,0 +1,15 @@
+{
+    "routing": "051501257",
+    "short": "FIRST WMSON",
+    "long": "FIRST NATIONAL BANK OF WILLIAMSON",
+    "state": "WV",
+    "city": "WILLIAMSON",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1332388800000,
+    "country": "USA",
+    "colors": [],
+    "name": "First National Bank Of Williamson",
+    "website": "https://yourfnbonline.com",
+    "logo": "yourfnbonline.svg"
+}

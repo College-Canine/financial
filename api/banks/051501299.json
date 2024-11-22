@@ -1,0 +1,15 @@
+{
+    "routing": "051501299",
+    "short": "FIRST COMM BK",
+    "long": "FIRST COMMUNITY BANK",
+    "state": "VA",
+    "city": "BLUEFIELD",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1314158400000,
+    "country": "USA",
+    "colors": [],
+    "name": "First Community Bank",
+    "website": "https://www.firstcommunitybank.com",
+    "logo": "firstcommunitybank.svg"
+}

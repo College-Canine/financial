@@ -1,0 +1,15 @@
+{
+    "routing": "051404901",
+    "short": "CITZ FARM WEST PT",
+    "long": "CITIZENS & FARMERS BANK",
+    "state": "VA",
+    "city": "WEST POINT",
+    "transfer": true,
+    "settlement": true,
+    "updated": 931924800000,
+    "country": "USA",
+    "colors": [],
+    "name": "Citizens & Farmers Bank",
+    "website": "https://www.cffc.com",
+    "logo": "cffc.svg"
+}

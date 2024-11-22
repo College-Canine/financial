@@ -1,0 +1,15 @@
+{
+    "routing": "044101745",
+    "short": "FAHEY BKING MARION",
+    "long": "THE FAHEY BANKING COMPANY",
+    "state": "OH",
+    "city": "MARION",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1223956800000,
+    "country": "USA",
+    "colors": [],
+    "name": "The Fahey Banking Company",
+    "website": "https://www.faheybank.bank",
+    "logo": "faheybank.svg"
+}

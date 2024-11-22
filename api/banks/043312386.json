@@ -1,0 +1,15 @@
+{
+    "routing": "043312386",
+    "short": "MARS BANK",
+    "long": "THE MARS BANK",
+    "state": "PA",
+    "city": "MARS",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1498536000000,
+    "country": "USA",
+    "colors": [],
+    "name": "The Mars Bank",
+    "website": "https://investors.marsbank.com",
+    "logo": "marsbank.svg"
+}

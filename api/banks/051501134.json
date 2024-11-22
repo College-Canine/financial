@@ -1,0 +1,15 @@
+{
+    "routing": "051501134",
+    "short": "DAVIS TR CO ELKINS",
+    "long": "DAVIS TRUST COMPANY",
+    "state": "WV",
+    "city": "ELKINS",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [],
+    "name": "Davis Trust Company",
+    "website": "https://www.davistrust.com",
+    "logo": "davistrust.svg"
+}

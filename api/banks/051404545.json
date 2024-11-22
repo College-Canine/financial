@@ -1,0 +1,15 @@
+{
+    "routing": "051404545",
+    "short": "FMB PENNINGTON GAP",
+    "long": "FARMERS AND MINERS BANK",
+    "state": "VA",
+    "city": "PENNINGTON GAP",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1388984400000,
+    "country": "USA",
+    "colors": [],
+    "name": "Farmers And Miners Bank",
+    "website": "https://www.farmersandminersbank.com",
+    "logo": "farmersandminersbank.svg"
+}

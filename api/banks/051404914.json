@@ -1,0 +1,15 @@
+{
+    "routing": "051404914",
+    "short": "HIGHLANDS ABINGDON",
+    "long": "HIGHLANDS UNION BANK",
+    "state": "VA",
+    "city": "ABINGDON",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1246248000000,
+    "country": "USA",
+    "colors": [],
+    "name": "Highlands Union Bank",
+    "website": "https://en.wikipedia.org",
+    "logo": "wikipedia.svg"
+}
