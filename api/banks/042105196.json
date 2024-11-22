@@ -1,0 +1,19 @@
+{
+    "routing": "042105196",
+    "short": "INEZ DEPOSIT BANK",
+    "long": "INEZ DEPOSIT BANK",
+    "state": "KY",
+    "city": "INEZ",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#ea5833",
+        "#6d5349",
+        "#194755"
+    ],
+    "name": "Inez Deposit Bank",
+    "website": "https://www.fsb4me.com",
+    "logo": "fsb4me.svg"
+}

@@ -1,0 +1,19 @@
+{
+    "routing": "042205009",
+    "short": "MERCH HILLSBORO",
+    "long": "MERCHANTS NATIONAL BANK",
+    "state": "OH",
+    "city": "HILLSBORO",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#fdfefd",
+        "#6d7cc0",
+        "#1733bb"
+    ],
+    "name": "Merchants National Bank",
+    "website": "https://www.merchantsnat.com",
+    "logo": "merchantsnat.svg"
+}

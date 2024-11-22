@@ -1,0 +1,20 @@
+{
+    "routing": "042103460",
+    "short": "COML BANK GRAYSON",
+    "long": "THE COMMERCIAL BANK OF GRAYSON",
+    "state": "KY",
+    "city": "GRAYSON",
+    "transfer": false,
+    "settlement": true,
+    "updated": 1456894800000,
+    "country": "USA",
+    "colors": [
+        "#98a5b5",
+        "#5c4a37",
+        "#a28044",
+        "#96a015"
+    ],
+    "name": "The Commercial Bank Of Grayson",
+    "website": "https://www.cbgrayson.com",
+    "logo": "cbgrayson.svg"
+}

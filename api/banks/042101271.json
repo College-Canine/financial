@@ -1,0 +1,20 @@
+{
+    "routing": "042101271",
+    "short": "BANK BLUEGRASS LEX",
+    "long": "BANK OF THE BLUEGRASS AND TRUST CO.",
+    "state": "KY",
+    "city": "LEXINGTON",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1024977600000,
+    "country": "USA",
+    "colors": [
+        "#f0f4f7",
+        "#102889",
+        "#374977",
+        "#8d99b8"
+    ],
+    "name": "Bank Of The Bluegrass And Trust",
+    "website": "https://www.bankofthebluegrass.com",
+    "logo": "bankofthebluegrass.svg"
+}

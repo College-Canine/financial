@@ -1,0 +1,19 @@
+{
+    "routing": "043311662",
+    "short": "FIRST FRYBURG",
+    "long": "FIRST UNITED NATIONAL BANK",
+    "state": "PA",
+    "city": "FRYBURG",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#131313",
+        "#f8f8f8",
+        "#8a8a8a"
+    ],
+    "name": "First United National Bank",
+    "website": "https://www.fun-bank.com",
+    "logo": "fun-bank.svg"
+}

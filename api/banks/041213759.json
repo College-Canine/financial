@@ -1,0 +1,19 @@
+{
+    "routing": "041213759",
+    "short": "UNION BK COL GROVE",
+    "long": "THE UNION BANK COMPANY",
+    "state": "OH",
+    "city": "COLUMBUS GROVE",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#283383",
+        "#fcfdfe",
+        "#5e6491"
+    ],
+    "name": "The Union Bank Company",
+    "website": "https://www.theubank.com",
+    "logo": "theubank.svg"
+}

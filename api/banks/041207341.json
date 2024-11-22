@@ -1,0 +1,18 @@
+{
+    "routing": "041207341",
+    "short": "FARMERS ARCHBOLD",
+    "long": "THE FARMERS & MERCHANTS STATE BANK",
+    "state": "OH",
+    "city": "ARCHBOLD",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#456f4e",
+        "#106395"
+    ],
+    "name": "The Farmers & Merchants State Bank",
+    "website": "https://www.fm.bank",
+    "logo": "fm.svg"
+}

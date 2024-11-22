@@ -1,0 +1,19 @@
+{
+    "routing": "041215553",
+    "short": "BUCKEYE COM LORAIN",
+    "long": "BUCKEYE COMMUNITY BANK",
+    "state": "OH",
+    "city": "LORAIN",
+    "transfer": true,
+    "settlement": true,
+    "updated": 940219200000,
+    "country": "USA",
+    "colors": [
+        "#fefefd",
+        "#9fc950",
+        "#545555"
+    ],
+    "name": "Buckeye Community Bank",
+    "website": "https://www.buckeyebank.com",
+    "logo": "buckeyebank.svg"
+}

@@ -1,0 +1,19 @@
+{
+    "routing": "042274551",
+    "short": "FDS BANK",
+    "long": "FDS BANK",
+    "state": "OH",
+    "city": "MASON",
+    "transfer": false,
+    "settlement": false,
+    "updated": 1306814400000,
+    "country": "USA",
+    "colors": [
+        "#fefefd",
+        "#2669a5",
+        "#6a6b6b"
+    ],
+    "name": "Fds Bank",
+    "website": "https://visbanking.com",
+    "logo": "visbanking.svg"
+}

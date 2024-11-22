@@ -1,0 +1,20 @@
+{
+    "routing": "043019003",
+    "short": "TRISTATE CAPITAL",
+    "long": "TRISTATE CAPITAL BANK",
+    "state": "PA",
+    "city": "PITTSBURGH",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1169614800000,
+    "country": "USA",
+    "colors": [
+        "#fcfffe",
+        "#8eb2c2",
+        "#1f6587",
+        "#efc084"
+    ],
+    "name": "Tristate Capital Bank",
+    "website": "https://tristatecapitalbank.com",
+    "logo": "tristatecapitalbank.svg"
+}

@@ -1,0 +1,18 @@
+{
+    "routing": "042101514",
+    "short": "TRADTL MT STERLING",
+    "long": "TRADITIONAL BANK",
+    "state": "KY",
+    "city": "MOUNT STERLING",
+    "transfer": true,
+    "settlement": true,
+    "updated": 950504400000,
+    "country": "USA",
+    "colors": [
+        "#3a685f",
+        "#e9dfc8"
+    ],
+    "name": "Traditional Bank",
+    "website": "https://traditionalbank.com",
+    "logo": "traditionalbank.svg"
+}

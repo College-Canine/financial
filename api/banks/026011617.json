@@ -1,0 +1,19 @@
+{
+    "routing": "026011617",
+    "short": "BK RAKYAT INDO PER",
+    "long": "PT. BANK RAKYAT INDONESIA (PERSERO)",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1325221200000,
+    "country": "USA",
+    "colors": [
+        "#2c6fac",
+        "#feffff",
+        "#121212"
+    ],
+    "website": "https://www.brinya.com",
+    "name": "Pt. Bank Rakyat Indonesia (persero)",
+    "logo": "brinya.svg"
+}

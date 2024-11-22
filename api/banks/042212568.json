@@ -1,0 +1,20 @@
+{
+    "routing": "042212568",
+    "short": "OSGOOD STATE BANK",
+    "long": "THE OSGOOD STATE BANK",
+    "state": "OH",
+    "city": "OSGOOD",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#fb6f21",
+        "#fdfdff",
+        "#48474a",
+        "#cd9a79"
+    ],
+    "name": "The Osgood State Bank",
+    "website": "https://www.osgoodbank.com",
+    "logo": "osgoodbank.svg"
+}

@@ -1,0 +1,20 @@
+{
+    "routing": "042102652",
+    "short": "DEPOSIT CARLISLE",
+    "long": "FARMERS DEPOSIT BANK",
+    "state": "KY",
+    "city": "CARLISLE",
+    "transfer": false,
+    "settlement": true,
+    "updated": 1415336400000,
+    "country": "USA",
+    "colors": [
+        "#fefbfc",
+        "#68ae43",
+        "#224073",
+        "#8aad87"
+    ],
+    "name": "Farmers Deposit Bank",
+    "website": "https://www.fnbky.com",
+    "logo": "fnbky.svg"
+}

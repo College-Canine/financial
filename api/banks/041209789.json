@@ -1,0 +1,19 @@
+{
+    "routing": "041209789",
+    "short": "HAMLER STATE",
+    "long": "THE HAMLER STATE BANK",
+    "state": "OH",
+    "city": "HAMLER",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#fdfdfe",
+        "#952d3b",
+        "#8b8b8c"
+    ],
+    "name": "The Hamler State Bank",
+    "website": "https://hamlerstatebank.com",
+    "logo": "hamlerstatebank.svg"
+}

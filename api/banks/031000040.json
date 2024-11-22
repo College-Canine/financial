@@ -1,0 +1,18 @@
+{
+    "routing": "031000040",
+    "short": "FRB PHIL",
+    "long": "FEDERAL RESERVE BANK OF PHILADELPHIA",
+    "state": "PA",
+    "city": "PHILADELPHIA",
+    "transfer": true,
+    "settlement": true,
+    "updated": 927086400000,
+    "country": "USA",
+    "colors": [
+        "#6e9fb3",
+        "#f6fcfc"
+    ],
+    "name": "Federal Reserve Bank Of Philadelphia",
+    "website": "https://www.philadelphiafed.org",
+    "logo": "philadelphiafed.svg"
+}

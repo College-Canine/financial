@@ -1,0 +1,18 @@
+{
+    "routing": "043211160",
+    "short": "FIRST POWHATAN PNT",
+    "long": "UNIFIED BANK",
+    "state": "OH",
+    "city": "MARTINS FERRY",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1539576000000,
+    "country": "USA",
+    "colors": [
+        "#fcfef8",
+        "#1872a7"
+    ],
+    "name": "Unified Bank",
+    "website": "https://unifiedbank.com",
+    "logo": "unifiedbank.svg"
+}

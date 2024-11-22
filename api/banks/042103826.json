@@ -1,0 +1,19 @@
+{
+    "routing": "042103826",
+    "short": "FIRST BROOKSVILLE",
+    "long": "FIRST NAT BK OF BROOKSVILLE, THE",
+    "state": "KY",
+    "city": "BROOKSVILLE",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1509595200000,
+    "country": "USA",
+    "colors": [
+        "#384a5c",
+        "#ffffff",
+        "#91a0b7"
+    ],
+    "name": "First National Bank Of Brooksville The",
+    "website": "https://www.fnbfirst.com",
+    "logo": "fnbfirst.svg"
+}

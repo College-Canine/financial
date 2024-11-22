@@ -1,0 +1,19 @@
+{
+    "routing": "043311497",
+    "short": "NEXTIER BANK, N.A.",
+    "long": "NEXTIER BANK, N.A.",
+    "state": "PA",
+    "city": "BUTLER",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1506916800000,
+    "country": "USA",
+    "colors": [
+        "#d6f6fb",
+        "#3c96d5",
+        "#7dbc97"
+    ],
+    "name": "Nextier Bank",
+    "website": "https://www.nextierbank.com",
+    "logo": "nextierbank.svg"
+}

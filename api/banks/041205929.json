@@ -1,0 +1,19 @@
+{
+    "routing": "041205929",
+    "short": "LIBERTY ADA",
+    "long": "LIBERTY NATIONAL BANK",
+    "state": "OH",
+    "city": "KENTON",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#333333",
+        "#979797",
+        "#fdfdfd"
+    ],
+    "name": "Liberty National Bank",
+    "website": "https://www.mapquest.com",
+    "logo": "mapquest.svg"
+}

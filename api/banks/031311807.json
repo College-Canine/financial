@@ -1,0 +1,20 @@
+{
+    "routing": "031311807",
+    "short": "PEOPLES SCTY BK",
+    "long": "PEOPLES SECURITY BANK AND TRUST COMP",
+    "state": "PA",
+    "city": "SCRANTON",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1415250000000,
+    "country": "USA",
+    "colors": [
+        "#1b2958",
+        "#9d96a6",
+        "#eaeff3",
+        "#ec2f24"
+    ],
+    "name": "Peoples Security Bank And Trust Comp",
+    "website": "https://www.psbt.com",
+    "logo": "psbt.svg"
+}

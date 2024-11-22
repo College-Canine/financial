@@ -1,0 +1,19 @@
+{
+    "routing": "031315269",
+    "short": "CENTRIC BANK",
+    "long": "CENTRIC BANK",
+    "state": "PA",
+    "city": "HARRISBURG",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1240977600000,
+    "country": "USA",
+    "colors": [
+        "#f9f4fa",
+        "#ce5288",
+        "#e7a1c3"
+    ],
+    "name": "Centric Bank",
+    "website": "https://www.fcbanking.com",
+    "logo": "fcbanking.svg"
+}

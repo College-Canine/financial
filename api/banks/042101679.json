@@ -1,0 +1,21 @@
+{
+    "routing": "042101679",
+    "short": "FORCHT BANK, NA",
+    "long": "FORCHT BANK, NATIONAL ASSOCIATION",
+    "state": "KY",
+    "city": "LEXINGTON",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1382932800000,
+    "country": "USA",
+    "colors": [
+        "#ffffff",
+        "#c99723",
+        "#328856",
+        "#86a192",
+        "#555351"
+    ],
+    "name": "Forcht Bank National Association",
+    "website": "https://www.forchtbank.com",
+    "logo": "forchtbank.svg"
+}

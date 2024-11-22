@@ -1,0 +1,19 @@
+{
+    "routing": "042215468",
+    "short": "SPRING VLY CINCI",
+    "long": "SPRING VALLEY BANK",
+    "state": "OH",
+    "city": "WYOMING",
+    "transfer": true,
+    "settlement": true,
+    "updated": 942037200000,
+    "country": "USA",
+    "colors": [
+        "#486a47",
+        "#c0c1c0",
+        "#142214"
+    ],
+    "name": "Spring Valley Bank",
+    "website": "https://www.springvalleybank.com",
+    "logo": "springvalleybank.svg"
+}

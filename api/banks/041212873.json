@@ -1,0 +1,22 @@
+{
+    "routing": "041212873",
+    "short": "FIRST PANDORA",
+    "long": "THE FIRST NATIONAL BANK OF PANDORA",
+    "state": "OH",
+    "city": "PANDORA",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#fcfeff",
+        "#156190",
+        "#161616",
+        "#f8b5af",
+        "#969296",
+        "#b44d47"
+    ],
+    "name": "The First National Bank Of Pandora",
+    "website": "https://www.e-fnb.com",
+    "logo": "e-fnb.svg"
+}

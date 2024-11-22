@@ -1,0 +1,19 @@
+{
+    "routing": "042102160",
+    "short": "HERITAGE BURLINGTN",
+    "long": "HERITAGE BANK, INC.",
+    "state": "KY",
+    "city": "ERLANGER",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1473393600000,
+    "country": "USA",
+    "colors": [
+        "#fbfdfc",
+        "#90b9d7",
+        "#1f6099"
+    ],
+    "name": "Heritage Bank Inc",
+    "website": "https://www.ourheritage.bank",
+    "logo": "ourheritage.svg"
+}

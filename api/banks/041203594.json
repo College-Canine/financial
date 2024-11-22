@@ -1,0 +1,19 @@
+{
+    "routing": "041203594",
+    "short": "STATE DEFIANCE",
+    "long": "THE STATE BANK AND TRUST COMPANY",
+    "state": "OH",
+    "city": "DEFIANCE",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#909bc7",
+        "#27378e",
+        "#f7f8fb"
+    ],
+    "name": "The State Bank And Trust Company",
+    "website": "https://www.yourstatebank.com",
+    "logo": "yourstatebank.svg"
+}

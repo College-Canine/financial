@@ -1,0 +1,22 @@
+{
+    "routing": "026073066",
+    "short": "ESQUIRE BANK NA",
+    "long": "ESQUIRE BANK, NA",
+    "state": "NY",
+    "city": "JERICHO",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1483592400000,
+    "country": "USA",
+    "colors": [
+        "#29392e",
+        "#89968d",
+        "#e2c840",
+        "#9d8736",
+        "#fefefc",
+        "#1b3b60"
+    ],
+    "name": "Esquire Bank",
+    "website": "https://esquirebank.com",
+    "logo": "esquirebank.svg"
+}

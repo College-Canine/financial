@@ -1,0 +1,19 @@
+{
+    "routing": "042000916",
+    "short": "FHLB CINCI",
+    "long": "FEDERAL HOME LOAN BANK",
+    "state": "OH",
+    "city": "CINCINNATI",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1391749200000,
+    "country": "USA",
+    "colors": [
+        "#fefdfe",
+        "#c87e2f",
+        "#365a80"
+    ],
+    "name": "Federal Home Loan Bank",
+    "website": "https://www.fhlbcin.com",
+    "logo": "fhlbcin.svg"
+}

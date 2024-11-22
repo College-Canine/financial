@@ -1,0 +1,20 @@
+{
+    "routing": "031207940",
+    "short": "BANK OF PRINCETON",
+    "long": "THE BANK OF PRINCETON",
+    "state": "NJ",
+    "city": "PRINCETON",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1309406400000,
+    "country": "USA",
+    "colors": [
+        "#fefefd",
+        "#ea722c",
+        "#636465",
+        "#1f2021"
+    ],
+    "name": "The Bank Of Princeton",
+    "website": "https://thebankofprinceton.com",
+    "logo": "thebankofprinceton.svg"
+}

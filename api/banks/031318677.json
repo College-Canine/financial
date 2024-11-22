@@ -1,0 +1,19 @@
+{
+    "routing": "031318677",
+    "short": "LANDMARK COMMUNITY",
+    "long": "LANDMARK COMMUNITY BANK",
+    "state": "PA",
+    "city": "PITTSTON",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1178164800000,
+    "country": "USA",
+    "colors": [
+        "#333333",
+        "#979797",
+        "#fdfdfd"
+    ],
+    "name": "Landmark Community Bank",
+    "website": "https://www.mapquest.com",
+    "logo": "mapquest.svg"
+}

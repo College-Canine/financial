@@ -1,0 +1,19 @@
+{
+    "routing": "043000096",
+    "short": "PNCBANK PITT",
+    "long": "PNC BANK, NATIONAL ASSOCIATION",
+    "logo": "pnc.svg",
+    "state": "PA",
+    "city": "PITTSBURGH",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1109826000000,
+    "country": "USA",
+    "colors": [
+        "#F58025",
+        "#0069AA",
+        "#FFFFFF"
+    ],
+    "name": "Pnc Bank National Association",
+    "website": "https://apps.pnc.com"
+}

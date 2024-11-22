@@ -1,0 +1,18 @@
+{
+    "routing": "031316608",
+    "short": "NEFFS NATL",
+    "long": "NEFFS NATIONAL BANK",
+    "state": "PA",
+    "city": "NEFFS",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#6aacdf",
+        "#e3fafd"
+    ],
+    "name": "Neffs National Bank",
+    "website": "https://my.neffsnatl.com",
+    "logo": "neffsnatl.svg"
+}

@@ -1,0 +1,17 @@
+{
+    "routing": "041208735",
+    "short": "ANTWERP EXCH BK",
+    "long": "THE ANTWERP EXCHANGE BANK COMPANY",
+    "state": "OH",
+    "city": "ANTWERP",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#ffffff"
+    ],
+    "name": "The Antwerp Exchange Bank Company",
+    "website": "https://www.antwerpexchangebank.com",
+    "logo": "antwerpexchangebank.svg"
+}

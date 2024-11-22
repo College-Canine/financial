@@ -1,0 +1,20 @@
+{
+    "routing": "042310525",
+    "short": "MINSTER BANK",
+    "long": "MINSTER BANK",
+    "state": "OH",
+    "city": "MINSTER",
+    "transfer": true,
+    "settlement": true,
+    "updated": 980917200000,
+    "country": "USA",
+    "colors": [
+        "#20415e",
+        "#96a8b9",
+        "#fdfef9",
+        "#b68549"
+    ],
+    "name": "Minster Bank",
+    "website": "https://www.minsterbank.com",
+    "logo": "minsterbank.svg"
+}

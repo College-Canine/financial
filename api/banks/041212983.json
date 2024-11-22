@@ -1,0 +1,18 @@
+{
+    "routing": "041212983",
+    "short": "CITZ BLUFFTON",
+    "long": "CITIZENS NATIONAL BANK OF BLUFFTON",
+    "state": "OH",
+    "city": "BLUFFTON",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#fbfefe",
+        "#2d846c"
+    ],
+    "name": "Citizens National Bank Of Bluffton",
+    "website": "https://www.cnbohio.com",
+    "logo": "cnbohio.svg"
+}

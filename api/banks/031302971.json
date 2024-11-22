@@ -1,0 +1,19 @@
+{
+    "routing": "031302971",
+    "short": "CUSTOMERS BANK",
+    "long": "CUSTOMERS BANK",
+    "state": "PA",
+    "city": "WYOMISSING",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1478581200000,
+    "country": "USA",
+    "colors": [
+        "#5d87a6",
+        "#142a48",
+        "#f7fcfd"
+    ],
+    "name": "Customers Bank",
+    "website": "https://www.customersbank.com",
+    "logo": "customersbank.svg"
+}

@@ -1,0 +1,19 @@
+{
+    "routing": "042102571",
+    "short": "FIRST JACKSON KY",
+    "long": "THE FIRST NATIONAL BANK OF JACKSON",
+    "state": "KY",
+    "city": "JACKSON",
+    "transfer": true,
+    "settlement": true,
+    "updated": 939787200000,
+    "country": "USA",
+    "colors": [
+        "#2d5969",
+        "#fdfdfe",
+        "#e76e43"
+    ],
+    "name": "The First National Bank Of Jackson",
+    "website": "https://www.prnewswire.com",
+    "logo": "prnewswire.svg"
+}

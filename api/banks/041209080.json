@@ -1,0 +1,18 @@
+{
+    "routing": "041209080",
+    "short": "FARMERS CANFIELD",
+    "long": "FARMERS NATIONAL BANK OF CANFIELD",
+    "state": "OH",
+    "city": "CANEFIELD",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1508212800000,
+    "country": "USA",
+    "colors": [
+        "#1b6ea7",
+        "#b9d8e3"
+    ],
+    "name": "Farmers National Bank Of Canfield",
+    "website": "https://farmersbankgroup.com",
+    "logo": "farmersbankgroup.svg"
+}

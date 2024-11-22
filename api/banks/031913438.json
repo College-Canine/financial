@@ -1,0 +1,20 @@
+{
+    "routing": "031913438",
+    "short": "UNIVEST BANK AND T",
+    "long": "UNIVEST BANK & TRUST CO",
+    "state": "PA",
+    "city": "SOUDERTON",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1324530000000,
+    "country": "USA",
+    "colors": [
+        "#fdfefd",
+        "#f8c44d",
+        "#3e71c5",
+        "#8aabdb"
+    ],
+    "name": "Univest Bank & Trust",
+    "website": "https://www.univest.net",
+    "logo": "univest.svg"
+}

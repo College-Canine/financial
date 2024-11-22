@@ -1,0 +1,17 @@
+{
+    "routing": "043001435",
+    "short": "FHLB PITTS",
+    "long": "FEDERAL HOME LOAN BK OF PITTSBURGH",
+    "state": "PA",
+    "city": "PITTSBURGH",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1528171200000,
+    "country": "USA",
+    "colors": [
+        "#ffffff"
+    ],
+    "name": "Federal Home Loan Bank Of Pittsburgh",
+    "website": "https://www.fhlb-pgh.com",
+    "logo": "fhlb-pgh.svg"
+}

@@ -1,0 +1,20 @@
+{
+    "routing": "041212637",
+    "short": "OLD FORT BKG CO",
+    "long": "THE OLD FORT BANKING COMPANY",
+    "state": "OH",
+    "city": "OLD FORT",
+    "transfer": true,
+    "settlement": true,
+    "updated": 936849600000,
+    "country": "USA",
+    "colors": [
+        "#fefefc",
+        "#105489",
+        "#99b4c6",
+        "#b2a270"
+    ],
+    "name": "The Old Fort Banking Company",
+    "website": "https://www.oldfortbank.com",
+    "logo": "oldfortbank.svg"
+}

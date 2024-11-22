@@ -1,0 +1,18 @@
+{
+    "routing": "041000014",
+    "short": "FRB CLE",
+    "long": "FEDERAL RESERVE BANK OF CLEVELAND",
+    "state": "OH",
+    "city": "CLEVELAND",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#788b95",
+        "#f4f7f9"
+    ],
+    "name": "Federal Reserve Bank Of Cleveland",
+    "website": "https://www.clevelandfed.org",
+    "logo": "clevelandfed.svg"
+}

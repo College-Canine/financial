@@ -1,0 +1,21 @@
+{
+    "routing": "042105170",
+    "short": "HYDEN CITIZENS",
+    "long": "HYDEN CITIZENS BANK, INC",
+    "state": "KY",
+    "city": "HYDEN",
+    "transfer": true,
+    "settlement": true,
+    "updated": 989899200000,
+    "country": "USA",
+    "colors": [
+        "#7c283e",
+        "#88757b",
+        "#fefdfe",
+        "#549888",
+        "#253834"
+    ],
+    "name": "Hyden Citizens Bank Inc",
+    "website": "https://www.hydencitizensbank.com",
+    "logo": "hydencitizensbank.svg"
+}

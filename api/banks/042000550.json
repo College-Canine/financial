@@ -1,0 +1,19 @@
+{
+    "routing": "042000550",
+    "short": "NORTH SIDE CINCI",
+    "long": "THE NORTH SIDE BANK AND TRUST CO.",
+    "state": "OH",
+    "city": "CINCINNATI",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#464646",
+        "#fefefe",
+        "#a2a2a2"
+    ],
+    "name": "The North Side Bank And Trust",
+    "website": "https://nsbt.net",
+    "logo": "nsbt.svg"
+}

@@ -1,0 +1,18 @@
+{
+    "routing": "042104469",
+    "short": "CITIZENS BRODHEAD",
+    "long": "CITIZENS BANK",
+    "state": "KY",
+    "city": "BRODHEAD",
+    "transfer": false,
+    "settlement": true,
+    "updated": 1415336400000,
+    "country": "USA",
+    "colors": [
+        "#fdfefe",
+        "#15674a"
+    ],
+    "name": "Citizens Bank",
+    "website": "https://citizensbankrb.com",
+    "logo": "citizensbankrb.svg"
+}

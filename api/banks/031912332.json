@@ -1,0 +1,18 @@
+{
+    "routing": "031912332",
+    "short": "NATL MALVERN",
+    "long": "NATIONAL BANK OF MALVERN, THE",
+    "state": "PA",
+    "city": "MALVERN",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1512104400000,
+    "country": "USA",
+    "colors": [
+        "#fefefd",
+        "#71998e"
+    ],
+    "name": "National Bank Of Malvern The",
+    "website": "https://www.natbankmal.com",
+    "logo": "natbankmal.svg"
+}

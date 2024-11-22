@@ -1,0 +1,19 @@
+{
+    "routing": "042102788",
+    "short": "PEO FLEMINGSBURG",
+    "long": "PEOPLES BANK OF KENTUCKY, INC.",
+    "state": "KY",
+    "city": "FLEMINGSBURG",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1181793600000,
+    "country": "USA",
+    "colors": [
+        "#625444",
+        "#8b99a7",
+        "#dceeef"
+    ],
+    "name": "Peoples Bank Of Kentucky Inc",
+    "website": "https://peoplesbankofky.com",
+    "logo": "peoplesbankofky.svg"
+}

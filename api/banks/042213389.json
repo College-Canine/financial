@@ -1,0 +1,19 @@
+{
+    "routing": "042213389",
+    "short": "FARMERS MIAMISBURG",
+    "long": "THE FARMERS & MERCHANTS BANK",
+    "state": "OH",
+    "city": "MIAMISBURG",
+    "transfer": false,
+    "settlement": true,
+    "updated": 1530158400000,
+    "country": "USA",
+    "colors": [
+        "#fefeff",
+        "#d89294",
+        "#d4313e"
+    ],
+    "name": "The Farmers & Merchants Bank",
+    "website": "https://www.bankwithfm.com",
+    "logo": "bankwithfm.svg"
+}

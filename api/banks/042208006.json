@@ -1,0 +1,21 @@
+{
+    "routing": "042208006",
+    "short": "1ST NATIONAL BANK",
+    "long": "1ST NATIONAL BANK",
+    "state": "OH",
+    "city": "LEBANON",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1055131200000,
+    "country": "USA",
+    "colors": [
+        "#231d1f",
+        "#fffdfd",
+        "#d8b24a",
+        "#1b834c",
+        "#7f7e7d"
+    ],
+    "name": "1st National Bank",
+    "website": "https://www.bankwith1st.com",
+    "logo": "bankwith1st.svg"
+}

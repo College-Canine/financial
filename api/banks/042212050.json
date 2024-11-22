@@ -1,0 +1,19 @@
+{
+    "routing": "042212050",
+    "short": "FIRST ST WINCHESTR",
+    "long": "THE FIRST STATE BANK OF ADAMS COUNTY",
+    "state": "OH",
+    "city": "WINCHESTER",
+    "transfer": true,
+    "settlement": false,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#ea5833",
+        "#6d5349",
+        "#194755"
+    ],
+    "name": "The First State Bank Of Adams County",
+    "website": "https://www.fsb4me.com",
+    "logo": "fsb4me.svg"
+}

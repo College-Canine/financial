@@ -1,0 +1,21 @@
+{
+    "routing": "042103473",
+    "short": "FIRST GRAYSON",
+    "long": "THE FIRST NATIONAL BANK OF GRAYSON",
+    "state": "KY",
+    "city": "GRAYSON",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1027051200000,
+    "country": "USA",
+    "colors": [
+        "#fefefd",
+        "#675658",
+        "#ae2224",
+        "#ce837f",
+        "#f4f28d"
+    ],
+    "name": "The First National Bank Of Grayson",
+    "website": "https://fnbgrayson.com",
+    "logo": "fnbgrayson.svg"
+}

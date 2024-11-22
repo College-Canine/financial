@@ -1,0 +1,19 @@
+{
+    "routing": "036076150",
+    "short": "CITIZENS BK OF PEN",
+    "long": "CITIZENS BANK OF PENNSYLVANIA",
+    "state": "PA",
+    "city": "PHILADELPHIA",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1477454400000,
+    "country": "USA",
+    "colors": [
+        "#368258",
+        "#f7fcfa",
+        "#92baa6"
+    ],
+    "name": "Citizens Bank Of Pennsylvania",
+    "website": "https://locations.citizensbank.com",
+    "logo": "citizensbank.svg"
+}

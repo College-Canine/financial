@@ -1,0 +1,19 @@
+{
+    "routing": "031312929",
+    "short": "FIRST PALMERTON",
+    "long": "FIRST NORTHERN BANK AND TRUST CO",
+    "state": "PA",
+    "city": "PALMERTON",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1325048400000,
+    "country": "USA",
+    "colors": [
+        "#a3b4c9",
+        "#1e60a9",
+        "#48494d"
+    ],
+    "name": "First Northern Bank And Trust",
+    "website": "https://www.1stnorthern.bank",
+    "logo": "1stnorthern.svg"
+}

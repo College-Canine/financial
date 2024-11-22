@@ -1,0 +1,21 @@
+{
+    "routing": "036018516",
+    "short": "ASIAN BK PHILA",
+    "long": "ASIAN BANK",
+    "state": "PA",
+    "city": "PHILADELPHIA",
+    "transfer": true,
+    "settlement": true,
+    "updated": 951195600000,
+    "country": "USA",
+    "colors": [
+        "#fefefb",
+        "#153963",
+        "#a92f43",
+        "#d69da1",
+        "#8d9db7"
+    ],
+    "name": "Asian Bank",
+    "website": "https://www.theasianbank.com",
+    "logo": "theasianbank.svg"
+}

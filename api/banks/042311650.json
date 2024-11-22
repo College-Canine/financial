@@ -1,0 +1,17 @@
+{
+    "routing": "042311650",
+    "short": "SAINT HENRY BANK",
+    "long": "THE ST. HENRY BANK",
+    "state": "OH",
+    "city": "SAINT HENRY",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#ffffff"
+    ],
+    "name": "The St. Henry Bank",
+    "website": "https://www.sthenrybank.com",
+    "logo": "sthenrybank.svg"
+}

@@ -1,0 +1,18 @@
+{
+    "routing": "041215812",
+    "short": "RESOLUTE BANK",
+    "long": "RESOLUTE BANK",
+    "state": "OH",
+    "city": "MAUMEE",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1432094400000,
+    "country": "USA",
+    "colors": [
+        "#1f445d",
+        "#fdfdfc"
+    ],
+    "name": "Resolute Bank",
+    "website": "https://www.fdic.gov",
+    "logo": "fdic.svg"
+}

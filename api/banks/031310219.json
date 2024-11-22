@@ -1,0 +1,20 @@
+{
+    "routing": "031310219",
+    "short": "JUNIATA MIFFLINTWN",
+    "long": "JUNIATA VALLEY BANK, THE",
+    "state": "PA",
+    "city": "MIFFLINTOWN",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1459742400000,
+    "country": "USA",
+    "colors": [
+        "#5f9c42",
+        "#fdfef5",
+        "#365626",
+        "#a0b993"
+    ],
+    "name": "Juniata Valley Bank The",
+    "website": "https://www.jvbonline.com",
+    "logo": "jvbonline.svg"
+}

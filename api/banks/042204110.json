@@ -1,0 +1,18 @@
+{
+    "routing": "042204110",
+    "short": "GREENVILLE NATL OH",
+    "long": "GREENVILLE NATIONAL BANK",
+    "state": "OH",
+    "city": "GREENVILLE",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#c4c2bc",
+        "#4c483e"
+    ],
+    "name": "Greenville National Bank",
+    "website": "https://www.bankgnb.bank",
+    "logo": "bankgnb.svg"
+}

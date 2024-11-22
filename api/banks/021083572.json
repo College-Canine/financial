@@ -1,0 +1,20 @@
+{
+    "routing": "021083572",
+    "short": "COLOMBIA",
+    "long": "COLOMBIA/FOREIGN DEPARTMENT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1202965200000,
+    "country": "USA",
+    "colors": [
+        "#ffffff",
+        "#6d7b86",
+        "#a36f5b",
+        "#d4ba8a"
+    ],
+    "website": "https://nuevayork.consulado.gov.co",
+    "name": "Colombia/foreign Department",
+    "logo": "gov.svg"
+}

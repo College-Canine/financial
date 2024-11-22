@@ -1,0 +1,18 @@
+{
+    "routing": "041204726",
+    "short": "FIRST BELLEVUE OH",
+    "long": "THE FIRST NATIONAL BANK OF BELLEVUE",
+    "state": "OH",
+    "city": "BELLEVUE",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#ffffff",
+        "#293a5b"
+    ],
+    "name": "The First National Bank Of Bellevue",
+    "website": "https://www.fnblifetime.com",
+    "logo": "fnblifetime.svg"
+}

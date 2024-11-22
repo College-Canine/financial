@@ -1,0 +1,19 @@
+{
+    "routing": "043019265",
+    "short": "BNY MELLON",
+    "long": "BNY MELLON, NATIONAL ASSOCIATION",
+    "state": "PA",
+    "city": "PITTSBURGH",
+    "transfer": false,
+    "settlement": true,
+    "updated": 1215576000000,
+    "country": "USA",
+    "colors": [
+        "#ebf0f2",
+        "#3e90a1",
+        "#1b3b51"
+    ],
+    "name": "Bny Mellon National Association",
+    "website": "https://www.bny.com",
+    "logo": "bny.svg"
+}

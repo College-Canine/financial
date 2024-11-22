@@ -1,0 +1,18 @@
+{
+    "routing": "041206782",
+    "short": "NATL BANK OF OHIO",
+    "long": "THE CROGHAN COLONIAL BANK",
+    "state": "OH",
+    "city": "OAK HARBOR",
+    "transfer": false,
+    "settlement": true,
+    "updated": 1415336400000,
+    "country": "USA",
+    "colors": [
+        "#fefdfe",
+        "#85a8bc"
+    ],
+    "name": "The Croghan Colonial Bank",
+    "website": "https://www.croghan.com",
+    "logo": "croghan.svg"
+}

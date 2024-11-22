@@ -1,0 +1,19 @@
+{
+    "routing": "042200910",
+    "short": "FIRST FINANCIAL BK",
+    "long": "FIRST FINANCIAL BANK",
+    "state": "OH",
+    "city": "CINCINNATI",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1522382400000,
+    "country": "USA",
+    "colors": [
+        "#fdc643",
+        "#483911",
+        "#aa8e3e"
+    ],
+    "name": "First Financial Bank",
+    "website": "https://www.bankatfirst.com",
+    "logo": "bankatfirst.svg"
+}

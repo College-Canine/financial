@@ -1,0 +1,19 @@
+{
+    "routing": "031314503",
+    "short": "PS BANK",
+    "long": "PS BANK",
+    "state": "PA",
+    "city": "WYALUSING",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1352437200000,
+    "country": "USA",
+    "colors": [
+        "#fdfefe",
+        "#202c61",
+        "#9ba0b2"
+    ],
+    "name": "Ps Bank",
+    "website": "https://www.psbanking.com",
+    "logo": "psbanking.svg"
+}

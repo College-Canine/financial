@@ -1,0 +1,18 @@
+{
+    "routing": "042206574",
+    "short": "RIVERHILLS BANK",
+    "long": "RIVERHILLS BANK",
+    "state": "OH",
+    "city": "NEW RICHMOND",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1481691600000,
+    "country": "USA",
+    "colors": [
+        "#fdfefe",
+        "#9cb1e2"
+    ],
+    "name": "Riverhills Bank",
+    "website": "https://www.rhb24.com",
+    "logo": "rhb24.svg"
+}

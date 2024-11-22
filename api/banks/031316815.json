@@ -1,0 +1,19 @@
+{
+    "routing": "031316815",
+    "short": "1ST SUMMIT BK JOHN",
+    "long": "1ST SUMMIT BANK",
+    "state": "PA",
+    "city": "JOHNSTOWN",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#9f2a74",
+        "#fbfbf6",
+        "#d09abe"
+    ],
+    "name": "1st Summit Bank",
+    "website": "https://www.1stsummit.bank",
+    "logo": "1stsummit.svg"
+}

@@ -1,0 +1,18 @@
+{
+    "routing": "026590073",
+    "short": "IADB P&I",
+    "long": "INTER-AMERICAN DEV. BK  ORD. CAPITAL",
+    "state": "DC",
+    "city": "WASHINGTON",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1143522000000,
+    "country": "USA",
+    "colors": [
+        "#e5edef",
+        "#23617c"
+    ],
+    "name": "Inter-american Dev. Bank Ord. Capital",
+    "website": "https://www.iadb.org",
+    "logo": "iadb.svg"
+}

@@ -1,0 +1,18 @@
+{
+    "routing": "042211572",
+    "short": "SOMERVILLE BK",
+    "long": "SOMERVILLE BANK",
+    "state": "OH",
+    "city": "SOMERVILLE",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1514523600000,
+    "country": "USA",
+    "colors": [
+        "#5583b7",
+        "#f6f8fb"
+    ],
+    "name": "Somerville Bank",
+    "website": "https://somervillebank.net",
+    "logo": "somervillebank.svg"
+}

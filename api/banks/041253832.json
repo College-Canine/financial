@@ -1,0 +1,19 @@
+{
+    "routing": "041253832",
+    "short": "INDEPEND FRANKLN",
+    "long": "INDEPENDENCE TRUST COMPANY",
+    "state": "TN",
+    "city": "FRANKLIN",
+    "transfer": false,
+    "settlement": true,
+    "updated": 1504670400000,
+    "country": "USA",
+    "colors": [
+        "#fdfefe",
+        "#1c5ea3",
+        "#85aace"
+    ],
+    "name": "Independence Trust Company",
+    "website": "https://argentfinancial.com",
+    "logo": "argentfinancial.svg"
+}

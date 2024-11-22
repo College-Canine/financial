@@ -1,0 +1,19 @@
+{
+    "routing": "031919021",
+    "short": "COVENANT BANK",
+    "long": "COVENANT BANK",
+    "state": "PA",
+    "city": "DOYLESTOWN",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1438228800000,
+    "country": "USA",
+    "colors": [
+        "#333333",
+        "#979797",
+        "#fdfdfd"
+    ],
+    "name": "Covenant Bank",
+    "website": "https://www.mapquest.com",
+    "logo": "mapquest.svg"
+}

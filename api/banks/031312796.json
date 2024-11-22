@@ -1,0 +1,22 @@
+{
+    "routing": "031312796",
+    "short": "NEW TRIPOLI NATL",
+    "long": "NEW TRIPOLI  BANK",
+    "state": "PA",
+    "city": "NEW TRIPOLI",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1088568000000,
+    "country": "USA",
+    "colors": [
+        "#473a50",
+        "#be7d68",
+        "#fdfdfe",
+        "#ec722e",
+        "#f1b53f",
+        "#633f1f"
+    ],
+    "name": "New Tripoli Bank",
+    "website": "https://www.newtripolibank.net",
+    "logo": "newtripolibank.svg"
+}

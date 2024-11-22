@@ -1,0 +1,19 @@
+{
+    "routing": "031312110",
+    "short": "PENNSTAR BANK",
+    "long": "NBT NATIONAL ASSOCIATION",
+    "state": "PA",
+    "city": "SCRANTON",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1415336400000,
+    "country": "USA",
+    "colors": [
+        "#fdfdfc",
+        "#eba5b7",
+        "#e6254f"
+    ],
+    "name": "NBT National Association",
+    "website": "https://www.nbtbank.com",
+    "logo": "nbtbank.svg"
+}

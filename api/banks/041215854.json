@@ -1,0 +1,20 @@
+{
+    "routing": "041215854",
+    "short": "WATERFORD BANK NA",
+    "long": "WATERFORD BANK, N.A.",
+    "state": "OH",
+    "city": "TOLEDO",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1199336400000,
+    "country": "USA",
+    "colors": [
+        "#fefefe",
+        "#135a8b",
+        "#8fa7b7",
+        "#14212b"
+    ],
+    "name": "Waterford Bank",
+    "website": "https://www.waterfordbankna.com",
+    "logo": "waterfordbankna.svg"
+}

@@ -1,0 +1,19 @@
+{
+    "routing": "042102694",
+    "short": "COMMUNITY TR BK NA",
+    "long": "COMMUNITY TRUST BANK, INC.",
+    "state": "KY",
+    "city": "PIKEVILLE",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1094702400000,
+    "country": "USA",
+    "colors": [
+        "#fdfefe",
+        "#2170a3",
+        "#86b5cf"
+    ],
+    "name": "Community Trust Bank Inc",
+    "website": "https://www.ctbi.com",
+    "logo": "ctbi.svg"
+}

@@ -1,0 +1,20 @@
+{
+    "routing": "042104168",
+    "short": "WHITAKER BANK LEX",
+    "long": "WHITAKER BANK, INC.",
+    "state": "KY",
+    "city": "LEXINGTON",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1542603600000,
+    "country": "USA",
+    "colors": [
+        "#fefdfe",
+        "#145293",
+        "#f5d35f",
+        "#6e92b7"
+    ],
+    "name": "Whitaker Bank Inc",
+    "website": "https://www.whitakerbank.com",
+    "logo": "whitakerbank.svg"
+}

@@ -1,0 +1,20 @@
+{
+    "routing": "041206135",
+    "short": "COML MILLERSBURG",
+    "long": "COMMERCIAL & SAVINGS BK, MILLERSBURG",
+    "state": "OH",
+    "city": "MILLERSBURG",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1109221200000,
+    "country": "USA",
+    "colors": [
+        "#fdfefe",
+        "#2b8e65",
+        "#4a4a4a",
+        "#849990"
+    ],
+    "name": "Commercial & Savings Bank Millersburg",
+    "website": "https://www.csb1.com",
+    "logo": "csb1.svg"
+}

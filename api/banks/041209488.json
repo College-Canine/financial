@@ -1,0 +1,19 @@
+{
+    "routing": "041209488",
+    "short": "STATE EDON",
+    "long": "EDON STATE BANK COMPANY OF EDON,OH.",
+    "state": "OH",
+    "city": "EDON",
+    "transfer": true,
+    "settlement": true,
+    "updated": 936072000000,
+    "country": "USA",
+    "colors": [
+        "#909bc7",
+        "#27378e",
+        "#f7f8fb"
+    ],
+    "name": "Edon State Bank Company Of Edon Oh",
+    "website": "https://www.yourstatebank.com",
+    "logo": "yourstatebank.svg"
+}

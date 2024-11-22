@@ -1,0 +1,19 @@
+{
+    "routing": "036002425",
+    "short": "FIR COMMERCL PHILA",
+    "long": "HSBC BANK USA, NA",
+    "state": "PA",
+    "city": "PHILADELPHIA",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1415336400000,
+    "country": "USA",
+    "colors": [
+        "#fcfdfc",
+        "#df8a92",
+        "#ba1122"
+    ],
+    "name": "HSBC Bank USA",
+    "website": "https://www.us.hsbc.com",
+    "logo": "hsbc.svg"
+}

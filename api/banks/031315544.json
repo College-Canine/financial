@@ -1,0 +1,20 @@
+{
+    "routing": "031315544",
+    "short": "SUSQUEHANNA COMM",
+    "long": "SUSQUEHANNA COMMUNITY BANK",
+    "state": "PA",
+    "city": "WEST MILTON",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1530244800000,
+    "country": "USA",
+    "colors": [
+        "#fefefb",
+        "#1c7974",
+        "#191919",
+        "#2fab7a"
+    ],
+    "name": "Susquehanna Community Bank",
+    "website": "https://scb.bank",
+    "logo": "scb.svg"
+}

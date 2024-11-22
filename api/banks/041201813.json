@@ -1,0 +1,19 @@
+{
+    "routing": "041201813",
+    "short": "INDEPENDENCE BANK",
+    "long": "INDEPENDENCE BANK",
+    "state": "OH",
+    "city": "INDEPENDENCE",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#1c63a4",
+        "#fbfefe",
+        "#97b8d3"
+    ],
+    "name": "Independence Bank",
+    "website": "https://www.1776bank.com",
+    "logo": "1776bank.svg"
+}

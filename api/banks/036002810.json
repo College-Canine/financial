@@ -1,0 +1,20 @@
+{
+    "routing": "036002810",
+    "short": "UNITED BK PHILA",
+    "long": "UNITED BANK OF PHILA.",
+    "state": "PA",
+    "city": "PHILADELPHIA",
+    "transfer": true,
+    "settlement": true,
+    "updated": 927086400000,
+    "country": "USA",
+    "colors": [
+        "#f9fbfa",
+        "#373737",
+        "#1069b2",
+        "#6a9fc0"
+    ],
+    "name": "United Bank Of Phila",
+    "website": "https://www.ubphila.com",
+    "logo": "ubphila.svg"
+}

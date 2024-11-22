@@ -1,0 +1,19 @@
+{
+    "routing": "043307841",
+    "short": "RIVERVIEW BANK",
+    "long": "RIVERVIEW BANK",
+    "state": "PA",
+    "city": "MARYSVILLE",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1460088000000,
+    "country": "USA",
+    "colors": [
+        "#4a91bd",
+        "#153a59",
+        "#e7f3f8"
+    ],
+    "name": "Riverview Bank",
+    "website": "https://www.riverviewbank.com",
+    "logo": "riverviewbank.svg"
+}

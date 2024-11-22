@@ -1,0 +1,19 @@
+{
+    "routing": "031918844",
+    "short": "PENN LIBERTY BANK",
+    "long": "WILMINGTON SAVINGS FUND SOCIETY, FSB",
+    "state": "DE",
+    "city": "WILMINGTON",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1537329600000,
+    "country": "USA",
+    "colors": [
+        "#179452",
+        "#fdfcfc",
+        "#96b7a6"
+    ],
+    "name": "Wilmington Savings Fund Society Fsb",
+    "website": "https://www.wsfsbank.com",
+    "logo": "wsfsbank.svg"
+}

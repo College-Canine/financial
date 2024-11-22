@@ -1,0 +1,19 @@
+{
+    "routing": "031308548",
+    "short": "WAYNE CO HONESDALE",
+    "long": "WAYNE BANK",
+    "state": "PA",
+    "city": "HONESDALE",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#10a5fb",
+        "#fdf8fb",
+        "#84d5f2"
+    ],
+    "name": "Wayne Bank",
+    "website": "https://wayne.bank",
+    "logo": "wayne.svg"
+}

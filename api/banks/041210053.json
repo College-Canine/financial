@@ -1,0 +1,19 @@
+{
+    "routing": "041210053",
+    "short": "KILLBUCK SAVINGS",
+    "long": "THE KILLBUCK SAVINGS BANK COMPANY",
+    "state": "OH",
+    "city": "KILLBUCK",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#fefdfe",
+        "#8d3d4d",
+        "#d3909b"
+    ],
+    "name": "The Killbuck Savings Bank Company",
+    "website": "https://www.killbuckbank.com",
+    "logo": "killbuckbank.svg"
+}

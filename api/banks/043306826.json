@@ -1,0 +1,19 @@
+{
+    "routing": "043306826",
+    "short": "FST CMWLTH INDIANA",
+    "long": "FIRST COMMONWEALTH BANK",
+    "state": "PA",
+    "city": "INDIANA",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#f9f4fa",
+        "#ce5288",
+        "#e7a1c3"
+    ],
+    "name": "First Commonwealth Bank",
+    "website": "https://www.fcbanking.com",
+    "logo": "fcbanking.svg"
+}

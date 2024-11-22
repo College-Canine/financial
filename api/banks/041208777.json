@@ -1,0 +1,19 @@
+{
+    "routing": "041208777",
+    "short": "SUTTON ATTICA",
+    "long": "SUTTON BANK",
+    "state": "OH",
+    "city": "ATTICA",
+    "transfer": true,
+    "settlement": false,
+    "updated": 959832000000,
+    "country": "USA",
+    "colors": [
+        "#fdfefd",
+        "#183784",
+        "#7c8baa"
+    ],
+    "name": "Sutton Bank",
+    "website": "https://www.suttonbank.com",
+    "logo": "suttonbank.svg"
+}

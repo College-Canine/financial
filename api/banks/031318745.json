@@ -1,0 +1,19 @@
+{
+    "routing": "031318745",
+    "short": "YORK TRADITIONS BK",
+    "long": "YORK TRADITIONS BANK",
+    "state": "PA",
+    "city": "YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1447736400000,
+    "country": "USA",
+    "colors": [
+        "#eaf2eb",
+        "#601240",
+        "#976a85"
+    ],
+    "name": "York Traditions Bank",
+    "website": "https://www.traditions.bank",
+    "logo": "traditions.svg"
+}

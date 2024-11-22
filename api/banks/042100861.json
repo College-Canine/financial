@@ -1,0 +1,19 @@
+{
+    "routing": "042100861",
+    "short": "FIRST STATE BK SE",
+    "long": "FIRST STATE BANK OF THE SOUTHEAST, I",
+    "state": "KY",
+    "city": "MIDDLESBORO",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1534824000000,
+    "country": "USA",
+    "colors": [
+        "#e2e9f5",
+        "#424e9a",
+        "#e23445"
+    ],
+    "name": "First State Bank Of The Southeast I",
+    "website": "https://www.ourfsb.bank",
+    "logo": "ourfsb.svg"
+}

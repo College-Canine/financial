@@ -1,0 +1,20 @@
+{
+    "routing": "031908485",
+    "short": "BRYN MAWR TR",
+    "long": "BRYN MAWR TRUST COMPANY, THE",
+    "state": "PA",
+    "city": "BRYN MAWR",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1444708800000,
+    "country": "USA",
+    "colors": [
+        "#5d7383",
+        "#192b57",
+        "#fefffe",
+        "#12653b"
+    ],
+    "name": "Bryn Mawr Trust Company The",
+    "website": "https://www.bmt.com",
+    "logo": "bmt.svg"
+}

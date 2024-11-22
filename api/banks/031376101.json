@@ -1,0 +1,19 @@
+{
+    "routing": "031376101",
+    "short": "UNION COMMUNITY BK",
+    "long": "UNION COMMUNITY BANK",
+    "state": "PA",
+    "city": "LANCASTER",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1331524800000,
+    "country": "USA",
+    "colors": [
+        "#fdfefe",
+        "#491168",
+        "#a080af"
+    ],
+    "name": "Union Community Bank",
+    "website": "https://communityfirst.com",
+    "logo": "communityfirst.svg"
+}

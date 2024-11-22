@@ -1,0 +1,19 @@
+{
+    "routing": "031309123",
+    "short": "BB&T NC",
+    "long": "BRANCH BANKING & TRUST COMPANY",
+    "state": "NC",
+    "city": "WINSTON SALEM",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1450328400000,
+    "country": "USA",
+    "colors": [
+        "#333333",
+        "#979797",
+        "#fdfdfd"
+    ],
+    "name": "Branch Banking & Trust Company",
+    "website": "https://www.mapquest.com",
+    "logo": "mapquest.svg"
+}

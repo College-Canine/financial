@@ -1,0 +1,19 @@
+{
+    "routing": "042100146",
+    "short": "CENTRAL LEX",
+    "long": "CENTRAL BANK AND TRUST COMPANY",
+    "state": "KY",
+    "city": "LEXINGTON",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#1a448c",
+        "#fefdfc",
+        "#748db6"
+    ],
+    "name": "Central Bank And Trust Company",
+    "website": "https://www.centralbank.com",
+    "logo": "centralbank.svg"
+}

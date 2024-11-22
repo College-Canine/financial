@@ -1,0 +1,18 @@
+{
+    "routing": "042105484",
+    "short": "JACKSON CNTY MCKEE",
+    "long": "JACKSON COUNTY BANK",
+    "state": "KY",
+    "city": "MC KEE",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1415336400000,
+    "country": "USA",
+    "colors": [
+        "#4c4c4c",
+        "#c0c0c0"
+    ],
+    "name": "Jackson County Bank",
+    "website": "https://www.jacksoncobank.com",
+    "logo": "jacksoncobank.svg"
+}

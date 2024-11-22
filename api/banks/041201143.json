@@ -1,0 +1,18 @@
+{
+    "routing": "041201143",
+    "short": "CONSUMERS MINERVA",
+    "long": "CONSUMERS NATIONAL BANK",
+    "state": "OH",
+    "city": "MINERVA",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#9f2243",
+        "#f1e0e4"
+    ],
+    "name": "Consumers National Bank",
+    "website": "https://www.consumers.bank",
+    "logo": "consumers.svg"
+}

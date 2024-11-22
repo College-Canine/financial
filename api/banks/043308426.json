@@ -1,0 +1,18 @@
+{
+    "routing": "043308426",
+    "short": "APOLLO TR CO",
+    "long": "APOLLO TRUST COMPANY",
+    "state": "PA",
+    "city": "APOLLO",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#fdfdfe",
+        "#5875b5"
+    ],
+    "name": "Apollo Trust Company",
+    "website": "https://apollotrust.com",
+    "logo": "apollotrust.svg"
+}

@@ -1,0 +1,17 @@
+{
+    "routing": "031919186",
+    "short": "MONUMENT BANK",
+    "long": "MONUMENT BANK",
+    "state": "PA",
+    "city": "DOYLESTOWN",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1333512000000,
+    "country": "USA",
+    "colors": [
+        "#daeaf4"
+    ],
+    "name": "Monument Bank",
+    "website": "https://www.linkedin.com",
+    "logo": "linkedin.svg"
+}

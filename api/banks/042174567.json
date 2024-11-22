@@ -1,0 +1,21 @@
+{
+    "routing": "042174567",
+    "short": "VICTORY COMM BK",
+    "long": "VICTORY COMMUNITY BANK",
+    "state": "KY",
+    "city": "LAKESIDE PARK",
+    "transfer": false,
+    "settlement": false,
+    "updated": 1319515200000,
+    "country": "USA",
+    "colors": [
+        "#fffde2",
+        "#ffc812",
+        "#a99c93",
+        "#fff481",
+        "#c97d19"
+    ],
+    "name": "Victory Community Bank",
+    "website": "https://www.yellowpages.com",
+    "logo": "yellowpages.svg"
+}

@@ -1,0 +1,19 @@
+{
+    "routing": "041205958",
+    "short": "HICKSVILLE BK",
+    "long": "THE HICKSVILLE BANK",
+    "state": "OH",
+    "city": "HICKSVILLE",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#fefdfc",
+        "#5c78a0",
+        "#133a95"
+    ],
+    "name": "The Hicksville Bank",
+    "website": "https://www.thb.bank",
+    "logo": "thb.svg"
+}

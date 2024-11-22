@@ -1,0 +1,15 @@
+{
+    "routing": "042101572",
+    "short": "KY FARM CATLETTSBG",
+    "long": "KENTUCKY FARMERS BANK CORPORATION",
+    "state": "KY",
+    "city": "ASHLAND",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1285300800000,
+    "country": "USA",
+    "colors": [],
+    "name": "Kentucky Farmers Bank Corporation",
+    "website": "https://www.kfb.bank",
+    "logo": "kfb.svg"
+}

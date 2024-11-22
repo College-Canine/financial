@@ -1,0 +1,19 @@
+{
+    "routing": "041215621",
+    "short": "SIGNATURE TOLEDO",
+    "long": "SIGNATURE BANK NA",
+    "state": "OH",
+    "city": "TOLEDO",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1035781200000,
+    "country": "USA",
+    "colors": [
+        "#25527d",
+        "#fefefd",
+        "#9eb2c3"
+    ],
+    "name": "Signature Bank",
+    "website": "https://www.signaturebankna.com",
+    "logo": "signaturebankna.svg"
+}

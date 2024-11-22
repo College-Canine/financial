@@ -1,0 +1,18 @@
+{
+    "routing": "042174486",
+    "short": "BB&T NC",
+    "long": "BRANCH BANKING & TRUST COMPANY",
+    "state": "KY",
+    "city": "PIKEVILLE",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1483074000000,
+    "country": "USA",
+    "colors": [
+        "#2b1a46",
+        "#fefdfe"
+    ],
+    "name": "Branch Banking & Trust Company",
+    "website": "https://www.truist.com",
+    "logo": "truist.svg"
+}

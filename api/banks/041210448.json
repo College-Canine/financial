@@ -1,0 +1,18 @@
+{
+    "routing": "041210448",
+    "short": "MIDDLEFIELD BKG CO",
+    "long": "THE MIDDLEFIELD BANKING COMPANY",
+    "state": "OH",
+    "city": "MIDDLEFIELD",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#2b8290",
+        "#fdfefd"
+    ],
+    "name": "The Middlefield Banking Company",
+    "website": "https://www.middlefieldbank.bank",
+    "logo": "middlefieldbank.svg"
+}

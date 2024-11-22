@@ -1,0 +1,19 @@
+{
+    "routing": "042206503",
+    "short": "FIRST GERMANTOWN",
+    "long": "FIRST NATIONAL BANK OF GERMANTOWN",
+    "state": "OH",
+    "city": "GERMANTOWN",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#fefefe",
+        "#b39fc4",
+        "#5c397b"
+    ],
+    "name": "First National Bank Of Germantown",
+    "website": "https://fnbgermantown.com",
+    "logo": "fnbgermantown.svg"
+}

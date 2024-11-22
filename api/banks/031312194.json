@@ -1,0 +1,19 @@
+{
+    "routing": "031312194",
+    "short": "VIST BANK",
+    "long": "VIST BANK",
+    "state": "PA",
+    "city": "LEESPORT",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1206936000000,
+    "country": "USA",
+    "colors": [
+        "#fefdff",
+        "#c3872a",
+        "#d8bc8a"
+    ],
+    "name": "Vist Bank",
+    "website": "https://www.tompkinsbank.com",
+    "logo": "tompkinsbank.svg"
+}

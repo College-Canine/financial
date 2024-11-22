@@ -1,0 +1,18 @@
+{
+    "routing": "042309222",
+    "short": "PEOPLES COLDWATR",
+    "long": "THE PEOPLES BANK COMPANY",
+    "state": "OH",
+    "city": "COLDWATER",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#56ab9d",
+        "#ffffff"
+    ],
+    "name": "The Peoples Bank Company",
+    "website": "https://pbc.bank",
+    "logo": "pbc.svg"
+}

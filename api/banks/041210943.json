@@ -1,0 +1,18 @@
+{
+    "routing": "041210943",
+    "short": "OTTOVILLE BANK",
+    "long": "THE OTTOVILLE BANK COMPANY",
+    "state": "OH",
+    "city": "OTTOVILLE",
+    "transfer": true,
+    "settlement": true,
+    "updated": 939787200000,
+    "country": "USA",
+    "colors": [
+        "#fefdfe",
+        "#34695a"
+    ],
+    "name": "The Ottoville Bank Company",
+    "website": "https://ottovillebank.com",
+    "logo": "ottovillebank.svg"
+}

@@ -1,0 +1,19 @@
+{
+    "routing": "031918873",
+    "short": "FIRST RESOURCE BK",
+    "long": "FIRST RESOURCE BANK",
+    "state": "PA",
+    "city": "EXTON",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1222142400000,
+    "country": "USA",
+    "colors": [
+        "#fbfefe",
+        "#cc8097",
+        "#295894"
+    ],
+    "name": "First Resource Bank",
+    "website": "https://www.firstresourcebank.com",
+    "logo": "firstresourcebank.svg"
+}

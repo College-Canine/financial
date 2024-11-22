@@ -9,8 +9,10 @@
     "updated": null,
     "country": "USA",
     "colors": [
-        "#e4e4e4",
-        "#787979"
+        "#ffffff",
+        "#6d7b86",
+        "#a36f5b",
+        "#d4ba8a"
     ],
     "website": "https://nbg.gov.ge",
     "logo": "gov.svg",

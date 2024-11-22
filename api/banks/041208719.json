@@ -1,0 +1,19 @@
+{
+    "routing": "041208719",
+    "short": "ANDOVER BK",
+    "long": "THE ANDOVER BANK",
+    "state": "OH",
+    "city": "ANDOVER",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#fefefd",
+        "#3981a6",
+        "#454344"
+    ],
+    "name": "The Andover Bank",
+    "website": "https://www.andover.bank",
+    "logo": "andover.svg"
+}

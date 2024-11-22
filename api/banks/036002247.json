@@ -1,0 +1,18 @@
+{
+    "routing": "036002247",
+    "short": "REPUBLIC FIRST PHI",
+    "long": "REPUBLIC FIRST BK DBA REPUBLIC BANK",
+    "state": "PA",
+    "city": "PHILADELPHIA",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1282276800000,
+    "country": "USA",
+    "colors": [
+        "#1f445d",
+        "#fdfdfc"
+    ],
+    "name": "Republic First Bank Dba Republic Bank",
+    "website": "https://www.fdic.gov",
+    "logo": "fdic.svg"
+}

@@ -1,0 +1,20 @@
+{
+    "routing": "042101792",
+    "short": "FARMERS NICHOLASVL",
+    "long": "THE FARMERS BANK",
+    "state": "KY",
+    "city": "NICHOLASVILLE",
+    "transfer": false,
+    "settlement": false,
+    "updated": 1493956800000,
+    "country": "USA",
+    "colors": [
+        "#365157",
+        "#f8a267",
+        "#1c3261",
+        "#907c5c"
+    ],
+    "name": "The Farmers Bank",
+    "website": "https://myfarmersbank.net",
+    "logo": "myfarmersbank.svg"
+}

@@ -1,0 +1,20 @@
+{
+    "routing": "026000110",
+    "short": "UNITED BK AFRICA",
+    "long": "UNITED BANK FOR AFRICA PLC",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1503460800000,
+    "country": "USA",
+    "colors": [
+        "#fefdfd",
+        "#cf232a",
+        "#969796",
+        "#e0898b"
+    ],
+    "name": "United Bank For Africa Plc",
+    "website": "https://www.ubaamerica.com",
+    "logo": "ubaamerica.svg"
+}

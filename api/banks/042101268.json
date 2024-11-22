@@ -1,0 +1,18 @@
+{
+    "routing": "042101268",
+    "short": "PEOPLES BEREA",
+    "long": "PEOPLES BANK & TRUST CO./MADISON CTY",
+    "state": "KY",
+    "city": "BEREA",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#fefefe",
+        "#434343"
+    ],
+    "name": "Peoples Bank & Trust Co./madison Cty",
+    "website": "https://www.bloomberg.com",
+    "logo": "bloomberg.svg"
+}

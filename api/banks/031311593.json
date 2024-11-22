@@ -1,0 +1,18 @@
+{
+    "routing": "031311593",
+    "short": "FIRST FLEETWOOD",
+    "long": "FLEETWOOD BANK",
+    "state": "PA",
+    "city": "FLEETWOOD",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1144036800000,
+    "country": "USA",
+    "colors": [
+        "#fdfefe",
+        "#337091"
+    ],
+    "name": "Fleetwood Bank",
+    "website": "https://www.fleetwoodbank.com",
+    "logo": "fleetwoodbank.svg"
+}

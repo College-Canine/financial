@@ -1,0 +1,19 @@
+{
+    "routing": "026009988",
+    "short": "NATL BK EGYPT NY",
+    "long": "NATIONAL BANK OF EGYPT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 978411600000,
+    "country": "USA",
+    "colors": [
+        "#14743a",
+        "#ffffff",
+        "#96c2a8"
+    ],
+    "website": "https://0adf180.netsolhost.com",
+    "name": "National Bank Of Egypt",
+    "logo": "netsolhost.svg"
+}

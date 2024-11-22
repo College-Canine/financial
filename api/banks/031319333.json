@@ -1,0 +1,20 @@
+{
+    "routing": "031319333",
+    "short": "ORRSTOWN BK",
+    "long": "ORRSTOWN BANK",
+    "state": "PA",
+    "city": "SHIPPENSBURG",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1490932800000,
+    "country": "USA",
+    "colors": [
+        "#466332",
+        "#ad934e",
+        "#7ba59c",
+        "#fbfcfe"
+    ],
+    "name": "Orrstown Bank",
+    "website": "https://www.orrstown.com",
+    "logo": "orrstown.svg"
+}

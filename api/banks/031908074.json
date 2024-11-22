@@ -1,0 +1,19 @@
+{
+    "routing": "031908074",
+    "short": "DNB FIRST",
+    "long": "DNB FIRST, NATIONAL ASSOCIATION",
+    "state": "PA",
+    "city": "DOWNINGTOWN",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1502251200000,
+    "country": "USA",
+    "colors": [
+        "#fcf8fa",
+        "#b37189",
+        "#801339"
+    ],
+    "name": "Dnb First National Association",
+    "website": "https://www.dnbfirst.com",
+    "logo": "dnbfirst.svg"
+}

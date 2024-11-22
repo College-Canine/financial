@@ -1,0 +1,19 @@
+{
+    "routing": "042000314",
+    "short": "FIFTH THIRD CINCI",
+    "long": "FIFTH THIRD BANK",
+    "state": "OH",
+    "city": "CINCINNATI",
+    "transfer": true,
+    "settlement": true,
+    "updated": 984373200000,
+    "country": "USA",
+    "colors": [
+        "#8ea7cd",
+        "#1b459c",
+        "#fefefe"
+    ],
+    "name": "Fifth Third Bank",
+    "website": "https://locations.53.com",
+    "logo": "53.svg"
+}

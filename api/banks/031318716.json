@@ -1,0 +1,21 @@
+{
+    "routing": "031318716",
+    "short": "EMBASSY BANK",
+    "long": "EMBASSY BANK FOR THE LEHIGH VALLEY",
+    "state": "PA",
+    "city": "BETHLEHEM",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1495512000000,
+    "country": "USA",
+    "colors": [
+        "#fdfefe",
+        "#f8bd42",
+        "#f7e5ad",
+        "#87adc2",
+        "#1e4d6a"
+    ],
+    "name": "Embassy Bank For The Lehigh Valley",
+    "website": "https://www.embassybank.com",
+    "logo": "embassybank.svg"
+}

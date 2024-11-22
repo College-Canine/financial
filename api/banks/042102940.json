@@ -1,0 +1,19 @@
+{
+    "routing": "042102940",
+    "short": "FIRST PRESTONSBRG",
+    "long": "FIRST COMMONWEALTH BANK",
+    "state": "KY",
+    "city": "PRESTONSBURG",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#f9f4fa",
+        "#ce5288",
+        "#e7a1c3"
+    ],
+    "name": "First Commonwealth Bank",
+    "website": "https://www.fcbanking.com",
+    "logo": "fcbanking.svg"
+}

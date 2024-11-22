@@ -1,0 +1,19 @@
+{
+    "routing": "041209624",
+    "short": "GENOA BANKING",
+    "long": "THE GENOA BANKING COMPANY",
+    "state": "OH",
+    "city": "GENOA",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#fefefc",
+        "#1164aa",
+        "#9fcdee"
+    ],
+    "name": "The Genoa Banking Company",
+    "website": "https://www.genoabank.com",
+    "logo": "genoabank.svg"
+}

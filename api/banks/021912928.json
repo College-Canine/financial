@@ -1,0 +1,17 @@
+{
+    "routing": "021912928",
+    "short": "CATSKILL HUD BK",
+    "long": "CATSKILL HUDSON BANK",
+    "state": "NY",
+    "city": "MONTICELLO",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1301284800000,
+    "country": "USA",
+    "colors": [
+        "#20a94d"
+    ],
+    "name": "Catskill Hudson Bank",
+    "website": "https://www.chbny.com",
+    "logo": "chbny.svg"
+}

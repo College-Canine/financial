@@ -1,0 +1,18 @@
+{
+    "routing": "041202744",
+    "short": "CROGHAN FREMONT",
+    "long": "THE CROGHAN COLONIAL BANK",
+    "state": "OH",
+    "city": "FREMONT",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#fefdfe",
+        "#85a8bc"
+    ],
+    "name": "The Croghan Colonial Bank",
+    "website": "https://www.croghan.com",
+    "logo": "croghan.svg"
+}

@@ -1,0 +1,19 @@
+{
+    "routing": "042104854",
+    "short": "CUMB SEC SOMERSET",
+    "long": "CUMBERLAND SECURITY BANK",
+    "state": "KY",
+    "city": "EUBANK",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#fbfdfc",
+        "#e34b4b",
+        "#f3a6a3"
+    ],
+    "name": "Cumberland Security Bank",
+    "website": "https://www.csbweb.com",
+    "logo": "csbweb.svg"
+}

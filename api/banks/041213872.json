@@ -1,0 +1,18 @@
+{
+    "routing": "041213872",
+    "short": "METAMORA STATE",
+    "long": "THE METAMORA STATE BANK",
+    "state": "OH",
+    "city": "METAMORA",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1246420800000,
+    "country": "USA",
+    "colors": [
+        "#fdfdfd",
+        "#6c7474"
+    ],
+    "name": "The Metamora State Bank",
+    "website": "https://www.metamorabank.com",
+    "logo": "metamorabank.svg"
+}

@@ -1,0 +1,19 @@
+{
+    "routing": "042102403",
+    "short": "FST STHRN LANCASTR",
+    "long": "FIRST SOUTHERN NATIONAL BANK",
+    "state": "KY",
+    "city": "STANFORD",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#fefffd",
+        "#2a4534",
+        "#9aa59e"
+    ],
+    "name": "First Southern National Bank",
+    "website": "https://fsnb.net",
+    "logo": "fsnb.svg"
+}

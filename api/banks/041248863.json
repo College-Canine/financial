@@ -1,0 +1,19 @@
+{
+    "routing": "041248863",
+    "short": "TRUST CO PSEUDO",
+    "long": "THE TRUST COMPANY OF TOLEDO, N.A.",
+    "state": "OH",
+    "city": "HOLLAND",
+    "transfer": false,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#655844",
+        "#ffffff",
+        "#a7a7a8"
+    ],
+    "name": "The Trust Company Of Toledo",
+    "website": "https://www.tcfona.com",
+    "logo": "tcfona.svg"
+}

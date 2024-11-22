@@ -1,0 +1,21 @@
+{
+    "routing": "042107673",
+    "short": "CITIZENS MOREHEAD",
+    "long": "THE CITIZENS BANK",
+    "state": "KY",
+    "city": "MOREHEAD",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#fdfcfb",
+        "#bdd12f",
+        "#98929e",
+        "#372d49",
+        "#d8e288"
+    ],
+    "name": "The Citizens Bank",
+    "website": "https://www.tcbanytime.com",
+    "logo": "tcbanytime.svg"
+}

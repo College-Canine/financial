@@ -1,0 +1,18 @@
+{
+    "routing": "043202946",
+    "short": "UNIFIED BANK",
+    "long": "UNIFIED BANK",
+    "state": "OH",
+    "city": "MARTINS FERRY",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1507694400000,
+    "country": "USA",
+    "colors": [
+        "#fcfef8",
+        "#1872a7"
+    ],
+    "name": "Unified Bank",
+    "website": "https://unifiedbank.com",
+    "logo": "unifiedbank.svg"
+}

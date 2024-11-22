@@ -1,0 +1,18 @@
+{
+    "routing": "031313753",
+    "short": "TURBOTVILLE NATL",
+    "long": "TURBOTVILLE NATIONAL BANK",
+    "state": "PA",
+    "city": "TURBOVILLE",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#2952a1",
+        "#23a4dd"
+    ],
+    "name": "Turbotville National Bank",
+    "website": "https://www.ttnb.com",
+    "logo": "ttnb.svg"
+}

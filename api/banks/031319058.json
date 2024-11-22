@@ -1,0 +1,19 @@
+{
+    "routing": "031319058",
+    "short": "WOODFOREST NAT BAN",
+    "long": "WOODFOREST NATIONAL BANK",
+    "logo": "woodforest.svg",
+    "state": "PA",
+    "city": "LEWISBURG",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1174449600000,
+    "country": "USA",
+    "colors": [
+        "#010101",
+        "#55A939",
+        "#FFFFFF"
+    ],
+    "name": "Woodforest National Bank",
+    "website": "https://www.woodforest.com"
+}

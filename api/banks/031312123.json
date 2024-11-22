@@ -1,0 +1,19 @@
+{
+    "routing": "031312123",
+    "short": "BK OF LANDISBURG",
+    "long": "BANK OF LANDISBURG",
+    "state": "PA",
+    "city": "LANDISBURG",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#fefefe",
+        "#959bc0",
+        "#232c86"
+    ],
+    "name": "Bank Of Landisburg",
+    "website": "https://bankoflandisburg.com",
+    "logo": "bankoflandisburg.svg"
+}

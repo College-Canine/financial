@@ -1,0 +1,21 @@
+{
+    "routing": "041206876",
+    "short": "CORN DESHLER",
+    "long": "THE CORN CITY STATE BANK",
+    "state": "OH",
+    "city": "DESHLER",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#fdfefd",
+        "#48603c",
+        "#668d31",
+        "#fefc5c",
+        "#a2a19d"
+    ],
+    "name": "The Corn City State Bank",
+    "website": "https://www.corncitystatebank.com",
+    "logo": "corncitystatebank.svg"
+}

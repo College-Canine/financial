@@ -1,0 +1,18 @@
+{
+    "routing": "042215578",
+    "short": "CENTER BANK",
+    "long": "CENTERBANK",
+    "state": "OH",
+    "city": "MILFORD",
+    "transfer": false,
+    "settlement": true,
+    "updated": 1519621200000,
+    "country": "USA",
+    "colors": [
+        "#f9fefd",
+        "#89c6e6"
+    ],
+    "name": "Centerbank",
+    "website": "https://www.center.bank",
+    "logo": "center.svg"
+}

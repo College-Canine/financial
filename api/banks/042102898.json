@@ -1,0 +1,20 @@
+{
+    "routing": "042102898",
+    "short": "CITZ DEP VANCEBURG",
+    "long": "CITIZENS DEPOSIT BANK & TRUST, INC.",
+    "state": "KY",
+    "city": "VANCEBURG",
+    "transfer": true,
+    "settlement": true,
+    "updated": 945925200000,
+    "country": "USA",
+    "colors": [
+        "#783231",
+        "#eee2e4",
+        "#b9975b",
+        "#c19096"
+    ],
+    "name": "Citizens Deposit Bank & Trust Inc",
+    "website": "https://cdbky.com",
+    "logo": "cdbky.svg"
+}

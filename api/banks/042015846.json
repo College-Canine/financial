@@ -1,0 +1,20 @@
+{
+    "routing": "042015846",
+    "short": "C BANK",
+    "long": "C BANK",
+    "state": "OH",
+    "city": "CINCINNATI",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1497499200000,
+    "country": "USA",
+    "colors": [
+        "#f5faf8",
+        "#cd5a6d",
+        "#c81231",
+        "#e2aeb7"
+    ],
+    "name": "C Bank",
+    "website": "https://business.uc.edu",
+    "logo": "uc.svg"
+}

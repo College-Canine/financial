@@ -1,0 +1,19 @@
+{
+    "routing": "026003023",
+    "short": "SAFRA NATIONAL",
+    "long": "SAFRA NATIONAL BANK OF NEW YORK",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#171f4a",
+        "#fafdfe",
+        "#5c6179"
+    ],
+    "name": "Safra National Bank Of New York",
+    "website": "https://www.safra.com",
+    "logo": "safra.svg"
+}

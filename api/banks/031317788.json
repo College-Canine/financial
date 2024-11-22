@@ -1,0 +1,19 @@
+{
+    "routing": "031317788",
+    "short": "COMMUNITY ORBISONI",
+    "long": "COMMUNITY STATE BANK OF ORBISONIA",
+    "state": "PA",
+    "city": "ORBISONIA",
+    "transfer": false,
+    "settlement": true,
+    "updated": 1415336400000,
+    "country": "USA",
+    "colors": [
+        "#fdfeff",
+        "#999da2",
+        "#3f4650"
+    ],
+    "name": "Community State Bank Of Orbisonia",
+    "website": "https://communitystate.bank",
+    "logo": "communitystate.svg"
+}

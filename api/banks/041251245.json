@@ -1,0 +1,18 @@
+{
+    "routing": "041251245",
+    "short": "BANK OF AMERICA",
+    "long": "BANK OF AMERICA NA",
+    "logo": "bofa.svg",
+    "state": "DE",
+    "city": "WILMINGTON",
+    "transfer": false,
+    "settlement": true,
+    "updated": 1445227200000,
+    "country": "USA",
+    "colors": [
+        "#E31837",
+        "#012169"
+    ],
+    "name": "Bank Of America",
+    "website": "https://locators.bankofamerica.com"
+}

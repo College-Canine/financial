@@ -1,0 +1,22 @@
+{
+    "routing": "042105442",
+    "short": "FIRST MANCHESTER",
+    "long": "FIRST NATIONAL BANK OF MANCHESTER",
+    "state": "KY",
+    "city": "MANCHESTER",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#31646c",
+        "#8d876e",
+        "#3b441b",
+        "#87bd17",
+        "#ceb368",
+        "#f4f5f3"
+    ],
+    "name": "First National Bank Of Manchester",
+    "website": "https://fnbmbank.com",
+    "logo": "fnbmbank.svg"
+}

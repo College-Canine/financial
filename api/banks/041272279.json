@@ -1,0 +1,20 @@
+{
+    "routing": "041272279",
+    "short": "WESTFIELD BANK,FSB",
+    "long": "WESTFIELD BANK, FSB",
+    "state": "OH",
+    "city": "WESTFIELD CENTER",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1415336400000,
+    "country": "USA",
+    "colors": [
+        "#fcfffe",
+        "#f2502a",
+        "#717371",
+        "#e36f60"
+    ],
+    "name": "Westfield Bank Fsb",
+    "website": "https://www.westfield-bank.com",
+    "logo": "westfield-bank.svg"
+}

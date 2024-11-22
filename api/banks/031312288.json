@@ -1,0 +1,19 @@
+{
+    "routing": "031312288",
+    "short": "LUZERNE BANK",
+    "long": "LUZERNE  BANK",
+    "state": "PA",
+    "city": "LUZERNE",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1172206800000,
+    "country": "USA",
+    "colors": [
+        "#fdfefd",
+        "#8f96a4",
+        "#162338"
+    ],
+    "name": "Luzerne Bank",
+    "website": "https://www.luzernebank.com",
+    "logo": "luzernebank.svg"
+}

@@ -1,0 +1,15 @@
+{
+    "routing": "043306855",
+    "short": "S AND T INDIANA",
+    "long": "S & T BANK",
+    "state": "PA",
+    "city": "INDIANA",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [],
+    "name": "S & T Bank",
+    "website": "https://www.stbank.com",
+    "logo": "stbank.svg"
+}

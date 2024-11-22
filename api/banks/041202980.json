@@ -1,0 +1,20 @@
+{
+    "routing": "041202980",
+    "short": "CREDIT FST BROOKPK",
+    "long": "CREDIT FIRST NATIONAL ASSOCIATION",
+    "state": "OH",
+    "city": "BROOK PARK",
+    "transfer": true,
+    "settlement": false,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#291017",
+        "#173b66",
+        "#de2726",
+        "#2bb2c0"
+    ],
+    "name": "Credit First National Association",
+    "website": "https://www.cfna.com",
+    "logo": "cfna.svg"
+}

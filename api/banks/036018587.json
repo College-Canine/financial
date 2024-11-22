@@ -1,0 +1,19 @@
+{
+    "routing": "036018587",
+    "short": "PHILA TR CO",
+    "long": "PHILADELPHIA TRUST COMPANY",
+    "state": "PA",
+    "city": "PHILADELPHIA",
+    "transfer": false,
+    "settlement": true,
+    "updated": 1032494400000,
+    "country": "USA",
+    "colors": [
+        "#f9fbfd",
+        "#111c5d",
+        "#6d789a"
+    ],
+    "name": "Philadelphia Trust Company",
+    "website": "https://philadelphiatrust.com",
+    "logo": "philadelphiatrust.svg"
+}

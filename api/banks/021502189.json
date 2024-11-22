@@ -1,0 +1,18 @@
+{
+    "routing": "021502189",
+    "short": "FACE BANK",
+    "long": "FACE BANK INTERNATIONAL CORPORATION",
+    "state": "PR",
+    "city": "GUAYNABO",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1366948800000,
+    "country": "USA",
+    "colors": [
+        "#64b6ba",
+        "#f6fcfe"
+    ],
+    "name": "Face Bank International Corporation",
+    "website": "https://facebank.pr",
+    "logo": "facebank.svg"
+}

@@ -1,0 +1,18 @@
+{
+    "routing": "041205518",
+    "short": "FIRST ORRVILLE",
+    "long": "FARMERS NATIONAL BANK OF CANFIELD",
+    "state": "OH",
+    "city": "CANFIELD",
+    "transfer": false,
+    "settlement": true,
+    "updated": 1446440400000,
+    "country": "USA",
+    "colors": [
+        "#1b6ea7",
+        "#b9d8e3"
+    ],
+    "name": "Farmers National Bank Of Canfield",
+    "website": "https://farmersbankgroup.com",
+    "logo": "farmersbankgroup.svg"
+}

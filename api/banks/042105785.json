@@ -1,0 +1,20 @@
+{
+    "routing": "042105785",
+    "short": "UNITED CUMBERLAND",
+    "long": "UNITED CUMBERLAND BANK",
+    "state": "KY",
+    "city": "WHITLEY CITY",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1399348800000,
+    "country": "USA",
+    "colors": [
+        "#fdfeff",
+        "#245ca1",
+        "#a8a8a8",
+        "#f28d46"
+    ],
+    "name": "United Cumberland Bank",
+    "website": "https://www.unitedcumberland.com",
+    "logo": "unitedcumberland.svg"
+}

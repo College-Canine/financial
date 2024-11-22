@@ -1,0 +1,18 @@
+{
+    "routing": "042104825",
+    "short": "CUMBERLAND LONDON",
+    "long": "CUMBERLAND VALLEY NATL BK & TR CO",
+    "state": "KY",
+    "city": "LONDON",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1020052800000,
+    "country": "USA",
+    "colors": [
+        "#1b97da",
+        "#9bd1e3"
+    ],
+    "name": "Cumberland Valley Natl Bank & Trust",
+    "website": "https://www.cvnb.com",
+    "logo": "cvnb.svg"
+}

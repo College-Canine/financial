@@ -1,0 +1,19 @@
+{
+    "routing": "041205246",
+    "short": "FST UPPER SANDUSKY",
+    "long": "1ST CITIZENS NAT BK OF UPPER SANDUSK",
+    "state": "OH",
+    "city": "UPPER SANDUSKY",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#fefdfe",
+        "#dba5b6",
+        "#89223f"
+    ],
+    "name": "1st Citizens National Bank Of Upper Sandusk",
+    "website": "https://www.firstcitizensnational.com",
+    "logo": "firstcitizensnational.svg"
+}

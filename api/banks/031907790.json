@@ -1,0 +1,21 @@
+{
+    "routing": "031907790",
+    "short": "QNB BANK",
+    "long": "QNB BANK",
+    "state": "PA",
+    "city": "QUAKERTOWN",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1220587200000,
+    "country": "USA",
+    "colors": [
+        "#fafafa",
+        "#c07a5d",
+        "#112d52",
+        "#f27736",
+        "#86a0bb"
+    ],
+    "name": "Qnb Bank",
+    "website": "https://www.qnbbank.com",
+    "logo": "qnbbank.svg"
+}

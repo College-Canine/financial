@@ -1,0 +1,18 @@
+{
+    "routing": "042106580",
+    "short": "PEOPLE BEATTYVILLE",
+    "long": "PEOPLES EXCHANGE BANK OF BEATTYVILLE",
+    "state": "KY",
+    "city": "WINCHESTER",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1381464000000,
+    "country": "USA",
+    "colors": [
+        "#fefafc",
+        "#146551"
+    ],
+    "name": "Peoples Exchange Bank Of Beattyville",
+    "website": "https://www.pebank.com",
+    "logo": "pebank.svg"
+}

@@ -1,0 +1,19 @@
+{
+    "routing": "043308691",
+    "short": "SOMERSET TRUST PA",
+    "long": "SOMERSET TRUST COMPANY",
+    "state": "PA",
+    "city": "SOMERSET",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#f5eed4",
+        "#f48c19",
+        "#5b7f6a"
+    ],
+    "name": "Somerset Trust Company",
+    "website": "https://www.somersettrust.com",
+    "logo": "somersettrust.svg"
+}
