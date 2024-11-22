@@ -19,7 +19,7 @@
 | UNION SAVINGS BANK | CT, USA | ![UNION SAVINGS BANK Logo](https://raw.githubusercontent.com/College-Canine/financial/master/logos/bank/unionsavings.svg) |  |
 | SALISBURY BANK & TRUST CO. | CT, USA | ![SALISBURY BANK & TRUST CO. Logo](https://raw.githubusercontent.com/College-Canine/financial/master/logos/bank/nbtbank.svg) |  |
 | THE NATIONAL IRON BANK | CT, USA | ![THE NATIONAL IRON BANK Logo](https://raw.githubusercontent.com/College-Canine/financial/master/logos/bank/ironbank.svg) |  |
-| TD BANK, NA | CT, USA | ![TD BANK, NA Logo](https://raw.githubusercontent.com/College-Canine/financial/master/logos/bank/td.svg) | ![#003F2D](https://placehold.co/15x15/003F2D/003F2D.png)![#54B848](https://placehold.co/15x15/54B848/54B848.png)![#FFFFFF](https://placehold.co/15x15/FFFFFF/FFFFFF.png) |
+| TD BANK, NA | CT, USA | ![TD BANK, NA Logo](https://raw.githubusercontent.com/College-Canine/financial/master/logos/bank/td.svg) |  |
 | PATRIOT BANK, NATIONAL ASSOCIATION | CT, USA | ![PATRIOT BANK, NATIONAL ASSOCIATION Logo](https://raw.githubusercontent.com/College-Canine/financial/master/logos/bank/bankpatriot.svg) |  |
 | SIMSBURY BANK AND TRUST CO | CT, USA | ![SIMSBURY BANK AND TRUST CO Logo](https://raw.githubusercontent.com/College-Canine/financial/master/logos/bank/liberty-bank.svg) |  |
 | ATLANTIC COMMUNITY BANKERS BANK | CT, USA | ![ATLANTIC COMMUNITY BANKERS BANK Logo](https://raw.githubusercontent.com/College-Canine/financial/master/logos/bank/acbb.svg) |  |
@@ -460,9 +460,9 @@
 | PENNIAN BANK | PA, USA | ![PENNIAN BANK Logo](https://raw.githubusercontent.com/College-Canine/financial/master/logos/bank/pennian.svg) |  |
 | WOODFOREST NATIONAL BANK | PA, USA | ![WOODFOREST NATIONAL BANK Logo](https://raw.githubusercontent.com/College-Canine/financial/master/logos/bank/woodforest.svg) | ![#010101](https://placehold.co/15x15/010101/010101.png)![#55A939](https://placehold.co/15x15/55A939/55A939.png)![#FFFFFF](https://placehold.co/15x15/FFFFFF/FFFFFF.png) |
 | BANK OF AMERICA NA | DE, USA | ![BANK OF AMERICA NA Logo](https://raw.githubusercontent.com/College-Canine/financial/master/logos/bank/bofa.svg) | ![#E31837](https://placehold.co/15x15/E31837/E31837.png)![#012169](https://placehold.co/15x15/012169/012169.png) |
-| M&T BANK | DE, USA | ![M&T BANK Logo](https://raw.githubusercontent.com/College-Canine/financial/master/logos/bank/mt_bank.svg) |  |
-| ALLY BANK | NC, USA | ![ALLY BANK Logo](https://raw.githubusercontent.com/College-Canine/financial/master/logos/bank/ally.svg) |  |
-| CITIZENS BANK | IA, USA | ![CITIZENS BANK Logo](https://raw.githubusercontent.com/College-Canine/financial/master/logos/bank/citizens_bank.svg) |  |
+| M&T BANK | DE, USA | ![M&T BANK Logo](https://raw.githubusercontent.com/College-Canine/financial/master/logos/bank/mt_bank.svg) | ![#FEFFFF](https://placehold.co/15x15/FEFFFF/FEFFFF.png)![#048566](https://placehold.co/15x15/048566/048566.png)![#FFFFFF](https://placehold.co/15x15/FFFFFF/FFFFFF.png) |
+| ALLY BANK | NC, USA | ![ALLY BANK Logo](https://raw.githubusercontent.com/College-Canine/financial/master/logos/bank/ally.svg) | ![#3E0046](https://placehold.co/15x15/3E0046/3E0046.png)![#FFFFFF](https://placehold.co/15x15/FFFFFF/FFFFFF.png) |
+| CITIZENS BANK | IA, USA | ![CITIZENS BANK Logo](https://raw.githubusercontent.com/College-Canine/financial/master/logos/bank/citizens_bank.svg) | ![#00A777](https://placehold.co/15x15/00A777/00A777.png) |
 | CHOICE FINANCIAL GROUP | ND, USA | ![CHOICE FINANCIAL GROUP Logo](https://raw.githubusercontent.com/College-Canine/financial/master/logos/bank/choice.svg) |  |
 | CHARLES SCHWAB BANK | NV, USA | ![CHARLES SCHWAB BANK Logo](https://raw.githubusercontent.com/College-Canine/financial/master/logos/bank/schwab.svg) | ![#0D9EDA](https://placehold.co/15x15/0D9EDA/0D9EDA.png)![#FFFFFF](https://placehold.co/15x15/FFFFFF/FFFFFF.png) |
 | USAA SAVINGS BANK | NV, USA | ![USAA SAVINGS BANK Logo](https://raw.githubusercontent.com/College-Canine/financial/master/logos/bank/usaa.svg) | ![#1A3258](https://placehold.co/15x15/1A3258/1A3258.png)![#FFFFFF](https://placehold.co/15x15/FFFFFF/FFFFFF.png) |

@@ -219,11 +219,7 @@
         "settlement": false,
         "updated": 1415336400000,
         "country": "USA",
-        "colors": [
-            "#003F2D",
-            "#54B848",
-            "#FFFFFF"
-        ],
+        "colors": [],
         "website": "https://locations.td.com"
     },
     {
@@ -513,11 +509,7 @@
         "settlement": false,
         "updated": 1415336400000,
         "country": "USA",
-        "colors": [
-            "#003F2D",
-            "#54B848",
-            "#FFFFFF"
-        ],
+        "colors": [],
         "website": "https://locations.td.com"
     },
     {
@@ -808,11 +800,7 @@
         "settlement": false,
         "updated": 1415336400000,
         "country": "USA",
-        "colors": [
-            "#003F2D",
-            "#54B848",
-            "#FFFFFF"
-        ],
+        "colors": [],
         "website": "https://locations.td.com"
     },
     {
@@ -1034,11 +1022,7 @@
         "settlement": false,
         "updated": 1415336400000,
         "country": "USA",
-        "colors": [
-            "#003F2D",
-            "#54B848",
-            "#FFFFFF"
-        ],
+        "colors": [],
         "website": "https://locations.td.com"
     },
     {
@@ -8617,11 +8601,7 @@
         "settlement": false,
         "updated": 1257829200000,
         "country": "USA",
-        "colors": [
-            "#003F2D",
-            "#54B848",
-            "#FFFFFF"
-        ],
+        "colors": [],
         "website": "https://locations.td.com"
     },
     {
@@ -8649,11 +8629,7 @@
         "settlement": false,
         "updated": 1380859200000,
         "country": "USA",
-        "colors": [
-            "#003F2D",
-            "#54B848",
-            "#FFFFFF"
-        ],
+        "colors": [],
         "website": "https://locations.td.com"
     },
     {
@@ -9284,11 +9260,7 @@
         "settlement": false,
         "updated": 1415336400000,
         "country": "USA",
-        "colors": [
-            "#003F2D",
-            "#54B848",
-            "#FFFFFF"
-        ],
+        "colors": [],
         "website": "https://locations.td.com"
     },
     {
@@ -10493,11 +10465,7 @@
         "settlement": false,
         "updated": 1268024400000,
         "country": "USA",
-        "colors": [
-            "#003F2D",
-            "#54B848",
-            "#FFFFFF"
-        ],
+        "colors": [],
         "website": "https://www.td.com"
     },
     {
@@ -12804,11 +12772,7 @@
         "settlement": false,
         "updated": 1253851200000,
         "country": "USA",
-        "colors": [
-            "#003F2D",
-            "#54B848",
-            "#FFFFFF"
-        ],
+        "colors": [],
         "website": "https://locations.td.com"
     },
     {
@@ -12933,11 +12897,7 @@
         "settlement": false,
         "updated": 1415336400000,
         "country": "USA",
-        "colors": [
-            "#003F2D",
-            "#54B848",
-            "#FFFFFF"
-        ],
+        "colors": [],
         "website": "https://www.td.com"
     },
     {
@@ -14129,11 +14089,7 @@
         "settlement": true,
         "updated": 1247025600000,
         "country": "USA",
-        "colors": [
-            "#003F2D",
-            "#54B848",
-            "#FFFFFF"
-        ],
+        "colors": [],
         "website": "https://locations.td.com"
     },
     {
@@ -14188,11 +14144,7 @@
         "settlement": true,
         "updated": 1381896000000,
         "country": "USA",
-        "colors": [
-            "#003F2D",
-            "#54B848",
-            "#FFFFFF"
-        ],
+        "colors": [],
         "website": "https://locations.td.com"
     },
     {
@@ -14251,11 +14203,7 @@
         "settlement": false,
         "updated": 1257829200000,
         "country": "USA",
-        "colors": [
-            "#003F2D",
-            "#54B848",
-            "#FFFFFF"
-        ]
+        "colors": []
     },
     {
         "routing": "031203915",
@@ -15532,11 +15480,7 @@
         "settlement": false,
         "updated": 1415336400000,
         "country": "USA",
-        "colors": [
-            "#003F2D",
-            "#54B848",
-            "#FFFFFF"
-        ]
+        "colors": []
     },
     {
         "routing": "036002085",
@@ -19555,7 +19499,11 @@
         "settlement": false,
         "updated": 1415336400000,
         "country": "USA",
-        "colors": []
+        "colors": [
+            "#FEFFFF",
+            "#048566",
+            "#FFFFFF"
+        ]
     },
     {
         "routing": "052201925",
@@ -20501,11 +20449,7 @@
         "settlement": false,
         "updated": 1308283200000,
         "country": "USA",
-        "colors": [
-            "#003F2D",
-            "#54B848",
-            "#FFFFFF"
-        ]
+        "colors": []
     },
     {
         "routing": "053905877",
@@ -20614,11 +20558,7 @@
         "settlement": false,
         "updated": 1253851200000,
         "country": "USA",
-        "colors": [
-            "#003F2D",
-            "#54B848",
-            "#FFFFFF"
-        ]
+        "colors": []
     },
     {
         "routing": "054073630",
@@ -27728,11 +27668,7 @@
         "settlement": false,
         "updated": 1415336400000,
         "country": "USA",
-        "colors": [
-            "#003F2D",
-            "#54B848",
-            "#FFFFFF"
-        ]
+        "colors": []
     },
     {
         "routing": "067014961",
@@ -32098,7 +32034,10 @@
         "settlement": true,
         "updated": 1460520000000,
         "country": "USA",
-        "colors": []
+        "colors": [
+            "#3E0046",
+            "#FFFFFF"
+        ]
     },
     {
         "routing": "072402157",
@@ -34859,7 +34798,9 @@
         "settlement": true,
         "updated": 1415336400000,
         "country": "USA",
-        "colors": []
+        "colors": [
+            "#00A777"
+        ]
     },
     {
         "routing": "073921093",
@@ -35596,7 +35537,9 @@
         "settlement": true,
         "updated": 1264654800000,
         "country": "USA",
-        "colors": []
+        "colors": [
+            "#00A777"
+        ]
     },
     {
         "routing": "074905319",
@@ -36645,7 +36588,9 @@
         "settlement": true,
         "updated": 1417669200000,
         "country": "USA",
-        "colors": []
+        "colors": [
+            "#00A777"
+        ]
     },
     {
         "routing": "075906304",
@@ -68251,11 +68196,7 @@
         "settlement": false,
         "updated": 1305259200000,
         "country": "USA",
-        "colors": [
-            "#003F2D",
-            "#54B848",
-            "#FFFFFF"
-        ]
+        "colors": []
     },
     {
         "routing": 211274476,
@@ -68844,11 +68785,7 @@
         "settlement": false,
         "updated": 1415336400000,
         "country": "USA",
-        "colors": [
-            "#003F2D",
-            "#54B848",
-            "#FFFFFF"
-        ]
+        "colors": []
     },
     {
         "routing": 211370558,
