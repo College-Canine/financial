@@ -435,6 +435,29 @@
 | PEOPLES SECURITY BANK AND TRUST COMP | PA, USA | ![PEOPLES SECURITY BANK AND TRUST COMP Logo](https://raw.githubusercontent.com/College-Canine/financial/master/logos/bank/psbt.svg) |  |
 | FIRST NATIONAL BANK OF PENNSYLVANIA | PA, USA | ![FIRST NATIONAL BANK OF PENNSYLVANIA Logo](https://raw.githubusercontent.com/College-Canine/financial/master/logos/bank/fnb-online.svg) |  |
 | AMERISERV FINANCIAL BANK | PA, USA | ![AMERISERV FINANCIAL BANK Logo](https://raw.githubusercontent.com/College-Canine/financial/master/logos/bank/ameriserv.svg) |  |
+| RIVERVIEW BANK | PA, USA | ![RIVERVIEW BANK Logo](https://raw.githubusercontent.com/College-Canine/financial/master/logos/bank/riverviewbank.svg) |  |
+| WOODLANDS BANK | PA, USA | ![WOODLANDS BANK Logo](https://raw.githubusercontent.com/College-Canine/financial/master/logos/bank/woodlandsbank.svg) |  |
+| AMERICAN BANK | PA, USA | ![AMERICAN BANK Logo](https://raw.githubusercontent.com/College-Canine/financial/master/logos/bank/ambk.svg) |  |
+| UNB BANK | PA, USA | ![UNB BANK Logo](https://raw.githubusercontent.com/College-Canine/financial/master/logos/bank/unb.svg) |  |
+| FIDELITY DEPOSIT AND DISCOUNT BANK, | PA, USA | ![FIDELITY DEPOSIT AND DISCOUNT BANK, Logo](https://raw.githubusercontent.com/College-Canine/financial/master/logos/bank/bankatfidelity.svg) |  |
+| FARMERS AND MERCHANTS TRUST COMPANY | PA, USA | ![FARMERS AND MERCHANTS TRUST COMPANY Logo](https://raw.githubusercontent.com/College-Canine/financial/master/logos/bank/fmtrust.svg) |  |
+| FIRST COLUMBIA BK & TRUST CO | PA, USA | ![FIRST COLUMBIA BK & TRUST CO Logo](https://raw.githubusercontent.com/College-Canine/financial/master/logos/bank/journeybank.svg) |  |
+| CNB BANK | PA, USA | ![CNB BANK Logo](https://raw.githubusercontent.com/College-Canine/financial/master/logos/bank/cnbbank.svg) |  |
+| JERSEY SHORE STATE BANK | PA, USA | ![JERSEY SHORE STATE BANK Logo](https://raw.githubusercontent.com/College-Canine/financial/master/logos/bank/jssb.svg) |  |
+| MERCHANTS BANK OF BANGOR | PA, USA | ![MERCHANTS BANK OF BANGOR Logo](https://raw.githubusercontent.com/College-Canine/financial/master/logos/bank/merchantsbangor.svg) |  |
+| FIRST KEYSTONE COMMUNITY BANK | PA, USA | ![FIRST KEYSTONE COMMUNITY BANK Logo](https://raw.githubusercontent.com/College-Canine/financial/master/logos/bank/fkc.svg) |  |
+| JIM THORPE NEIGHBORHOOD BANK | PA, USA | ![JIM THORPE NEIGHBORHOOD BANK Logo](https://raw.githubusercontent.com/College-Canine/financial/master/logos/bank/jtnb.svg) |  |
+| MAUCH CHUNK TRUST CO. | PA, USA | ![MAUCH CHUNK TRUST CO. Logo](https://raw.githubusercontent.com/College-Canine/financial/master/logos/bank/mct.svg) |  |
+| THE EPHRATA NATIONAL BANK | PA, USA | ![THE EPHRATA NATIONAL BANK Logo](https://raw.githubusercontent.com/College-Canine/financial/master/logos/bank/epnb.svg) |  |
+| CITIZENS & NORTHERN BANK | PA, USA | ![CITIZENS & NORTHERN BANK Logo](https://raw.githubusercontent.com/College-Canine/financial/master/logos/bank/cnbankpa.svg) |  |
+| HONESDALE NATIONAL BANK, THE | PA, USA | ![HONESDALE NATIONAL BANK, THE Logo](https://raw.githubusercontent.com/College-Canine/financial/master/logos/bank/hnbbank.svg) |  |
+| HAMLIN BANK & TRUST CO. | PA, USA | ![HAMLIN BANK & TRUST CO. Logo](https://raw.githubusercontent.com/College-Canine/financial/master/logos/bank/hamlinbank.svg) |  |
+| FIRST CITIZENS COMMUNITY BANK | PA, USA | ![FIRST CITIZENS COMMUNITY BANK Logo](https://raw.githubusercontent.com/College-Canine/financial/master/logos/bank/firstcitizensbank.svg) |  |
+| MIFFLINBURG BK & TR CO | PA, USA | ![MIFFLINBURG BK & TR CO Logo](https://raw.githubusercontent.com/College-Canine/financial/master/logos/bank/mbtc.svg) |  |
+| FIRST COMMUNITY BANK OF MERCERSBURG | PA, USA | ![FIRST COMMUNITY BANK OF MERCERSBURG Logo](https://raw.githubusercontent.com/College-Canine/financial/master/logos/bank/orrstown.svg) |  |
+| ACNB BANK | PA, USA | ![ACNB BANK Logo](https://raw.githubusercontent.com/College-Canine/financial/master/logos/bank/acnb.svg) |  |
+| PEOPLESBANK, A CODORUS VALLEY COMPAN | PA, USA | ![PEOPLESBANK, A CODORUS VALLEY COMPAN Logo](https://raw.githubusercontent.com/College-Canine/financial/master/logos/bank/facebook.svg) |  |
+| PENNIAN BANK | PA, USA | ![PENNIAN BANK Logo](https://raw.githubusercontent.com/College-Canine/financial/master/logos/bank/pennian.svg) |  |
 | WOODFOREST NATIONAL BANK | PA, USA | ![WOODFOREST NATIONAL BANK Logo](https://raw.githubusercontent.com/College-Canine/financial/master/logos/bank/woodforest.svg) | ![#010101](https://placehold.co/15x15/010101/010101.png)![#55A939](https://placehold.co/15x15/55A939/55A939.png)![#FFFFFF](https://placehold.co/15x15/FFFFFF/FFFFFF.png) |
 | BANK OF AMERICA NA | DE, USA | ![BANK OF AMERICA NA Logo](https://raw.githubusercontent.com/College-Canine/financial/master/logos/bank/bofa.svg) | ![#E31837](https://placehold.co/15x15/E31837/E31837.png)![#012169](https://placehold.co/15x15/012169/012169.png) |
 | M&T BANK | DE, USA | ![M&T BANK Logo](https://raw.githubusercontent.com/College-Canine/financial/master/logos/bank/mt_bank.svg) |  |
