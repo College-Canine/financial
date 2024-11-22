@@ -14766,7 +14766,8 @@
         "updated": 1285905600000,
         "country": "USA",
         "colors": [],
-        "website": "https://www.fkc.bank"
+        "website": "https://www.fkc.bank",
+        "logo": "fkc.svg"
     },
     {
         "routing": "031307691",
@@ -14779,7 +14780,8 @@
         "updated": 1493092800000,
         "country": "USA",
         "colors": [],
-        "website": "https://www.jtnb.com"
+        "website": "https://www.jtnb.com",
+        "logo": "jtnb.svg"
     },
     {
         "routing": "031307701",
@@ -14792,7 +14794,8 @@
         "updated": 1100840400000,
         "country": "USA",
         "colors": [],
-        "website": "https://www.mct.bank"
+        "website": "https://www.mct.bank",
+        "logo": "mct.svg"
     },
     {
         "routing": "031308250",
@@ -14805,7 +14808,8 @@
         "updated": null,
         "country": "USA",
         "colors": [],
-        "website": "https://www.epnb.com"
+        "website": "https://www.epnb.com",
+        "logo": "epnb.svg"
     },
     {
         "routing": "031308302",
@@ -14818,7 +14822,8 @@
         "updated": null,
         "country": "USA",
         "colors": [],
-        "website": "https://www.cnbankpa.com"
+        "website": "https://www.cnbankpa.com",
+        "logo": "cnbankpa.svg"
     },
     {
         "routing": "031308535",
@@ -14831,7 +14836,8 @@
         "updated": 1484283600000,
         "country": "USA",
         "colors": [],
-        "website": "https://www.hnbbank.bank"
+        "website": "https://www.hnbbank.bank",
+        "logo": "hnbbank.svg"
     },
     {
         "routing": "031308548",
@@ -14869,7 +14875,8 @@
         "updated": 1074747600000,
         "country": "USA",
         "colors": [],
-        "website": "https://midpennbank.com"
+        "website": "https://midpennbank.com",
+        "logo": "midpennbank.svg"
     },
     {
         "routing": "031309123",
@@ -14906,7 +14913,8 @@
         "updated": null,
         "country": "USA",
         "colors": [],
-        "website": "https://www.hamlinbank.com"
+        "website": "https://www.hamlinbank.com",
+        "logo": "hamlinbank.svg"
     },
     {
         "routing": "031309589",
@@ -14919,7 +14927,8 @@
         "updated": 1449810000000,
         "country": "USA",
         "colors": [],
-        "website": "https://www.firstcitizensbank.com"
+        "website": "https://www.firstcitizensbank.com",
+        "logo": "firstcitizensbank.svg"
     },
     {
         "routing": "031309686",
@@ -14932,7 +14941,8 @@
         "updated": 1409284800000,
         "country": "USA",
         "colors": [],
-        "website": "https://www.mbtc.com"
+        "website": "https://www.mbtc.com",
+        "logo": "mbtc.svg"
     },
     {
         "routing": "031309851",
@@ -14945,7 +14955,8 @@
         "updated": 1418274000000,
         "country": "USA",
         "colors": [],
-        "website": "https://www.orrstown.com"
+        "website": "https://www.orrstown.com",
+        "logo": "orrstown.svg"
     },
     {
         "routing": "031309945",
@@ -14958,7 +14969,8 @@
         "updated": 1286164800000,
         "country": "USA",
         "colors": [],
-        "website": "https://www.acnb.com"
+        "website": "https://www.acnb.com",
+        "logo": "acnb.svg"
     },
     {
         "routing": "031310086",
@@ -14971,7 +14983,8 @@
         "updated": 1421125200000,
         "country": "USA",
         "colors": [],
-        "website": "https://www.facebook.com"
+        "website": "https://www.facebook.com",
+        "logo": "facebook.svg"
     },
     {
         "routing": "031310206",
@@ -14984,7 +14997,8 @@
         "updated": 1498795200000,
         "country": "USA",
         "colors": [],
-        "website": "https://pennian.bank"
+        "website": "https://pennian.bank",
+        "logo": "pennian.svg"
     },
     {
         "routing": "031310219",
