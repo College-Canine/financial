@@ -66,6 +66,15 @@ function generateReadme() {
       `# Financials`,
       `💰 Logos and metadata for thousands of financial institutions.`,
       `## Banks`,
+      `In total, there are over ${
+        banks.length
+      } banks in our list. Of these banks, ${(
+        (100 * banks.filter((i) => i.website != undefined).length) /
+        banks.length
+      ).toFixed(1)}% have website data and ${(
+        (100 * banks.filter((i) => i.logo != undefined).length) /
+        banks.length
+      ).toFixed(1)}% have logos.`,
       generateBankTable(),
       `## Methods`,
       generateMethodsTable(),

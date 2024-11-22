@@ -4,6 +4,8 @@
 
 ## Banks
 
+In total, there are over 7694 banks in our list. Of these banks, 21.2% have website data and 20.1% have logos.
+
 | Name | Division, Country | Logo | Colors |
 | ---- | ----------------- | ---- | ------ |
 | Federal Reserve Bank Of Boston | MA, USA | ![Federal Reserve Bank Of Boston Logo](https://raw.githubusercontent.com/College-Canine/financial/master/logos/bank/bostonfed.svg) | ![#fefdfe](https://placehold.co/15x15/fefdfe/fefdfe.png)![#214579](https://placehold.co/15x15/214579/214579.png)![#758dae](https://placehold.co/15x15/758dae/758dae.png) |
