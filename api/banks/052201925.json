@@ -8,7 +8,12 @@
     "settlement": true,
     "updated": null,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#1b6838",
+        "#e21b24",
+        "#f9d7d9",
+        "#eb666d"
+    ],
     "name": "The Bank Of Romney",
     "website": "https://www.bankofromney.net",
     "logo": "bankofromney.svg"

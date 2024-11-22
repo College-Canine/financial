@@ -8,7 +8,13 @@
     "settlement": true,
     "updated": 1315972800000,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#ffffff",
+        "#1c8829",
+        "#47634a",
+        "#7db984",
+        "#162018"
+    ],
     "name": "Whitesville State Bank",
     "website": "https://www.whitesvillesb.com",
     "logo": "whitesvillesb.svg"

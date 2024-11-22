@@ -8,7 +8,11 @@
     "settlement": true,
     "updated": 1355202000000,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#f1f9f0",
+        "#58b942",
+        "#a1d895"
+    ],
     "name": "Mcnb Bank & Trust",
     "website": "https://www.mcnbbanks.com",
     "logo": "mcnbbanks.svg"

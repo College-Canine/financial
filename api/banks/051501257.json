@@ -8,7 +8,11 @@
     "settlement": false,
     "updated": 1332388800000,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#fefdfe",
+        "#b6a1a8",
+        "#4d4d93"
+    ],
     "name": "First National Bank Of Williamson",
     "website": "https://yourfnbonline.com",
     "logo": "yourfnbonline.svg"

@@ -8,7 +8,11 @@
     "settlement": true,
     "updated": null,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#fefeff",
+        "#9ab0b4",
+        "#30576b"
+    ],
     "name": "The Bank Of Fincastle",
     "website": "https://www.visitroanokeva.com",
     "logo": "visitroanokeva.svg"

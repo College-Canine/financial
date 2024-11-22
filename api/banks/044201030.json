@@ -8,7 +8,11 @@
     "settlement": false,
     "updated": 1381464000000,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#fcfdfb",
+        "#2f68a2",
+        "#8cca7b"
+    ],
     "name": "The Hocking Valley Bank",
     "website": "https://www.hvbonline.com",
     "logo": "hvbonline.svg"

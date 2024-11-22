@@ -8,7 +8,11 @@
     "settlement": true,
     "updated": null,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#fdfdfe",
+        "#af7d30",
+        "#80845a"
+    ],
     "name": "First Exchange Bank",
     "website": "https://www.firstexchangebank.com",
     "logo": "firstexchangebank.svg"

@@ -8,7 +8,11 @@
     "settlement": true,
     "updated": 943938000000,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#fefeff",
+        "#332f30",
+        "#6c917a"
+    ],
     "name": "The First National Bank Of Sycamore",
     "website": "https://www.sycamore.bank",
     "logo": "sycamore.svg"

@@ -8,7 +8,10 @@
     "settlement": false,
     "updated": 1513746000000,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#121212",
+        "#219963"
+    ],
     "name": "United Bank",
     "website": "https://locations.bankwithunited.com",
     "logo": "bankwithunited.svg"

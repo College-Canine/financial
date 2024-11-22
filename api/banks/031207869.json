@@ -8,7 +8,11 @@
     "settlement": true,
     "updated": 1354165200000,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#a22b5a",
+        "#f9eef5",
+        "#444444"
+    ],
     "name": "1st Colonial Community Bank",
     "website": "https://www.1stcolonial.com",
     "logo": "1stcolonial.svg"

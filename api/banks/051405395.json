@@ -8,7 +8,11 @@
     "settlement": false,
     "updated": 1516856400000,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#91311d",
+        "#fcf9f8",
+        "#cda49a"
+    ],
     "name": "Farmers & Mer Bank Of Craig",
     "website": "https://www.fmbankcraig.com",
     "logo": "fmbankcraig.svg"

@@ -8,7 +8,11 @@
     "settlement": false,
     "updated": 1351483200000,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#fefefc",
+        "#42b891",
+        "#77c8e7"
+    ],
     "name": "Calvin B Taylor Banking",
     "website": "https://www.taylorbank.com",
     "logo": "taylorbank.svg"

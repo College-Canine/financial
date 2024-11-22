@@ -8,7 +8,11 @@
     "settlement": true,
     "updated": null,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#fdfefd",
+        "#811027",
+        "#b47e8a"
+    ],
     "name": "Farmers And Merchants Bank",
     "website": "https://www.fmbankva.com",
     "logo": "fmbankva.svg"

@@ -8,7 +8,13 @@
     "settlement": true,
     "updated": 1343966400000,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#fefcfe",
+        "#17542f",
+        "#d1cc85",
+        "#fec326",
+        "#7a7f1f"
+    ],
     "name": "Cfg Community Bank",
     "website": "https://www.cfg.bank",
     "logo": "cfg.svg"

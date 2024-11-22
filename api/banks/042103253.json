@@ -8,7 +8,13 @@
     "settlement": true,
     "updated": 1467259200000,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#d31d1e",
+        "#fffdfe",
+        "#96afd9",
+        "#1d63e7",
+        "#e9a6a6"
+    ],
     "name": "Citizens Bank Of Kentucky Inc",
     "website": "https://www.wercitizens.bank",
     "logo": "wercitizens.svg"

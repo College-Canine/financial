@@ -8,7 +8,11 @@
     "settlement": false,
     "updated": 1061438400000,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#fcfefd",
+        "#bfdeaa",
+        "#7dbf43"
+    ],
     "name": "The Huntington National Bank",
     "website": "https://www.huntington.com",
     "logo": "huntington.svg"

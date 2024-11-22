@@ -8,7 +8,10 @@
     "settlement": true,
     "updated": 1086667200000,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#313888",
+        "#cd2027"
+    ],
     "name": "Freedom Bank Inc",
     "website": "https://www.freedombankwv.com",
     "logo": "freedombankwv.svg"

@@ -8,7 +8,13 @@
     "settlement": true,
     "updated": null,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#374ba5",
+        "#626286",
+        "#eeeff5",
+        "#7e2e51",
+        "#1f1d44"
+    ],
     "name": "The Bank Of Monroe",
     "website": "https://www.mybankofmonroe.com",
     "logo": "mybankofmonroe.svg"

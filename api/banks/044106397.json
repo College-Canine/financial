@@ -8,7 +8,12 @@
     "settlement": true,
     "updated": null,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#fdfefc",
+        "#263a24",
+        "#7d6a3c",
+        "#939e92"
+    ],
     "name": "Citizens Natl Bank Of Mcconnelsville",
     "website": "https://www.cnb-online.net",
     "logo": "cnb-online.svg"

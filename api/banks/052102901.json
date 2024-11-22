@@ -8,7 +8,11 @@
     "settlement": true,
     "updated": 1499659200000,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#c5cedb",
+        "#484c58",
+        "#9d937b"
+    ],
     "name": "The Farmers Bank Of Willards",
     "website": "https://fbwbank.com",
     "logo": "fbwbank.svg"

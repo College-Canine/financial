@@ -8,7 +8,11 @@
     "settlement": false,
     "updated": 1503460800000,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#f9f4fa",
+        "#ce5288",
+        "#e7a1c3"
+    ],
     "name": "First Commonwealth Bank",
     "website": "https://www.fcbanking.com",
     "logo": "fcbanking.svg"

@@ -8,7 +8,12 @@
     "settlement": true,
     "updated": 1510290000000,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#fefbfd",
+        "#89c0ce",
+        "#79ad5c",
+        "#2e79a1"
+    ],
     "name": "Touchstone Bank",
     "website": "https://www.touchstone.bank",
     "logo": "touchstone.svg"

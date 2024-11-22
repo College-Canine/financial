@@ -8,7 +8,11 @@
     "settlement": true,
     "updated": 981522000000,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#fdfefe",
+        "#11623a",
+        "#75ac91"
+    ],
     "name": "Pioneer Bank",
     "website": "https://www.pioneerbks.com",
     "logo": "pioneerbks.svg"

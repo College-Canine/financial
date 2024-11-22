@@ -8,7 +8,11 @@
     "settlement": true,
     "updated": 1152244800000,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#fdfefe",
+        "#1d3c9c",
+        "#647ab6"
+    ],
     "name": "The Peoples Bank",
     "website": "https://pbkc.com",
     "logo": "pbkc.svg"

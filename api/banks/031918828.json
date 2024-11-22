@@ -8,7 +8,11 @@
     "settlement": false,
     "updated": 1366171200000,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#fdfefe",
+        "#dd194f",
+        "#6f6f70"
+    ],
     "name": "Meridian Bank",
     "website": "https://www.meridianbanker.com",
     "logo": "meridianbanker.svg"

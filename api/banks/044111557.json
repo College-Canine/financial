@@ -8,7 +8,12 @@
     "settlement": true,
     "updated": 1052884800000,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#fdfffd",
+        "#2f9259",
+        "#1a4b25",
+        "#1c1b1c"
+    ],
     "name": "Commodore Bank",
     "website": "https://www.nvboh.bank",
     "logo": "nvboh.svg"

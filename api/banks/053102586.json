@@ -8,7 +8,11 @@
     "settlement": true,
     "updated": null,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#fdfefe",
+        "#566f81",
+        "#a86872"
+    ],
     "name": "Southern Bank & Trust",
     "website": "https://www.southernbank.com",
     "logo": "southernbank.svg"

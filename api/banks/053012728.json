@@ -8,7 +8,13 @@
     "settlement": false,
     "updated": 1524196800000,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#ebbb54",
+        "#51503e",
+        "#384665",
+        "#8a98ac",
+        "#fbfdf5"
+    ],
     "name": "South State Bank - Park",
     "website": "https://www.southstatebank.com",
     "logo": "southstatebank.svg"

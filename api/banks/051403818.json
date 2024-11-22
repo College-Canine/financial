@@ -8,7 +8,13 @@
     "settlement": true,
     "updated": null,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#c4beba",
+        "#937e5a",
+        "#213760",
+        "#3f3732",
+        "#e2b159"
+    ],
     "name": "Powell Valley National Bank",
     "website": "https://www.powellvalleybank.com",
     "logo": "powellvalleybank.svg"

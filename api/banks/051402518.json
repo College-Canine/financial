@@ -8,7 +8,11 @@
     "settlement": true,
     "updated": null,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#376e32",
+        "#fcfefc",
+        "#8aa988"
+    ],
     "name": "Bank Of Clarke County",
     "website": "https://www.bankofclarke.bank",
     "logo": "bankofclarke.svg"

@@ -8,7 +8,10 @@
     "settlement": true,
     "updated": 1397102400000,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#121212",
+        "#219963"
+    ],
     "name": "Essex Bank",
     "website": "https://www.bankwithunited.com",
     "logo": "bankwithunited.svg"

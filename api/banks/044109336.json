@@ -8,7 +8,13 @@
     "settlement": true,
     "updated": 951368400000,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#fffdfd",
+        "#87abc0",
+        "#124568",
+        "#dd7a35",
+        "#e2b087"
+    ],
     "name": "Heartland Bank",
     "website": "https://www.heartland.bank",
     "logo": "heartland.svg"

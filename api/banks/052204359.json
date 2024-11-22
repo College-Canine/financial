@@ -8,7 +8,10 @@
     "settlement": true,
     "updated": 1167368400000,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#def1e7",
+        "#407544"
+    ],
     "name": "Cnb Bank Inc",
     "website": "https://www.cnb.bank",
     "logo": "cnb.svg"

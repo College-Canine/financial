@@ -8,7 +8,10 @@
     "settlement": false,
     "updated": null,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#108bc1",
+        "#fefefc"
+    ],
     "name": "The Farmers State Bank",
     "website": "https://www.myfsb.bank",
     "logo": "myfsb.svg"

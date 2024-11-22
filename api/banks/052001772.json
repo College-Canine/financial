@@ -8,7 +8,11 @@
     "settlement": true,
     "updated": null,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#fdfdfe",
+        "#272f7a",
+        "#686ea0"
+    ],
     "name": "The Harbor Bank Of Maryland",
     "website": "https://www.theharborbank.com",
     "logo": "theharborbank.svg"

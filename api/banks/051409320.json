@@ -8,7 +8,12 @@
     "settlement": false,
     "updated": 1351483200000,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#fdfef6",
+        "#1d639a",
+        "#e5bd56",
+        "#87c43a"
+    ],
     "name": "Hometown Bank",
     "website": "https://roanoke.family",
     "logo": "roanoke.svg"

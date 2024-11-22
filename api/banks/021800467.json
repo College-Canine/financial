@@ -8,7 +8,12 @@
     "settlement": true,
     "updated": 1447045200000,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#dde1da",
+        "#8c96ac",
+        "#404c6e",
+        "#d07c5b"
+    ],
     "name": "Uruguay Usd Frn Series A/foreign",
     "website": "https://cbonds.com",
     "logo": "cbonds.svg"

@@ -8,7 +8,9 @@
     "settlement": true,
     "updated": 995428800000,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#daeaf4"
+    ],
     "name": "Provident State Bank Inc",
     "website": "https://www.linkedin.com",
     "logo": "linkedin.svg"

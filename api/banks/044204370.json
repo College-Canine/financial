@@ -8,7 +8,11 @@
     "settlement": true,
     "updated": 1507780800000,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#fafafa",
+        "#343434",
+        "#909090"
+    ],
     "name": "Ohio Valley Bank Company The",
     "website": "https://www.ovbc.com",
     "logo": "ovbc.svg"

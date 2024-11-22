@@ -8,7 +8,9 @@
     "settlement": false,
     "updated": 1415336400000,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#42957b"
+    ],
     "name": "The Pleasants County Bank",
     "website": "https://www.pcbsm.com",
     "logo": "pcbsm.svg"

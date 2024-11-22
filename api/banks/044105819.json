@@ -8,7 +8,10 @@
     "settlement": true,
     "updated": null,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#fdfefd",
+        "#567994"
+    ],
     "name": "Peoples Natl. Bank Of New Lexington",
     "website": "https://www.psbohio.com",
     "logo": "psbohio.svg"

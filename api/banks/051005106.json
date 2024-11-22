@@ -8,7 +8,11 @@
     "settlement": true,
     "updated": 1503028800000,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#f4f8fb",
+        "#243442",
+        "#a8a691"
+    ],
     "name": "Community Bankers Bank",
     "website": "https://cbbonline.com",
     "logo": "cbbonline.svg"

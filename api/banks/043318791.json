@@ -8,7 +8,12 @@
     "settlement": false,
     "updated": 1123819200000,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#fffdfa",
+        "#e99845",
+        "#5a8167",
+        "#c2431a"
+    ],
     "name": "Clarion County Community Bank",
     "website": "https://clarionbank.com",
     "logo": "clarionbank.svg"

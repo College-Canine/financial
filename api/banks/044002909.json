@@ -8,7 +8,9 @@
     "settlement": true,
     "updated": null,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#daeaf4"
+    ],
     "name": "First City Bank",
     "website": "https://www.linkedin.com",
     "logo": "linkedin.svg"

@@ -8,7 +8,11 @@
     "settlement": false,
     "updated": 1381464000000,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#ebf0f2",
+        "#3e90a1",
+        "#1b3b51"
+    ],
     "name": "The Bank Of New York Mellon",
     "website": "https://www.bny.com",
     "logo": "bny.svg"

@@ -8,7 +8,11 @@
     "settlement": false,
     "updated": 1439956800000,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#1a5587",
+        "#fefefe",
+        "#7f9cb3"
+    ],
     "name": "Union Bank & Trust",
     "website": "https://www.ubt.com",
     "logo": "ubt.svg"

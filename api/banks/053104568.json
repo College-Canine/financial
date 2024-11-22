@@ -8,7 +8,11 @@
     "settlement": true,
     "updated": 1504843200000,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#c61f32",
+        "#f6fefc",
+        "#cb737f"
+    ],
     "name": "First Bank",
     "website": "https://localfirstbank.com",
     "logo": "localfirstbank.svg"

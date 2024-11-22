@@ -8,7 +8,9 @@
     "settlement": true,
     "updated": 1237348800000,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#4d4c4d"
+    ],
     "name": "Miners & Merchants Bank",
     "website": "https://www.minersandmerchantsbank.com",
     "logo": "minersandmerchantsbank.svg"

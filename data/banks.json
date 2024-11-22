@@ -9398,8 +9398,8 @@
         "updated": null,
         "country": "USA",
         "colors": [
-            "#f4f5f1",
-            "#4a7db5"
+            "#def1e7",
+            "#407544"
         ],
         "website": "https://www.cnb.cz",
         "logo": "cnb.svg",
@@ -13756,7 +13756,12 @@
         "settlement": true,
         "updated": 1447045200000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#dde1da",
+            "#8c96ac",
+            "#404c6e",
+            "#d07c5b"
+        ],
         "name": "Uruguay Usd Frn Series A/foreign",
         "website": "https://cbonds.com",
         "logo": "cbonds.svg"
@@ -17108,8 +17113,8 @@
         "updated": 1114401600000,
         "country": "USA",
         "colors": [
-            "#f4f5f1",
-            "#4a7db5"
+            "#def1e7",
+            "#407544"
         ],
         "website": "https://locations.cnb.com",
         "logo": "cnb.svg",
@@ -18979,7 +18984,11 @@
         "settlement": true,
         "updated": 1354165200000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#a22b5a",
+            "#f9eef5",
+            "#444444"
+        ],
         "name": "1st Colonial Community Bank",
         "website": "https://www.1stcolonial.com",
         "logo": "1stcolonial.svg"
@@ -19966,7 +19975,11 @@
         "settlement": true,
         "updated": 1516683600000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#f5eed4",
+            "#f48c19",
+            "#5b7f6a"
+        ],
         "name": "First Bank Of Lilly",
         "website": "https://www.somersettrust.com",
         "logo": "somersettrust.svg"
@@ -20367,7 +20380,11 @@
         "settlement": false,
         "updated": 1415336400000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#333333",
+            "#979797",
+            "#fdfdfd"
+        ],
         "name": "Wilmington Trust Fsb",
         "website": "https://www.mapquest.com",
         "logo": "mapquest.svg"
@@ -20460,7 +20477,11 @@
         "settlement": true,
         "updated": 1268024400000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#f8fdf8",
+            "#ab575c",
+            "#deadae"
+        ],
         "name": "First National Bank & Trust Company",
         "website": "https://www.fnbn.com",
         "logo": "fnbn.svg"
@@ -20495,7 +20516,13 @@
         "settlement": true,
         "updated": 1543813200000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#fefdfc",
+            "#183f61",
+            "#916498",
+            "#7f2789",
+            "#33a4b2"
+        ],
         "name": "Linkbank",
         "website": "https://www.linkbank.com",
         "logo": "linkbank.svg"
@@ -20510,7 +20537,11 @@
         "settlement": false,
         "updated": 1366171200000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#fdfefe",
+            "#dd194f",
+            "#6f6f70"
+        ],
         "name": "Meridian Bank",
         "website": "https://www.meridianbanker.com",
         "logo": "meridianbanker.svg"
@@ -20617,7 +20648,11 @@
         "settlement": true,
         "updated": 1443153600000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#fefefd",
+            "#12286a",
+            "#64719b"
+        ],
         "name": "The Haverford Trust Company",
         "website": "https://haverfordquality.com",
         "logo": "haverfordquality.svg"
@@ -20729,7 +20764,11 @@
         "settlement": false,
         "updated": 1314936000000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#fefdfd",
+            "#c89c84",
+            "#a85a31"
+        ],
         "name": "Noah Bank",
         "website": "https://www.ncif.org",
         "logo": "ncif.svg"
@@ -20862,7 +20901,12 @@
         "settlement": true,
         "updated": 1425618000000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#fefdfe",
+            "#262777",
+            "#f1a545",
+            "#868fba"
+        ],
         "name": "Civista Bank",
         "website": "https://www.civista.bank",
         "logo": "civista.svg"
@@ -21143,7 +21187,13 @@
         "settlement": true,
         "updated": 1316145600000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#fffffe",
+            "#9f8534",
+            "#2b512c",
+            "#d7c496",
+            "#1e141f"
+        ],
         "name": "The Farmers State Bank Of West Salem",
         "website": "https://www.farmersstate-oh.com",
         "logo": "farmersstate-oh.svg"
@@ -21252,7 +21302,10 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#1b6ea7",
+            "#b9d8e3"
+        ],
         "name": "Cortland Savings And Banking Company",
         "website": "https://ir.farmersbankgroup.com",
         "logo": "farmersbankgroup.svg"
@@ -21267,7 +21320,13 @@
         "settlement": false,
         "updated": 1446177600000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#fefffd",
+            "#472527",
+            "#f3a319",
+            "#85706e",
+            "#f3d494"
+        ],
         "name": "The First National Bank Of Dennison",
         "website": "https://www.fnbdennison.com",
         "logo": "fnbdennison.svg"
@@ -21464,7 +21523,11 @@
         "settlement": true,
         "updated": 943938000000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#fefeff",
+            "#332f30",
+            "#6c917a"
+        ],
         "name": "The First National Bank Of Sycamore",
         "website": "https://www.sycamore.bank",
         "logo": "sycamore.svg"
@@ -21923,7 +21986,11 @@
         "settlement": true,
         "updated": 945147600000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#fffefd",
+            "#8fb4d0",
+            "#195081"
+        ],
         "name": "Citizens National Bank Of Somerset",
         "website": "https://www.cnbsomerset.com",
         "logo": "cnbsomerset.svg"
@@ -22213,7 +22280,13 @@
         "settlement": true,
         "updated": 1467259200000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#d31d1e",
+            "#fffdfe",
+            "#96afd9",
+            "#1d63e7",
+            "#e9a6a6"
+        ],
         "name": "Citizens Bank Of Kentucky Inc",
         "website": "https://www.wercitizens.bank",
         "logo": "wercitizens.svg"
@@ -22781,7 +22854,12 @@
         "settlement": true,
         "updated": 1533096000000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#fdfefd",
+            "#64697b",
+            "#98a9e5",
+            "#182fca"
+        ],
         "name": "First National Bank Of Blanchester",
         "website": "https://www.fnbblanchester.com",
         "logo": "fnbblanchester.svg"
@@ -22883,7 +22961,10 @@
         "settlement": false,
         "updated": null,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#108bc1",
+            "#fefefc"
+        ],
         "name": "The Farmers State Bank",
         "website": "https://www.myfsb.bank",
         "logo": "myfsb.svg"
@@ -23118,7 +23199,11 @@
         "settlement": false,
         "updated": 1381464000000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#ebf0f2",
+            "#3e90a1",
+            "#1b3b51"
+        ],
         "name": "The Bank Of New York Mellon",
         "website": "https://www.bny.com",
         "logo": "bny.svg"
@@ -23446,7 +23531,12 @@
         "settlement": true,
         "updated": 1116216000000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#90c4b8",
+            "#fefffe",
+            "#12644e",
+            "#d89e14"
+        ],
         "name": "Marion Center Bank",
         "website": "https://www.marioncenterbank.com",
         "logo": "marioncenterbank.svg"
@@ -23461,7 +23551,10 @@
         "settlement": true,
         "updated": 1498536000000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#fefefd",
+            "#76a8b3"
+        ],
         "name": "The Mars Bank",
         "website": "https://investors.marsbank.com",
         "logo": "marsbank.svg"
@@ -23476,7 +23569,10 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#fdfefe",
+            "#3ea148"
+        ],
         "name": "Mercer County State Bank",
         "website": "https://www.mcsbank.bank",
         "logo": "mcsbank.svg"
@@ -23505,7 +23601,12 @@
         "settlement": true,
         "updated": 1352178000000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#a22136",
+            "#6285ab",
+            "#144178",
+            "#ced7e2"
+        ],
         "name": "First National Bank Of Pennsylvania",
         "website": "https://locations.fnb-online.com",
         "logo": "fnb-online.svg"
@@ -23520,7 +23621,11 @@
         "settlement": true,
         "updated": 931406400000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#b9b9b9",
+            "#891f3f",
+            "#5d5d5d"
+        ],
         "name": "Enterprise Bank",
         "website": "https://www.enterprisebankpgh.com",
         "logo": "enterprisebankpgh.svg"
@@ -23535,7 +23640,12 @@
         "settlement": false,
         "updated": 1123819200000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#fffdfa",
+            "#e99845",
+            "#5a8167",
+            "#c2431a"
+        ],
         "name": "Clarion County Community Bank",
         "website": "https://clarionbank.com",
         "logo": "clarionbank.svg"
@@ -23550,7 +23660,12 @@
         "settlement": true,
         "updated": 1478581200000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#f9f9f8",
+            "#448a59",
+            "#363636",
+            "#8a9b8f"
+        ],
         "name": "Wesbanco Bank Inc",
         "website": "https://www.wesbanco.com",
         "logo": "wesbanco.svg"
@@ -23565,7 +23680,12 @@
         "settlement": false,
         "updated": 1482210000000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#f9f9f8",
+            "#448a59",
+            "#363636",
+            "#8a9b8f"
+        ],
         "name": "Wesbanco Bank Inc",
         "website": "https://www.wesbanco.com",
         "logo": "wesbanco.svg"
@@ -23580,7 +23700,10 @@
         "settlement": true,
         "updated": 1280289600000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#ffffff",
+            "#3b4397"
+        ],
         "name": "Union Bank Inc",
         "website": "https://www.hometownbanc.bank",
         "logo": "hometownbanc.svg"
@@ -23609,7 +23732,12 @@
         "settlement": true,
         "updated": 1310702400000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#fdfefe",
+            "#2c2c2c",
+            "#7a6f6e",
+            "#6c2824"
+        ],
         "name": "Security National Trust",
         "website": "https://www.securitynationaltrust.com",
         "logo": "securitynationaltrust.svg"
@@ -23669,7 +23797,9 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#daeaf4"
+        ],
         "name": "First City Bank",
         "website": "https://www.linkedin.com",
         "logo": "linkedin.svg"
@@ -23684,7 +23814,12 @@
         "settlement": true,
         "updated": 1542603600000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#f7f7f7",
+            "#fbbc74",
+            "#1e3860",
+            "#8e9baf"
+        ],
         "name": "Axos Bank",
         "website": "https://www.axosbank.com",
         "logo": "axosbank.svg"
@@ -23699,7 +23834,12 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#fefffe",
+            "#155783",
+            "#5fc8ed",
+            "#b1bf53"
+        ],
         "name": "The Park National Bank",
         "website": "https://parknationalbank.com",
         "logo": "parknationalbank.svg"
@@ -23714,7 +23854,10 @@
         "settlement": true,
         "updated": 1223956800000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#141c1a",
+            "#42635d"
+        ],
         "name": "The Fahey Banking Company",
         "website": "https://www.faheybank.bank",
         "logo": "faheybank.svg"
@@ -23729,7 +23872,11 @@
         "settlement": true,
         "updated": 1420002000000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#fafafb",
+            "#385942",
+            "#d7c199"
+        ],
         "name": "Standing Stone Bank",
         "website": "https://www.standingstonebank.com",
         "logo": "standingstonebank.svg"
@@ -23744,7 +23891,11 @@
         "settlement": false,
         "updated": 1503460800000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#f9f4fa",
+            "#ce5288",
+            "#e7a1c3"
+        ],
         "name": "First Commonwealth Bank",
         "website": "https://www.fcbanking.com",
         "logo": "fcbanking.svg"
@@ -23772,7 +23923,15 @@
         "settlement": true,
         "updated": 1243483200000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#fefefd",
+            "#2b8c5e",
+            "#7a857e",
+            "#92ccad",
+            "#272425",
+            "#eeb377",
+            "#f08428"
+        ],
         "name": "The Community Bank",
         "website": "https://www.thecombank.com",
         "logo": "thecombank.svg"
@@ -23787,7 +23946,10 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#fdfefd",
+            "#567994"
+        ],
         "name": "Peoples Natl. Bank Of New Lexington",
         "website": "https://www.psbohio.com",
         "logo": "psbohio.svg"
@@ -23802,7 +23964,13 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#fdf9fe",
+            "#c9153e",
+            "#eb8ea8",
+            "#2a5781",
+            "#85a9c8"
+        ],
         "name": "First National Bank Of Mcconnelsville",
         "website": "https://www.first-national.com",
         "logo": "first-national.svg"
@@ -23817,7 +23985,12 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#fdfefc",
+            "#263a24",
+            "#7d6a3c",
+            "#939e92"
+        ],
         "name": "Citizens Natl Bank Of Mcconnelsville",
         "website": "https://www.cnb-online.net",
         "logo": "cnb-online.svg"
@@ -23832,7 +24005,10 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#fefcfd",
+            "#137f55"
+        ],
         "name": "The Richwood Banking Company",
         "website": "https://richwoodbank.com",
         "logo": "richwoodbank.svg"
@@ -23847,7 +24023,12 @@
         "settlement": true,
         "updated": 1479445200000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#fefefe",
+            "#92d482",
+            "#97bbda",
+            "#105dbc"
+        ],
         "name": "Peoples Bank",
         "website": "https://locations.peoplesbancorp.com",
         "logo": "peoplesbancorp.svg"
@@ -23875,7 +24056,11 @@
         "settlement": true,
         "updated": 1485925200000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#1f1f1e",
+            "#e2e8f9",
+            "#8d9dcc"
+        ],
         "name": "The Union Banking Company",
         "website": "https://www.bankatubc.com",
         "logo": "bankatubc.svg"
@@ -23905,7 +24090,11 @@
         "settlement": false,
         "updated": 1061438400000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#fcfefd",
+            "#bfdeaa",
+            "#7dbf43"
+        ],
         "name": "The Huntington National Bank",
         "website": "https://www.huntington.com",
         "logo": "huntington.svg"
@@ -23920,7 +24109,12 @@
         "settlement": true,
         "updated": 1156132800000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#fdfffd",
+            "#2f9259",
+            "#1a4b25",
+            "#1c1b1c"
+        ],
         "name": "North Valley Bank",
         "website": "https://www.nvboh.bank",
         "logo": "nvboh.svg"
@@ -23935,7 +24129,13 @@
         "settlement": true,
         "updated": 951368400000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#fffdfd",
+            "#87abc0",
+            "#124568",
+            "#dd7a35",
+            "#e2b087"
+        ],
         "name": "Heartland Bank",
         "website": "https://www.heartland.bank",
         "logo": "heartland.svg"
@@ -23950,7 +24150,12 @@
         "settlement": false,
         "updated": 1542171600000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#de5755",
+            "#cdbdbb",
+            "#7c1b1c",
+            "#8f6968"
+        ],
         "name": "Buckeye State Bank",
         "website": "https://www.joinbsb.com",
         "logo": "joinbsb.svg"
@@ -23965,7 +24170,12 @@
         "settlement": true,
         "updated": 1052884800000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#fdfffd",
+            "#2f9259",
+            "#1a4b25",
+            "#1c1b1c"
+        ],
         "name": "Commodore Bank",
         "website": "https://www.nvboh.bank",
         "logo": "nvboh.svg"
@@ -23994,7 +24204,10 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#317b6c",
+            "#d3dfdd"
+        ],
         "name": "The Citizens Bank Of Logan",
         "website": "https://www.hockinghills.com",
         "logo": "hockinghills.svg"
@@ -24028,7 +24241,11 @@
         "settlement": false,
         "updated": 1381464000000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#fcfdfb",
+            "#2f68a2",
+            "#8cca7b"
+        ],
         "name": "The Hocking Valley Bank",
         "website": "https://www.hvbonline.com",
         "logo": "hvbonline.svg"
@@ -24043,7 +24260,12 @@
         "settlement": true,
         "updated": 1479445200000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#fefefe",
+            "#92d482",
+            "#97bbda",
+            "#105dbc"
+        ],
         "name": "Peoples Bank",
         "website": "https://www.peoplesbancorp.com",
         "logo": "peoplesbancorp.svg"
@@ -24058,7 +24280,11 @@
         "settlement": true,
         "updated": 1507780800000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#fafafa",
+            "#343434",
+            "#909090"
+        ],
         "name": "Ohio Valley Bank Company The",
         "website": "https://www.ovbc.com",
         "logo": "ovbc.svg"
@@ -24073,7 +24299,10 @@
         "settlement": true,
         "updated": 936331200000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#337854",
+            "#fafefc"
+        ],
         "name": "The Farmers Bank & Svgs",
         "website": "https://www.fbsc.com",
         "logo": "fbsc.svg"
@@ -24088,7 +24317,11 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#fdfefd",
+            "#c3f3be",
+            "#51c944"
+        ],
         "name": "The First National Bank Of Waverly",
         "website": "https://www.thefirstnational.com",
         "logo": "thefirstnational.svg"
@@ -24103,7 +24336,12 @@
         "settlement": false,
         "updated": 1482210000000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#f9f9f8",
+            "#448a59",
+            "#363636",
+            "#8a9b8f"
+        ],
         "name": "Wesbanco Bank Inc",
         "website": "https://www.wesbanco.com",
         "logo": "wesbanco.svg"
@@ -24118,7 +24356,10 @@
         "settlement": true,
         "updated": 991195200000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#ffffff",
+            "#66c299"
+        ],
         "name": "Home National Bank",
         "website": "https://homenatlbank.com",
         "logo": "homenatlbank.svg"
@@ -24148,7 +24389,12 @@
         "settlement": false,
         "updated": 1415336400000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#93bbcb",
+            "#f9e817",
+            "#5c8446",
+            "#1d5468"
+        ],
         "name": "Kingston National Bank",
         "website": "https://www.kingstonnationalbank.com",
         "logo": "kingstonnationalbank.svg"
@@ -24163,7 +24409,11 @@
         "settlement": true,
         "updated": 1280289600000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#a02743",
+            "#be8293",
+            "#fafefe"
+        ],
         "name": "Vinton County Natl Bank Of Mcarthur",
         "website": "https://www.vcnbfamily.bank",
         "logo": "vcnbfamily.svg"
@@ -24178,7 +24428,11 @@
         "settlement": true,
         "updated": 1415336400000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#fefcfd",
+            "#24744d",
+            "#99c2b0"
+        ],
         "name": "Waterford Commercial And Savings Bank",
         "website": "https://www.waterfordbank.com",
         "logo": "waterfordbank.svg"
@@ -24193,7 +24447,11 @@
         "settlement": true,
         "updated": 933566400000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#fdfdfd",
+            "#c69899",
+            "#712225"
+        ],
         "name": "Settlers Bank",
         "website": "https://www.settlers.bank",
         "logo": "settlers.svg"
@@ -24208,7 +24466,11 @@
         "settlement": true,
         "updated": 931838400000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#fefefd",
+            "#6a99b7",
+            "#13507b"
+        ],
         "name": "Federal Reserve Bank Of Richmond",
         "website": "https://www.richmondfed.org",
         "logo": "richmondfed.svg"
@@ -24223,7 +24485,11 @@
         "settlement": true,
         "updated": 1503028800000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#f4f8fb",
+            "#243442",
+            "#a8a691"
+        ],
         "name": "Community Bankers Bank",
         "website": "https://cbbonline.com",
         "logo": "cbbonline.svg"
@@ -24238,7 +24504,13 @@
         "settlement": false,
         "updated": 1439870400000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#114c91",
+            "#fdfdfd",
+            "#a0dcb1",
+            "#20af4a",
+            "#86a3c6"
+        ],
         "name": "Union Bank & Trust",
         "website": "https://locations.atlanticunionbank.com",
         "logo": "atlanticunionbank.svg"
@@ -24266,7 +24538,13 @@
         "settlement": false,
         "updated": 1422853200000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#114c91",
+            "#fdfdfd",
+            "#a0dcb1",
+            "#20af4a",
+            "#86a3c6"
+        ],
         "name": "American Natl Bank & Trust",
         "website": "https://bank.amnb.com",
         "logo": "amnb.svg"
@@ -24281,7 +24559,11 @@
         "settlement": true,
         "updated": 1501041600000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#dd8f8f",
+            "#fcf8f3",
+            "#f64038"
+        ],
         "name": "Movement Bank",
         "website": "https://www.movementbank.com",
         "logo": "movementbank.svg"
@@ -24296,7 +24578,10 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#d02030",
+            "#681018"
+        ],
         "name": "Grundy National Bank",
         "website": "https://mylegacybank.net",
         "logo": "mylegacybank.svg"
@@ -24311,7 +24596,11 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#ffffff",
+            "#a28279",
+            "#772c2f"
+        ],
         "name": "The Bank Of Marion",
         "website": "https://www.bankofmarionva.com",
         "logo": "bankofmarionva.svg"
@@ -24366,7 +24655,12 @@
         "settlement": true,
         "updated": 1481259600000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#fefefc",
+            "#282d7c",
+            "#81be7f",
+            "#5cbc41"
+        ],
         "name": "Blue Ridge Bank National Associatio",
         "website": "https://www.mybrb.bank",
         "logo": "mybrb.svg"
@@ -24381,7 +24675,13 @@
         "settlement": true,
         "updated": 1536120000000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#fef8fd",
+            "#e6ba59",
+            "#cdba92",
+            "#957273",
+            "#451d2a"
+        ],
         "name": "Benchmark Community Bank",
         "website": "https://www.bcbonline.com",
         "logo": "bcbonline.svg"
@@ -24396,7 +24696,11 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#376e32",
+            "#fcfefc",
+            "#8aa988"
+        ],
         "name": "Bank Of Clarke County",
         "website": "https://www.bankofclarke.bank",
         "logo": "bankofclarke.svg"
@@ -24411,7 +24715,11 @@
         "settlement": false,
         "updated": 1351483200000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#fefcfd",
+            "#a23a4d",
+            "#b78088"
+        ],
         "name": "Bank Of Botetourt",
         "website": "https://www.bankofbotetourt.com",
         "logo": "bankofbotetourt.svg"
@@ -24426,7 +24734,11 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#d43229",
+            "#fdfefc",
+            "#f3a99e"
+        ],
         "name": "First Bank",
         "website": "https://www.fbvirginia.com",
         "logo": "fbvirginia.svg"
@@ -24441,7 +24753,11 @@
         "settlement": false,
         "updated": 1439956800000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#1a5587",
+            "#fefefe",
+            "#7f9cb3"
+        ],
         "name": "Union Bank & Trust",
         "website": "https://www.ubt.com",
         "logo": "ubt.svg"
@@ -24469,7 +24785,12 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#fcfefd",
+            "#fc8522",
+            "#c17a7a",
+            "#fdc18d"
+        ],
         "name": "The Natl Bank Of Blacksburg",
         "website": "https://nbbank.com",
         "logo": "nbbank.svg"
@@ -24484,7 +24805,13 @@
         "settlement": true,
         "updated": 1424235600000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#114c91",
+            "#fdfdfd",
+            "#a0dcb1",
+            "#20af4a",
+            "#86a3c6"
+        ],
         "name": "Union Bank & Trust",
         "website": "https://www.atlanticunionbank.com",
         "logo": "atlanticunionbank.svg"
@@ -24499,7 +24826,13 @@
         "settlement": false,
         "updated": 1439956800000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#114c91",
+            "#fdfdfd",
+            "#a0dcb1",
+            "#20af4a",
+            "#86a3c6"
+        ],
         "name": "Union Bank & Trust",
         "website": "https://locations.atlanticunionbank.com",
         "logo": "atlanticunionbank.svg"
@@ -24514,7 +24847,11 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#fefeff",
+            "#9ab0b4",
+            "#30576b"
+        ],
         "name": "The Bank Of Fincastle",
         "website": "https://www.visitroanokeva.com",
         "logo": "visitroanokeva.svg"
@@ -24529,7 +24866,13 @@
         "settlement": true,
         "updated": 1143522000000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#d2a723",
+            "#6e633a",
+            "#f8fcf8",
+            "#122040",
+            "#99a7c4"
+        ],
         "name": "Trupoint Bank",
         "website": "https://www.trupointbank.com",
         "logo": "trupointbank.svg"
@@ -24571,7 +24914,13 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#c4beba",
+            "#937e5a",
+            "#213760",
+            "#3f3732",
+            "#e2b159"
+        ],
         "name": "Powell Valley National Bank",
         "website": "https://www.powellvalleybank.com",
         "logo": "powellvalleybank.svg"
@@ -24586,7 +24935,11 @@
         "settlement": true,
         "updated": 1510290000000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#333333",
+            "#979797",
+            "#fdfdfd"
+        ],
         "name": "Virginia Commonwealth Bank",
         "website": "https://www.mapquest.com",
         "logo": "mapquest.svg"
@@ -24601,7 +24954,12 @@
         "settlement": true,
         "updated": 1510290000000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#fefbfd",
+            "#89c0ce",
+            "#79ad5c",
+            "#2e79a1"
+        ],
         "name": "Touchstone Bank",
         "website": "https://www.touchstone.bank",
         "logo": "touchstone.svg"
@@ -24630,7 +24988,11 @@
         "settlement": false,
         "updated": 1464926400000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#fdfefe",
+            "#566f81",
+            "#a86872"
+        ],
         "name": "Southern Bank & Trust",
         "website": "https://www.southernbank.com",
         "logo": "southernbank.svg"
@@ -24645,7 +25007,11 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#333333",
+            "#979797",
+            "#fdfdfd"
+        ],
         "name": "Virginia Community Bank",
         "website": "https://www.mapquest.com",
         "logo": "mapquest.svg"
@@ -24674,7 +25040,11 @@
         "settlement": false,
         "updated": 1415336400000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#333333",
+            "#979797",
+            "#fdfdfd"
+        ],
         "name": "Branch Banking & Trust - Virginia",
         "website": "https://www.mapquest.com",
         "logo": "mapquest.svg"
@@ -24689,7 +25059,11 @@
         "settlement": true,
         "updated": 981522000000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#fdfefe",
+            "#11623a",
+            "#75ac91"
+        ],
         "name": "Pioneer Bank",
         "website": "https://www.pioneerbks.com",
         "logo": "pioneerbks.svg"
@@ -24704,7 +25078,11 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#fdfefd",
+            "#811027",
+            "#b47e8a"
+        ],
         "name": "Farmers And Merchants Bank",
         "website": "https://www.fmbankva.com",
         "logo": "fmbankva.svg"
@@ -24732,7 +25110,13 @@
         "settlement": false,
         "updated": 1439956800000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#114c91",
+            "#fdfdfd",
+            "#a0dcb1",
+            "#20af4a",
+            "#86a3c6"
+        ],
         "name": "Union Bank & Trust",
         "website": "https://locations.atlanticunionbank.com",
         "logo": "atlanticunionbank.svg"
@@ -24747,7 +25131,13 @@
         "settlement": true,
         "updated": 1388984400000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#47704c",
+            "#86808c",
+            "#c02e3f",
+            "#e7eaea",
+            "#542741"
+        ],
         "name": "Farmers And Miners Bank",
         "website": "https://www.farmersandminersbank.com",
         "logo": "farmersandminersbank.svg"
@@ -24762,7 +25152,11 @@
         "settlement": true,
         "updated": 927172800000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#20492c",
+            "#fcfefe",
+            "#758b7a"
+        ],
         "name": "Bank Of Southside Virginia",
         "website": "https://www.bsvnet.com",
         "logo": "bsvnet.svg"
@@ -24790,7 +25184,11 @@
         "settlement": true,
         "updated": 1172725200000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#229f52",
+            "#fdfdfd",
+            "#82bf99"
+        ],
         "name": "Peoples Community Bank",
         "website": "https://www.peoplescommunitybank.com",
         "logo": "peoplescommunitybank.svg"
@@ -24805,7 +25203,10 @@
         "settlement": true,
         "updated": 931924800000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#fdfdfe",
+            "#185a47"
+        ],
         "name": "Citizens & Farmers Bank",
         "website": "https://www.cffc.com",
         "logo": "cffc.svg"
@@ -24820,7 +25221,10 @@
         "settlement": true,
         "updated": 1246248000000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#fefefe",
+            "#3e3e3e"
+        ],
         "name": "Highlands Union Bank",
         "website": "https://en.wikipedia.org",
         "logo": "wikipedia.svg"
@@ -24835,7 +25239,13 @@
         "settlement": false,
         "updated": 1527652800000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#114c91",
+            "#fdfdfd",
+            "#a0dcb1",
+            "#20af4a",
+            "#86a3c6"
+        ],
         "name": "Union Bank & Trust",
         "website": "https://www.atlanticunionbank.com",
         "logo": "atlanticunionbank.svg"
@@ -24850,7 +25260,11 @@
         "settlement": false,
         "updated": 1516856400000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#91311d",
+            "#fcf9f8",
+            "#cda49a"
+        ],
         "name": "Farmers & Mer Bank Of Craig",
         "website": "https://www.fmbankcraig.com",
         "logo": "fmbankcraig.svg"
@@ -24896,7 +25310,12 @@
         "settlement": true,
         "updated": 1246852800000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#fefefd",
+            "#a23035",
+            "#91afc1",
+            "#ecb2b4"
+        ],
         "name": "The Farmers Bank Of Appomattox",
         "website": "https://www.thefarmersbankva.com",
         "logo": "thefarmersbankva.svg"
@@ -24924,7 +25343,11 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#e5e7f0",
+            "#2a305d",
+            "#84869e"
+        ],
         "name": "The Old Point Natl Bank Of Phoebus",
         "website": "https://www.oldpoint.com",
         "logo": "oldpoint.svg"
@@ -24939,7 +25362,10 @@
         "settlement": true,
         "updated": 1397102400000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#121212",
+            "#219963"
+        ],
         "name": "Essex Bank",
         "website": "https://www.bankwithunited.com",
         "logo": "bankwithunited.svg"
@@ -24954,7 +25380,11 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#2d4b66",
+            "#fdfdfb",
+            "#8596a4"
+        ],
         "name": "Virginia Bank & Trust",
         "website": "https://www.1stnatbk.com",
         "logo": "1stnatbk.svg"
@@ -24969,7 +25399,11 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#fefefe",
+            "#8897a5",
+            "#22517d"
+        ],
         "name": "Virginia National Bank",
         "website": "https://www.vnb.com",
         "logo": "vnb.svg"
@@ -24984,7 +25418,10 @@
         "settlement": true,
         "updated": 1501473600000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#327156",
+            "#f4fdfa"
+        ],
         "name": "New Peoples Bank Inc",
         "website": "https://www.newpeoples.bank",
         "logo": "newpeoples.svg"
@@ -24999,7 +25436,11 @@
         "settlement": true,
         "updated": 1466740800000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#fefffe",
+            "#3b445a",
+            "#8a91a1"
+        ],
         "name": "Townebank",
         "website": "https://www.townebank.com",
         "logo": "townebank.svg"
@@ -25014,7 +25455,13 @@
         "settlement": false,
         "updated": 1439956800000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#114c91",
+            "#fdfdfd",
+            "#a0dcb1",
+            "#20af4a",
+            "#86a3c6"
+        ],
         "name": "Union Bank & Trust",
         "website": "https://locations.atlanticunionbank.com",
         "logo": "atlanticunionbank.svg"
@@ -25029,7 +25476,11 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#fefffe",
+            "#3b445a",
+            "#8a91a1"
+        ],
         "name": "Townebank",
         "website": "https://www.townebank.com",
         "logo": "townebank.svg"
@@ -25044,7 +25495,10 @@
         "settlement": true,
         "updated": 1453784400000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#fdfefe",
+            "#2d659d"
+        ],
         "name": "Bank Of The James",
         "website": "https://www.bankofthejames.bank",
         "logo": "bankofthejames.svg"
@@ -25072,7 +25526,13 @@
         "settlement": false,
         "updated": 1527220800000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#114c91",
+            "#fdfdfd",
+            "#a0dcb1",
+            "#20af4a",
+            "#86a3c6"
+        ],
         "name": "Union Bank & Trust",
         "website": "https://www.atlanticunionbank.com",
         "logo": "atlanticunionbank.svg"
@@ -25087,7 +25547,11 @@
         "settlement": false,
         "updated": 1529035200000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#181b19",
+            "#b0e01e",
+            "#668222"
+        ],
         "name": "Sonabank",
         "website": "https://primisbank.com",
         "logo": "primisbank.svg"
@@ -25102,7 +25566,12 @@
         "settlement": false,
         "updated": 1351483200000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#fdfef6",
+            "#1d639a",
+            "#e5bd56",
+            "#87c43a"
+        ],
         "name": "Hometown Bank",
         "website": "https://roanoke.family",
         "logo": "roanoke.svg"
@@ -25131,7 +25600,12 @@
         "settlement": true,
         "updated": 1415336400000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#ee7467",
+            "#f91e21",
+            "#f8d3bc",
+            "#fa8714"
+        ],
         "name": "Select Bank",
         "website": "https://www.myselectbank.com",
         "logo": "myselectbank.svg"
@@ -25160,7 +25634,12 @@
         "settlement": false,
         "updated": 1061438400000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#f9f9f8",
+            "#448a59",
+            "#363636",
+            "#8a9b8f"
+        ],
         "name": "Wesbanco Bank Wheeling",
         "website": "https://www.wesbanco.com",
         "logo": "wesbanco.svg"
@@ -25175,7 +25654,12 @@
         "settlement": false,
         "updated": 1061438400000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#f9f9f8",
+            "#448a59",
+            "#363636",
+            "#8a9b8f"
+        ],
         "name": "Wesbanco Bank Wheeling",
         "website": "https://www.wesbanco.com",
         "logo": "wesbanco.svg"
@@ -25190,7 +25674,11 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#146632",
+            "#fefdfd",
+            "#7b9b84"
+        ],
         "name": "Logan Bank & Trust Company",
         "website": "https://www.lbandt.com",
         "logo": "lbandt.svg"
@@ -25205,7 +25693,12 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#9c8e8d",
+            "#642623",
+            "#f4f1f0",
+            "#a83029"
+        ],
         "name": "Davis Trust Company",
         "website": "https://www.davistrust.com",
         "logo": "davistrust.svg"
@@ -25220,7 +25713,11 @@
         "settlement": true,
         "updated": 1246334400000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#f0f4f3",
+            "#c56c86",
+            "#2e5883"
+        ],
         "name": "Citizens Bank Of West Virginia Inc",
         "website": "https://www.citizenswv.com",
         "logo": "citizenswv.svg"
@@ -25235,7 +25732,11 @@
         "settlement": false,
         "updated": 1351483200000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#201d1f",
+            "#feffff",
+            "#989697"
+        ],
         "name": "Community Bank Of Parkersburg",
         "website": "https://www.communitybankpkbg.com",
         "logo": "communitybankpkbg.svg"
@@ -25250,7 +25751,11 @@
         "settlement": false,
         "updated": 1332388800000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#fefdfe",
+            "#b6a1a8",
+            "#4d4d93"
+        ],
         "name": "First National Bank Of Williamson",
         "website": "https://yourfnbonline.com",
         "logo": "yourfnbonline.svg"
@@ -25265,7 +25770,12 @@
         "settlement": true,
         "updated": 1314158400000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#fdfefd",
+            "#e8372f",
+            "#a59897",
+            "#201f1f"
+        ],
         "name": "First Community Bank",
         "website": "https://www.firstcommunitybank.com",
         "logo": "firstcommunitybank.svg"
@@ -25293,7 +25803,11 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#fdfdfe",
+            "#af7d30",
+            "#80845a"
+        ],
         "name": "First Exchange Bank",
         "website": "https://www.firstexchangebank.com",
         "logo": "firstexchangebank.svg"
@@ -25308,7 +25822,11 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#fefefd",
+            "#581821",
+            "#c3a38f"
+        ],
         "name": "The Citizens Bank",
         "website": "https://www.citizensbankweston.com",
         "logo": "citizensbankweston.svg"
@@ -25323,7 +25841,11 @@
         "settlement": true,
         "updated": 933220800000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#8dbda3",
+            "#198149",
+            "#f1f4f3"
+        ],
         "name": "Mountain Valley Bank",
         "website": "https://www.mountainvalleybank.com",
         "logo": "mountainvalleybank.svg"
@@ -25338,7 +25860,11 @@
         "settlement": true,
         "updated": 1355202000000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#f1f9f0",
+            "#58b942",
+            "#a1d895"
+        ],
         "name": "Mcnb Bank & Trust",
         "website": "https://www.mcnbbanks.com",
         "logo": "mcnbbanks.svg"
@@ -25353,7 +25879,9 @@
         "settlement": false,
         "updated": 1415336400000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#42957b"
+        ],
         "name": "The Pleasants County Bank",
         "website": "https://www.pcbsm.com",
         "logo": "pcbsm.svg"
@@ -25381,7 +25909,12 @@
         "settlement": true,
         "updated": 1516856400000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#1c17e4",
+            "#fefdfe",
+            "#4141af",
+            "#b1b2d8"
+        ],
         "name": "West Union Bank",
         "website": "https://www.westunionbank.com",
         "logo": "westunionbank.svg"
@@ -25396,7 +25929,10 @@
         "settlement": true,
         "updated": 1164862800000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#fefefe",
+            "#112034"
+        ],
         "name": "Cornerstone Bank Inc",
         "website": "https://pitchbook.com",
         "logo": "pitchbook.svg"
@@ -25425,7 +25961,13 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#374ba5",
+            "#626286",
+            "#eeeff5",
+            "#7e2e51",
+            "#1f1d44"
+        ],
         "name": "The Bank Of Monroe",
         "website": "https://www.mybankofmonroe.com",
         "logo": "mybankofmonroe.svg"
@@ -25440,7 +25982,13 @@
         "settlement": true,
         "updated": 1507176000000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#fdfafe",
+            "#687096",
+            "#1f3580",
+            "#ab8e85",
+            "#43353e"
+        ],
         "name": "Calhoun County Bank Inc",
         "website": "https://www.calhounbanks.com",
         "logo": "calhounbanks.svg"
@@ -25468,7 +26016,11 @@
         "settlement": true,
         "updated": 1129003200000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#fefefd",
+            "#9bb66c",
+            "#81a0c0"
+        ],
         "name": "Clear Mountain Bank",
         "website": "https://www.clearmountain.bank",
         "logo": "clearmountain.svg"
@@ -25483,7 +26035,11 @@
         "settlement": true,
         "updated": 1499659200000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#ffffff",
+            "#474783",
+            "#18188c"
+        ],
         "name": "Clay County Bank Inc",
         "website": "https://claycounty.bank",
         "logo": "claycounty.svg"
@@ -25539,7 +26095,9 @@
         "settlement": true,
         "updated": 1237348800000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#4d4c4d"
+        ],
         "name": "Miners & Merchants Bank",
         "website": "https://www.minersandmerchantsbank.com",
         "logo": "minersandmerchantsbank.svg"
@@ -25554,7 +26112,11 @@
         "settlement": false,
         "updated": 1351483200000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#333333",
+            "#979797",
+            "#fdfdfd"
+        ],
         "name": "The Poca Valley Bank",
         "website": "https://www.mapquest.com",
         "logo": "mapquest.svg"
@@ -25569,7 +26131,10 @@
         "settlement": true,
         "updated": 1249963200000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#3e8cbd",
+            "#fcfefa"
+        ],
         "name": "First Neighborhood Bank Inc",
         "website": "https://www.firstneighborhoodbank.com",
         "logo": "firstneighborhoodbank.svg"
@@ -25584,7 +26149,10 @@
         "settlement": false,
         "updated": 1037768400000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#2b1a46",
+            "#fefdfe"
+        ],
         "name": "Bb&t West Virginia",
         "website": "https://www.truist.com",
         "logo": "truist.svg"
@@ -25613,7 +26181,11 @@
         "settlement": true,
         "updated": 1412568000000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#12303d",
+            "#798861",
+            "#c8dc6e"
+        ],
         "name": "Williamstown Bank Inc",
         "website": "https://www.williamstownbank.com",
         "logo": "williamstownbank.svg"
@@ -25628,7 +26200,11 @@
         "settlement": true,
         "updated": 1248408000000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#fffeff",
+            "#88b89f",
+            "#8ebf61"
+        ],
         "name": "Pendleton Community Bank Inc",
         "website": "https://www.yourbank.bank",
         "logo": "yourbank.svg"
@@ -25643,7 +26219,11 @@
         "settlement": false,
         "updated": 934862400000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#2d181f",
+            "#6f6972",
+            "#dcdade"
+        ],
         "name": "Pioneer Community Bank",
         "website": "https://www.pioneercommunitybank.com",
         "logo": "pioneercommunitybank.svg"
@@ -25658,7 +26238,10 @@
         "settlement": true,
         "updated": 1086667200000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#313888",
+            "#cd2027"
+        ],
         "name": "Freedom Bank Inc",
         "website": "https://www.freedombankwv.com",
         "logo": "freedombankwv.svg"
@@ -25673,7 +26256,13 @@
         "settlement": true,
         "updated": 1315972800000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#ffffff",
+            "#1c8829",
+            "#47634a",
+            "#7db984",
+            "#162018"
+        ],
         "name": "Whitesville State Bank",
         "website": "https://www.whitesvillesb.com",
         "logo": "whitesvillesb.svg"
@@ -25688,7 +26277,10 @@
         "settlement": true,
         "updated": 1539316800000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#fefefe",
+            "#434343"
+        ],
         "name": "Premier Bank Inc",
         "website": "https://www.bloomberg.com",
         "logo": "bloomberg.svg"
@@ -25703,7 +26295,10 @@
         "settlement": true,
         "updated": 1539144000000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#6180b0",
+            "#fffffe"
+        ],
         "name": "Mvb Bank Inc",
         "website": "https://mvbbanking.com",
         "logo": "mvbbanking.svg"
@@ -25718,7 +26313,11 @@
         "settlement": true,
         "updated": 1450674000000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#1790dd",
+            "#edfefe",
+            "#70a3b9"
+        ],
         "name": "Treasurydirect",
         "website": "https://www.treasurydirect.gov",
         "logo": "treasurydirect.svg"
@@ -25733,7 +26332,10 @@
         "settlement": false,
         "updated": 1513746000000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#121212",
+            "#219963"
+        ],
         "name": "United Bank",
         "website": "https://locations.bankwithunited.com",
         "logo": "bankwithunited.svg"
@@ -25748,7 +26350,10 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#a9d1dd",
+            "#2d7893"
+        ],
         "name": "City National Bank Of West Virginia",
         "website": "https://www.bankatcity.com",
         "logo": "bankatcity.svg"
@@ -25763,7 +26368,11 @@
         "settlement": false,
         "updated": 1474948800000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#159c6f",
+            "#f7faf7",
+            "#143321"
+        ],
         "name": "Manufacturers & Traders Trust",
         "website": "https://www.mtb.com",
         "logo": "mtb.svg"
@@ -25778,7 +26387,11 @@
         "settlement": false,
         "updated": 1540958400000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#fefefd",
+            "#6a99b7",
+            "#13507b"
+        ],
         "name": "Baltimore - Frb Richmond",
         "website": "https://www.richmondfed.org",
         "logo": "richmondfed.svg"
@@ -25793,7 +26406,11 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#fdfdfe",
+            "#272f7a",
+            "#686ea0"
+        ],
         "name": "The Harbor Bank Of Maryland",
         "website": "https://www.theharborbank.com",
         "logo": "theharborbank.svg"
@@ -25808,7 +26425,13 @@
         "settlement": true,
         "updated": 1343966400000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#fefcfe",
+            "#17542f",
+            "#d1cc85",
+            "#fec326",
+            "#7a7f1f"
+        ],
         "name": "Cfg Community Bank",
         "website": "https://www.cfg.bank",
         "logo": "cfg.svg"
@@ -25823,7 +26446,10 @@
         "settlement": false,
         "updated": 1477022400000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#ffffff",
+            "#757575"
+        ],
         "name": "M.y. Safra Bank Fsb",
         "website": "https://www.mysafra.com",
         "logo": "mysafra.svg"
@@ -25838,7 +26464,12 @@
         "settlement": true,
         "updated": 1414728000000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#4d4c92",
+            "#f7f8fd",
+            "#1e1d8f",
+            "#9e9dcd"
+        ],
         "name": "1880 Bank",
         "website": "https://www.bayvanguard.com",
         "logo": "bayvanguard.svg"
@@ -25853,7 +26484,11 @@
         "settlement": true,
         "updated": 1152244800000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#fdfefe",
+            "#1d3c9c",
+            "#647ab6"
+        ],
         "name": "The Peoples Bank",
         "website": "https://pbkc.com",
         "logo": "pbkc.svg"
@@ -25868,7 +26503,11 @@
         "settlement": true,
         "updated": 1467691200000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#fefffd",
+            "#3b8494",
+            "#e8ad2b"
+        ],
         "name": "Shore United Bank",
         "website": "https://www.shoreunitedbank.com",
         "logo": "shoreunitedbank.svg"
@@ -25883,7 +26522,11 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#f0f2f3",
+            "#cf4a5d",
+            "#78313f"
+        ],
         "name": "First United Bank & Trust",
         "website": "https://mybank.com",
         "logo": "mybank.svg"
@@ -25898,7 +26541,11 @@
         "settlement": false,
         "updated": 1351483200000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#fefefc",
+            "#42b891",
+            "#77c8e7"
+        ],
         "name": "Calvin B Taylor Banking",
         "website": "https://www.taylorbank.com",
         "logo": "taylorbank.svg"
@@ -25913,7 +26560,10 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#fefefd",
+            "#346c9c"
+        ],
         "name": "The Hebron Savings Bank",
         "website": "https://www.hebronsavingsbank.com",
         "logo": "hebronsavingsbank.svg"
@@ -25928,7 +26578,9 @@
         "settlement": true,
         "updated": 995428800000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#daeaf4"
+        ],
         "name": "Provident State Bank Inc",
         "website": "https://www.linkedin.com",
         "logo": "linkedin.svg"
@@ -25943,7 +26595,12 @@
         "settlement": true,
         "updated": 1415336400000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#fffefc",
+            "#5c64a8",
+            "#a3accc",
+            "#7b947d"
+        ],
         "name": "Queenstown Bank Of Maryland",
         "website": "https://www.queenstownbank.com",
         "logo": "queenstownbank.svg"
@@ -25986,7 +26643,11 @@
         "settlement": true,
         "updated": 1499659200000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#c5cedb",
+            "#484c58",
+            "#9d937b"
+        ],
         "name": "The Farmers Bank Of Willards",
         "website": "https://fbwbank.com",
         "logo": "fbwbank.svg"
@@ -26033,7 +26694,12 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#1b6838",
+            "#e21b24",
+            "#f9d7d9",
+            "#eb666d"
+        ],
         "name": "The Bank Of Romney",
         "website": "https://www.bankofromney.net",
         "logo": "bankofromney.svg"
@@ -26048,7 +26714,11 @@
         "settlement": false,
         "updated": 1103691600000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#4d70a5",
+            "#fdfefe",
+            "#a4b6d1"
+        ],
         "name": "Fnb Bank Inc",
         "website": "https://www.fnbtoday.com",
         "logo": "fnbtoday.svg"
@@ -26076,7 +26746,16 @@
         "settlement": true,
         "updated": 1499659200000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#15438b",
+            "#5aa769",
+            "#7bd75a",
+            "#3f7d80",
+            "#996b34",
+            "#594450",
+            "#e4a01b",
+            "#c8dae1"
+        ],
         "name": "The Grant County Bank",
         "website": "https://www.grantcountybank.com",
         "logo": "grantcountybank.svg"
@@ -26091,7 +26770,10 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#fdfdfd",
+            "#43936c"
+        ],
         "name": "Capon Valley Bank",
         "website": "https://www.caponvalleybank.com",
         "logo": "caponvalleybank.svg"
@@ -26106,7 +26788,10 @@
         "settlement": true,
         "updated": 1167368400000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#def1e7",
+            "#407544"
+        ],
         "name": "Cnb Bank Inc",
         "website": "https://www.cnb.bank",
         "logo": "cnb.svg"
@@ -26152,7 +26837,13 @@
         "settlement": false,
         "updated": 1524196800000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#ebbb54",
+            "#51503e",
+            "#384665",
+            "#8a98ac",
+            "#fbfdf5"
+        ],
         "name": "South State Bank - Park",
         "website": "https://www.southstatebank.com",
         "logo": "southstatebank.svg"
@@ -26167,7 +26858,13 @@
         "settlement": true,
         "updated": 1503028800000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#113e77",
+            "#fefefd",
+            "#b53054",
+            "#dc9cad",
+            "#6c88b4"
+        ],
         "name": "First-citizens Bank & Trust",
         "website": "https://locations.firstcitizens.com",
         "logo": "firstcitizens.svg"
@@ -26182,7 +26879,11 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#f06224",
+            "#fefefe",
+            "#c8947e"
+        ],
         "name": "Mechanics & Farmers Bank",
         "website": "https://www.mfbonline.com",
         "logo": "mfbonline.svg"
@@ -26210,7 +26911,11 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#fdfefe",
+            "#566f81",
+            "#a86872"
+        ],
         "name": "Southern Bank & Trust",
         "website": "https://www.southernbank.com",
         "logo": "southernbank.svg"
@@ -26225,7 +26930,10 @@
         "settlement": true,
         "updated": 1280462400000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#fffefd",
+            "#317393"
+        ],
         "name": "Fidelity Bank",
         "website": "https://www.fidelitybanknc.com",
         "logo": "fidelitybanknc.svg"
@@ -26240,7 +26948,11 @@
         "settlement": true,
         "updated": 1178251200000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#fdfefe",
+            "#822c30",
+            "#9e8e8f"
+        ],
         "name": "Farmers & Merchants Bank",
         "website": "https://www.fmbnc.com",
         "logo": "fmbnc.svg"
@@ -26255,7 +26967,9 @@
         "settlement": true,
         "updated": null,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#8c3318"
+        ],
         "name": "Lumbee Guaranty Bank",
         "website": "https://www.lumbeeguarantybank.com",
         "logo": "lumbeeguarantybank.svg"
@@ -26270,7 +26984,11 @@
         "settlement": true,
         "updated": 1504843200000,
         "country": "USA",
-        "colors": [],
+        "colors": [
+            "#c61f32",
+            "#f6fefc",
+            "#cb737f"
+        ],
         "name": "First Bank",
         "website": "https://localfirstbank.com",
         "logo": "localfirstbank.svg"

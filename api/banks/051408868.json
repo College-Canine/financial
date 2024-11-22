@@ -8,7 +8,11 @@
     "settlement": true,
     "updated": null,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#fefefe",
+        "#8897a5",
+        "#22517d"
+    ],
     "name": "Virginia National Bank",
     "website": "https://www.vnb.com",
     "logo": "vnb.svg"

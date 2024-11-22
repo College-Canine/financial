@@ -8,7 +8,11 @@
     "settlement": true,
     "updated": 1516683600000,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#f5eed4",
+        "#f48c19",
+        "#5b7f6a"
+    ],
     "name": "First Bank Of Lilly",
     "website": "https://www.somersettrust.com",
     "logo": "somersettrust.svg"

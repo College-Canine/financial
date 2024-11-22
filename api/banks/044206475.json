@@ -8,7 +8,11 @@
     "settlement": true,
     "updated": null,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#fdfefd",
+        "#c3f3be",
+        "#51c944"
+    ],
     "name": "The First National Bank Of Waverly",
     "website": "https://www.thefirstnational.com",
     "logo": "thefirstnational.svg"

@@ -8,7 +8,11 @@
     "settlement": true,
     "updated": 933220800000,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#8dbda3",
+        "#198149",
+        "#f1f4f3"
+    ],
     "name": "Mountain Valley Bank",
     "website": "https://www.mountainvalleybank.com",
     "logo": "mountainvalleybank.svg"

@@ -8,7 +8,11 @@
     "settlement": true,
     "updated": 1420002000000,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#fafafb",
+        "#385942",
+        "#d7c199"
+    ],
     "name": "Standing Stone Bank",
     "website": "https://www.standingstonebank.com",
     "logo": "standingstonebank.svg"

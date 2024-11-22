@@ -8,7 +8,13 @@
     "settlement": false,
     "updated": 1446177600000,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#fefffd",
+        "#472527",
+        "#f3a319",
+        "#85706e",
+        "#f3d494"
+    ],
     "name": "The First National Bank Of Dennison",
     "website": "https://www.fnbdennison.com",
     "logo": "fnbdennison.svg"

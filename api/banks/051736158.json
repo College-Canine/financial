@@ -8,7 +8,11 @@
     "settlement": true,
     "updated": 1450674000000,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#1790dd",
+        "#edfefe",
+        "#70a3b9"
+    ],
     "name": "Treasurydirect",
     "website": "https://www.treasurydirect.gov",
     "logo": "treasurydirect.svg"

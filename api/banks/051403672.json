@@ -8,7 +8,13 @@
     "settlement": true,
     "updated": 1143522000000,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#d2a723",
+        "#6e633a",
+        "#f8fcf8",
+        "#122040",
+        "#99a7c4"
+    ],
     "name": "Trupoint Bank",
     "website": "https://www.trupointbank.com",
     "logo": "trupointbank.svg"

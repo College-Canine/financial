@@ -8,7 +8,11 @@
     "settlement": false,
     "updated": 1103691600000,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#4d70a5",
+        "#fdfefe",
+        "#a4b6d1"
+    ],
     "name": "Fnb Bank Inc",
     "website": "https://www.fnbtoday.com",
     "logo": "fnbtoday.svg"

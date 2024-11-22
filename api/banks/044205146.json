@@ -8,7 +8,10 @@
     "settlement": true,
     "updated": 936331200000,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#337854",
+        "#fafefc"
+    ],
     "name": "The Farmers Bank & Svgs",
     "website": "https://www.fbsc.com",
     "logo": "fbsc.svg"

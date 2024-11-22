@@ -8,7 +8,12 @@
     "settlement": true,
     "updated": 1116216000000,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#90c4b8",
+        "#fefffe",
+        "#12644e",
+        "#d89e14"
+    ],
     "name": "Marion Center Bank",
     "website": "https://www.marioncenterbank.com",
     "logo": "marioncenterbank.svg"

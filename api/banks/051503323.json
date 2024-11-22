@@ -8,7 +8,10 @@
     "settlement": true,
     "updated": 1249963200000,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#3e8cbd",
+        "#fcfefa"
+    ],
     "name": "First Neighborhood Bank Inc",
     "website": "https://www.firstneighborhoodbank.com",
     "logo": "firstneighborhoodbank.svg"

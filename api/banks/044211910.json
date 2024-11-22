@@ -8,7 +8,11 @@
     "settlement": true,
     "updated": 1415336400000,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#fefcfd",
+        "#24744d",
+        "#99c2b0"
+    ],
     "name": "Waterford Commercial And Savings Bank",
     "website": "https://www.waterfordbank.com",
     "logo": "waterfordbank.svg"

@@ -8,7 +8,11 @@
     "settlement": true,
     "updated": 927172800000,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#20492c",
+        "#fcfefe",
+        "#758b7a"
+    ],
     "name": "Bank Of Southside Virginia",
     "website": "https://www.bsvnet.com",
     "logo": "bsvnet.svg"

@@ -8,7 +8,12 @@
     "settlement": false,
     "updated": 1542171600000,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#de5755",
+        "#cdbdbb",
+        "#7c1b1c",
+        "#8f6968"
+    ],
     "name": "Buckeye State Bank",
     "website": "https://www.joinbsb.com",
     "logo": "joinbsb.svg"

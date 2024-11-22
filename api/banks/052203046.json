@@ -8,7 +8,16 @@
     "settlement": true,
     "updated": 1499659200000,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#15438b",
+        "#5aa769",
+        "#7bd75a",
+        "#3f7d80",
+        "#996b34",
+        "#594450",
+        "#e4a01b",
+        "#c8dae1"
+    ],
     "name": "The Grant County Bank",
     "website": "https://www.grantcountybank.com",
     "logo": "grantcountybank.svg"

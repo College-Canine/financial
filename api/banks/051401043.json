@@ -8,7 +8,11 @@
     "settlement": true,
     "updated": 1501041600000,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#dd8f8f",
+        "#fcf8f3",
+        "#f64038"
+    ],
     "name": "Movement Bank",
     "website": "https://www.movementbank.com",
     "logo": "movementbank.svg"

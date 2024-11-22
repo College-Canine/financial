@@ -8,7 +8,11 @@
     "settlement": false,
     "updated": 1351483200000,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#fefcfd",
+        "#a23a4d",
+        "#b78088"
+    ],
     "name": "Bank Of Botetourt",
     "website": "https://www.bankofbotetourt.com",
     "logo": "bankofbotetourt.svg"

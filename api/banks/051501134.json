@@ -8,7 +8,12 @@
     "settlement": true,
     "updated": null,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#9c8e8d",
+        "#642623",
+        "#f4f1f0",
+        "#a83029"
+    ],
     "name": "Davis Trust Company",
     "website": "https://www.davistrust.com",
     "logo": "davistrust.svg"

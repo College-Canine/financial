@@ -8,7 +8,13 @@
     "settlement": true,
     "updated": 1503028800000,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#113e77",
+        "#fefefd",
+        "#b53054",
+        "#dc9cad",
+        "#6c88b4"
+    ],
     "name": "First-citizens Bank & Trust",
     "website": "https://locations.firstcitizens.com",
     "logo": "firstcitizens.svg"

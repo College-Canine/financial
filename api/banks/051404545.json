@@ -8,7 +8,13 @@
     "settlement": true,
     "updated": 1388984400000,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#47704c",
+        "#86808c",
+        "#c02e3f",
+        "#e7eaea",
+        "#542741"
+    ],
     "name": "Farmers And Miners Bank",
     "website": "https://www.farmersandminersbank.com",
     "logo": "farmersandminersbank.svg"

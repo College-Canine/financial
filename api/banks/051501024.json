@@ -8,7 +8,11 @@
     "settlement": true,
     "updated": null,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#146632",
+        "#fefdfd",
+        "#7b9b84"
+    ],
     "name": "Logan Bank & Trust Company",
     "website": "https://www.lbandt.com",
     "logo": "lbandt.svg"

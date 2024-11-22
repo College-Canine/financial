@@ -8,7 +8,12 @@
     "settlement": true,
     "updated": 1310702400000,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#fdfefe",
+        "#2c2c2c",
+        "#7a6f6e",
+        "#6c2824"
+    ],
     "name": "Security National Trust",
     "website": "https://www.securitynationaltrust.com",
     "logo": "securitynationaltrust.svg"

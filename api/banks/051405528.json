@@ -8,7 +8,12 @@
     "settlement": true,
     "updated": 1246852800000,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#fefefd",
+        "#a23035",
+        "#91afc1",
+        "#ecb2b4"
+    ],
     "name": "The Farmers Bank Of Appomattox",
     "website": "https://www.thefarmersbankva.com",
     "logo": "thefarmersbankva.svg"

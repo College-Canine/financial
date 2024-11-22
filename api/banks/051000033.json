@@ -8,7 +8,11 @@
     "settlement": true,
     "updated": 931838400000,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#fefefd",
+        "#6a99b7",
+        "#13507b"
+    ],
     "name": "Federal Reserve Bank Of Richmond",
     "website": "https://www.richmondfed.org",
     "logo": "richmondfed.svg"

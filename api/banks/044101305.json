@@ -8,7 +8,12 @@
     "settlement": true,
     "updated": null,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#fefffe",
+        "#155783",
+        "#5fc8ed",
+        "#b1bf53"
+    ],
     "name": "The Park National Bank",
     "website": "https://parknationalbank.com",
     "logo": "parknationalbank.svg"

@@ -8,7 +8,11 @@
     "settlement": true,
     "updated": null,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#d43229",
+        "#fdfefc",
+        "#f3a99e"
+    ],
     "name": "First Bank",
     "website": "https://www.fbvirginia.com",
     "logo": "fbvirginia.svg"

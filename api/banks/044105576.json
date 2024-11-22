@@ -8,7 +8,15 @@
     "settlement": true,
     "updated": 1243483200000,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#fefefd",
+        "#2b8c5e",
+        "#7a857e",
+        "#92ccad",
+        "#272425",
+        "#eeb377",
+        "#f08428"
+    ],
     "name": "The Community Bank",
     "website": "https://www.thecombank.com",
     "logo": "thecombank.svg"

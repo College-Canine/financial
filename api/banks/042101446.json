@@ -8,7 +8,11 @@
     "settlement": true,
     "updated": 945147600000,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#fffefd",
+        "#8fb4d0",
+        "#195081"
+    ],
     "name": "Citizens National Bank Of Somerset",
     "website": "https://www.cnbsomerset.com",
     "logo": "cnbsomerset.svg"

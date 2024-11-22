@@ -8,7 +8,10 @@
     "settlement": true,
     "updated": null,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#317b6c",
+        "#d3dfdd"
+    ],
     "name": "The Citizens Bank Of Logan",
     "website": "https://www.hockinghills.com",
     "logo": "hockinghills.svg"

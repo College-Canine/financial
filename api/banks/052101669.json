@@ -8,7 +8,10 @@
     "settlement": true,
     "updated": null,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#fefefd",
+        "#346c9c"
+    ],
     "name": "The Hebron Savings Bank",
     "website": "https://www.hebronsavingsbank.com",
     "logo": "hebronsavingsbank.svg"

@@ -8,7 +8,12 @@
     "settlement": true,
     "updated": 1414728000000,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#4d4c92",
+        "#f7f8fd",
+        "#1e1d8f",
+        "#9e9dcd"
+    ],
     "name": "1880 Bank",
     "website": "https://www.bayvanguard.com",
     "logo": "bayvanguard.svg"

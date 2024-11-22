@@ -8,7 +8,11 @@
     "settlement": true,
     "updated": null,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#f06224",
+        "#fefefe",
+        "#c8947e"
+    ],
     "name": "Mechanics & Farmers Bank",
     "website": "https://www.mfbonline.com",
     "logo": "mfbonline.svg"

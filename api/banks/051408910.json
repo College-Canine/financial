@@ -8,7 +8,11 @@
     "settlement": true,
     "updated": 1466740800000,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#fefffe",
+        "#3b445a",
+        "#8a91a1"
+    ],
     "name": "Townebank",
     "website": "https://www.townebank.com",
     "logo": "townebank.svg"

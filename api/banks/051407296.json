@@ -8,7 +8,11 @@
     "settlement": true,
     "updated": null,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#2d4b66",
+        "#fdfdfb",
+        "#8596a4"
+    ],
     "name": "Virginia Bank & Trust",
     "website": "https://www.1stnatbk.com",
     "logo": "1stnatbk.svg"

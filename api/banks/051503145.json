@@ -8,7 +8,11 @@
     "settlement": false,
     "updated": 1351483200000,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#333333",
+        "#979797",
+        "#fdfdfd"
+    ],
     "name": "The Poca Valley Bank",
     "website": "https://www.mapquest.com",
     "logo": "mapquest.svg"

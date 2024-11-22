@@ -8,7 +8,12 @@
     "settlement": true,
     "updated": 1542603600000,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#f7f7f7",
+        "#fbbc74",
+        "#1e3860",
+        "#8e9baf"
+    ],
     "name": "Axos Bank",
     "website": "https://www.axosbank.com",
     "logo": "axosbank.svg"

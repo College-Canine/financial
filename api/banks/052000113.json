@@ -8,7 +8,11 @@
     "settlement": false,
     "updated": 1474948800000,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#159c6f",
+        "#f7faf7",
+        "#143321"
+    ],
     "name": "Manufacturers & Traders Trust",
     "website": "https://www.mtb.com",
     "logo": "mtb.svg"

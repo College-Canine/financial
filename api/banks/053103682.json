@@ -8,7 +8,9 @@
     "settlement": true,
     "updated": null,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#8c3318"
+    ],
     "name": "Lumbee Guaranty Bank",
     "website": "https://www.lumbeeguarantybank.com",
     "logo": "lumbeeguarantybank.svg"

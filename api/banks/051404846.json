@@ -8,7 +8,11 @@
     "settlement": true,
     "updated": 1172725200000,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#229f52",
+        "#fdfdfd",
+        "#82bf99"
+    ],
     "name": "Peoples Community Bank",
     "website": "https://www.peoplescommunitybank.com",
     "logo": "peoplescommunitybank.svg"

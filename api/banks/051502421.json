@@ -8,7 +8,13 @@
     "settlement": true,
     "updated": 1507176000000,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#fdfafe",
+        "#687096",
+        "#1f3580",
+        "#ab8e85",
+        "#43353e"
+    ],
     "name": "Calhoun County Bank Inc",
     "website": "https://www.calhounbanks.com",
     "logo": "calhounbanks.svg"

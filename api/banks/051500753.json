@@ -8,7 +8,12 @@
     "settlement": false,
     "updated": 1061438400000,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#f9f9f8",
+        "#448a59",
+        "#363636",
+        "#8a9b8f"
+    ],
     "name": "Wesbanco Bank Wheeling",
     "website": "https://www.wesbanco.com",
     "logo": "wesbanco.svg"

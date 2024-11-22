@@ -8,7 +8,12 @@
     "settlement": true,
     "updated": 1479445200000,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#fefefe",
+        "#92d482",
+        "#97bbda",
+        "#105dbc"
+    ],
     "name": "Peoples Bank",
     "website": "https://www.peoplesbancorp.com",
     "logo": "peoplesbancorp.svg"

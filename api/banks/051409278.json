@@ -8,7 +8,11 @@
     "settlement": false,
     "updated": 1529035200000,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#181b19",
+        "#b0e01e",
+        "#668222"
+    ],
     "name": "Sonabank",
     "website": "https://primisbank.com",
     "logo": "primisbank.svg"

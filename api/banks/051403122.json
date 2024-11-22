@@ -8,7 +8,12 @@
     "settlement": true,
     "updated": null,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#fcfefd",
+        "#fc8522",
+        "#c17a7a",
+        "#fdc18d"
+    ],
     "name": "The Natl Bank Of Blacksburg",
     "website": "https://nbbank.com",
     "logo": "nbbank.svg"

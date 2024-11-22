@@ -8,7 +8,11 @@
     "settlement": true,
     "updated": 1246334400000,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#f0f4f3",
+        "#c56c86",
+        "#2e5883"
+    ],
     "name": "Citizens Bank Of West Virginia Inc",
     "website": "https://www.citizenswv.com",
     "logo": "citizenswv.svg"

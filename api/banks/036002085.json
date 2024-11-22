@@ -8,7 +8,11 @@
     "settlement": true,
     "updated": 1443153600000,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#fefefd",
+        "#12286a",
+        "#64719b"
+    ],
     "name": "The Haverford Trust Company",
     "website": "https://haverfordquality.com",
     "logo": "haverfordquality.svg"

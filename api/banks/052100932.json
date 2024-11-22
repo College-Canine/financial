@@ -8,7 +8,11 @@
     "settlement": true,
     "updated": 1467691200000,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#fefffd",
+        "#3b8494",
+        "#e8ad2b"
+    ],
     "name": "Shore United Bank",
     "website": "https://www.shoreunitedbank.com",
     "logo": "shoreunitedbank.svg"

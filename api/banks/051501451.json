@@ -8,7 +8,11 @@
     "settlement": true,
     "updated": null,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#fefefd",
+        "#581821",
+        "#c3a38f"
+    ],
     "name": "The Citizens Bank",
     "website": "https://www.citizensbankweston.com",
     "logo": "citizensbankweston.svg"

@@ -8,7 +8,11 @@
     "settlement": true,
     "updated": 1499659200000,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#ffffff",
+        "#474783",
+        "#18188c"
+    ],
     "name": "Clay County Bank Inc",
     "website": "https://claycounty.bank",
     "logo": "claycounty.svg"

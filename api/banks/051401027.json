@@ -8,7 +8,13 @@
     "settlement": false,
     "updated": 1422853200000,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#114c91",
+        "#fdfdfd",
+        "#a0dcb1",
+        "#20af4a",
+        "#86a3c6"
+    ],
     "name": "American Natl Bank & Trust",
     "website": "https://bank.amnb.com",
     "logo": "amnb.svg"

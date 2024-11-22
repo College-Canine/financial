@@ -8,7 +8,11 @@
     "settlement": true,
     "updated": 1485925200000,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#1f1f1e",
+        "#e2e8f9",
+        "#8d9dcc"
+    ],
     "name": "The Union Banking Company",
     "website": "https://www.bankatubc.com",
     "logo": "bankatubc.svg"

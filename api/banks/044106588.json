@@ -8,7 +8,10 @@
     "settlement": true,
     "updated": null,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#fefcfd",
+        "#137f55"
+    ],
     "name": "The Richwood Banking Company",
     "website": "https://richwoodbank.com",
     "logo": "richwoodbank.svg"

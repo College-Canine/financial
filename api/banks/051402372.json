@@ -8,7 +8,12 @@
     "settlement": true,
     "updated": 1481259600000,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#fefefc",
+        "#282d7c",
+        "#81be7f",
+        "#5cbc41"
+    ],
     "name": "Blue Ridge Bank National Associatio",
     "website": "https://www.mybrb.bank",
     "logo": "mybrb.svg"

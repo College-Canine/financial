@@ -8,7 +8,13 @@
     "settlement": true,
     "updated": 1316145600000,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#fffffe",
+        "#9f8534",
+        "#2b512c",
+        "#d7c496",
+        "#1e141f"
+    ],
     "name": "The Farmers State Bank Of West Salem",
     "website": "https://www.farmersstate-oh.com",
     "logo": "farmersstate-oh.svg"

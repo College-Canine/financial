@@ -8,7 +8,11 @@
     "settlement": true,
     "updated": null,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#e5e7f0",
+        "#2a305d",
+        "#84869e"
+    ],
     "name": "The Old Point Natl Bank Of Phoebus",
     "website": "https://www.oldpoint.com",
     "logo": "oldpoint.svg"

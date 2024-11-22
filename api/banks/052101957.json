@@ -8,7 +8,12 @@
     "settlement": true,
     "updated": 1415336400000,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#fffefc",
+        "#5c64a8",
+        "#a3accc",
+        "#7b947d"
+    ],
     "name": "Queenstown Bank Of Maryland",
     "website": "https://www.queenstownbank.com",
     "logo": "queenstownbank.svg"

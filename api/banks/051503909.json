@@ -8,7 +8,11 @@
     "settlement": true,
     "updated": 1412568000000,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#12303d",
+        "#798861",
+        "#c8dc6e"
+    ],
     "name": "Williamstown Bank Inc",
     "website": "https://www.williamstownbank.com",
     "logo": "williamstownbank.svg"

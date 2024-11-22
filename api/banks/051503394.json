@@ -8,7 +8,10 @@
     "settlement": false,
     "updated": 1037768400000,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#2b1a46",
+        "#fefdfe"
+    ],
     "name": "Bb&t West Virginia",
     "website": "https://www.truist.com",
     "logo": "truist.svg"

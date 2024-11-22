@@ -8,7 +8,12 @@
     "settlement": true,
     "updated": 1516856400000,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#1c17e4",
+        "#fefdfe",
+        "#4141af",
+        "#b1b2d8"
+    ],
     "name": "West Union Bank",
     "website": "https://www.westunionbank.com",
     "logo": "westunionbank.svg"

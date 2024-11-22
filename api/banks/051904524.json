@@ -8,7 +8,10 @@
     "settlement": true,
     "updated": null,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#a9d1dd",
+        "#2d7893"
+    ],
     "name": "City National Bank Of West Virginia",
     "website": "https://www.bankatcity.com",
     "logo": "bankatcity.svg"

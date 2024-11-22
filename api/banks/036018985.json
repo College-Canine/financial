@@ -8,7 +8,11 @@
     "settlement": false,
     "updated": 1314936000000,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#fefdfd",
+        "#c89c84",
+        "#a85a31"
+    ],
     "name": "Noah Bank",
     "website": "https://www.ncif.org",
     "logo": "ncif.svg"

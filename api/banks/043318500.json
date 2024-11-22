@@ -8,7 +8,11 @@
     "settlement": true,
     "updated": 931406400000,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#b9b9b9",
+        "#891f3f",
+        "#5d5d5d"
+    ],
     "name": "Enterprise Bank",
     "website": "https://www.enterprisebankpgh.com",
     "logo": "enterprisebankpgh.svg"

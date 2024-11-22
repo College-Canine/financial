@@ -8,7 +8,12 @@
     "settlement": true,
     "updated": 1415336400000,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#ee7467",
+        "#f91e21",
+        "#f8d3bc",
+        "#fa8714"
+    ],
     "name": "Select Bank",
     "website": "https://www.myselectbank.com",
     "logo": "myselectbank.svg"

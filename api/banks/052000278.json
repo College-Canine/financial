@@ -8,7 +8,11 @@
     "settlement": false,
     "updated": 1540958400000,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#fefefd",
+        "#6a99b7",
+        "#13507b"
+    ],
     "name": "Baltimore - Frb Richmond",
     "website": "https://www.richmondfed.org",
     "logo": "richmondfed.svg"

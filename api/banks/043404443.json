@@ -8,7 +8,10 @@
     "settlement": true,
     "updated": 1280289600000,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#ffffff",
+        "#3b4397"
+    ],
     "name": "Union Bank Inc",
     "website": "https://www.hometownbanc.bank",
     "logo": "hometownbanc.svg"

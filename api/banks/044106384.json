@@ -8,7 +8,13 @@
     "settlement": true,
     "updated": null,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#fdf9fe",
+        "#c9153e",
+        "#eb8ea8",
+        "#2a5781",
+        "#85a9c8"
+    ],
     "name": "First National Bank Of Mcconnelsville",
     "website": "https://www.first-national.com",
     "logo": "first-national.svg"

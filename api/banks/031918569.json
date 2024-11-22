@@ -8,7 +8,13 @@
     "settlement": true,
     "updated": 1543813200000,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#fefdfc",
+        "#183f61",
+        "#916498",
+        "#7f2789",
+        "#33a4b2"
+    ],
     "name": "Linkbank",
     "website": "https://www.linkbank.com",
     "logo": "linkbank.svg"

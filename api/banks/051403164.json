@@ -8,7 +8,13 @@
     "settlement": true,
     "updated": 1424235600000,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#114c91",
+        "#fdfdfd",
+        "#a0dcb1",
+        "#20af4a",
+        "#86a3c6"
+    ],
     "name": "Union Bank & Trust",
     "website": "https://www.atlanticunionbank.com",
     "logo": "atlanticunionbank.svg"

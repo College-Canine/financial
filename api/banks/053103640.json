@@ -8,7 +8,11 @@
     "settlement": true,
     "updated": 1178251200000,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#fdfefe",
+        "#822c30",
+        "#9e8e8f"
+    ],
     "name": "Farmers & Merchants Bank",
     "website": "https://www.fmbnc.com",
     "logo": "fmbnc.svg"

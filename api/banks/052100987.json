@@ -8,7 +8,11 @@
     "settlement": true,
     "updated": null,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#f0f2f3",
+        "#cf4a5d",
+        "#78313f"
+    ],
     "name": "First United Bank & Trust",
     "website": "https://mybank.com",
     "logo": "mybank.svg"

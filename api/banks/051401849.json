@@ -8,7 +8,11 @@
     "settlement": true,
     "updated": null,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#ffffff",
+        "#a28279",
+        "#772c2f"
+    ],
     "name": "The Bank Of Marion",
     "website": "https://www.bankofmarionva.com",
     "logo": "bankofmarionva.svg"

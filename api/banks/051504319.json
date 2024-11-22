@@ -8,7 +8,11 @@
     "settlement": false,
     "updated": 934862400000,
     "country": "USA",
-    "colors": [],
+    "colors": [
+        "#2d181f",
+        "#6f6972",
+        "#dcdade"
+    ],
     "name": "Pioneer Community Bank",
     "website": "https://www.pioneercommunitybank.com",
     "logo": "pioneercommunitybank.svg"
