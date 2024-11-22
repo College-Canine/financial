@@ -1,11 +1,29 @@
 const fs = require("fs");
 const path = require("path");
+const chroma = require("chroma-js");
 
 const banksRaw = fs.readFileSync("./data/banks.json", "utf-8");
 const banks = JSON.parse(banksRaw);
 
 const methodsRaw = fs.readFileSync("./data/methods.json", "utf-8");
 const methods = JSON.parse(methodsRaw);
+
+function distinct(colors) {
+  return colors.reduce((result, color) => {
+    let isDistinct = true;
+    for (const existingColor of result) {
+      if (chroma.distance(color, existingColor) < 30) {
+        // Adjust the threshold as needed
+        isDistinct = false;
+        break;
+      }
+    }
+    if (isDistinct) {
+      result.push(color);
+    }
+    return result;
+  }, []);
+}
 
 fs.writeFileSync(
   "./data/banks.json",
@@ -41,7 +59,7 @@ fs.writeFileSync(
 
       return {
         ...i,
-        colors,
+        colors: distinct(colors),
       };
     }),
     null,

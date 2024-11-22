@@ -11,6 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "buscar.io": "^1.8.1",
+    "chroma-js": "^3.1.2",
     "free-proxy": "^0.2.1",
     "google-search-scraper": "^0.1.0",
     "https-proxy-agent": "^7.0.5",
