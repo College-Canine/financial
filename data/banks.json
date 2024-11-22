@@ -12581,7 +12581,8 @@
         "updated": 944110800000,
         "country": "USA",
         "colors": [],
-        "website": "https://www.nordlb.com"
+        "website": "https://www.nordlb.com",
+        "logo": "nordlb.svg"
     },
     {
         "routing": "026012577",
@@ -12594,7 +12595,8 @@
         "updated": 1464148800000,
         "country": "USA",
         "colors": [],
-        "website": "https://www.swedbank.us"
+        "website": "https://www.swedbank.us",
+        "logo": "swedbank.svg"
     },
     {
         "routing": "026012603",
@@ -12607,7 +12609,8 @@
         "updated": 1364356800000,
         "country": "USA",
         "colors": [],
-        "website": "https://www.dexia.com"
+        "website": "https://www.dexia.com",
+        "logo": "dexia.svg"
     },
     {
         "routing": "026012629",
@@ -12620,7 +12623,8 @@
         "updated": 1464667200000,
         "country": "USA",
         "colors": [],
-        "website": "https://www.bankcomm.com"
+        "website": "https://www.bankcomm.com",
+        "logo": "bankcomm.svg"
     },
     {
         "routing": "026012713",
@@ -12633,7 +12637,8 @@
         "updated": 1423026000000,
         "country": "USA",
         "colors": [],
-        "website": "https://vakifbankusa.com"
+        "website": "https://vakifbankusa.com",
+        "logo": "vakifbankusa.svg"
     },
     {
         "routing": "026013071",
@@ -12646,7 +12651,8 @@
         "updated": 1043643600000,
         "country": "USA",
         "colors": [],
-        "website": "https://www.kdb.co.kr"
+        "website": "https://www.kdb.co.kr",
+        "logo": "co.svg"
     },
     {
         "routing": "026013136",
@@ -12672,7 +12678,8 @@
         "updated": 1508990400000,
         "country": "USA",
         "colors": [],
-        "website": "https://www.bankofhope.com"
+        "website": "https://www.bankofhope.com",
+        "logo": "bankofhope.svg"
     },
     {
         "routing": "026013246",
@@ -12685,7 +12692,8 @@
         "updated": 1470196800000,
         "country": "USA",
         "colors": [],
-        "website": "https://www.bankofhope.com"
+        "website": "https://www.bankofhope.com",
+        "logo": "bankofhope.svg"
     },
     {
         "routing": "026013275",
@@ -12698,7 +12706,8 @@
         "updated": 1405483200000,
         "country": "USA",
         "colors": [],
-        "website": "https://www.ctbcbankusa.com"
+        "website": "https://www.ctbcbankusa.com",
+        "logo": "ctbcbankusa.svg"
     },
     {
         "routing": "026013343",
@@ -12711,7 +12720,8 @@
         "updated": 1027569600000,
         "country": "USA",
         "colors": [],
-        "website": "https://omoney.kbstar.com"
+        "website": "https://omoney.kbstar.com",
+        "logo": "kbstar.svg"
     },
     {
         "routing": "026013356",
@@ -12724,7 +12734,8 @@
         "updated": 1388466000000,
         "country": "USA",
         "colors": [],
-        "website": "https://mcbankny.com"
+        "website": "https://mcbankny.com",
+        "logo": "mcbankny.svg"
     },
     {
         "routing": "026013453",
@@ -12737,7 +12748,8 @@
         "updated": 1323406800000,
         "country": "USA",
         "colors": [],
-        "website": "https://www.lbbw.de"
+        "website": "https://www.lbbw.de",
+        "logo": "lbbw.svg"
     },
     {
         "routing": "026013479",
@@ -12750,7 +12762,8 @@
         "updated": 953874000000,
         "country": "USA",
         "colors": [],
-        "website": "https://www.alpinecapitalbank.com"
+        "website": "https://www.alpinecapitalbank.com",
+        "logo": "alpinecapitalbank.svg"
     },
     {
         "routing": "026013576",
@@ -12763,7 +12776,8 @@
         "updated": 990590400000,
         "country": "USA",
         "colors": [],
-        "website": "https://www.fdic.gov"
+        "website": "https://www.fdic.gov",
+        "logo": "fdic.svg"
     },
     {
         "routing": "026013615",
@@ -12776,7 +12790,8 @@
         "updated": 1397188800000,
         "country": "USA",
         "colors": [],
-        "website": "https://www.cls-group.com"
+        "website": "https://www.cls-group.com",
+        "logo": "cls-group.svg"
     },
     {
         "routing": "026013673",
@@ -12807,7 +12822,8 @@
         "updated": 1355374800000,
         "country": "USA",
         "colors": [],
-        "website": "https://www.bnpparibasfortis.com"
+        "website": "https://www.bnpparibasfortis.com",
+        "logo": "bnpparibasfortis.svg"
     },
     {
         "routing": "026013796",
@@ -12820,7 +12836,8 @@
         "updated": 1271908800000,
         "country": "USA",
         "colors": [],
-        "website": "https://www.eastwestbank.com"
+        "website": "https://www.eastwestbank.com",
+        "logo": "eastwestbank.svg"
     },
     {
         "routing": "026013851",
@@ -12846,7 +12863,8 @@
         "updated": 1101790800000,
         "country": "USA",
         "colors": [],
-        "website": "https://emigrant.com"
+        "website": "https://emigrant.com",
+        "logo": "emigrant.svg"
     },
     {
         "routing": "026013958",
@@ -12859,7 +12877,8 @@
         "updated": 1114401600000,
         "country": "USA",
         "colors": [],
-        "website": "https://locations.cnb.com"
+        "website": "https://locations.cnb.com",
+        "logo": "cnb.svg"
     },
     {
         "routing": "026013961",
@@ -12872,7 +12891,8 @@
         "updated": 1128312000000,
         "country": "USA",
         "colors": [],
-        "website": "https://www.bancoestado.cl"
+        "website": "https://www.bancoestado.cl",
+        "logo": "bancoestado.svg"
     },
     {
         "routing": "026013990",
@@ -12885,7 +12905,8 @@
         "updated": 1454648400000,
         "country": "USA",
         "colors": [],
-        "website": "https://www.preferredbank.com"
+        "website": "https://www.preferredbank.com",
+        "logo": "preferredbank.svg"
     },
     {
         "routing": "026014135",
@@ -12898,7 +12919,8 @@
         "updated": 1460433600000,
         "country": "USA",
         "colors": [],
-        "website": "https://www.spring.bank"
+        "website": "https://www.spring.bank",
+        "logo": "spring.svg"
     },
     {
         "routing": "026014193",
@@ -12929,7 +12951,8 @@
         "updated": 1381118400000,
         "country": "USA",
         "colors": [],
-        "website": "https://www.newbankusa.com"
+        "website": "https://www.newbankusa.com",
+        "logo": "newbankusa.svg"
     },
     {
         "routing": "026014245",
@@ -12942,7 +12965,8 @@
         "updated": 1188964800000,
         "country": "USA",
         "colors": [],
-        "website": "https://globalbankny.com"
+        "website": "https://globalbankny.com",
+        "logo": "globalbankny.svg"
     },
     {
         "routing": "026014384",
@@ -12955,7 +12979,8 @@
         "updated": 1280289600000,
         "country": "USA",
         "colors": [],
-        "website": "https://www.almabank.com"
+        "website": "https://www.almabank.com",
+        "logo": "almabank.svg"
     },
     {
         "routing": "026014407",
@@ -12981,7 +13006,8 @@
         "updated": 1439438400000,
         "country": "USA",
         "colors": [],
-        "website": "https://www.icicibankusa.com"
+        "website": "https://www.icicibankusa.com",
+        "logo": "icicibankusa.svg"
     },
     {
         "routing": "026014559",
@@ -12994,7 +13020,8 @@
         "updated": 1254283200000,
         "country": "USA",
         "colors": [],
-        "website": "https://us.cmbchina.com"
+        "website": "https://us.cmbchina.com",
+        "logo": "cmbchina.svg"
     },
     {
         "routing": "026014562",
@@ -13007,7 +13034,8 @@
         "updated": 1234414800000,
         "country": "USA",
         "colors": [],
-        "website": "https://aib.ie"
+        "website": "https://aib.ie",
+        "logo": "aib.svg"
     },
     {
         "routing": "026014591",
@@ -13020,7 +13048,8 @@
         "updated": 1258347600000,
         "country": "USA",
         "colors": [],
-        "website": "https://www.icbkus.com"
+        "website": "https://www.icbkus.com",
+        "logo": "icbkus.svg"
     },
     {
         "routing": "026014601",
@@ -13033,7 +13062,8 @@
         "updated": 1280376000000,
         "country": "USA",
         "colors": [],
-        "website": "https://www.goldmansachs.com"
+        "website": "https://www.goldmansachs.com",
+        "logo": "goldmansachs.svg"
     },
     {
         "routing": "026014627",
@@ -13046,7 +13076,8 @@
         "updated": 1478581200000,
         "country": "USA",
         "colors": [],
-        "website": "https://ww2.itau.cl"
+        "website": "https://ww2.itau.cl",
+        "logo": "itau.svg"
     },
     {
         "routing": "026014630",
@@ -13059,7 +13090,8 @@
         "updated": 1255924800000,
         "country": "USA",
         "colors": [],
-        "website": "https://advisor.morganstanley.com"
+        "website": "https://advisor.morganstanley.com",
+        "logo": "morganstanley.svg"
     },
     {
         "routing": "026014685",
@@ -13072,7 +13104,8 @@
         "updated": 1281931200000,
         "country": "USA",
         "colors": [],
-        "website": "https://us.ccb.com"
+        "website": "https://us.ccb.com",
+        "logo": "ccb.svg"
     },
     {
         "routing": "026014805",
@@ -13085,7 +13118,8 @@
         "updated": 1301284800000,
         "country": "USA",
         "colors": [],
-        "website": "https://www.mapquest.com"
+        "website": "https://www.mapquest.com",
+        "logo": "mapquest.svg"
     },
     {
         "routing": "026014889",
@@ -13098,7 +13132,8 @@
         "updated": 1445227200000,
         "country": "USA",
         "colors": [],
-        "website": "https://www.us.abchina.com"
+        "website": "https://www.us.abchina.com",
+        "logo": "abchina.svg"
     },
     {
         "routing": "026014915",
@@ -13111,7 +13146,8 @@
         "updated": 1376971200000,
         "country": "USA",
         "colors": [],
-        "website": "https://www.mapquest.com"
+        "website": "https://www.mapquest.com",
+        "logo": "mapquest.svg"
     },
     {
         "routing": "026014944",
@@ -13124,7 +13160,8 @@
         "updated": 1424667600000,
         "country": "USA",
         "colors": [],
-        "website": "https://canarabank.com"
+        "website": "https://canarabank.com",
+        "logo": "canarabank.svg"
     },
     {
         "routing": "026014957",
@@ -13137,7 +13174,8 @@
         "updated": 1465531200000,
         "country": "USA",
         "colors": [],
-        "website": "https://www.tcb-bank.com.tw"
+        "website": "https://www.tcb-bank.com.tw",
+        "logo": "com.svg"
     },
     {
         "routing": "026014973",
@@ -13150,7 +13188,8 @@
         "updated": 1507694400000,
         "country": "USA",
         "colors": [],
-        "website": "https://locations.td.com"
+        "website": "https://locations.td.com",
+        "logo": "td.svg"
     },
     {
         "routing": "026014986",
@@ -13163,7 +13202,8 @@
         "updated": 1496894400000,
         "country": "USA",
         "colors": [],
-        "website": "https://www.goldmansachs.com"
+        "website": "https://www.goldmansachs.com",
+        "logo": "goldmansachs.svg"
     },
     {
         "routing": "026014999",
@@ -13176,7 +13216,8 @@
         "updated": 1515646800000,
         "country": "USA",
         "colors": [],
-        "website": "https://www.tbb.com.tw"
+        "website": "https://www.tbb.com.tw",
+        "logo": "com.svg"
     },
     {
         "routing": "026015037",
@@ -13189,7 +13230,8 @@
         "updated": 1535515200000,
         "country": "USA",
         "colors": [],
-        "website": "https://www.lloydsbank.com"
+        "website": "https://www.lloydsbank.com",
+        "logo": "lloydsbank.svg"
     },
     {
         "routing": "026072973",
@@ -13202,7 +13244,8 @@
         "updated": 1427774400000,
         "country": "USA",
         "colors": [],
-        "website": "https://www.firstcentralsavings.com"
+        "website": "https://www.firstcentralsavings.com",
+        "logo": "firstcentralsavings.svg"
     },
     {
         "routing": "026073008",
@@ -13215,7 +13258,8 @@
         "updated": 1411617600000,
         "country": "USA",
         "colors": [],
-        "website": "https://www.cfsb.com"
+        "website": "https://www.cfsb.com",
+        "logo": "cfsb.svg"
     },
     {
         "routing": "026073066",
@@ -13240,7 +13284,8 @@
         "updated": 1522987200000,
         "country": "USA",
         "colors": [],
-        "website": "https://www.popularbank.com"
+        "website": "https://www.popularbank.com",
+        "logo": "popularbank.svg"
     },
     {
         "routing": "026073134",
@@ -13253,7 +13298,8 @@
         "updated": 1477627200000,
         "country": "USA",
         "colors": [],
-        "website": "https://www.mysafra.com"
+        "website": "https://www.mysafra.com",
+        "logo": "mysafra.svg"
     },
     {
         "routing": "026073192",
@@ -13266,7 +13312,8 @@
         "updated": 1517374800000,
         "country": "USA",
         "colors": [],
-        "website": "https://local.ubs.com"
+        "website": "https://local.ubs.com",
+        "logo": "ubs.svg"
     },
     {
         "routing": "026084602",
@@ -13279,7 +13326,8 @@
         "updated": 1539316800000,
         "country": "USA",
         "colors": [],
-        "website": "https://www.jovia.org"
+        "website": "https://www.jovia.org",
+        "logo": "jovia.svg"
     },
     {
         "routing": "026084628",
@@ -13292,7 +13340,8 @@
         "updated": 1437969600000,
         "country": "USA",
         "colors": [],
-        "website": "https://thefinestfcu.org"
+        "website": "https://thefinestfcu.org",
+        "logo": "thefinestfcu.svg"
     },
     {
         "routing": "026510037",
@@ -13305,7 +13354,8 @@
         "updated": 1136869200000,
         "country": "USA",
         "colors": [],
-        "website": "https://cashmgmt.usbank.com"
+        "website": "https://cashmgmt.usbank.com",
+        "logo": "usbank.svg"
     },
     {
         "routing": "026510053",
@@ -13318,7 +13368,8 @@
         "updated": 1136869200000,
         "country": "USA",
         "colors": [],
-        "website": "https://www.westernunion.com"
+        "website": "https://www.westernunion.com",
+        "logo": "westernunion.svg"
     },
     {
         "routing": "026510079",
@@ -13344,7 +13395,8 @@
         "updated": 1415336400000,
         "country": "USA",
         "colors": [],
-        "website": "https://cnyor.cancilleria.gob.ar"
+        "website": "https://cnyor.cancilleria.gob.ar",
+        "logo": "gob.svg"
     },
     {
         "routing": "026510095",
@@ -13357,7 +13409,8 @@
         "updated": 1415336400000,
         "country": "USA",
         "colors": [],
-        "website": "https://github.com"
+        "website": "https://github.com",
+        "logo": "github.svg"
     },
     {
         "routing": "026510105",
@@ -13370,7 +13423,8 @@
         "updated": 1415336400000,
         "country": "USA",
         "colors": [],
-        "website": "https://github.com"
+        "website": "https://github.com",
+        "logo": "github.svg"
     },
     {
         "routing": "026510189",
@@ -13383,7 +13437,8 @@
         "updated": 1523419200000,
         "country": "USA",
         "colors": [],
-        "website": "https://www.sec.gov"
+        "website": "https://www.sec.gov",
+        "logo": "sec.svg"
     },
     {
         "routing": "026510215",
@@ -13396,7 +13451,8 @@
         "updated": 1485493200000,
         "country": "USA",
         "colors": [],
-        "website": "https://www.sec.gov"
+        "website": "https://www.sec.gov",
+        "logo": "sec.svg"
     },
     {
         "routing": "026510312",
@@ -13409,7 +13465,8 @@
         "updated": null,
         "country": "USA",
         "colors": [],
-        "website": "https://cbonds.com"
+        "website": "https://cbonds.com",
+        "logo": "cbonds.svg"
     },
     {
         "routing": "026510325",
@@ -13422,7 +13479,8 @@
         "updated": null,
         "country": "USA",
         "colors": [],
-        "website": "https://ypfsresourcelibrary.blob.core.windows.net"
+        "website": "https://ypfsresourcelibrary.blob.core.windows.net",
+        "logo": "windows.svg"
     },
     {
         "routing": "026510422",
@@ -13435,7 +13493,8 @@
         "updated": 1464062400000,
         "country": "USA",
         "colors": [],
-        "website": "https://www.sec.gov"
+        "website": "https://www.sec.gov",
+        "logo": "sec.svg"
     },
     {
         "routing": "026510435",
@@ -13448,7 +13507,8 @@
         "updated": 1464062400000,
         "country": "USA",
         "colors": [],
-        "website": "https://www.sec.gov"
+        "website": "https://www.sec.gov",
+        "logo": "sec.svg"
     },
     {
         "routing": "026510464",
@@ -13461,7 +13521,8 @@
         "updated": 1447045200000,
         "country": "USA",
         "colors": [],
-        "website": "https://www.nysd.uscourts.gov"
+        "website": "https://www.nysd.uscourts.gov",
+        "logo": "uscourts.svg"
     },
     {
         "routing": "026546784",
@@ -13474,7 +13535,8 @@
         "updated": null,
         "country": "USA",
         "colors": [],
-        "website": "https://uwifc.com"
+        "website": "https://uwifc.com",
+        "logo": "uwifc.svg"
     },
     {
         "routing": "026548397",
@@ -13487,7 +13549,8 @@
         "updated": null,
         "country": "USA",
         "colors": [],
-        "website": "https://www.hud.gov"
+        "website": "https://www.hud.gov",
+        "logo": "hud.svg"
     },
     {
         "routing": "026548407",
@@ -13500,7 +13563,8 @@
         "updated": null,
         "country": "USA",
         "colors": [],
-        "website": "https://ofm.wa.gov"
+        "website": "https://ofm.wa.gov",
+        "logo": "wa.svg"
     },
     {
         "routing": "026590028",
@@ -13513,7 +13577,8 @@
         "updated": 1459396800000,
         "country": "USA",
         "colors": [],
-        "website": "https://www.investopedia.com"
+        "website": "https://www.investopedia.com",
+        "logo": "investopedia.svg"
     },
     {
         "routing": "026590073",
@@ -13538,7 +13603,8 @@
         "updated": null,
         "country": "USA",
         "colors": [],
-        "website": "https://treasury.worldbank.org"
+        "website": "https://treasury.worldbank.org",
+        "logo": "worldbank.svg"
     },
     {
         "routing": "026590219",
@@ -13551,7 +13617,8 @@
         "updated": 1104382800000,
         "country": "USA",
         "colors": [],
-        "website": "https://sao.wa.gov"
+        "website": "https://sao.wa.gov",
+        "logo": "wa.svg"
     },
     {
         "routing": "026590222",
@@ -13564,7 +13631,8 @@
         "updated": 1173931200000,
         "country": "USA",
         "colors": [],
-        "website": "https://www.financialresearch.gov"
+        "website": "https://www.financialresearch.gov",
+        "logo": "financialresearch.svg"
     },
     {
         "routing": "026590701",
@@ -13577,7 +13645,8 @@
         "updated": 1459396800000,
         "country": "USA",
         "colors": [],
-        "website": "https://www.fhlb-of.com"
+        "website": "https://www.fhlb-of.com",
+        "logo": "fhlb-of.svg"
     },
     {
         "routing": "026590727",
@@ -13590,7 +13659,8 @@
         "updated": 1459396800000,
         "country": "USA",
         "colors": [],
-        "website": "https://www.dnb.com"
+        "website": "https://www.dnb.com",
+        "logo": "dnb.svg"
     },
     {
         "routing": "026590798",
@@ -13603,7 +13673,8 @@
         "updated": 1381204800000,
         "country": "USA",
         "colors": [],
-        "website": "https://capitalmarkets.fanniemae.com"
+        "website": "https://capitalmarkets.fanniemae.com",
+        "logo": "fanniemae.svg"
     },
     {
         "routing": "026590808",
@@ -13616,7 +13687,8 @@
         "updated": null,
         "country": "USA",
         "colors": [],
-        "website": "https://www.fanniemae.com"
+        "website": "https://www.fanniemae.com",
+        "logo": "fanniemae.svg"
     },
     {
         "routing": "026590837",
@@ -13629,7 +13701,8 @@
         "updated": 1415336400000,
         "country": "USA",
         "colors": [],
-        "website": "https://www.afdb.org"
+        "website": "https://www.afdb.org",
+        "logo": "afdb.svg"
     },
     {
         "routing": "026591072",
@@ -13642,7 +13715,8 @@
         "updated": 1415336400000,
         "country": "USA",
         "colors": [],
-        "website": "https://www.adb.org"
+        "website": "https://www.adb.org",
+        "logo": "adb.svg"
     },
     {
         "routing": "031000037",
@@ -13655,7 +13729,8 @@
         "updated": 1415336400000,
         "country": "USA",
         "colors": [],
-        "website": "https://www.bny.com"
+        "website": "https://www.bny.com",
+        "logo": "bny.svg"
     },
     {
         "routing": "031000040",
@@ -13698,7 +13773,8 @@
         "updated": 1372132800000,
         "country": "USA",
         "colors": [],
-        "website": "https://www.fhlbny.com"
+        "website": "https://www.fhlbny.com",
+        "logo": "fhlbny.svg"
     },
     {
         "routing": "031059567",
@@ -13711,7 +13787,8 @@
         "updated": 1282881600000,
         "country": "USA",
         "colors": [],
-        "website": "https://www.lni.wa.gov"
+        "website": "https://www.lni.wa.gov",
+        "logo": "wa.svg"
     },
     {
         "routing": "031099996",
@@ -13724,7 +13801,8 @@
         "updated": 1537761600000,
         "country": "USA",
         "colors": [],
-        "website": "https://apps.sos.wv.gov"
+        "website": "https://apps.sos.wv.gov",
+        "logo": "wv.svg"
     },
     {
         "routing": "031100089",
@@ -13755,7 +13833,8 @@
         "updated": 1474948800000,
         "country": "USA",
         "colors": [],
-        "website": "https://www.wilmingtontrust.com"
+        "website": "https://www.wilmingtontrust.com",
+        "logo": "wilmingtontrust.svg"
     },
     {
         "routing": "031100102",
@@ -13768,7 +13847,8 @@
         "updated": 1291352400000,
         "country": "USA",
         "colors": [],
-        "website": "https://www.wsfsbank.com"
+        "website": "https://www.wsfsbank.com",
+        "logo": "wsfsbank.svg"
     },
     {
         "routing": "031100209",
@@ -13797,7 +13877,8 @@
         "updated": 1398744000000,
         "country": "USA",
         "colors": [],
-        "website": "https://www.bny.com"
+        "website": "https://www.bny.com",
+        "logo": "bny.svg"
     },
     {
         "routing": "031100380",
@@ -13810,7 +13891,8 @@
         "updated": 1060920000000,
         "country": "USA",
         "colors": [],
-        "website": "https://www.dnb.com"
+        "website": "https://www.dnb.com",
+        "logo": "dnb.svg"
     },
     {
         "routing": "031100649",
@@ -13952,7 +14034,8 @@
         "updated": 1233032400000,
         "country": "USA",
         "colors": [],
-        "website": "https://www.appliedbank.com"
+        "website": "https://www.appliedbank.com",
+        "logo": "appliedbank.svg"
     },
     {
         "routing": "031101114",
@@ -13965,7 +14048,8 @@
         "updated": 1370232000000,
         "country": "USA",
         "colors": [],
-        "website": "https://www.thebancorp.com"
+        "website": "https://www.thebancorp.com",
+        "logo": "thebancorp.svg"
     },
     {
         "routing": "031101127",
@@ -13978,7 +14062,8 @@
         "updated": 1186027200000,
         "country": "USA",
         "colors": [],
-        "website": "https://web.dscc.com"
+        "website": "https://web.dscc.com",
+        "logo": "dscc.svg"
     },
     {
         "routing": "031101143",
@@ -13991,7 +14076,8 @@
         "updated": 1415336400000,
         "country": "USA",
         "colors": [],
-        "website": "https://locations.citizensbank.com"
+        "website": "https://locations.citizensbank.com",
+        "logo": "citizensbank.svg"
     },
     {
         "routing": "031101169",
@@ -14004,7 +14090,8 @@
         "updated": 1370232000000,
         "country": "USA",
         "colors": [],
-        "website": "https://www.thebancorp.com"
+        "website": "https://www.thebancorp.com",
+        "logo": "thebancorp.svg"
     },
     {
         "routing": "031101208",
@@ -14073,7 +14160,8 @@
         "updated": 1451538000000,
         "country": "USA",
         "colors": [],
-        "website": "https://bankwithstifel.com"
+        "website": "https://bankwithstifel.com",
+        "logo": "bankwithstifel.svg"
     },
     {
         "routing": "031101305",
@@ -14086,7 +14174,8 @@
         "updated": 1355374800000,
         "country": "USA",
         "colors": [],
-        "website": "https://advisor.morganstanley.com"
+        "website": "https://advisor.morganstanley.com",
+        "logo": "morganstanley.svg"
     },
     {
         "routing": "031101347",
@@ -14117,7 +14206,8 @@
         "updated": 1476244800000,
         "country": "USA",
         "colors": [],
-        "website": "https://web.dscc.com"
+        "website": "https://web.dscc.com",
+        "logo": "dscc.svg"
     },
     {
         "routing": "031176110",
@@ -14147,7 +14237,8 @@
         "updated": null,
         "country": "USA",
         "colors": [],
-        "website": "https://www.pennsvillenb.com"
+        "website": "https://www.pennsvillenb.com",
+        "logo": "pennsvillenb.svg"
     },
     {
         "routing": "031201360",
@@ -14177,7 +14268,8 @@
         "updated": null,
         "country": "USA",
         "colors": [],
-        "website": "https://www.elmerbank.com"
+        "website": "https://www.elmerbank.com",
+        "logo": "elmerbank.svg"
     },
     {
         "routing": "031204710",
@@ -14190,7 +14282,8 @@
         "updated": 1447045200000,
         "country": "USA",
         "colors": [],
-        "website": "https://www.truist.com"
+        "website": "https://www.truist.com",
+        "logo": "truist.svg"
     },
     {
         "routing": "031204804",
@@ -14216,7 +14309,8 @@
         "updated": null,
         "country": "USA",
         "colors": [],
-        "website": "https://www.newfieldnationalbank.bank"
+        "website": "https://www.newfieldnationalbank.bank",
+        "logo": "newfieldnationalbank.svg"
     },
     {
         "routing": "031207607",
@@ -14247,7 +14341,8 @@
         "updated": 1319428800000,
         "country": "USA",
         "colors": [],
-        "website": "https://www.fultonbank.com"
+        "website": "https://www.fultonbank.com",
+        "logo": "fultonbank.svg"
     },
     {
         "routing": "031207678",
@@ -14273,7 +14368,8 @@
         "updated": 1488517200000,
         "country": "USA",
         "colors": [],
-        "website": "https://crownbank.net"
+        "website": "https://crownbank.net",
+        "logo": "crownbank.svg"
     },
     {
         "routing": "031207814",
@@ -14286,7 +14382,8 @@
         "updated": 1416546000000,
         "country": "USA",
         "colors": [],
-        "website": "https://www.parkebank.com"
+        "website": "https://www.parkebank.com",
+        "logo": "parkebank.svg"
     },
     {
         "routing": "031207827",
@@ -14299,7 +14396,8 @@
         "updated": 1460692800000,
         "country": "USA",
         "colors": [],
-        "website": "https://www.enorthfield.com"
+        "website": "https://www.enorthfield.com",
+        "logo": "enorthfield.svg"
     },
     {
         "routing": "031207830",
@@ -14312,7 +14410,8 @@
         "updated": 1375329600000,
         "country": "USA",
         "colors": [],
-        "website": "https://www.mapquest.com"
+        "website": "https://www.mapquest.com",
+        "logo": "mapquest.svg"
     },
     {
         "routing": "031207869",
@@ -14363,7 +14462,8 @@
         "updated": 1520398800000,
         "country": "USA",
         "colors": [],
-        "website": "https://www.myfirstbank.com"
+        "website": "https://www.myfirstbank.com",
+        "logo": "myfirstbank.svg"
     },
     {
         "routing": "031207940",
@@ -14388,7 +14488,8 @@
         "updated": 1309320000000,
         "country": "USA",
         "colors": [],
-        "website": "https://mounthollyrehabhc.com"
+        "website": "https://mounthollyrehabhc.com",
+        "logo": "mounthollyrehabhc.svg"
     },
     {
         "routing": "031300135",
@@ -14401,7 +14502,8 @@
         "updated": 1415250000000,
         "country": "USA",
         "colors": [],
-        "website": "https://www.psbt.com"
+        "website": "https://www.psbt.com",
+        "logo": "psbt.svg"
     },
     {
         "routing": "031301053",
@@ -14414,7 +14516,8 @@
         "updated": 1415336400000,
         "country": "USA",
         "colors": [],
-        "website": "https://locations.fnb-online.com"
+        "website": "https://locations.fnb-online.com",
+        "logo": "fnb-online.svg"
     },
     {
         "routing": "031301066",
@@ -14427,7 +14530,8 @@
         "updated": 1431316800000,
         "country": "USA",
         "colors": [],
-        "website": "https://www.ameriserv.com"
+        "website": "https://www.ameriserv.com",
+        "logo": "ameriserv.svg"
     },
     {
         "routing": "031301422",
@@ -14440,7 +14544,8 @@
         "updated": 1319428800000,
         "country": "USA",
         "colors": [],
-        "website": "https://www.fultonbank.com"
+        "website": "https://www.fultonbank.com",
+        "logo": "fultonbank.svg"
     },
     {
         "routing": "031301752",
@@ -14453,7 +14558,8 @@
         "updated": 1376452800000,
         "country": "USA",
         "colors": [],
-        "website": "https://www.acbb.com"
+        "website": "https://www.acbb.com",
+        "logo": "acbb.svg"
     },
     {
         "routing": "031302133",
@@ -14466,7 +14572,8 @@
         "updated": 1334289600000,
         "country": "USA",
         "colors": [],
-        "website": "https://www.fultonbank.com"
+        "website": "https://www.fultonbank.com",
+        "logo": "fultonbank.svg"
     },
     {
         "routing": "031302515",
@@ -14479,7 +14586,8 @@
         "updated": 1397448000000,
         "country": "USA",
         "colors": [],
-        "website": "https://www.riverviewbank.com"
+        "website": "https://www.riverviewbank.com",
+        "logo": "riverviewbank.svg"
     },
     {
         "routing": "031302528",
@@ -14492,7 +14600,8 @@
         "updated": null,
         "country": "USA",
         "colors": [],
-        "website": "https://woodlandsbank.com"
+        "website": "https://woodlandsbank.com",
+        "logo": "woodlandsbank.svg"
     },
     {
         "routing": "031302971",
@@ -14517,7 +14626,8 @@
         "updated": 982126800000,
         "country": "USA",
         "colors": [],
-        "website": "https://www.ambk.com"
+        "website": "https://www.ambk.com",
+        "logo": "ambk.svg"
     },
     {
         "routing": "031303093",
@@ -14530,7 +14640,8 @@
         "updated": 1356670800000,
         "country": "USA",
         "colors": [],
-        "website": "https://www.unb.bank"
+        "website": "https://www.unb.bank",
+        "logo": "unb.svg"
     },
     {
         "routing": "031303129",
@@ -14543,7 +14654,8 @@
         "updated": 1442980800000,
         "country": "USA",
         "colors": [],
-        "website": "https://www.bankatfidelity.com"
+        "website": "https://www.bankatfidelity.com",
+        "logo": "bankatfidelity.svg"
     },
     {
         "routing": "031303132",
@@ -14556,7 +14668,8 @@
         "updated": 1472184000000,
         "country": "USA",
         "colors": [],
-        "website": "https://www.psbt.com"
+        "website": "https://www.psbt.com",
+        "logo": "psbt.svg"
     },
     {
         "routing": "031304306",
@@ -14569,7 +14682,8 @@
         "updated": 1266901200000,
         "country": "USA",
         "colors": [],
-        "website": "https://fmtrust.bank"
+        "website": "https://fmtrust.bank",
+        "logo": "fmtrust.svg"
     },
     {
         "routing": "031305936",
@@ -14582,7 +14696,8 @@
         "updated": null,
         "country": "USA",
         "colors": [],
-        "website": "https://www.journeybank.com"
+        "website": "https://www.journeybank.com",
+        "logo": "journeybank.svg"
     },
     {
         "routing": "031306278",
@@ -14595,7 +14710,8 @@
         "updated": 1167800400000,
         "country": "USA",
         "colors": [],
-        "website": "https://cnbbank.bank"
+        "website": "https://cnbbank.bank",
+        "logo": "cnbbank.svg"
     },
     {
         "routing": "031306294",
@@ -14608,7 +14724,8 @@
         "updated": 1527220800000,
         "country": "USA",
         "colors": [],
-        "website": "https://www.riverviewbank.com"
+        "website": "https://www.riverviewbank.com",
+        "logo": "riverviewbank.svg"
     },
     {
         "routing": "031306993",
@@ -14621,7 +14738,8 @@
         "updated": null,
         "country": "USA",
         "colors": [],
-        "website": "https://www.jssb.com"
+        "website": "https://www.jssb.com",
+        "logo": "jssb.svg"
     },
     {
         "routing": "031307086",
@@ -14634,7 +14752,8 @@
         "updated": 1214539200000,
         "country": "USA",
         "colors": [],
-        "website": "https://merchantsbangor.com"
+        "website": "https://merchantsbangor.com",
+        "logo": "merchantsbangor.svg"
     },
     {
         "routing": "031307125",
