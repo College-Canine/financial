@@ -14,6 +14,8 @@
     "free-proxy": "^0.2.1",
     "google-search-scraper": "^0.1.0",
     "https-proxy-agent": "^7.0.5",
+    "image-pixels": "^2.2.2",
+    "imagetracerjs": "^1.2.6",
     "proxy-lists": "^1.23.3"
   }
 }
