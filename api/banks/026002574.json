@@ -1,0 +1,17 @@
+{
+    "routing": "026002574",
+    "short": "BARCLAYS PLC",
+    "long": "BARCLAYS BANK, PLC",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1229576400000,
+    "country": "USA",
+    "colors": [
+        "#9ce4f5"
+    ],
+    "website": "https://home.barclays",
+    "logo": "home.svg",
+    "name": "Barclays Bank Plc"
+}

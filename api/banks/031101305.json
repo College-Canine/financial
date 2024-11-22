@@ -1,0 +1,15 @@
+{
+    "routing": "031101305",
+    "short": "MORGAN STANLEY TR",
+    "long": "MORGAN STANLEY PRIVATE BANK NA",
+    "state": "DE",
+    "city": "WILMINGTON",
+    "transfer": false,
+    "settlement": false,
+    "updated": 1355374800000,
+    "country": "USA",
+    "colors": [],
+    "website": "https://advisor.morganstanley.com",
+    "logo": "morganstanley.svg",
+    "name": "Morgan Stanley Private Bank"
+}

@@ -1,0 +1,18 @@
+{
+    "routing": "021085075",
+    "short": "NEW ZEALAND",
+    "long": "NEW ZEALAND/FOREIGN DEPARTMENT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1202965200000,
+    "country": "USA",
+    "colors": [
+        "#cbcbcb",
+        "#464646"
+    ],
+    "website": "https://www.mfat.govt.nz",
+    "logo": "govt.svg",
+    "name": "New Zealand/foreign Department"
+}

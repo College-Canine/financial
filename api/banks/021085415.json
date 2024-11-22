@@ -1,0 +1,20 @@
+{
+    "routing": "021085415",
+    "short": "SAMA ACCT TWO",
+    "long": "SAMA ACCT TWO/FOREIGN DEPARTMENT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": false,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#dc5b62",
+        "#444863",
+        "#8e9cac",
+        "#ffffff"
+    ],
+    "website": "https://sam.gov",
+    "logo": "sam.svg",
+    "name": "Sama Account Two/foreign Department"
+}

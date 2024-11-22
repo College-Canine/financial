@@ -1,0 +1,19 @@
+{
+    "routing": "021473030",
+    "short": "QUONTIC BANK",
+    "long": "QUONTIC BANK",
+    "state": "NY",
+    "city": "GREAT NECK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1280808000000,
+    "country": "USA",
+    "colors": [
+        "#f2f2f1",
+        "#f24d33",
+        "#eeb09b"
+    ],
+    "website": "https://www.quontic.com",
+    "logo": "quontic.svg",
+    "name": "Quontic Bank"
+}

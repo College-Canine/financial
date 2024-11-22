@@ -1,0 +1,19 @@
+{
+    "routing": "026009674",
+    "short": "SMBC NY",
+    "long": "SUMITOMO MITSUI BANKING CORPORATION",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1530244800000,
+    "country": "USA",
+    "colors": [
+        "#b7d437",
+        "#f4fcfc",
+        "#427856"
+    ],
+    "website": "https://www.smbcgroup.com",
+    "logo": "smbcgroup.svg",
+    "name": "Sumitomo Mitsui Banking Corporation"
+}

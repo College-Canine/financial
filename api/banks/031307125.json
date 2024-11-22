@@ -1,0 +1,18 @@
+{
+    "routing": "031307125",
+    "short": "FIRST BERWICK",
+    "long": "FIRST KEYSTONE COMMUNITY BANK",
+    "state": "PA",
+    "city": "BERWICK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1285905600000,
+    "country": "USA",
+    "colors": [
+        "#6393b7",
+        "#fcfefc"
+    ],
+    "website": "https://www.fkc.bank",
+    "logo": "fkc.svg",
+    "name": "First Keystone Community Bank"
+}

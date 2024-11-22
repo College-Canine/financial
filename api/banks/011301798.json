@@ -1,0 +1,19 @@
+{
+    "routing": "011301798",
+    "short": "EASTERN BANK LYNN",
+    "long": "EASTERN BANK",
+    "state": "MA",
+    "city": "BOSTON",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1020225600000,
+    "country": "USA",
+    "colors": [
+        "#fefdfe",
+        "#153e65",
+        "#7491a8"
+    ],
+    "website": "https://www.easternbank.com",
+    "logo": "easternbank.svg",
+    "name": "Eastern Bank"
+}

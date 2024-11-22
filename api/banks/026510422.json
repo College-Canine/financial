@@ -1,0 +1,18 @@
+{
+    "routing": "026510422",
+    "short": "VIETNAM DIS PC",
+    "long": "VIETNAM DIS SERIES BONDS PC FNDS/SEC",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": false,
+    "settlement": true,
+    "updated": 1464062400000,
+    "country": "USA",
+    "colors": [
+        "#fffdfe",
+        "#577cb6"
+    ],
+    "website": "https://www.sec.gov",
+    "logo": "sec.svg",
+    "name": "Vietnam Dis Series Bonds Pc Fnds/sec"
+}

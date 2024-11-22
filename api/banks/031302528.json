@@ -1,0 +1,19 @@
+{
+    "routing": "031302528",
+    "short": "WOODLANDS WLMSPRT",
+    "long": "WOODLANDS BANK",
+    "state": "PA",
+    "city": "WILLIAMSPORT",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#194d2e",
+        "#fefefe",
+        "#84a190"
+    ],
+    "website": "https://woodlandsbank.com",
+    "logo": "woodlandsbank.svg",
+    "name": "Woodlands Bank"
+}

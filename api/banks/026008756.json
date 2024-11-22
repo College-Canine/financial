@@ -1,0 +1,18 @@
+{
+    "routing": "026008756",
+    "short": "BESSEMER TR NYC",
+    "long": "BESSEMER TRUST COMPANY",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#f8fdfc",
+        "#1c7454"
+    ],
+    "website": "https://www.bessemertrust.com",
+    "logo": "bessemertrust.svg",
+    "name": "Bessemer Trust Company"
+}

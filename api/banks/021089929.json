@@ -1,0 +1,15 @@
+{
+    "routing": "021089929",
+    "short": "SIERRA LEONE SPCL",
+    "long": "SIERRA LEONE - SPECIAL ACCOUNT 2",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1481259600000,
+    "country": "USA",
+    "colors": [],
+    "website": "https://wise.com",
+    "logo": "wise.svg",
+    "name": "Sierra Leone - Special Account 2"
+}

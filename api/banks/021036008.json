@@ -1,0 +1,19 @@
+{
+    "routing": "021036008",
+    "short": "TGA MASTER",
+    "long": "TGA MASTER",
+    "state": "DC",
+    "city": "WASHINGTON",
+    "transfer": false,
+    "settlement": true,
+    "updated": 1464235200000,
+    "country": "USA",
+    "colors": [
+        "#462f72",
+        "#82739f",
+        "#fcfcf6"
+    ],
+    "website": "https://www.cheme.washington.edu",
+    "logo": "washington.svg",
+    "name": "Tga Master"
+}

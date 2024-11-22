@@ -1,0 +1,19 @@
+{
+    "routing": "026010786",
+    "short": "NORDEA BK ABP NY",
+    "long": "NORDEA BANK ABP NEW YORK BRANCH",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1538107200000,
+    "country": "USA",
+    "colors": [
+        "#fbfdf4",
+        "#6867be",
+        "#272591"
+    ],
+    "website": "https://www.nordea.com",
+    "logo": "nordea.svg",
+    "name": "Nordea Bank Abp New York Branch"
+}

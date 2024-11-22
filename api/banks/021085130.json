@@ -1,0 +1,18 @@
+{
+    "routing": "021085130",
+    "short": "NORWAY",
+    "long": "NORWAY/FOREIGN DEPARTMENT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1407988800000,
+    "country": "USA",
+    "colors": [
+        "#e9e4e0",
+        "#5d5c5a"
+    ],
+    "website": "https://www.norway.no",
+    "logo": "norway.svg",
+    "name": "Norway/foreign Department"
+}

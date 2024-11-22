@@ -1,0 +1,18 @@
+{
+    "routing": "021081723",
+    "short": "SLOVENIA OPS ACCT1",
+    "long": "BANK OF SLOVENIA OPS ACCT 1",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1334721600000,
+    "country": "USA",
+    "colors": [
+        "#f35325",
+        "#d7d6bc"
+    ],
+    "website": "https://bankaslovenije.blob.core.windows.net",
+    "logo": "windows.svg",
+    "name": "Bank Of Slovenia Ops Account 1"
+}

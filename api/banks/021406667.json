@@ -1,0 +1,19 @@
+{
+    "routing": "021406667",
+    "short": "BNB BANK",
+    "long": "BNB BANK",
+    "state": "NY",
+    "city": "BRIDGEHAMPTON",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1514523600000,
+    "country": "USA",
+    "colors": [
+        "#b3c32b",
+        "#345c83",
+        "#d4e5f2"
+    ],
+    "website": "https://www.dime.com",
+    "logo": "dime.svg",
+    "name": "Bnb Bank"
+}

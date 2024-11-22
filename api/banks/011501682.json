@@ -1,0 +1,18 @@
+{
+    "routing": "011501682",
+    "short": "BK RI PROVIDENCE",
+    "long": "BANK OF RHODE ISLAND",
+    "state": "RI",
+    "city": "PROVIDENCE",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1052971200000,
+    "country": "USA",
+    "colors": [
+        "#fefefe",
+        "#4b6881"
+    ],
+    "website": "https://www.bankri.com",
+    "logo": "bankri.svg",
+    "name": "Bank Of Rhode Island"
+}

@@ -1,0 +1,18 @@
+{
+    "routing": "021084238",
+    "short": "INDONESIA",
+    "long": "INDONESIA/FOREIGN DEPARTMENT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1202965200000,
+    "country": "USA",
+    "colors": [
+        "#fcfefd",
+        "#e2cc98"
+    ],
+    "website": "https://kemlu.go.id",
+    "logo": "go.svg",
+    "name": "Indonesia/foreign Department"
+}

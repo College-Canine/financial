@@ -1,0 +1,20 @@
+{
+    "routing": "026008808",
+    "short": "BAY VEREINS BK",
+    "long": "UNICREDIT BANK AG",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1261458000000,
+    "country": "USA",
+    "colors": [
+        "#fcfcfc",
+        "#d42828",
+        "#e3b0ad",
+        "#b34749"
+    ],
+    "website": "https://www.unicreditgroup.eu",
+    "logo": "unicreditgroup.svg",
+    "name": "Unicredit Bank Ag"
+}

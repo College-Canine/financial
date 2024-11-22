@@ -1,0 +1,15 @@
+{
+    "routing": "021214862",
+    "short": "CROSS RIVER",
+    "long": "CROSS RIVER BANK",
+    "state": "NJ",
+    "city": "TEANECK",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1486098000000,
+    "country": "USA",
+    "colors": [],
+    "website": "https://www.crossriver.com",
+    "logo": "crossriver.svg",
+    "name": "Cross River Bank"
+}

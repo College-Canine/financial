@@ -1,0 +1,24 @@
+{
+    "routing": "021084953",
+    "short": "MAURITIUS",
+    "long": "MAURITIUS/FOREIGN DEPARTMENT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1202878800000,
+    "country": "USA",
+    "colors": [
+        "#fdfdfd",
+        "#4e8d43",
+        "#a23d2a",
+        "#ed3716",
+        "#4b70af",
+        "#a9a492",
+        "#c9a440",
+        "#f3d015"
+    ],
+    "website": "https://foreign.govmu.org",
+    "logo": "govmu.svg",
+    "name": "Mauritius/foreign Department"
+}

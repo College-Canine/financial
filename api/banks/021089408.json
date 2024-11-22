@@ -1,0 +1,19 @@
+{
+    "routing": "021089408",
+    "short": "ECB GREECE",
+    "long": "ECB ACCT GR, BANQUE DE GRECE",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1012280400000,
+    "country": "USA",
+    "colors": [
+        "#fdfefc",
+        "#10199d",
+        "#697fe3"
+    ],
+    "website": "https://www.bankofgreece.gr",
+    "logo": "bankofgreece.svg",
+    "name": "Ecb Account Gr Banque De Grece"
+}

@@ -1,0 +1,20 @@
+{
+    "routing": "021088289",
+    "short": "GERMANY FMS",
+    "long": "DEUTSCHE BUNDESBANK FMS ACCT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#fdfefd",
+        "#efce66",
+        "#717d45",
+        "#2a77ad"
+    ],
+    "website": "https://www.bundesbank.de",
+    "logo": "bundesbank.svg",
+    "name": "Deutsche Bundesbank Fms Account"
+}

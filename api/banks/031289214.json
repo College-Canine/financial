@@ -1,0 +1,19 @@
+{
+    "routing": "031289214",
+    "short": "HEALTHCARE OF NJ",
+    "long": "HEALTH CARE OF NEW JERSEY",
+    "state": "NJ",
+    "city": "MOUNT HOLLY",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1309320000000,
+    "country": "USA",
+    "colors": [
+        "#fefefd",
+        "#dead78",
+        "#859eaf"
+    ],
+    "website": "https://mounthollyrehabhc.com",
+    "logo": "mounthollyrehabhc.svg",
+    "name": "Health Care Of New Jersey"
+}

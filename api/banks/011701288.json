@@ -1,0 +1,20 @@
+{
+    "routing": "011701288",
+    "short": "NORTHWAY BANK",
+    "long": "NORTHWAY BANK",
+    "state": "NH",
+    "city": "PLYMOUTH",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1415336400000,
+    "country": "USA",
+    "colors": [
+        "#fdfefe",
+        "#233169",
+        "#40434d",
+        "#9da3b1"
+    ],
+    "website": "https://www.northwaybank.com",
+    "logo": "northwaybank.svg",
+    "name": "Northway Bank"
+}

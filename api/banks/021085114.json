@@ -1,0 +1,18 @@
+{
+    "routing": "021085114",
+    "short": "CENTRAL BK NIGERIA",
+    "long": "CENTRAL BANK OF NIGERIA",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1469678400000,
+    "country": "USA",
+    "colors": [
+        "#e4e4e4",
+        "#787979"
+    ],
+    "website": "https://www.cbn.gov.ng",
+    "logo": "gov.svg",
+    "name": "Central Bank Of Nigeria"
+}

@@ -1,0 +1,19 @@
+{
+    "routing": "011375384",
+    "short": "AVIDIA BANK",
+    "long": "AVIDIA BANK",
+    "state": "MA",
+    "city": "HUDSON",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1435636800000,
+    "country": "USA",
+    "colors": [
+        "#fd7e30",
+        "#da956a",
+        "#fcfefd"
+    ],
+    "website": "https://www.avidiabank.com",
+    "logo": "avidiabank.svg",
+    "name": "Avidia Bank"
+}

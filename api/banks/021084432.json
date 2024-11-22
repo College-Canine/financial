@@ -1,0 +1,18 @@
+{
+    "routing": "021084432",
+    "short": "ITALY",
+    "long": "ITALY/FOREIGN DEPARTMENT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1202878800000,
+    "country": "USA",
+    "colors": [
+        "#fefffe",
+        "#72717c"
+    ],
+    "website": "https://consnewyork.esteri.it",
+    "logo": "esteri.svg",
+    "name": "Italy/foreign Department"
+}

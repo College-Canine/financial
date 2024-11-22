@@ -1,0 +1,18 @@
+{
+    "routing": "021087251",
+    "short": "UZBEKISTAN",
+    "long": "CENTRAL BANK OF REPUBLIC/FOREIGN",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": false,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#eff6fd",
+        "#5a708e"
+    ],
+    "website": "https://www.newyorkfed.org",
+    "logo": "newyorkfed.svg",
+    "name": "Central Bank Of Republic/foreign"
+}

@@ -1,0 +1,19 @@
+{
+    "routing": "011175212",
+    "short": "CT COMMUNITY BK NA",
+    "long": "CONNECTICUT COMMUNITY BANK, N.A.",
+    "state": "CT",
+    "city": "WESTPORT",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1439438400000,
+    "country": "USA",
+    "colors": [
+        "#fefefe",
+        "#4da576",
+        "#666464"
+    ],
+    "website": "https://ccbankonline.com",
+    "logo": "ccbankonline.svg",
+    "name": "Connecticut Community Bank"
+}

@@ -1,0 +1,18 @@
+{
+    "routing": "026008073",
+    "short": "CREDIT AGRICOLE CI",
+    "long": "CREDIT AGRICOLE CIB",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1265346000000,
+    "country": "USA",
+    "colors": [
+        "#fefdfd",
+        "#5d6a71"
+    ],
+    "website": "https://www.ca-cib.com",
+    "logo": "ca-cib.svg",
+    "name": "Credit Agricole Cib"
+}

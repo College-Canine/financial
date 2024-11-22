@@ -1,0 +1,18 @@
+{
+    "routing": "021502451",
+    "short": "VESTIN BK INTL LLC",
+    "long": "VESTIN BANK INTERNATIONAL LLC",
+    "state": "PR",
+    "city": "SAN JUAN",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1502942400000,
+    "country": "USA",
+    "colors": [
+        "#e4e4e4",
+        "#787979"
+    ],
+    "website": "https://find-and-update.company-information.service.gov.uk",
+    "logo": "gov.svg",
+    "name": "Vestin Bank International Llc"
+}

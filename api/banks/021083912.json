@@ -1,0 +1,20 @@
+{
+    "routing": "021083912",
+    "short": "FRANCE ORDINARY",
+    "long": "FRANCE ORDINARY/FOREIGN DEPARTMENT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1202965200000,
+    "country": "USA",
+    "colors": [
+        "#fdfdf6",
+        "#7b71a6",
+        "#212088",
+        "#cf2c39"
+    ],
+    "website": "https://newyork.consulfrance.org",
+    "logo": "consulfrance.svg",
+    "name": "France Ordinary/foreign Department"
+}

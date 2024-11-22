@@ -1,0 +1,23 @@
+{
+    "routing": "021083640",
+    "short": "DANMARKS ACCT",
+    "long": "DANMARKS ACCT A/FOREIGH DEPARTMENT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1339387200000,
+    "country": "USA",
+    "colors": [
+        "#ee302e",
+        "#e6733a",
+        "#ddd185",
+        "#fedc4d",
+        "#285a6c",
+        "#677a4e",
+        "#7fa9ae"
+    ],
+    "website": "https://usa.um.dk",
+    "logo": "um.svg",
+    "name": "Danmarks Account A/foreigh Department"
+}

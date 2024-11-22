@@ -1,0 +1,20 @@
+{
+    "routing": "026008866",
+    "short": "BK HAPOALIM NYC",
+    "long": "BANK HAPOALIM B.M.",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#fdfdfe",
+        "#575859",
+        "#eb1c23",
+        "#b69395"
+    ],
+    "website": "https://www.bhiusa.com",
+    "logo": "bhiusa.svg",
+    "name": "Bank Hapoalim B.m"
+}

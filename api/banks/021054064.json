@@ -1,0 +1,20 @@
+{
+    "routing": "021054064",
+    "short": "DEF TR RETIREMENT",
+    "long": "DEFEASANCE TRUST RETIREMENT ACCT",
+    "state": "NJ",
+    "city": "EAST RUTHERFORD",
+    "transfer": false,
+    "settlement": true,
+    "updated": 1103778000000,
+    "country": "USA",
+    "colors": [
+        "#fefef9",
+        "#3781b2",
+        "#b5cb9f",
+        "#599013"
+    ],
+    "website": "https://nj.gov",
+    "logo": "nj.svg",
+    "name": "Defeasance Trust Retirement Account"
+}

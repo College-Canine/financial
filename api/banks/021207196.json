@@ -1,0 +1,18 @@
+{
+    "routing": "021207196",
+    "short": "SB ONE BANK NJ",
+    "long": "SB ONE BANK",
+    "state": "NJ",
+    "city": "ROCKAWAY",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1525752000000,
+    "country": "USA",
+    "colors": [
+        "#fffdfe",
+        "#577cb6"
+    ],
+    "website": "https://www.sec.gov",
+    "logo": "sec.svg",
+    "name": "Sb One Bank"
+}

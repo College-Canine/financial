@@ -1,0 +1,18 @@
+{
+    "routing": "021087992",
+    "short": "GEORGIA",
+    "long": "NATIONAL BANK OF GEORGIA",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#e4e4e4",
+        "#787979"
+    ],
+    "website": "https://nbg.gov.ge",
+    "logo": "gov.svg",
+    "name": "National Bank Of Georgia"
+}

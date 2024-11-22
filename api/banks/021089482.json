@@ -1,0 +1,18 @@
+{
+    "routing": "021089482",
+    "short": "US TREAS BUYBACK",
+    "long": "U.S TREASURY BUYBACK- FRBNY AS AGENT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": false,
+    "settlement": true,
+    "updated": 1415336400000,
+    "country": "USA",
+    "colors": [
+        "#eff6fd",
+        "#5a708e"
+    ],
+    "website": "https://www.newyorkfed.org",
+    "logo": "newyorkfed.svg",
+    "name": "U.s Treasury Buyback- Frbny As Agent"
+}

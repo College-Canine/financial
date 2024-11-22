@@ -1,0 +1,19 @@
+{
+    "routing": "026012603",
+    "short": "CR LOCAL DE FRANCE",
+    "long": "DEXIA CREDIT LOCAL",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1364356800000,
+    "country": "USA",
+    "colors": [
+        "#fbfdfd",
+        "#1e548e",
+        "#81a2ba"
+    ],
+    "website": "https://www.dexia.com",
+    "logo": "dexia.svg",
+    "name": "Dexia Credit Local"
+}

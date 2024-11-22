@@ -1,0 +1,18 @@
+{
+    "routing": "021052040",
+    "short": "TREASURY BBO",
+    "long": "U.S. TREAS BUYBACK OPERATION",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": false,
+    "settlement": true,
+    "updated": 1415336400000,
+    "country": "USA",
+    "colors": [
+        "#eff6fd",
+        "#5a708e"
+    ],
+    "website": "https://www.newyorkfed.org",
+    "logo": "newyorkfed.svg",
+    "name": "United States Treasury Buyback Operation"
+}

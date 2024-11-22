@@ -1,0 +1,18 @@
+{
+    "routing": "021089903",
+    "short": "FRBWFS",
+    "long": "FRBNY-MBS ACCT WF SECURTIES",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1467345600000,
+    "country": "USA",
+    "colors": [
+        "#eff6fd",
+        "#5a708e"
+    ],
+    "website": "https://www.newyorkfed.org",
+    "logo": "newyorkfed.svg",
+    "name": "Frbny-mbs Account Wf Securties"
+}

@@ -1,0 +1,18 @@
+{
+    "routing": "021081451",
+    "short": "AUSSI OPS ACCT 1",
+    "long": "RESERVE BK OF AUSTRALIA-OPER ACCT 1",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1222315200000,
+    "country": "USA",
+    "colors": [
+        "#e4e4e4",
+        "#787979"
+    ],
+    "website": "https://www.rba.gov.au",
+    "logo": "gov.svg",
+    "name": "Reserve Bank Of Australia-oper Account 1"
+}

@@ -1,0 +1,18 @@
+{
+    "routing": "021082298",
+    "short": "SURINAM IP",
+    "long": "CENTRAL BANK VAN SURINAM - IP ACCT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1368763200000,
+    "country": "USA",
+    "colors": [
+        "#fefdfe",
+        "#c9b775"
+    ],
+    "website": "https://www.cbvs.sr",
+    "logo": "cbvs.svg",
+    "name": "Central Bank Van Surinam - Ip Account"
+}

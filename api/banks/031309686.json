@@ -1,0 +1,23 @@
+{
+    "routing": "031309686",
+    "short": "MIFFLINBURG BK&TR",
+    "long": "MIFFLINBURG BK & TR CO",
+    "state": "PA",
+    "city": "MIFFLINBURG",
+    "transfer": false,
+    "settlement": true,
+    "updated": 1409284800000,
+    "country": "USA",
+    "colors": [
+        "#fefefd",
+        "#4a1821",
+        "#63657f",
+        "#17183f",
+        "#cdad6e",
+        "#b63030",
+        "#d18d87"
+    ],
+    "website": "https://www.mbtc.com",
+    "logo": "mbtc.svg",
+    "name": "Mifflinburg Bank & Trust"
+}

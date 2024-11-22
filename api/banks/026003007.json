@@ -1,0 +1,20 @@
+{
+    "routing": "026003007",
+    "short": "PHILIPPINE NAT NY",
+    "long": "PHILLIPINE NAT'L BANK",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1032235200000,
+    "country": "USA",
+    "colors": [
+        "#fdfefd",
+        "#d26a37",
+        "#2b2a29",
+        "#989490"
+    ],
+    "website": "https://www.pnb.com.ph",
+    "logo": "com.svg",
+    "name": "Phillipine Nat'l Bank"
+}

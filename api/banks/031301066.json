@@ -1,0 +1,19 @@
+{
+    "routing": "031301066",
+    "short": "AMERISERV FINAN",
+    "long": "AMERISERV FINANCIAL BANK",
+    "state": "PA",
+    "city": "JOHNSTOWN",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1431316800000,
+    "country": "USA",
+    "colors": [
+        "#1a2858",
+        "#f2f7fe",
+        "#69718e"
+    ],
+    "website": "https://www.ameriserv.com",
+    "logo": "ameriserv.svg",
+    "name": "Ameriserv Financial Bank"
+}

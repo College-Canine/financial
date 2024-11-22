@@ -1,0 +1,18 @@
+{
+    "routing": "021000089",
+    "logo": "citibank.svg",
+    "short": "CITIBANK NYC",
+    "long": "CITIBANK, N.A.",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1340337600000,
+    "country": "USA",
+    "colors": [
+        "#1C4882",
+        "#CC2131"
+    ],
+    "website": "https://www.citi.com",
+    "name": "Citibank"
+}

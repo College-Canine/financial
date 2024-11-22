@@ -1,0 +1,21 @@
+{
+    "routing": "021080892",
+    "short": "DOM REP CONSOLID",
+    "long": "BC REP DOMINICANA-CONSOLIDATION FUND",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1112760000000,
+    "country": "USA",
+    "colors": [
+        "#102079",
+        "#cecde1",
+        "#ca2135",
+        "#da6d7a",
+        "#727eaa"
+    ],
+    "website": "https://cashmgmt.usbank.com",
+    "logo": "usbank.svg",
+    "name": "Bc Rep Dominicana-consolidation Fund"
+}

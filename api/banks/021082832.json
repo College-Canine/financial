@@ -1,0 +1,18 @@
+{
+    "routing": "021082832",
+    "short": "ARG USD PAR L IC",
+    "long": "ARGENTINA USD PAR SER L/FOREIGN DEPT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1136869200000,
+    "country": "USA",
+    "colors": [
+        "#4da3d9",
+        "#cee5ee"
+    ],
+    "website": "https://cnyor.cancilleria.gob.ar",
+    "logo": "gob.svg",
+    "name": "Argentina Usd Par Ser L/foreign Dept"
+}

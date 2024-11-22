@@ -1,0 +1,19 @@
+{
+    "routing": "021313925",
+    "short": "PIONEER COMM BK",
+    "long": "PIONEER COMMERCIAL BANK",
+    "state": "NY",
+    "city": "ALBANY",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1480309200000,
+    "country": "USA",
+    "colors": [
+        "#29257c",
+        "#6c6b9c",
+        "#f7f9f5"
+    ],
+    "website": "https://www.pioneerny.com",
+    "logo": "pioneerny.svg",
+    "name": "Pioneer Commercial Bank"
+}

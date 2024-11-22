@@ -1,0 +1,17 @@
+{
+    "routing": "011002343",
+    "short": "BOSTON PRIVATE BK",
+    "long": "THE BOSTON PRIVATE BK. & TR CO",
+    "state": "MA",
+    "city": "BOSTON",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#1096c5"
+    ],
+    "website": "https://www.svb.com",
+    "logo": "svb.svg",
+    "name": "The Boston Private Bank & Trust"
+}

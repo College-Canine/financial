@@ -1,0 +1,19 @@
+{
+    "routing": "026007922",
+    "short": "FTC",
+    "long": "FTC AT UMB BANK, N.A.",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1440993600000,
+    "country": "USA",
+    "colors": [
+        "#f7fefe",
+        "#1ca4d4",
+        "#204265"
+    ],
+    "website": "https://www.umb.com",
+    "logo": "umb.svg",
+    "name": "Ftc At Umb Bank"
+}

@@ -1,0 +1,18 @@
+{
+    "routing": "021089505",
+    "short": "EGYPT SOVERGN DEBT",
+    "long": "CENT BK EGYPT-BEHALF GOV-SOV DEBT AC",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 994996800000,
+    "country": "USA",
+    "colors": [
+        "#599db5",
+        "#ffffff"
+    ],
+    "website": "https://www.usbanklocations.com",
+    "logo": "usbanklocations.svg",
+    "name": "Cent Bank Egypt-behalf Gov-sov Debt Ac"
+}

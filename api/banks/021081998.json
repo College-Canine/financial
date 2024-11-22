@@ -1,0 +1,18 @@
+{
+    "routing": "021081998",
+    "short": "INDIA FMS",
+    "long": "RESERVE BANK OF INDIA",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1246507200000,
+    "country": "USA",
+    "colors": [
+        "#e4e4e4",
+        "#787979"
+    ],
+    "website": "https://www.indiainnewyork.gov.in",
+    "logo": "gov.svg",
+    "name": "Reserve Bank Of India"
+}

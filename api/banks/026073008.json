@@ -1,0 +1,20 @@
+{
+    "routing": "026073008",
+    "short": "COMMUNITY FSB",
+    "long": "COMMUNITY FEDERAL SAVINGS BANK",
+    "state": "NY",
+    "city": "WOODHAVEN",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1411617600000,
+    "country": "USA",
+    "colors": [
+        "#fdfefd",
+        "#c46c7a",
+        "#bd162a",
+        "#909193"
+    ],
+    "website": "https://www.cfsb.com",
+    "logo": "cfsb.svg",
+    "name": "Community Federal Savings Bank"
+}

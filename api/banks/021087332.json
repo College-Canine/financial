@@ -1,0 +1,18 @@
+{
+    "routing": "021087332",
+    "short": "GUATEMALA B SP",
+    "long": "BANCO DE GUATEMALA B SPECIAL/FOREIGN",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": false,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#f6e8e6",
+        "#be5343"
+    ],
+    "website": "https://www.courtlistener.com",
+    "logo": "courtlistener.svg",
+    "name": "Banco De Guatemala B Special/foreign"
+}

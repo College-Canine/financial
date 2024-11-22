@@ -1,0 +1,18 @@
+{
+    "routing": "022309611",
+    "short": "STATE ALDEN",
+    "long": "ALDEN STATE BANK",
+    "state": "NY",
+    "city": "ALDEN",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#c0dbeb",
+        "#1c4976"
+    ],
+    "website": "https://www.aldenstate.com",
+    "logo": "aldenstate.svg",
+    "name": "Alden State Bank"
+}

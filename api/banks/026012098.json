@@ -1,0 +1,19 @@
+{
+    "routing": "026012098",
+    "short": "IND BK KOREA NYC",
+    "long": "INDUSTRIAL BANK OF KOREA",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": false,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#bce1e0",
+        "#2e2e2e",
+        "#468f89"
+    ],
+    "website": "https://www.squirepattonboggs.com",
+    "logo": "squirepattonboggs.svg",
+    "name": "Industrial Bank Of Korea"
+}

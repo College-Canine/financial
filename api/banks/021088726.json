@@ -1,0 +1,19 @@
+{
+    "routing": "021088726",
+    "short": "CANADA FA CSA PLDG",
+    "long": "BANK OF CANADA AS F/A - CSA PLDG",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1414123200000,
+    "country": "USA",
+    "colors": [
+        "#ffffff",
+        "#2e2e2e",
+        "#7c7c7c"
+    ],
+    "website": "https://www.bankofcanada.ca",
+    "logo": "bankofcanada.svg",
+    "name": "Bank Of Canada As F/a - Csa Pldg"
+}

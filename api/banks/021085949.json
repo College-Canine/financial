@@ -1,0 +1,19 @@
+{
+    "routing": "021085949",
+    "short": "THAILAND FMS",
+    "long": "THAILAND FMS/FOREIGN DEPARTMENT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#f9f8f8",
+        "#9f9c9b",
+        "#4f4c4d"
+    ],
+    "website": "https://newyork.thaiembassy.org",
+    "logo": "thaiembassy.svg",
+    "name": "Thailand Fms/foreign Department"
+}

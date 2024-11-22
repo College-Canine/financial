@@ -1,0 +1,18 @@
+{
+    "routing": "021038857",
+    "short": "REFCORP",
+    "long": "RESOLUTION FUNDING CORP. GENERAL",
+    "state": "VA",
+    "city": "RESTON",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1459396800000,
+    "country": "USA",
+    "colors": [
+        "#fafefa",
+        "#467e5f"
+    ],
+    "website": "https://www.fhlbdm.com",
+    "logo": "fhlbdm.svg",
+    "name": "Resolution Funding Corporation General"
+}

@@ -1,0 +1,19 @@
+{
+    "routing": "021053997",
+    "short": "FNMA",
+    "long": "FNMA III MBS P&I",
+    "state": "DC",
+    "city": "WASHINGTON",
+    "transfer": false,
+    "settlement": true,
+    "updated": 1540872000000,
+    "country": "USA",
+    "colors": [
+        "#fdfefd",
+        "#143046",
+        "#6b7e8c"
+    ],
+    "website": "https://capitalmarkets.fanniemae.com",
+    "logo": "fanniemae.svg",
+    "name": "Fnma III Mbs Principal and Interest"
+}

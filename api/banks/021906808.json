@@ -1,0 +1,19 @@
+{
+    "routing": "021906808",
+    "short": "PUTNAM CARMEL",
+    "long": "PUTNAM COUNTY NATIONAL BANK",
+    "state": "NY",
+    "city": "CARMEL",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#104d88",
+        "#f5f7fa",
+        "#7d9ebe"
+    ],
+    "website": "https://www.pcnb.biz",
+    "logo": "pcnb.svg",
+    "name": "Putnam County National Bank"
+}

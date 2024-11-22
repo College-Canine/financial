@@ -1,0 +1,18 @@
+{
+    "routing": "021001208",
+    "short": "FRB NYC",
+    "long": "FEDERAL RESERVE BANK OF NEW YORK",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1540958400000,
+    "country": "USA",
+    "colors": [
+        "#eff6fd",
+        "#5a708e"
+    ],
+    "website": "https://www.newyorkfed.org",
+    "logo": "newyorkfed.svg",
+    "name": "Federal Reserve Bank Of New York"
+}

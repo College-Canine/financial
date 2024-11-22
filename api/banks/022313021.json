@@ -1,0 +1,19 @@
+{
+    "routing": "022313021",
+    "short": "GENESEE REGIONAL",
+    "long": "GENESEE REGIONAL BANK",
+    "state": "NY",
+    "city": "ROCHESTER",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1381118400000,
+    "country": "USA",
+    "colors": [
+        "#fefefd",
+        "#87764b",
+        "#297364"
+    ],
+    "website": "https://www.grbbank.com",
+    "logo": "grbbank.svg",
+    "name": "Genesee Regional Bank"
+}

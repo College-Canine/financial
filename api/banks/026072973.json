@@ -1,0 +1,19 @@
+{
+    "routing": "026072973",
+    "short": "FIRST CENTRAL",
+    "long": "FIRST CENTRAL SAVINGS BANK",
+    "state": "NY",
+    "city": "GLEN COVE",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1427774400000,
+    "country": "USA",
+    "colors": [
+        "#fcfcfb",
+        "#9b9b9a",
+        "#151617"
+    ],
+    "website": "https://www.firstcentralsavings.com",
+    "logo": "firstcentralsavings.svg",
+    "name": "First Central Savings Bank"
+}

@@ -1,0 +1,19 @@
+{
+    "routing": "021080025",
+    "short": "IBRD ACCT T",
+    "long": "IBRD ACCOUNT T",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#fefefd",
+        "#3ec3ed",
+        "#3a5e77"
+    ],
+    "website": "https://www.worldbank.org",
+    "logo": "worldbank.svg",
+    "name": "Ibrd Account T"
+}

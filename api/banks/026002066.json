@@ -1,0 +1,19 @@
+{
+    "routing": "026002066",
+    "short": "DTC SDFSS",
+    "long": "DEPOSITORY TRUST COMPANY",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1397188800000,
+    "country": "USA",
+    "colors": [
+        "#fefefe",
+        "#939391",
+        "#464643"
+    ],
+    "website": "https://www.dtcc.com",
+    "logo": "dtcc.svg",
+    "name": "Depository Trust Company"
+}

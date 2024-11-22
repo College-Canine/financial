@@ -1,0 +1,19 @@
+{
+    "routing": "026002613",
+    "short": "BANCO ITAU",
+    "long": "ITAU UNIBANCO SA NY BRANCH",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1291611600000,
+    "country": "USA",
+    "colors": [
+        "#333333",
+        "#979797",
+        "#fdfdfd"
+    ],
+    "website": "https://www.mapquest.com",
+    "logo": "mapquest.svg",
+    "name": "Itau Unibanco Sa Ny Branch"
+}

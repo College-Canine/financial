@@ -1,0 +1,21 @@
+{
+    "routing": "021087918",
+    "short": "URU USD FRN B IC",
+    "long": "URU USD FRN B IC/FOREIGN DEPARTMENT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": false,
+    "settlement": true,
+    "updated": 1447045200000,
+    "country": "USA",
+    "colors": [
+        "#46586a",
+        "#47704c",
+        "#b7bec7",
+        "#593e23",
+        "#cca720"
+    ],
+    "website": "https://www.state.gov",
+    "logo": "state.svg",
+    "name": "Uru Usd Frn B Ic/foreign Department"
+}

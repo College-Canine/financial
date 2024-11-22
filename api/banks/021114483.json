@@ -1,0 +1,19 @@
+{
+    "routing": "021114483",
+    "short": "BANK OF NEW CANAAN",
+    "long": "BANKWELL BANK",
+    "state": "CT",
+    "city": "NEW CANAAN",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1381464000000,
+    "country": "USA",
+    "colors": [
+        "#fefdfe",
+        "#7a9ec9",
+        "#343434"
+    ],
+    "website": "https://www.mybankwell.com",
+    "logo": "mybankwell.svg",
+    "name": "Bankwell Bank"
+}

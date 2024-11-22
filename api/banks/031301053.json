@@ -1,0 +1,20 @@
+{
+    "routing": "031301053",
+    "short": "FNB OF PA",
+    "long": "FIRST NATIONAL BANK OF PENNSYLVANIA",
+    "state": "PA",
+    "city": "JOHNSTOWN",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1415336400000,
+    "country": "USA",
+    "colors": [
+        "#a22136",
+        "#6285ab",
+        "#144178",
+        "#ced7e2"
+    ],
+    "website": "https://locations.fnb-online.com",
+    "logo": "fnb-online.svg",
+    "name": "First National Bank Of Pennsylvania"
+}

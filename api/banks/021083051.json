@@ -1,0 +1,18 @@
+{
+    "routing": "021083051",
+    "short": "ARAB MON FD",
+    "long": "ARAB MON FD/FOREIGN DEPARTMENT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": false,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#e4e4e4",
+        "#787979"
+    ],
+    "website": "https://www.mofa.gov.ae",
+    "logo": "gov.svg",
+    "name": "Arab Mon Fd/foreign Department"
+}

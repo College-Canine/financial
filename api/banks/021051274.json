@@ -1,0 +1,19 @@
+{
+    "routing": "021051274",
+    "short": "NATL SEC CL CORP",
+    "long": "NATIONAL SECURITIES CLEARING CORPORA",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1458532800000,
+    "country": "USA",
+    "colors": [
+        "#fefefe",
+        "#939391",
+        "#464643"
+    ],
+    "website": "https://www.dtcc.com",
+    "logo": "dtcc.svg",
+    "name": "National Securities Clearing Corpora"
+}

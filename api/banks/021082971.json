@@ -1,0 +1,19 @@
+{
+    "routing": "021082971",
+    "short": "BELARUS RAMP",
+    "long": "NATL BK OF THE REP OF BELARUS RAMP",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1394424000000,
+    "country": "USA",
+    "colors": [
+        "#7c1e3e",
+        "#fdfdfe",
+        "#f0cf97"
+    ],
+    "website": "https://www.nbrb.by",
+    "logo": "nbrb.svg",
+    "name": "Natl Bank Of The Rep Of Belarus Ramp"
+}

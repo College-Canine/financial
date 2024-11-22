@@ -1,0 +1,18 @@
+{
+    "routing": "021272723",
+    "short": "WASH MUT BANK",
+    "long": "JPMORGAN CHASE BANK, NA",
+    "logo": "chase.svg",
+    "state": "NY",
+    "city": "VALLEY STREAM",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1287460800000,
+    "country": "USA",
+    "colors": [
+        "#004FC2",
+        "#FFFFFF"
+    ],
+    "website": "https://locator.chase.com",
+    "name": "JP-Morgan Chase Bank"
+}

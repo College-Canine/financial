@@ -1,0 +1,19 @@
+{
+    "routing": "011300595",
+    "short": "CAMBRIDGE TR CO",
+    "long": "CAMBRIDGE TRUST COMPANY",
+    "state": "MA",
+    "city": "CAMBRIDGE",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#9f1e33",
+        "#fdf1f2",
+        "#dba1a9"
+    ],
+    "website": "https://www.cambridgetrust.com",
+    "logo": "cambridgetrust.svg",
+    "name": "Cambridge Trust Company"
+}

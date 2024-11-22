@@ -1,0 +1,20 @@
+{
+    "routing": "026000194",
+    "short": "NORINCHUKIN BANK",
+    "long": "THE NORINCHUKIN BANK",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": false,
+    "settlement": true,
+    "updated": 1107838800000,
+    "country": "USA",
+    "colors": [
+        "#2a2d10",
+        "#29ac60",
+        "#5ebca9",
+        "#7cbc29"
+    ],
+    "website": "https://www.nochubank.or.jp",
+    "logo": "or.svg",
+    "name": "The Norinchukin Bank"
+}

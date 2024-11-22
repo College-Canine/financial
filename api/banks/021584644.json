@@ -1,0 +1,20 @@
+{
+    "routing": "021584644",
+    "short": "COOP DE AHORRO",
+    "long": "COOPERATIVA DE AHORRO Y CREDITO SOL",
+    "state": "PR",
+    "city": "SAN JUAN",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1456462800000,
+    "country": "USA",
+    "colors": [
+        "#fefefc",
+        "#161d58",
+        "#1fb6f1",
+        "#8e94b1"
+    ],
+    "website": "https://modex.com",
+    "logo": "modex.svg",
+    "name": "Cooperativa De Ahorro Y Credito Sol"
+}

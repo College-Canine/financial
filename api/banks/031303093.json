@@ -1,0 +1,21 @@
+{
+    "routing": "031303093",
+    "short": "UNION MT CARMEL",
+    "long": "UNB BANK",
+    "state": "PA",
+    "city": "MOUNT CARMEL",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1356670800000,
+    "country": "USA",
+    "colors": [
+        "#153c57",
+        "#fefefa",
+        "#f8e09d",
+        "#eac641",
+        "#8395a1"
+    ],
+    "website": "https://www.unb.bank",
+    "logo": "unb.svg",
+    "name": "Unb Bank"
+}

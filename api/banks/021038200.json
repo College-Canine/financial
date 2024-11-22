@@ -1,0 +1,19 @@
+{
+    "routing": "021038200",
+    "short": "FARM CREDIT P&I",
+    "long": "FEDERAL FARM-CON.SYSTEM BDS",
+    "state": "NJ",
+    "city": "JERSEY CITY",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1459396800000,
+    "country": "USA",
+    "colors": [
+        "#fefef9",
+        "#58972c",
+        "#a3c28b"
+    ],
+    "website": "https://www.farmcreditfunding.com",
+    "logo": "farmcreditfunding.svg",
+    "name": "Federal Farm-con.system Bds"
+}

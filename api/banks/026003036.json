@@ -1,0 +1,19 @@
+{
+    "routing": "026003036",
+    "short": "SKAND ENSKIBANKEN",
+    "long": "SKANDINAVISKA ENSKILDA BANKEN",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": false,
+    "settlement": true,
+    "updated": 1206590400000,
+    "country": "USA",
+    "colors": [
+        "#61cc19",
+        "#f5fef5",
+        "#cdf1b1"
+    ],
+    "website": "https://sebgroup.com",
+    "logo": "sebgroup.svg",
+    "name": "Skandinaviska Enskilda Banken"
+}

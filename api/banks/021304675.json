@@ -1,0 +1,21 @@
+{
+    "routing": "021304675",
+    "short": "NATL BALLSTON SPA",
+    "long": "BALLSTON SPA NATIONAL BANK",
+    "state": "NY",
+    "city": "BALLSTON SPA",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#fbfefd",
+        "#5c98b5",
+        "#5fb251",
+        "#ba385f",
+        "#f7b94a"
+    ],
+    "website": "https://www.bsnb.com",
+    "logo": "bsnb.svg",
+    "name": "Ballston Spa National Bank"
+}

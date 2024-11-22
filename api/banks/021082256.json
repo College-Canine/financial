@@ -1,0 +1,19 @@
+{
+    "routing": "021082256",
+    "short": "ESTONIA OPS ACCT1",
+    "long": "EESTI PANK OPS ACCT 1",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1296104400000,
+    "country": "USA",
+    "colors": [
+        "#fcfdfd",
+        "#719ca7",
+        "#f1dd3b"
+    ],
+    "website": "https://www.eestipank.ee",
+    "logo": "eestipank.svg",
+    "name": "Eesti Pank Ops Account 1"
+}

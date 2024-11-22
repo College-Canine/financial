@@ -1,0 +1,15 @@
+{
+    "routing": "021082285",
+    "short": "SIERRA LEONE SP AC",
+    "long": "SIERRA LEONE SPECIAL ACCT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1329973200000,
+    "country": "USA",
+    "colors": [],
+    "website": "https://wise.com",
+    "logo": "wise.svg",
+    "name": "Sierra Leone Special Account"
+}

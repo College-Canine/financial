@@ -1,0 +1,18 @@
+{
+    "routing": "026009179",
+    "short": "CREDIT SUISSE AG",
+    "long": "CREDIT SUISSE AG",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": false,
+    "settlement": true,
+    "updated": 1478581200000,
+    "country": "USA",
+    "colors": [
+        "#fefefe",
+        "#456886"
+    ],
+    "website": "https://www.credit-suisse.com",
+    "logo": "credit-suisse.svg",
+    "name": "Credit Suisse Ag"
+}

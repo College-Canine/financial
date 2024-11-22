@@ -1,0 +1,18 @@
+{
+    "routing": "021089385",
+    "short": "TANZANIA PRBS",
+    "long": "BANK OF TANZANIA-PRBS ACCOUNT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1380859200000,
+    "country": "USA",
+    "colors": [
+        "#fcfefd",
+        "#e2cc98"
+    ],
+    "website": "https://www.bot.go.tz",
+    "logo": "go.svg",
+    "name": "Bank Of Tanzania-prbs Account"
+}

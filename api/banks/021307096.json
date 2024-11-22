@@ -1,0 +1,19 @@
+{
+    "routing": "021307096",
+    "short": "DELAWARE DELHI",
+    "long": "DELAWARE NATIONAL BANK OF DELHI",
+    "state": "NY",
+    "city": "DELHI",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#b4b1ae",
+        "#302d2c",
+        "#f4e0a4"
+    ],
+    "website": "https://www.dnbd.bank",
+    "logo": "dnbd.svg",
+    "name": "Delaware National Bank Of Delhi"
+}

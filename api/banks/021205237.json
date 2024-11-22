@@ -1,0 +1,19 @@
+{
+    "routing": "021205237",
+    "short": "PEAPACK GLADSTONE",
+    "long": "PEAPACK-GLADSTONE BANK",
+    "state": "NJ",
+    "city": "GLADSTONE",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1355374800000,
+    "country": "USA",
+    "colors": [
+        "#d3f1df",
+        "#759d85",
+        "#1d5734"
+    ],
+    "website": "https://www.pgbank.com",
+    "logo": "pgbank.svg",
+    "name": "Peapack-gladstone Bank"
+}

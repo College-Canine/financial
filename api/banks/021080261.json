@@ -1,0 +1,20 @@
+{
+    "routing": "021080261",
+    "short": "ECB GERMANY",
+    "long": "ECB ACCT DEUTSCHE BUNDESBANK",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#fdfefd",
+        "#efce66",
+        "#717d45",
+        "#2a77ad"
+    ],
+    "website": "https://www.bundesbank.de",
+    "logo": "bundesbank.svg",
+    "name": "Ecb Account Deutsche Bundesbank"
+}

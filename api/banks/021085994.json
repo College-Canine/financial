@@ -1,0 +1,18 @@
+{
+    "routing": "021085994",
+    "short": "TRINIDAD ACCT TWO",
+    "long": "TRINIDAD ACCT TWO/FOREIGN DEPARTMENT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#e4e4e4",
+        "#787979"
+    ],
+    "website": "https://foreign.gov.tt",
+    "logo": "gov.svg",
+    "name": "Trinidad Account Two/foreign Department"
+}

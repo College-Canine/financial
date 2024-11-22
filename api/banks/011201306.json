@@ -1,0 +1,19 @@
+{
+    "routing": "011201306",
+    "short": "CAMDEN NATIONAL BK",
+    "long": "CAMDEN NATIONAL BANK",
+    "state": "ME",
+    "city": "BANGOR",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1159416000000,
+    "country": "USA",
+    "colors": [
+        "#379fd9",
+        "#fefefc",
+        "#13547d"
+    ],
+    "website": "https://www.camdennational.bank",
+    "logo": "camdennational.svg",
+    "name": "Camden National Bank"
+}

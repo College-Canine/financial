@@ -1,0 +1,18 @@
+{
+    "routing": "021085457",
+    "short": "BCEAO",
+    "long": "BCEAO",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1483074000000,
+    "country": "USA",
+    "colors": [
+        "#fdfdfc",
+        "#976e38"
+    ],
+    "website": "https://www.bceao.int",
+    "logo": "bceao.svg",
+    "name": "Bceao"
+}

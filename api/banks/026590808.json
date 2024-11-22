@@ -1,0 +1,19 @@
+{
+    "routing": "026590808",
+    "short": "FNMA DC",
+    "long": "FNMA MORTGAGE PURCHASE ACCOUNT",
+    "state": "DC",
+    "city": "WASHINGTON",
+    "transfer": true,
+    "settlement": false,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#fdfefd",
+        "#143046",
+        "#6b7e8c"
+    ],
+    "website": "https://www.fanniemae.com",
+    "logo": "fanniemae.svg",
+    "name": "Fnma Mortgage Purchase Account"
+}

@@ -1,0 +1,19 @@
+{
+    "routing": "021502228",
+    "short": "ORIENTAL BANK",
+    "long": "ORIENTAL BANK",
+    "state": "PR",
+    "city": "SAN JUAN",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1386738000000,
+    "country": "USA",
+    "colors": [
+        "#fef8f3",
+        "#f5821f",
+        "#f8b276"
+    ],
+    "website": "https://orientalbank.com",
+    "logo": "orientalbank.svg",
+    "name": "Oriental Bank"
+}

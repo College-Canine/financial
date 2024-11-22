@@ -1,0 +1,21 @@
+{
+    "routing": "026014627",
+    "short": "CORPBANCA",
+    "long": "ITAU CORPBANCA, NEW YORK BRANCH",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1478581200000,
+    "country": "USA",
+    "colors": [
+        "#fafcfb",
+        "#dfea2f",
+        "#315254",
+        "#9eb356",
+        "#5d7aad"
+    ],
+    "website": "https://ww2.itau.cl",
+    "logo": "itau.svg",
+    "name": "Itau Corpbanca New York Branch"
+}

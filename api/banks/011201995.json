@@ -1,0 +1,18 @@
+{
+    "routing": "011201995",
+    "short": "LIVERMORE FALLS TR",
+    "long": "ANDROSCOGGIN SAVINGS BANK",
+    "state": "ME",
+    "city": "LIVERMORE FALLS",
+    "transfer": true,
+    "settlement": false,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#fdfbf2",
+        "#d87841"
+    ],
+    "website": "https://www.androscogginbank.com",
+    "logo": "androscogginbank.svg",
+    "name": "Androscoggin Savings Bank"
+}

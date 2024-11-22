@@ -1,0 +1,18 @@
+{
+    "routing": "021086922",
+    "short": "NATL BK SLOVAKIA",
+    "long": "NATIONAL BANK OF SLOVAKIA-OPSACCT1",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1435032000000,
+    "country": "USA",
+    "colors": [
+        "#fefeff",
+        "#dacb9a"
+    ],
+    "website": "https://nbs.sk",
+    "logo": "nbs.svg",
+    "name": "National Bank Of Slovakia-opsacct1"
+}

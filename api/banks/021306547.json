@@ -1,0 +1,17 @@
+{
+    "routing": "021306547",
+    "short": "CAYUGA UNION SPGS",
+    "long": "CAYUGA LAKE NATIONAL BANK",
+    "state": "NY",
+    "city": "UNION SPRINGS",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#25a4db"
+    ],
+    "website": "https://www.cayugalakenationalbank.com",
+    "logo": "cayugalakenationalbank.svg",
+    "name": "Cayuga Lake National Bank"
+}

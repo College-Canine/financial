@@ -1,0 +1,19 @@
+{
+    "routing": "021053984",
+    "short": "FREDDIE MAC",
+    "long": "FREDDIE MAC II MBS PI",
+    "state": "VA",
+    "city": "MCLEAN",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1534478400000,
+    "country": "USA",
+    "colors": [
+        "#fefdfe",
+        "#25447e",
+        "#7f90ac"
+    ],
+    "website": "https://capitalmarkets.freddiemac.com",
+    "logo": "freddiemac.svg",
+    "name": "Freddie Mac II Mbs Principal and Interest"
+}

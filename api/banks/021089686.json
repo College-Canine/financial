@@ -1,0 +1,18 @@
+{
+    "routing": "021089686",
+    "short": "FRBMBC",
+    "long": "FRBNY - MBS ACCT C",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1321506000000,
+    "country": "USA",
+    "colors": [
+        "#eff6fd",
+        "#5a708e"
+    ],
+    "website": "https://www.newyorkfed.org",
+    "logo": "newyorkfed.svg",
+    "name": "Frbny - Mbs Account C"
+}

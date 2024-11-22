@@ -1,0 +1,18 @@
+{
+    "routing": "021913639",
+    "short": "GREATER HUDSON",
+    "long": "GREATER HUDSON BANK",
+    "state": "NY",
+    "city": "BARDONIA",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1463112000000,
+    "country": "USA",
+    "colors": [
+        "#fefefe",
+        "#112034"
+    ],
+    "website": "https://pitchbook.com",
+    "logo": "pitchbook.svg",
+    "name": "Greater Hudson Bank"
+}

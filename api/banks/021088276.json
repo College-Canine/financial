@@ -1,0 +1,19 @@
+{
+    "routing": "021088276",
+    "short": "CROATIA",
+    "long": "CROATIAN NATIONAL BANK",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1395201600000,
+    "country": "USA",
+    "colors": [
+        "#fefefd",
+        "#474a4e",
+        "#9c9d9f"
+    ],
+    "website": "https://www.hnb.hr",
+    "logo": "hnb.svg",
+    "name": "Croatian National Bank"
+}

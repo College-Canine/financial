@@ -1,0 +1,18 @@
+{
+    "routing": "011202910",
+    "short": "TD BANK USA, N.A.",
+    "long": "TD BANK USA, NATIONAL ASSOCIATION",
+    "logo": "td.svg",
+    "state": "ME",
+    "city": "PORTLAND",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1415336400000,
+    "country": "USA",
+    "colors": [
+        "#4fba47",
+        "#fafefd"
+    ],
+    "website": "https://locations.td.com",
+    "name": "TD Bank USA National Association"
+}

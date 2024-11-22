@@ -1,0 +1,19 @@
+{
+    "routing": "021050165",
+    "short": "FARMER MAC PI",
+    "long": "FEDERAL AGRICULT'RL MORTG.CORP.(P&I)",
+    "state": "DC",
+    "city": "WASHINGTON",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1459396800000,
+    "country": "USA",
+    "colors": [
+        "#fefdfe",
+        "#496a8d",
+        "#ea9774"
+    ],
+    "website": "https://www.farmermac.com",
+    "logo": "farmermac.svg",
+    "name": "Federal Agricult'rl Mortg.corp.(p&i)"
+}

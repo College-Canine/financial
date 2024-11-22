@@ -1,0 +1,18 @@
+{
+    "routing": "026011484",
+    "short": "AMERASIA BK NY",
+    "long": "AMERASIA BANK",
+    "state": "NY",
+    "city": "FLUSHING",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1162270800000,
+    "country": "USA",
+    "colors": [
+        "#ffffff",
+        "#656565"
+    ],
+    "website": "https://www.amerasiabankny.com",
+    "logo": "amerasiabankny.svg",
+    "name": "Amerasia Bank"
+}

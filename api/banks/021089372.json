@@ -1,0 +1,19 @@
+{
+    "routing": "021089372",
+    "short": "ENGLAND EURO NOTE",
+    "long": "BANK OF ENGLAND EURO LOAN NOTE ACCT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 973141200000,
+    "country": "USA",
+    "colors": [
+        "#fefdfe",
+        "#3874b2",
+        "#92c2e7"
+    ],
+    "website": "https://www.bankofengland.co.uk",
+    "logo": "co.svg",
+    "name": "Bank Of England Euro Loan Note Account"
+}

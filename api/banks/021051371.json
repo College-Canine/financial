@@ -1,0 +1,19 @@
+{
+    "routing": "021051371",
+    "short": "GNMA WASH",
+    "long": "GNMA WASH",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": false,
+    "settlement": true,
+    "updated": 1024977600000,
+    "country": "USA",
+    "colors": [
+        "#fdfefe",
+        "#7b91b1",
+        "#214479"
+    ],
+    "website": "https://www.ginniemae.gov",
+    "logo": "ginniemae.svg",
+    "name": "Gnma Wash"
+}

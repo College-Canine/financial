@@ -1,0 +1,19 @@
+{
+    "routing": "021051287",
+    "short": "FICC",
+    "long": "FIXED INCOME CLEARING CORPORATION",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1458532800000,
+    "country": "USA",
+    "colors": [
+        "#fefefe",
+        "#939391",
+        "#464643"
+    ],
+    "website": "https://www.dtcc.com",
+    "logo": "dtcc.svg",
+    "name": "Fixed Income Clearing Corporation"
+}

@@ -1,0 +1,19 @@
+{
+    "routing": "026548397",
+    "short": "SECTY TREAS FHA",
+    "long": "FEDERAL HOUSING ADMINISTRATION",
+    "state": "DC",
+    "city": "WASHINGTON",
+    "transfer": false,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#fef9ee",
+        "#7ea9c9",
+        "#40ab5b"
+    ],
+    "website": "https://www.hud.gov",
+    "logo": "hud.svg",
+    "name": "Federal Housing Administration"
+}

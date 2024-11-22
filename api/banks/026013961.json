@@ -1,0 +1,20 @@
+{
+    "routing": "026013961",
+    "short": "BANCO ESTADO CHILE",
+    "long": "BANCO DEL ESTADO DE CHILE, NY BRANCH",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1128312000000,
+    "country": "USA",
+    "colors": [
+        "#e68125",
+        "#f4fefd",
+        "#c03452",
+        "#2a5e8d"
+    ],
+    "website": "https://www.bancoestado.cl",
+    "logo": "bancoestado.svg",
+    "name": "Banco Del Estado De Chile Ny Branch"
+}

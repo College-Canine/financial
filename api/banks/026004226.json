@@ -1,0 +1,18 @@
+{
+    "routing": "026004226",
+    "short": "SOCIETE GEN",
+    "long": "SOCIETE GENERALE",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#fdf8fa",
+        "#a88489"
+    ],
+    "website": "https://americas.societegenerale.com",
+    "logo": "societegenerale.svg",
+    "name": "Societe Generale"
+}

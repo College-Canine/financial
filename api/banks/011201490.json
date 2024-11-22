@@ -1,0 +1,19 @@
+{
+    "routing": "011201490",
+    "short": "CAMDEN BK ME",
+    "long": "CAMDEN NATIONAL BANK",
+    "state": "ME",
+    "city": "GARDINER",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1444968000000,
+    "country": "USA",
+    "colors": [
+        "#379fd9",
+        "#fefefc",
+        "#13547d"
+    ],
+    "website": "https://www.camdennational.bank",
+    "logo": "camdennational.svg",
+    "name": "Camden National Bank"
+}

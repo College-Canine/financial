@@ -1,0 +1,18 @@
+{
+    "routing": "021081493",
+    "short": "GEORGIA USAID ACCT",
+    "long": "NATL BANK OF GEORGIA USAID ACCOUNT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1225339200000,
+    "country": "USA",
+    "colors": [
+        "#e4e4e4",
+        "#787979"
+    ],
+    "website": "https://nbg.gov.ge",
+    "logo": "gov.svg",
+    "name": "Natl Bank Of Georgia Usaid Account"
+}

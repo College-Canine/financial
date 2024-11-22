@@ -1,0 +1,18 @@
+{
+    "routing": "021085059",
+    "short": "NETHERLANDS",
+    "long": "NETHERLANDS/FOREIGN DEPARTMENT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1202965200000,
+    "country": "USA",
+    "colors": [
+        "#254f7d",
+        "#dce3ea"
+    ],
+    "website": "https://www.netherlandsworldwide.nl",
+    "logo": "netherlandsworldwide.svg",
+    "name": "Netherlands/foreign Department"
+}

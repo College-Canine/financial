@@ -1,0 +1,19 @@
+{
+    "routing": "026590837",
+    "short": "AFDB P&I",
+    "long": "AFRICAN DEVEL. BK REG. SUB. ACCOUNT",
+    "state": "AB",
+    "city": "IDJAN,COTE D'IVOIRE",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1415336400000,
+    "country": "USA",
+    "colors": [
+        "#fcfeff",
+        "#a0aba6",
+        "#17895a"
+    ],
+    "website": "https://www.afdb.org",
+    "logo": "afdb.svg",
+    "name": "African Devel. Bank Reg. Sub. Account"
+}

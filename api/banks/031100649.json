@@ -1,0 +1,20 @@
+{
+    "routing": "031100649",
+    "short": "DISCOVER BANK",
+    "long": "DISCOVER BANK",
+    "logo": "discover.svg",
+    "state": "DE",
+    "city": "GREENWOOD",
+    "transfer": true,
+    "settlement": true,
+    "updated": 965275200000,
+    "country": "USA",
+    "colors": [
+        "#DB8135",
+        "#E9B583",
+        "#FAECDC",
+        "#000000"
+    ],
+    "website": "https://www.mapquest.com",
+    "name": "Discover Bank"
+}

@@ -1,0 +1,19 @@
+{
+    "routing": "011102667",
+    "short": "CANAAN NATL",
+    "long": "SALISBURY BANK & TRUST CO.",
+    "state": "CT",
+    "city": "LAKEVILLE",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1496980800000,
+    "country": "USA",
+    "colors": [
+        "#fdfdfc",
+        "#eba5b7",
+        "#e6254f"
+    ],
+    "website": "https://www.nbtbank.com",
+    "logo": "nbtbank.svg",
+    "name": "Salisbury Bank & Trust"
+}

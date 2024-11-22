@@ -1,0 +1,19 @@
+{
+    "routing": "026014216",
+    "short": "NEWBANK",
+    "long": "NEWBANK",
+    "state": "NY",
+    "city": "FLUSHING",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1381118400000,
+    "country": "USA",
+    "colors": [
+        "#e14b12",
+        "#fefbf9",
+        "#eb865f"
+    ],
+    "website": "https://www.newbankusa.com",
+    "logo": "newbankusa.svg",
+    "name": "Newbank"
+}

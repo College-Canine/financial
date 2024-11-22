@@ -1,0 +1,18 @@
+{
+    "routing": "021085813",
+    "short": "SWITZERLAND FMS",
+    "long": "SWITZERLAND FMS/FOREIGN DEPARTMENT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1202965200000,
+    "country": "USA",
+    "colors": [
+        "#fef5f6",
+        "#ee8e96"
+    ],
+    "website": "https://www.eda.admin.ch",
+    "logo": "admin.svg",
+    "name": "Switzerland Fms/foreign Department"
+}

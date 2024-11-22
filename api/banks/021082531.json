@@ -1,0 +1,18 @@
+{
+    "routing": "021082531",
+    "short": "GHANA STBLZN",
+    "long": "GHANA - STABILIZATION FUND ACCT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1346299200000,
+    "country": "USA",
+    "colors": [
+        "#e4e4e4",
+        "#787979"
+    ],
+    "website": "https://www.bog.gov.gh",
+    "logo": "gov.svg",
+    "name": "Ghana - Stabilization Fund Account"
+}

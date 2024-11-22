@@ -1,0 +1,19 @@
+{
+    "routing": "011304711",
+    "short": "FIRST IPSWICH",
+    "long": "FIRST IPSWICH BANK",
+    "state": "MA",
+    "city": "IPSWICH",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1344830400000,
+    "country": "USA",
+    "colors": [
+        "#fffefd",
+        "#59b2d9",
+        "#a5a6a7"
+    ],
+    "website": "https://www.brooklinebank.com",
+    "logo": "brooklinebank.svg",
+    "name": "First Ipswich Bank"
+}

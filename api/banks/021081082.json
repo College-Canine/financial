@@ -1,0 +1,20 @@
+{
+    "routing": "021081082",
+    "short": "IRAQ FMS",
+    "long": "CENTRAL BANK OF IRAQ-FMS ACCOUNT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1164949200000,
+    "country": "USA",
+    "colors": [
+        "#d4fafe",
+        "#1d6ba5",
+        "#dcd878",
+        "#8fac80"
+    ],
+    "website": "https://ofac.treasury.gov",
+    "logo": "treasury.svg",
+    "name": "Central Bank Of Iraq-fms Account"
+}

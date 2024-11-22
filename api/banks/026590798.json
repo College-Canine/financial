@@ -1,0 +1,19 @@
+{
+    "routing": "026590798",
+    "short": "FNMA CLR",
+    "long": "FNMA MBS CLEARING",
+    "state": "DC",
+    "city": "WASHINGTON",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1381204800000,
+    "country": "USA",
+    "colors": [
+        "#fdfefd",
+        "#143046",
+        "#6b7e8c"
+    ],
+    "website": "https://capitalmarkets.fanniemae.com",
+    "logo": "fanniemae.svg",
+    "name": "Fnma Mbs Clearing"
+}

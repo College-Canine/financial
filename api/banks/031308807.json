@@ -1,0 +1,21 @@
+{
+    "routing": "031308807",
+    "short": "MID PEN MILLERSBG",
+    "long": "MID PENN BANK",
+    "state": "PA",
+    "city": "MILLERSBURG",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1074747600000,
+    "country": "USA",
+    "colors": [
+        "#1b1b41",
+        "#814f2f",
+        "#e8892b",
+        "#999fb5",
+        "#f1f4f7"
+    ],
+    "website": "https://midpennbank.com",
+    "logo": "midpennbank.svg",
+    "name": "Mid Penn Bank"
+}

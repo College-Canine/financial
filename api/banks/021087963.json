@@ -1,0 +1,18 @@
+{
+    "routing": "021087963",
+    "short": "TURKMENISTAN",
+    "long": "CENTRAL BANK OF TURKMENISTAN",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#fefefe",
+        "#3e3e3e"
+    ],
+    "website": "https://en.wikipedia.org",
+    "logo": "wikipedia.svg",
+    "name": "Central Bank Of Turkmenistan"
+}

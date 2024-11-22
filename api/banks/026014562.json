@@ -1,0 +1,20 @@
+{
+    "routing": "026014562",
+    "short": "ALLIED IRISH BANKS",
+    "long": "ALLIED IRISH BANKS, PLC",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": false,
+    "settlement": true,
+    "updated": 1234414800000,
+    "country": "USA",
+    "colors": [
+        "#a42e8f",
+        "#fefbfe",
+        "#d3a8cf",
+        "#6a3c6c"
+    ],
+    "website": "https://aib.ie",
+    "logo": "aib.svg",
+    "name": "Allied Irish Banks Plc"
+}

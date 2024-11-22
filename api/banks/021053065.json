@@ -1,0 +1,20 @@
+{
+    "routing": "021053065",
+    "short": "ITSGOV INTL SERV",
+    "long": "FRBNY GOVERNMENT WIRES",
+    "state": "DC",
+    "city": "WASHINGTON",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1448341200000,
+    "country": "USA",
+    "colors": [
+        "#1b3c5c",
+        "#f3d293",
+        "#a38e76",
+        "#56422c"
+    ],
+    "website": "https://www.federalreserve.gov",
+    "logo": "federalreserve.svg",
+    "name": "Frbny Government Wires"
+}

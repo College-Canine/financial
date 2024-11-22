@@ -1,0 +1,18 @@
+{
+    "routing": "021085538",
+    "short": "MON AUTH SINGAPORE",
+    "long": "MON AUTH SINGAPORE/FOREIGN DEPT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1202965200000,
+    "country": "USA",
+    "colors": [
+        "#e4e4e4",
+        "#787979"
+    ],
+    "website": "https://www.mfa.gov.sg",
+    "logo": "gov.svg",
+    "name": "Mon Auth Singapore/foreign Dept"
+}

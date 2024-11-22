@@ -1,0 +1,19 @@
+{
+    "routing": "021086663",
+    "short": "MYANMAR RAMP",
+    "long": "CENTRAL BANK OF MYANMAR-RAMP ACCOUNT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1461643200000,
+    "country": "USA",
+    "colors": [
+        "#83a4b5",
+        "#f9fcfd",
+        "#1c5a76"
+    ],
+    "website": "https://www.usip.org",
+    "logo": "usip.svg",
+    "name": "Central Bank Of Myanmar-ramp Account"
+}

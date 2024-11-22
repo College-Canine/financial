@@ -1,0 +1,17 @@
+{
+    "routing": "021081930",
+    "short": "AFGHANISTAN RAMP",
+    "long": "DA AFGHANISTAN BANK-RAMP ACCOUNT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1247716800000,
+    "country": "USA",
+    "colors": [
+        "#fafafa"
+    ],
+    "website": "https://support.ramp.com",
+    "logo": "ramp.svg",
+    "name": "Da Afghanistan Bank-ramp Account"
+}

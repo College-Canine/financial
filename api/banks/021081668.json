@@ -1,0 +1,18 @@
+{
+    "routing": "021081668",
+    "short": "LUXEMBOURG OPSACT1",
+    "long": "CB LUXEMBOURG OPS ACCT 1",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1334721600000,
+    "country": "USA",
+    "colors": [
+        "#f03529",
+        "#f4c2bc"
+    ],
+    "website": "https://about.chubb.com",
+    "logo": "chubb.svg",
+    "name": "Cb Luxembourg Ops Account 1"
+}

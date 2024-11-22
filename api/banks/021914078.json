@@ -1,0 +1,19 @@
+{
+    "routing": "021914078",
+    "short": "USA BANK NY",
+    "long": "CUSTOMERS BANK",
+    "state": "NY",
+    "city": "PORT CHESTER",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1332302400000,
+    "country": "USA",
+    "colors": [
+        "#5d87a6",
+        "#142a48",
+        "#f7fcfd"
+    ],
+    "website": "https://www.customersbank.com",
+    "logo": "customersbank.svg",
+    "name": "Customers Bank"
+}

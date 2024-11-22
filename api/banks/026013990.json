@@ -1,0 +1,19 @@
+{
+    "routing": "026013990",
+    "short": "PREF BK LA",
+    "long": "PREFERRED BANK",
+    "state": "CA",
+    "city": "LOS ANGELES",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1454648400000,
+    "country": "USA",
+    "colors": [
+        "#fffdfe",
+        "#91b4ac",
+        "#146a52"
+    ],
+    "website": "https://www.preferredbank.com",
+    "logo": "preferredbank.svg",
+    "name": "Preferred Bank"
+}

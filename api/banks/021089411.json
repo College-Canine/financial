@@ -1,0 +1,18 @@
+{
+    "routing": "021089411",
+    "short": "KUWAITB",
+    "long": "CENTRAL BANK OF KUWAIT 'B' ACCOUNT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1415336400000,
+    "country": "USA",
+    "colors": [
+        "#e4e4e4",
+        "#787979"
+    ],
+    "website": "https://www.cbk.gov.kw",
+    "logo": "gov.svg",
+    "name": "Central Bank Of Kuwait 'b' Account"
+}

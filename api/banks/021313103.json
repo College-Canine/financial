@@ -1,0 +1,19 @@
+{
+    "routing": "021313103",
+    "short": "RBS CITIZENS, N.A.",
+    "long": "CITIZENS BANK, NATIONAL ASSOCIATION",
+    "state": "NY",
+    "city": "ALBANY",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1407816000000,
+    "country": "USA",
+    "colors": [
+        "#368258",
+        "#f7fcfa",
+        "#92baa6"
+    ],
+    "website": "https://locations.citizensbank.com",
+    "logo": "citizensbank.svg",
+    "name": "Citizens Bank National Association"
+}

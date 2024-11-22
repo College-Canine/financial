@@ -1,0 +1,18 @@
+{
+    "routing": "021080355",
+    "short": "ECB NETHERLANDS",
+    "long": "ECB ACCT DE NEDERLANDSCHE BK NV",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#76b1cd",
+        "#f5fdfb"
+    ],
+    "website": "https://www.dfs.ny.gov",
+    "logo": "ny.svg",
+    "name": "Ecb Account De Nederlandsche Bank Nv"
+}

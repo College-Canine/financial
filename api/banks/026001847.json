@@ -1,0 +1,18 @@
+{
+    "routing": "026001847",
+    "short": "BCO BILBAO NYC",
+    "long": "BANCO BILBAO VIZCAYA ARGENTARIA",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 968299200000,
+    "country": "USA",
+    "colors": [
+        "#ffffff",
+        "#32669b"
+    ],
+    "website": "https://www.bbvacib.com",
+    "logo": "bbvacib.svg",
+    "name": "Banco Bilbao Vizcaya Argentaria"
+}

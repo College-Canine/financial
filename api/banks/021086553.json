@@ -1,0 +1,22 @@
+{
+    "routing": "021086553",
+    "short": "MADAGASCAR AID",
+    "long": "BCM MADAGASCAR/FOREIGN DEPARTMENT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": false,
+    "settlement": true,
+    "updated": 1447045200000,
+    "country": "USA",
+    "colors": [
+        "#fefef4",
+        "#f8d879",
+        "#525667",
+        "#35478b",
+        "#aaabaf",
+        "#151414"
+    ],
+    "website": "https://www.bcmintl.org",
+    "logo": "bcmintl.svg",
+    "name": "Bcm Madagascar/foreign Department"
+}

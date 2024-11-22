@@ -1,0 +1,18 @@
+{
+    "routing": "021088946",
+    "short": "FRBNY TRI PARTY",
+    "long": "FRBNY TRI PARTY ACCOUNT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": false,
+    "updated": 938577600000,
+    "country": "USA",
+    "colors": [
+        "#eff6fd",
+        "#5a708e"
+    ],
+    "website": "https://www.newyorkfed.org",
+    "logo": "newyorkfed.svg",
+    "name": "Frbny Tri Party Account"
+}

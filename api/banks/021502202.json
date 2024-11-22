@@ -1,0 +1,22 @@
+{
+    "routing": "021502202",
+    "short": "BNC INTL",
+    "long": "BNC INTERNATIONAL BANKING CORPORATIO",
+    "state": "PR",
+    "city": "SAN JUAN",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1524024000000,
+    "country": "USA",
+    "colors": [
+        "#a6b9e8",
+        "#f06b1d",
+        "#fdf8fd",
+        "#4153ae",
+        "#f0ba8f",
+        "#9d5d5b"
+    ],
+    "website": "https://www.bnci-pr.com",
+    "logo": "bnci-pr.svg",
+    "name": "Bnc International Banking Corporatio"
+}

@@ -1,0 +1,18 @@
+{
+    "routing": "021084050",
+    "short": "GREECE A",
+    "long": "GREECE A/FOREIGN DEPARTMENT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1202965200000,
+    "country": "USA",
+    "colors": [
+        "#5a759c",
+        "#f5fdf7"
+    ],
+    "website": "https://www.mfa.gr",
+    "logo": "mfa.svg",
+    "name": "Greece A/foreign Department"
+}

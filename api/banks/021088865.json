@@ -1,0 +1,18 @@
+{
+    "routing": "021088865",
+    "short": "ADB INV ADF",
+    "long": "ASIAN DEVELOPMENT BANK-INV ADF",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 927777600000,
+    "country": "USA",
+    "colors": [
+        "#e8f5fa",
+        "#295a8c"
+    ],
+    "website": "https://www.adb.org",
+    "logo": "adb.svg",
+    "name": "Asian Development Bank-inv Adf"
+}

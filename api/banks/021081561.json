@@ -1,0 +1,18 @@
+{
+    "routing": "021081561",
+    "short": "BELGIUM OPS ACCT1",
+    "long": "BANQUE NATL. DE BELGIQUE OPS ACCT 1",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1334635200000,
+    "country": "USA",
+    "colors": [
+        "#fefefd",
+        "#6b80a1"
+    ],
+    "website": "https://www.nbb.be",
+    "logo": "nbb.svg",
+    "name": "Banque Natl. De Belgique Ops Account 1"
+}

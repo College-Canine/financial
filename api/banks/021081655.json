@@ -1,0 +1,18 @@
+{
+    "routing": "021081655",
+    "short": "ITALY OPS ACCT 1",
+    "long": "BANCA D'ITALIA OPS ACCT 1",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1445572800000,
+    "country": "USA",
+    "colors": [
+        "#779ec3",
+        "#f8fbf5"
+    ],
+    "website": "https://www.bancaditalia.it",
+    "logo": "bancaditalia.svg",
+    "name": "Banca D'italia Ops Account 1"
+}

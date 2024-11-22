@@ -1,0 +1,22 @@
+{
+    "routing": "021081590",
+    "short": "DLRP WASH",
+    "long": "DLRP WASH ACCOUNT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": false,
+    "settlement": true,
+    "updated": 1415336400000,
+    "country": "USA",
+    "colors": [
+        "#fdfdfd",
+        "#f59b3a",
+        "#6899c8",
+        "#284666",
+        "#80b24b",
+        "#f6d3a6"
+    ],
+    "website": "https://www.nyc.gov",
+    "logo": "nyc.svg",
+    "name": "Dlrp Wash Account"
+}

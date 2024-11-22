@@ -1,0 +1,18 @@
+{
+    "routing": "021800221",
+    "short": "VEN FFF PAR PC",
+    "long": "VENEZUELA FFF PAR SERIES/FOREIGN",
+    "state": "",
+    "city": "",
+    "transfer": false,
+    "settlement": true,
+    "updated": 1447045200000,
+    "country": "USA",
+    "colors": [
+        "#fefefe",
+        "#3e3e3e"
+    ],
+    "website": "https://en.wikipedia.org",
+    "logo": "wikipedia.svg",
+    "name": "Venezuela Fff Par Series/foreign"
+}

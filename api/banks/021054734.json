@@ -1,0 +1,19 @@
+{
+    "routing": "021054734",
+    "short": "FARM CREDIT DN P&I",
+    "long": "FARM CREDIT BANK DN P&I",
+    "state": "NJ",
+    "city": "JERSEY CITY",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1459396800000,
+    "country": "USA",
+    "colors": [
+        "#fefef9",
+        "#58972c",
+        "#a3c28b"
+    ],
+    "website": "https://www.farmcreditfunding.com",
+    "logo": "farmcreditfunding.svg",
+    "name": "Farm Credit Bank Dn Principal and Interest"
+}

@@ -1,0 +1,19 @@
+{
+    "routing": "021303511",
+    "short": "NATL NORWICH",
+    "long": "NBT NATIONAL ASSOCIATION",
+    "state": "NY",
+    "city": "SYRACUSE",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1372219200000,
+    "country": "USA",
+    "colors": [
+        "#fdfdfc",
+        "#eba5b7",
+        "#e6254f"
+    ],
+    "website": "https://www.nbtbank.com",
+    "logo": "nbtbank.svg",
+    "name": "NBT National Association"
+}

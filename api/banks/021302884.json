@@ -1,0 +1,19 @@
+{
+    "routing": "021302884",
+    "short": "TRUST SARATOGA SPG",
+    "long": "ADIRONDACK TRUST COMPANY",
+    "state": "NY",
+    "city": "SARATOGA SPRINGS",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#e6e1da",
+        "#292826",
+        "#7ab397"
+    ],
+    "website": "https://www.adirondacktrust.com",
+    "logo": "adirondacktrust.svg",
+    "name": "Adirondack Trust Company"
+}

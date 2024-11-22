@@ -1,0 +1,15 @@
+{
+    "routing": "021082926",
+    "short": "IRAQ ACCOUNT NO 2",
+    "long": "CENTRAL BANK OF IRAQ ACCOUNT NO 2",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1405915200000,
+    "country": "USA",
+    "colors": [],
+    "website": "https://wise.com",
+    "logo": "wise.svg",
+    "name": "Central Bank Of Iraq Account No 2"
+}

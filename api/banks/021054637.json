@@ -1,0 +1,18 @@
+{
+    "routing": "021054637",
+    "short": "DA IADB",
+    "long": "DISTRIBUTION ACCT-IADB",
+    "state": "NJ",
+    "city": "EAST RUTHERFORD",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1151640000000,
+    "country": "USA",
+    "colors": [
+        "#e5edef",
+        "#23617c"
+    ],
+    "website": "https://publications.iadb.org",
+    "logo": "iadb.svg",
+    "name": "Distribution Acct-iadb"
+}

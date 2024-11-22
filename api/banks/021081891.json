@@ -1,0 +1,21 @@
+{
+    "routing": "021081891",
+    "short": "NBKAZAK NF SAVINGS",
+    "long": "NBK-NATIONAL FUND SAVINGS ACCT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1218600000000,
+    "country": "USA",
+    "colors": [
+        "#fefdfd",
+        "#7289a8",
+        "#d5273d",
+        "#10366c",
+        "#e38997"
+    ],
+    "website": "https://www.nbk.com",
+    "logo": "nbk.svg",
+    "name": "Nbk-national Fund Savings Account"
+}

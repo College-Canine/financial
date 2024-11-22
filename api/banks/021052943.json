@@ -1,0 +1,15 @@
+{
+    "routing": "021052943",
+    "short": "WELLS GNMA-P&I",
+    "long": "WELLS FARGO GNMA-P&I",
+    "logo": "wells-fargo.svg",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": false,
+    "settlement": true,
+    "updated": 1542949200000,
+    "country": "USA",
+    "colors": [],
+    "website": "https://wise.com",
+    "name": "Wells Fargo Gnma-p&i"
+}

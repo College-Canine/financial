@@ -1,0 +1,19 @@
+{
+    "routing": "011000015",
+    "short": "FRB-BOS",
+    "long": "FEDERAL RESERVE BANK OF BOSTON",
+    "state": "MA",
+    "city": "BOSTON",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1094788800000,
+    "country": "USA",
+    "colors": [
+        "#fefdfe",
+        "#214579",
+        "#758dae"
+    ],
+    "website": "https://www.bostonfed.org",
+    "logo": "bostonfed.svg",
+    "name": "Federal Reserve Bank Of Boston"
+}

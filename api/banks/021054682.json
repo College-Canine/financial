@@ -1,0 +1,18 @@
+{
+    "routing": "021054682",
+    "short": "DA VETERAN AFFAIRS",
+    "long": "DISTRIBUTION ACCT-VETERAN AFFAIRS",
+    "state": "NJ",
+    "city": "EAST RUTHERFORD",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1151640000000,
+    "country": "USA",
+    "colors": [
+        "#186dc6",
+        "#d9e2eb"
+    ],
+    "website": "https://www.va.gov",
+    "logo": "va.svg",
+    "name": "Distribution Acct-veteran Affairs"
+}

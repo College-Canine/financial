@@ -1,0 +1,22 @@
+{
+    "routing": "021080177",
+    "short": "ECB FINLAND",
+    "long": "ECB ACCT SUOMEN PANKKI",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#fcfefc",
+        "#143860",
+        "#f8f21f",
+        "#153f9b",
+        "#748db6",
+        "#738757"
+    ],
+    "website": "https://www.ecb.europa.eu",
+    "logo": "europa.svg",
+    "name": "Ecb Account Suomen Pankki"
+}

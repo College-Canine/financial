@@ -1,0 +1,20 @@
+{
+    "routing": "021309997",
+    "short": "CITIZENS BK CV",
+    "long": "CITIZENS BANK OF CAPE VINCENT",
+    "state": "NY",
+    "city": "CAPE VINCENT",
+    "transfer": false,
+    "settlement": false,
+    "updated": 1264568400000,
+    "country": "USA",
+    "colors": [
+        "#13274c",
+        "#6f412a",
+        "#2276b6",
+        "#f28546"
+    ],
+    "website": "https://www.gouverneurbank.com",
+    "logo": "gouverneurbank.svg",
+    "name": "Citizens Bank Of Cape Vincent"
+}

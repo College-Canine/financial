@@ -1,0 +1,18 @@
+{
+    "routing": "026008455",
+    "short": "DZ BK AG DEUTSCHE",
+    "long": "DZ BANK AG DEUTSCHE ZENTRAL-GENOSSEN",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": false,
+    "settlement": false,
+    "updated": 1030334400000,
+    "country": "USA",
+    "colors": [
+        "#fefdfe",
+        "#5695c5"
+    ],
+    "website": "https://www.dzbank.com",
+    "logo": "dzbank.svg",
+    "name": "Dz Bank Ag Deutsche Zentral-genossen"
+}

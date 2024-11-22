@@ -1,0 +1,22 @@
+{
+    "routing": "021083271",
+    "short": "BELIZE",
+    "long": "BELIZE/FOREIGN DEPARTMENT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1201755600000,
+    "country": "USA",
+    "colors": [
+        "#fbf6f6",
+        "#a3d7b6",
+        "#bf8786",
+        "#39a75c",
+        "#ead87d",
+        "#7e2f1f"
+    ],
+    "website": "https://belizemission.com",
+    "logo": "belizemission.svg",
+    "name": "Belize/foreign Department"
+}

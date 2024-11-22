@@ -1,0 +1,18 @@
+{
+    "routing": "021313734",
+    "short": "PATHFINDER COMM BK",
+    "long": "PATHFINDER BANK",
+    "state": "NY",
+    "city": "OSWEGO",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1464667200000,
+    "country": "USA",
+    "colors": [
+        "#fcfefe",
+        "#4a977d"
+    ],
+    "website": "https://www.pathfinderbank.com",
+    "logo": "pathfinderbank.svg",
+    "name": "Pathfinder Bank"
+}

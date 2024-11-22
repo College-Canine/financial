@@ -1,0 +1,19 @@
+{
+    "routing": "026013071",
+    "short": "KOREA DEVBANK NYC",
+    "long": "KOREA DEVELOPMENT BANK - NY BRANCH",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": false,
+    "settlement": false,
+    "updated": 1043643600000,
+    "country": "USA",
+    "colors": [
+        "#fefdfe",
+        "#3874b2",
+        "#92c2e7"
+    ],
+    "website": "https://www.kdb.co.kr",
+    "logo": "co.svg",
+    "name": "Korea Development Bank - Ny Branch"
+}

@@ -1,0 +1,18 @@
+{
+    "routing": "026510082",
+    "short": "ARG DMK PAR PC",
+    "long": "ARGENTINA DMK PAR SER/FOREIGN DEPT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": false,
+    "settlement": true,
+    "updated": 1415336400000,
+    "country": "USA",
+    "colors": [
+        "#4da3d9",
+        "#cee5ee"
+    ],
+    "website": "https://cnyor.cancilleria.gob.ar",
+    "logo": "gob.svg",
+    "name": "Argentina Dmk Par Ser/foreign Dept"
+}

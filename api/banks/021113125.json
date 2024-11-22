@@ -1,0 +1,19 @@
+{
+    "routing": "021113125",
+    "short": "GREENWICH BTC CONN",
+    "long": "CONNECTICUT COMMUNITY BANK, N.A.",
+    "state": "CT",
+    "city": "GREENWICH",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1415336400000,
+    "country": "USA",
+    "colors": [
+        "#fefefe",
+        "#4da576",
+        "#666464"
+    ],
+    "website": "https://ccbankonline.com",
+    "logo": "ccbankonline.svg",
+    "name": "Connecticut Community Bank"
+}

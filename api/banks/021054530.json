@@ -1,0 +1,18 @@
+{
+    "routing": "021054530",
+    "short": "DA FCAC",
+    "long": "DISTRIBUTION ACCT-FCAC NYC",
+    "state": "NJ",
+    "city": "EAST RUTHERFORD",
+    "transfer": false,
+    "settlement": true,
+    "updated": 1252987200000,
+    "country": "USA",
+    "colors": [
+        "#cc5a5b",
+        "#f8fefd"
+    ],
+    "website": "https://www.cushmanwakefield.com",
+    "logo": "cushmanwakefield.svg",
+    "name": "Distribution Acct-fcac NYC"
+}

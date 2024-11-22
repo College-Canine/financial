@@ -1,0 +1,18 @@
+{
+    "routing": "021081710",
+    "short": "BOSNIA CB",
+    "long": "CENTRAL BANK OF BOSNIA AND HERZEGOVI",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1509422400000,
+    "country": "USA",
+    "colors": [
+        "#fdfffe",
+        "#ab9970"
+    ],
+    "website": "https://www.cbbh.ba",
+    "logo": "cbbh.svg",
+    "name": "Central Bank Of Bosnia And Herzegovi"
+}

@@ -1,0 +1,19 @@
+{
+    "routing": "031100380",
+    "short": "DEUTSCHE BK TR DEL",
+    "long": "DEUTSCHE BANK TRUST COMPANY DELAWARE",
+    "state": "DE",
+    "city": "WILMINGTON",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1060920000000,
+    "country": "USA",
+    "colors": [
+        "#8eb4c2",
+        "#fcfefe",
+        "#124f67"
+    ],
+    "website": "https://www.dnb.com",
+    "logo": "dnb.svg",
+    "name": "Deutsche Bank Trust Company Delaware"
+}

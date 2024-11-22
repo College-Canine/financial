@@ -1,0 +1,19 @@
+{
+    "routing": "026004307",
+    "short": "MHBK NY",
+    "long": "MIZUHO BANK, LTD., NEW YORK BRANCH",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1372392000000,
+    "country": "USA",
+    "colors": [
+        "#fbfcf6",
+        "#9e95c4",
+        "#3f308b"
+    ],
+    "website": "https://www.mizuhogroup.com",
+    "logo": "mizuhogroup.svg",
+    "name": "Mizuho Bank Ltd. New York Branch"
+}

@@ -1,0 +1,19 @@
+{
+    "routing": "031302997",
+    "short": "AMERICAN BK LEHIGH",
+    "long": "AMERICAN BANK",
+    "state": "PA",
+    "city": "ALLENTOWN",
+    "transfer": true,
+    "settlement": true,
+    "updated": 982126800000,
+    "country": "USA",
+    "colors": [
+        "#fffefe",
+        "#b8565b",
+        "#495b7b"
+    ],
+    "website": "https://www.ambk.com",
+    "logo": "ambk.svg",
+    "name": "American Bank"
+}

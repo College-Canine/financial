@@ -1,0 +1,20 @@
+{
+    "routing": "026590222",
+    "short": "SLMA PRIN NYC",
+    "long": "FRBNY SALLIE MAE P&I ACCOUNT",
+    "state": "DC",
+    "city": "WASHINGTON",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1173931200000,
+    "country": "USA",
+    "colors": [
+        "#fefdff",
+        "#90b093",
+        "#4ca242",
+        "#262a5b"
+    ],
+    "website": "https://www.financialresearch.gov",
+    "logo": "financialresearch.svg",
+    "name": "Frbny Sallie Mae Principal and Interest Account"
+}

@@ -1,0 +1,18 @@
+{
+    "routing": "011000028",
+    "short": "STATE ST BOS",
+    "long": "STATE STREET BOSTON",
+    "state": "MA",
+    "city": "BOSTON",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#2b3847",
+        "#c4cbcf"
+    ],
+    "website": "https://www.statestreet.com",
+    "logo": "statestreet.svg",
+    "name": "State Street Boston"
+}

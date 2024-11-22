@@ -1,0 +1,22 @@
+{
+    "routing": "026004093",
+    "short": "ROYAL BK CAN NYC",
+    "long": "ROYAL BANK OF CANADA",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": false,
+    "settlement": true,
+    "updated": 1244606400000,
+    "country": "USA",
+    "colors": [
+        "#1b5e9d",
+        "#2d5d61",
+        "#ead71a",
+        "#6b864a",
+        "#90b1bd",
+        "#f8fdfd"
+    ],
+    "website": "https://www.rbcroyalbank.com",
+    "logo": "rbcroyalbank.svg",
+    "name": "Royal Bank Of Canada"
+}

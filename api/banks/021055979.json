@@ -1,0 +1,19 @@
+{
+    "routing": "021055979",
+    "short": "IFC DN P&I",
+    "long": "IFC DN P&I",
+    "state": "DC",
+    "city": "WASHINGTON",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1245816000000,
+    "country": "USA",
+    "colors": [
+        "#fefefd",
+        "#1e5688",
+        "#8aa6be"
+    ],
+    "website": "https://www.nachc.org",
+    "logo": "nachc.svg",
+    "name": "Ifc Dn Principal and Interest"
+}

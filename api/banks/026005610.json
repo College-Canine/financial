@@ -1,0 +1,19 @@
+{
+    "routing": "026005610",
+    "short": "DNB NOR BANK ASA",
+    "long": "DNB BANK ASA",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1449205200000,
+    "country": "USA",
+    "colors": [
+        "#8eb4c2",
+        "#fcfefe",
+        "#124f67"
+    ],
+    "website": "https://www.dnb.no",
+    "logo": "dnb.svg",
+    "name": "Dnb Bank Asa"
+}

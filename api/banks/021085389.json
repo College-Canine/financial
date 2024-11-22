@@ -1,0 +1,22 @@
+{
+    "routing": "021085389",
+    "short": "SAMA FMS SANG",
+    "long": "SAMA FMS SANG/FOREIGN DEPARTMENT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1202965200000,
+    "country": "USA",
+    "colors": [
+        "#5f67b0",
+        "#92b6e5",
+        "#fdfdfe",
+        "#7d7922",
+        "#1225fc",
+        "#1f2795"
+    ],
+    "website": "https://www.dsca.mil",
+    "logo": "dsca.svg",
+    "name": "Sama Fms Sang/foreign Department"
+}

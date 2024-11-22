@@ -1,0 +1,18 @@
+{
+    "routing": "021085473",
+    "short": "SEYCHELLES",
+    "long": "SEYCHELLES/FOREIGN DEPARTMENT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1202965200000,
+    "country": "USA",
+    "colors": [
+        "#e4e4e4",
+        "#787979"
+    ],
+    "website": "https://mfa.gov.sc",
+    "logo": "gov.svg",
+    "name": "Seychelles/foreign Department"
+}

@@ -1,0 +1,22 @@
+{
+    "routing": "021083886",
+    "short": "NATO SA - FMS",
+    "long": "NATO SUPPORT AGENCY - FMS ACCOUNT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1401854400000,
+    "country": "USA",
+    "colors": [
+        "#5f67b0",
+        "#92b6e5",
+        "#fdfdfe",
+        "#7d7922",
+        "#1225fc",
+        "#1f2795"
+    ],
+    "website": "https://samm.dsca.mil",
+    "logo": "dsca.svg",
+    "name": "Nato Support Agency - Fms Account"
+}

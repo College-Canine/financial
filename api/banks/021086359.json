@@ -1,0 +1,24 @@
+{
+    "routing": "021086359",
+    "short": "ZIMBABWE",
+    "long": "ZIMBABWE/FOREIGN DEPARTMENT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#b81617",
+        "#391a10",
+        "#fbfbfa",
+        "#d8b71e",
+        "#7a7138",
+        "#7587a9",
+        "#8a3c29",
+        "#347c43"
+    ],
+    "website": "https://zimembassydc.org",
+    "logo": "zimembassydc.svg",
+    "name": "Zimbabwe/foreign Department"
+}

@@ -1,0 +1,19 @@
+{
+    "routing": "011601087",
+    "short": "NATL MIDDLEBURY",
+    "long": "NATIONAL BANK OF MIDDLEBURY",
+    "state": "VT",
+    "city": "MIDDLEBURY",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#fefefd",
+        "#8ea6bc",
+        "#2b527c"
+    ],
+    "website": "https://nbmvt.com",
+    "logo": "nbmvt.svg",
+    "name": "National Bank Of Middlebury"
+}

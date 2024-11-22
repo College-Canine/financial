@@ -1,0 +1,18 @@
+{
+    "routing": "021203970",
+    "short": "BESSEMER TRCO NJ",
+    "long": "BESSEMER TRUST COMPANY",
+    "state": "NJ",
+    "city": "WOODBRIDGE",
+    "transfer": false,
+    "settlement": false,
+    "updated": 1464667200000,
+    "country": "USA",
+    "colors": [
+        "#f8fdfc",
+        "#1c7454"
+    ],
+    "website": "https://www.bessemertrust.com",
+    "logo": "bessemertrust.svg",
+    "name": "Bessemer Trust Company"
+}

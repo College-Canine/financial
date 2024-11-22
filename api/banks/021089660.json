@@ -1,0 +1,18 @@
+{
+    "routing": "021089660",
+    "short": "CB PARAGUAY RAMP",
+    "long": "BANCO CENTRAL DEL PARAGUAY - RAMP AC",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1503633600000,
+    "country": "USA",
+    "colors": [
+        "#599db5",
+        "#ffffff"
+    ],
+    "website": "https://www.usbanklocations.com",
+    "logo": "usbanklocations.svg",
+    "name": "Banco Central Del Paraguay - Ramp Ac"
+}

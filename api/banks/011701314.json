@@ -1,0 +1,20 @@
+{
+    "routing": "011701314",
+    "short": "BANGOR SVGS BK",
+    "long": "BANGOR SAVINGS BANK",
+    "state": "ME",
+    "city": "BANGOR",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1530763200000,
+    "country": "USA",
+    "colors": [
+        "#f9fefe",
+        "#1431bc",
+        "#91acd6",
+        "#354590"
+    ],
+    "website": "https://www.bangor.com",
+    "logo": "bangor.svg",
+    "name": "Bangor Savings Bank"
+}

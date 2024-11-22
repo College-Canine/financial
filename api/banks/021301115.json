@@ -1,0 +1,20 @@
+{
+    "routing": "021301115",
+    "short": "CHEMUNG ELMIRA",
+    "long": "CHEMUNG CANAL TRUST COMPANY",
+    "state": "NY",
+    "city": "ELMIRA",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#fabf57",
+        "#104fa8",
+        "#6b95c7",
+        "#fdfdf7"
+    ],
+    "website": "https://www.chemungcanal.com",
+    "logo": "chemungcanal.svg",
+    "name": "Chemung Canal Trust Company"
+}

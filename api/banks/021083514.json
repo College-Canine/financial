@@ -1,0 +1,21 @@
+{
+    "routing": "021083514",
+    "short": "SRI LANKA",
+    "long": "SRI LANKA/FOREIGN DEPARTMENT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#ebedef",
+        "#ac9981",
+        "#1692cd",
+        "#894b2b",
+        "#3b5443"
+    ],
+    "website": "https://www.un.int",
+    "logo": "un.svg",
+    "name": "Sri Lanka/foreign Department"
+}

@@ -1,0 +1,19 @@
+{
+    "routing": "021054585",
+    "short": "DA FANNIE MAE",
+    "long": "DISTRIBUTION ACCT-FANNIE MAE",
+    "state": "NJ",
+    "city": "EAST RUTHERFORD",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1151640000000,
+    "country": "USA",
+    "colors": [
+        "#fdfefd",
+        "#143046",
+        "#6b7e8c"
+    ],
+    "website": "https://selling-guide.fanniemae.com",
+    "logo": "fanniemae.svg",
+    "name": "Distribution Acct-fannie Mae"
+}

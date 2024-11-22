@@ -1,0 +1,23 @@
+{
+    "routing": "021086333",
+    "short": "ZAMBIA",
+    "long": "ZAMBIA/FOREIGN DEPARTMENT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1202965200000,
+    "country": "USA",
+    "colors": [
+        "#b2aa9a",
+        "#776027",
+        "#3e362a",
+        "#a01e16",
+        "#cfcf58",
+        "#fdfdfd",
+        "#688f35"
+    ],
+    "website": "https://www.zambiaun.org",
+    "logo": "zambiaun.svg",
+    "name": "Zambia/foreign Department"
+}

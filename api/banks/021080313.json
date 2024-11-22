@@ -1,0 +1,19 @@
+{
+    "routing": "021080313",
+    "short": "AFDB NTF",
+    "long": "AFDB NTF/FOREIGN DEPARTMENT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#fcfeff",
+        "#a0aba6",
+        "#17895a"
+    ],
+    "website": "https://www.afdb.org",
+    "logo": "afdb.svg",
+    "name": "Afdb Ntf/foreign Department"
+}

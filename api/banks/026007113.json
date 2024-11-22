@@ -1,0 +1,20 @@
+{
+    "routing": "026007113",
+    "short": "UN OVERSEAS BK LTD",
+    "long": "UNITED OVERSEAS BANK LIMITED",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": false,
+    "settlement": false,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#bddff3",
+        "#609bd2",
+        "#3a4d97",
+        "#cc2156"
+    ],
+    "website": "https://www.uobgroup.com",
+    "logo": "uobgroup.svg",
+    "name": "United Overseas Bank Limited"
+}

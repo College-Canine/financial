@@ -1,0 +1,18 @@
+{
+    "routing": "021080960",
+    "short": "SAO TOME NATL OIL",
+    "long": "BC SAO TOME E PRINCIPE NATL OIL ACCT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1118203200000,
+    "country": "USA",
+    "colors": [
+        "#fefefe",
+        "#112034"
+    ],
+    "website": "https://pitchbook.com",
+    "logo": "pitchbook.svg",
+    "name": "Bc Sao Tome E Principe Natl Oil Account"
+}

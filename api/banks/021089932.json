@@ -1,0 +1,21 @@
+{
+    "routing": "021089932",
+    "short": "CENTRAL BK KOSOVO",
+    "long": "CENTRAL BANK OF THE REPUBLIC OF KOSO",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1500004800000,
+    "country": "USA",
+    "colors": [
+        "#fdfefe",
+        "#f7d04d",
+        "#241f21",
+        "#e52b34",
+        "#aca6a7"
+    ],
+    "website": "https://bqk-kos.org",
+    "logo": "bqk-kos.svg",
+    "name": "Central Bank Of The Republic Of Koso"
+}

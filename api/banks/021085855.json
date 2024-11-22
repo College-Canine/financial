@@ -1,0 +1,18 @@
+{
+    "routing": "021085855",
+    "short": "CHINA",
+    "long": "CHINA/FOREIGN DEPARTMENT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1202965200000,
+    "country": "USA",
+    "colors": [
+        "#e4e4e4",
+        "#787979"
+    ],
+    "website": "https://newyork.china-consulate.gov.cn",
+    "logo": "gov.svg",
+    "name": "China/foreign Department"
+}

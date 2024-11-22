@@ -1,0 +1,21 @@
+{
+    "routing": "021080083",
+    "short": "WHO ACCT ONE",
+    "long": "WHO ACCT ONE/FOREIGN DEPARTMENT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": false,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#46586a",
+        "#47704c",
+        "#b7bec7",
+        "#593e23",
+        "#cca720"
+    ],
+    "website": "https://www.state.gov",
+    "logo": "state.svg",
+    "name": "Who Account One/foreign Department"
+}

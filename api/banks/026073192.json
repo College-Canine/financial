@@ -1,0 +1,19 @@
+{
+    "routing": "026073192",
+    "short": "UBS BANK USA",
+    "long": "UBS BANK USA",
+    "state": "UT",
+    "city": "SALT LAKE CITY",
+    "transfer": false,
+    "settlement": true,
+    "updated": 1517374800000,
+    "country": "USA",
+    "colors": [
+        "#fdfdfd",
+        "#2c2c2c",
+        "#929292"
+    ],
+    "website": "https://local.ubs.com",
+    "logo": "ubs.svg",
+    "name": "Ubs Bank USA"
+}

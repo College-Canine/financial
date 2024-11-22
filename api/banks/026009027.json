@@ -1,0 +1,20 @@
+{
+    "routing": "026009027",
+    "short": "COMWEALTH AUSTRAL",
+    "long": "COMMONWEALTH BANK OF AUSTRALIA",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": false,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#fdfefd",
+        "#d26a37",
+        "#2b2a29",
+        "#989490"
+    ],
+    "website": "https://www.commbank.com.au",
+    "logo": "com.svg",
+    "name": "Commonwealth Bank Of Australia"
+}

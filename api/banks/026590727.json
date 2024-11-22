@@ -1,0 +1,19 @@
+{
+    "routing": "026590727",
+    "short": "FREDDIE MAC P & I",
+    "long": "FED HOME LOAN MORT. PRIN. & INTEREST",
+    "state": "VA",
+    "city": "MCLEAN",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1459396800000,
+    "country": "USA",
+    "colors": [
+        "#8eb4c2",
+        "#fcfefe",
+        "#124f67"
+    ],
+    "website": "https://www.dnb.com",
+    "logo": "dnb.svg",
+    "name": "Federal Home Loan Mortgage Prin. & Interest"
+}

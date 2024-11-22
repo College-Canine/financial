@@ -1,0 +1,19 @@
+{
+    "routing": "022307820",
+    "short": "CATTARAUGUS VALLEY",
+    "long": "CATTARAUGUS COUNTY BANK",
+    "state": "NY",
+    "city": "LITTLE VALLEY",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#fefefe",
+        "#489d71",
+        "#f7c036"
+    ],
+    "website": "https://www.countonccb.com",
+    "logo": "countonccb.svg",
+    "name": "Cattaraugus County Bank"
+}

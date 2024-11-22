@@ -1,0 +1,18 @@
+{
+    "routing": "021214888",
+    "short": "CROWN BANK",
+    "long": "CROWN BANK",
+    "state": "NJ",
+    "city": "ELIZABETH",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1484802000000,
+    "country": "USA",
+    "colors": [
+        "#fdfdfb",
+        "#a69865"
+    ],
+    "website": "https://crownbank.net",
+    "logo": "crownbank.svg",
+    "name": "Crown Bank"
+}

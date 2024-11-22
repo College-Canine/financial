@@ -1,0 +1,18 @@
+{
+    "routing": "021502118",
+    "short": "GOVERNMENT DEV PR",
+    "long": "GOVERNMENT DEVELOPMENT BANK P.R.",
+    "state": "PR",
+    "city": "SAN JUAN",
+    "transfer": false,
+    "settlement": true,
+    "updated": 1462420800000,
+    "country": "USA",
+    "colors": [
+        "#fefefe",
+        "#3e3e3e"
+    ],
+    "website": "https://en.wikipedia.org",
+    "logo": "wikipedia.svg",
+    "name": "Government Development Bank P.r"
+}

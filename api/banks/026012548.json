@@ -1,0 +1,19 @@
+{
+    "routing": "026012548",
+    "short": "NORD LB NYC",
+    "long": "NORDDEUTSCHE LANDESBANK GIROZENTRALE",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": false,
+    "settlement": true,
+    "updated": 944110800000,
+    "country": "USA",
+    "colors": [
+        "#d5e9e7",
+        "#17234d",
+        "#7f8e9a"
+    ],
+    "website": "https://www.nordlb.com",
+    "logo": "nordlb.svg",
+    "name": "Norddeutsche Landesbank Girozentrale"
+}

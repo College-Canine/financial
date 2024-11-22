@@ -1,0 +1,15 @@
+{
+    "routing": "021086689",
+    "short": "CENT BNK OMAN INVS",
+    "long": "CENTRAL BANK OF OMAN/FOREIGN DEPT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1484283600000,
+    "country": "USA",
+    "colors": [],
+    "website": "https://wise.com",
+    "logo": "wise.svg",
+    "name": "Central Bank Of Oman/foreign Dept"
+}

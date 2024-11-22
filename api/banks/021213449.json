@@ -1,0 +1,20 @@
+{
+    "routing": "021213449",
+    "short": "INVESTORS SB",
+    "long": "INVESTORS BANK",
+    "state": "NJ",
+    "city": "NEWARK",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1339387200000,
+    "country": "USA",
+    "colors": [
+        "#cff3f8",
+        "#157d26",
+        "#27a4ce",
+        "#89c356"
+    ],
+    "website": "https://www.investorsbank.com",
+    "logo": "investorsbank.svg",
+    "name": "Investors Bank"
+}

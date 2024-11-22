@@ -1,0 +1,20 @@
+{
+    "routing": "026510312",
+    "short": "ECUADOR DIS PC",
+    "long": "ECUADOR USD DIS SERIES BONDS PC F/S",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#dde1da",
+        "#8c96ac",
+        "#404c6e",
+        "#d07c5b"
+    ],
+    "website": "https://cbonds.com",
+    "logo": "cbonds.svg",
+    "name": "Ecuador Usd Dis Series Bonds Pc F/s"
+}

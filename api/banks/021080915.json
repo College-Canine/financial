@@ -1,0 +1,18 @@
+{
+    "routing": "021080915",
+    "short": "SAO TOME",
+    "long": "BANCO CENTRAL DE SAO TOME A PRINCIPE",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1118116800000,
+    "country": "USA",
+    "colors": [
+        "#b8d8e9",
+        "#1c3c7d"
+    ],
+    "website": "https://library.columbia.edu",
+    "logo": "columbia.svg",
+    "name": "Banco Central De Sao Tome A Principe"
+}

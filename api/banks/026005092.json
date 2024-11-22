@@ -1,0 +1,15 @@
+{
+    "routing": "026005092",
+    "short": "WELLSFARGO NY INTL",
+    "long": "WELLS FARGO NY INTL",
+    "logo": "wells-fargo.svg",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1415336400000,
+    "country": "USA",
+    "colors": [],
+    "website": "https://www.wellsfargo.com",
+    "name": "Wells Fargo Ny Intl"
+}

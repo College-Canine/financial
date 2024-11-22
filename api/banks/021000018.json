@@ -1,0 +1,19 @@
+{
+    "routing": "021000018",
+    "short": "BK OF NYC",
+    "long": "THE BANK OF NEW YORK MELLON",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1214884800000,
+    "country": "USA",
+    "colors": [
+        "#ebf0f2",
+        "#3e90a1",
+        "#1b3b51"
+    ],
+    "website": "https://www.bny.com",
+    "logo": "bny.svg",
+    "name": "The Bank Of New York Mellon"
+}

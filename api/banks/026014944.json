@@ -1,0 +1,20 @@
+{
+    "routing": "026014944",
+    "short": "CANARA BANK NY",
+    "long": "CANARA BANK, NEW YORK BRANCH",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1424667600000,
+    "country": "USA",
+    "colors": [
+        "#30add9",
+        "#fbfdfe",
+        "#b9bf64",
+        "#fbc210"
+    ],
+    "website": "https://canarabank.com",
+    "logo": "canarabank.svg",
+    "name": "Canara Bank New York Branch"
+}

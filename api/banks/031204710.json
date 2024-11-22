@@ -1,0 +1,18 @@
+{
+    "routing": "031204710",
+    "short": "BB&T NC",
+    "long": "BRANCH BANKING & TRUST COMPANY",
+    "state": "NC",
+    "city": "WINSTON SALEM",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1447045200000,
+    "country": "USA",
+    "colors": [
+        "#2b1a46",
+        "#fefdfe"
+    ],
+    "website": "https://www.truist.com",
+    "logo": "truist.svg",
+    "name": "Branch Banking & Trust Company"
+}

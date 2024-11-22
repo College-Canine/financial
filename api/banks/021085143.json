@@ -1,0 +1,18 @@
+{
+    "routing": "021085143",
+    "short": "NORWAY FMS",
+    "long": "NORWAY FMS/FOREIGN DEPARTMENT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1202965200000,
+    "country": "USA",
+    "colors": [
+        "#e9e4e0",
+        "#5d5c5a"
+    ],
+    "website": "https://www.norway.no",
+    "logo": "norway.svg",
+    "name": "Norway Fms/foreign Department"
+}

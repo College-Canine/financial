@@ -1,0 +1,21 @@
+{
+    "routing": "021084063",
+    "short": "GUATEMALA A",
+    "long": "GUATEMALA A/FOREIGN DEPARTMENT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#46586a",
+        "#47704c",
+        "#b7bec7",
+        "#593e23",
+        "#cca720"
+    ],
+    "website": "https://travel.state.gov",
+    "logo": "state.svg",
+    "name": "Guatemala A/foreign Department"
+}

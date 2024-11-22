@@ -1,0 +1,19 @@
+{
+    "routing": "021214082",
+    "short": "FIRST COMMERCE BK",
+    "long": "FIRST COMMERCE BANK",
+    "state": "NJ",
+    "city": "LAKEWOOD",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1362114000000,
+    "country": "USA",
+    "colors": [
+        "#fdfefe",
+        "#211e20",
+        "#8a4256"
+    ],
+    "website": "https://www.firstcommercebk.com",
+    "logo": "firstcommercebk.svg",
+    "name": "First Commerce Bank"
+}

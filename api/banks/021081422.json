@@ -1,0 +1,19 @@
+{
+    "routing": "021081422",
+    "short": "NORGES OPS ACCT 1",
+    "long": "NORGES BANK- OPERATIONS ACCOUNT 1",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1226466000000,
+    "country": "USA",
+    "colors": [
+        "#fefdfe",
+        "#70acc5",
+        "#393a3a"
+    ],
+    "website": "https://www.nbim.no",
+    "logo": "nbim.svg",
+    "name": "Norges Bank- Operations Account 1"
+}

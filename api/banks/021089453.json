@@ -1,0 +1,18 @@
+{
+    "routing": "021089453",
+    "short": "PAKISTAN IDA",
+    "long": "STATE BANK OF PAKISTAN-IDA",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 991368000000,
+    "country": "USA",
+    "colors": [
+        "#e5ecf1",
+        "#396191"
+    ],
+    "website": "https://www.sbp.org.pk",
+    "logo": "org.svg",
+    "name": "State Bank Of Pakistan-ida"
+}

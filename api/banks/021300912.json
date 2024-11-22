@@ -1,0 +1,20 @@
+{
+    "routing": "021300912",
+    "short": "TRUSTCO BANK",
+    "long": "TRUSTCO BANK",
+    "state": "NY",
+    "city": "GLENVILLE",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1037336400000,
+    "country": "USA",
+    "colors": [
+        "#fcfefe",
+        "#202020",
+        "#184f97",
+        "#979ea6"
+    ],
+    "website": "https://www.trustcobank.com",
+    "logo": "trustcobank.svg",
+    "name": "Trustco Bank"
+}

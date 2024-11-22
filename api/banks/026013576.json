@@ -1,0 +1,18 @@
+{
+    "routing": "026013576",
+    "short": "SIGNATURE BANK",
+    "long": "SIGNATURE BANK",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 990590400000,
+    "country": "USA",
+    "colors": [
+        "#1f445d",
+        "#fdfdfc"
+    ],
+    "website": "https://www.fdic.gov",
+    "logo": "fdic.svg",
+    "name": "Signature Bank"
+}

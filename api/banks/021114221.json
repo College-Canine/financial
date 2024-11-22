@@ -1,0 +1,19 @@
+{
+    "routing": "021114221",
+    "short": "BANK OF IRELAND",
+    "long": "BANK OF IRELAND",
+    "state": "CT",
+    "city": "STAMFORD",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1163653200000,
+    "country": "USA",
+    "colors": [
+        "#c7caf4",
+        "#6c6cd9",
+        "#201fd0"
+    ],
+    "website": "https://www.bankofireland.com",
+    "logo": "bankofireland.svg",
+    "name": "Bank Of Ireland"
+}

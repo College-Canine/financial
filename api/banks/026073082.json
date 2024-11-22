@@ -1,0 +1,19 @@
+{
+    "routing": "026073082",
+    "short": "POPULAR BANK",
+    "long": "POPULAR BANK",
+    "state": "IL",
+    "city": "ROSEMONT",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1522987200000,
+    "country": "USA",
+    "colors": [
+        "#fefefd",
+        "#d54047",
+        "#da8283"
+    ],
+    "website": "https://www.popularbank.com",
+    "logo": "popularbank.svg",
+    "name": "Popular Bank"
+}

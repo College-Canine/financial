@@ -1,0 +1,19 @@
+{
+    "routing": "026003324",
+    "short": "BCO REPUBLICA URU",
+    "long": "BANCO DE LA REPUBLICA ORIENTAL",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": false,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#333333",
+        "#979797",
+        "#fdfdfd"
+    ],
+    "website": "https://www.mapquest.com",
+    "logo": "mapquest.svg",
+    "name": "Banco De La Republica Oriental"
+}

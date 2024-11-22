@@ -1,0 +1,19 @@
+{
+    "routing": "021204597",
+    "short": "FIRST HOPE",
+    "long": "FIRST HOPE BANK",
+    "state": "NJ",
+    "city": "HOPE",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#e6f2f4",
+        "#1b363a",
+        "#788c8f"
+    ],
+    "website": "https://www.firsthope.bank",
+    "logo": "firsthope.svg",
+    "name": "First Hope Bank"
+}

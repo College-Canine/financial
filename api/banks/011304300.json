@@ -1,0 +1,18 @@
+{
+    "routing": "011304300",
+    "short": "NATL MARBLEHEAD",
+    "long": "NAT. GRAND BK. OF MARBLEHEAD",
+    "state": "MA",
+    "city": "MARBLEHEAD",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#fffefe",
+        "#742c2e"
+    ],
+    "website": "https://ngbank.com",
+    "logo": "ngbank.svg",
+    "name": "National Grand Bank Of Marblehead"
+}

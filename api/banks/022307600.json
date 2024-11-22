@@ -1,0 +1,19 @@
+{
+    "routing": "022307600",
+    "short": "BANK HOLLAND",
+    "long": "BANK OF HOLLAND",
+    "state": "NY",
+    "city": "HOLLAND",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#989585",
+        "#202020",
+        "#e8dead"
+    ],
+    "website": "https://www.bankofhollandny.com",
+    "logo": "bankofhollandny.svg",
+    "name": "Bank Of Holland"
+}

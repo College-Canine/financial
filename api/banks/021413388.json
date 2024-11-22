@@ -1,0 +1,20 @@
+{
+    "routing": "021413388",
+    "short": "AMER COMMUNITY BK",
+    "long": "AMERICAN COMMUNITY BANK",
+    "state": "NY",
+    "city": "GLEN COVE",
+    "transfer": true,
+    "settlement": false,
+    "updated": 947048400000,
+    "country": "USA",
+    "colors": [
+        "#fffffc",
+        "#c42a1d",
+        "#4c609a",
+        "#c18180"
+    ],
+    "website": "https://www.acbalways.com",
+    "logo": "acbalways.svg",
+    "name": "American Community Bank"
+}

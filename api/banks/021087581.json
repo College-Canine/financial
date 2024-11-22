@@ -1,0 +1,18 @@
+{
+    "routing": "021087581",
+    "short": "MACEDONIA",
+    "long": "NATL BK OF REPUBLIC MACEDONIA, NY NY",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 930801600000,
+    "country": "USA",
+    "colors": [
+        "#fefefe",
+        "#3e3e3e"
+    ],
+    "website": "https://en.wikipedia.org",
+    "logo": "wikipedia.svg",
+    "name": "Natl Bank Of Republic Macedonia Ny Ny"
+}

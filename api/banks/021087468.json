@@ -1,0 +1,18 @@
+{
+    "routing": "021087468",
+    "short": "CAYMAN ISLANDS",
+    "long": "CAYMAN ISLANDS CURRENCY BD/FOREIGN",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#a59222",
+        "#edd61f"
+    ],
+    "website": "https://www.westernunion.com",
+    "logo": "westernunion.svg",
+    "name": "Cayman Islands Currency Bd/foreign"
+}

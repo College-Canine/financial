@@ -1,0 +1,20 @@
+{
+    "routing": "026009768",
+    "short": "ISRAEL DISC BK NYC",
+    "long": "ISRAEL DISCOUNT BANK OF NEW YORK",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#fefdfe",
+        "#121a19",
+        "#7b7d7c",
+        "#f7a72c"
+    ],
+    "website": "https://www.idbny.com",
+    "logo": "idbny.svg",
+    "name": "Israel Discount Bank Of New York"
+}

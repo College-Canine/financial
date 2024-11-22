@@ -1,0 +1,23 @@
+{
+    "routing": "021084995",
+    "short": "MOROCCO",
+    "long": "MOROCCO/FOREIGN DEPARTMENT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1202878800000,
+    "country": "USA",
+    "colors": [
+        "#f7f7f7",
+        "#a6a682",
+        "#8a611e",
+        "#d4b35a",
+        "#e6252a",
+        "#3c6948",
+        "#e8c213"
+    ],
+    "website": "https://us.diplomatie.ma",
+    "logo": "diplomatie.svg",
+    "name": "Morocco/foreign Department"
+}

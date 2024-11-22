@@ -1,0 +1,19 @@
+{
+    "routing": "021054598",
+    "short": "DA FARMER MAC",
+    "long": "DISTRIBUTION ACCT-FARMER MAC",
+    "state": "NJ",
+    "city": "EAST RUTHERFORD",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1151640000000,
+    "country": "USA",
+    "colors": [
+        "#fefdfe",
+        "#496a8d",
+        "#ea9774"
+    ],
+    "website": "https://www.farmermac.com",
+    "logo": "farmermac.svg",
+    "name": "Distribution Acct-farmer Mac"
+}

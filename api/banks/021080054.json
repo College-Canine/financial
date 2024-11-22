@@ -1,0 +1,21 @@
+{
+    "routing": "021080054",
+    "short": "NADB US CAIP",
+    "long": "NORTH AMER DEV BK US - CAIP CAPITAL",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": false,
+    "updated": 932097600000,
+    "country": "USA",
+    "colors": [
+        "#fbfefe",
+        "#3c4040",
+        "#969e9d",
+        "#5df365",
+        "#3c7ff0"
+    ],
+    "website": "https://www.nadb.org",
+    "logo": "nadb.svg",
+    "name": "North Amer Dev Bank Us - Caip Capital"
+}

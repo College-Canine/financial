@@ -1,0 +1,19 @@
+{
+    "routing": "021082793",
+    "short": "CIVIL PENALTY FUND",
+    "long": "CONSUMER FINL CIVIL PENALTY FUND",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1334721600000,
+    "country": "USA",
+    "colors": [
+        "#fefefd",
+        "#43af56",
+        "#aed79c"
+    ],
+    "website": "https://www.consumerfinance.gov",
+    "logo": "consumerfinance.svg",
+    "name": "Consumer Finl Civil Penalty Fund"
+}

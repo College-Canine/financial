@@ -1,0 +1,15 @@
+{
+    "routing": "021800292",
+    "short": "VEN DMK DIS IC",
+    "long": "VENEZUELA DMK DIS SERIES/FOREIGN",
+    "state": "",
+    "city": "",
+    "transfer": false,
+    "settlement": true,
+    "updated": 1447045200000,
+    "country": "USA",
+    "colors": [],
+    "website": "https://github.com",
+    "logo": "github.svg",
+    "name": "Venezuela Dmk Dis Series/foreign"
+}

@@ -1,0 +1,18 @@
+{
+    "routing": "011600020",
+    "short": "COMMUNITYBKMER",
+    "long": "COMMUNITY BANK, NA",
+    "state": "NY",
+    "city": "DEWITT",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1498708800000,
+    "country": "USA",
+    "colors": [
+        "#ca4a1e",
+        "#e5ad98"
+    ],
+    "website": "https://cbna.com",
+    "logo": "cbna.svg",
+    "name": "Community Bank"
+}

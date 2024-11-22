@@ -1,0 +1,22 @@
+{
+    "routing": "026012030",
+    "short": "BLADEX",
+    "long": "BANCO LATINOAMERICANO DE COMERCIO EX",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": false,
+    "settlement": false,
+    "updated": 1254456000000,
+    "country": "USA",
+    "colors": [
+        "#49743b",
+        "#87a619",
+        "#133f9b",
+        "#eefdfd",
+        "#8099c1",
+        "#2965f4"
+    ],
+    "website": "https://www.bladex.com",
+    "logo": "bladex.svg",
+    "name": "Banco Latinoamericano De Comercio Ex"
+}

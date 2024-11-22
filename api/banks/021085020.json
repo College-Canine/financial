@@ -1,0 +1,19 @@
+{
+    "routing": "021085020",
+    "short": "DNB SEPARATE ACCT.",
+    "long": "DE NEDERLANDSCHE BANK N.V. SEPARATE",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1374552000000,
+    "country": "USA",
+    "colors": [
+        "#8eb4c2",
+        "#fcfefe",
+        "#124f67"
+    ],
+    "website": "https://www.dnb.no",
+    "logo": "dnb.svg",
+    "name": "De Nederlandsche Bank N.v. Separate"
+}

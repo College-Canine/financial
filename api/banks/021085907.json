@@ -1,0 +1,21 @@
+{
+    "routing": "021085907",
+    "short": "ROMANIA",
+    "long": "ROMANIA/FOREIGN DEPARTMENT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#fefcff",
+        "#2f4587",
+        "#1546d1",
+        "#787c89",
+        "#809de6"
+    ],
+    "website": "https://newyork.mae.ro",
+    "logo": "mae.svg",
+    "name": "Romania/foreign Department"
+}

@@ -1,0 +1,18 @@
+{
+    "routing": "021084979",
+    "short": "MEXICO",
+    "long": "MEXICO/FOREIGN DEPARTMENT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1202878800000,
+    "country": "USA",
+    "colors": [
+        "#4da3d9",
+        "#cee5ee"
+    ],
+    "website": "https://consulmex.sre.gob.mx",
+    "logo": "gob.svg",
+    "name": "Mexico/foreign Department"
+}

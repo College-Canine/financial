@@ -1,0 +1,19 @@
+{
+    "routing": "021039539",
+    "short": "FMAE DC MBS",
+    "long": "FNMA BOOK ENTRY MORTGAGE ACCOUNT",
+    "state": "DC",
+    "city": "WASHINGTON",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#fdfefd",
+        "#143046",
+        "#6b7e8c"
+    ],
+    "website": "https://selling-guide.fanniemae.com",
+    "logo": "fanniemae.svg",
+    "name": "Fnma Book Entry Mortgage Account"
+}

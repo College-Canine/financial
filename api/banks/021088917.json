@@ -1,0 +1,18 @@
+{
+    "routing": "021088917",
+    "short": "NADB CAIP AF",
+    "long": "NORTH AMER DEV BK - U.S. CAIP AF",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1064894400000,
+    "country": "USA",
+    "colors": [
+        "#e5edef",
+        "#23617c"
+    ],
+    "website": "https://www.iadb.org",
+    "logo": "iadb.svg",
+    "name": "North Amer Dev Bank - United States Caip Af"
+}

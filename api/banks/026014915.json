@@ -1,0 +1,19 @@
+{
+    "routing": "026014915",
+    "short": "NONGHYUP BANK",
+    "long": "NONGHYUP BANK",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1376971200000,
+    "country": "USA",
+    "colors": [
+        "#333333",
+        "#979797",
+        "#fdfdfd"
+    ],
+    "website": "https://www.mapquest.com",
+    "logo": "mapquest.svg",
+    "name": "Nonghyup Bank"
+}

@@ -1,0 +1,15 @@
+{
+    "routing": "021081516",
+    "short": "KOREA OPS ACCT 1",
+    "long": "BANK OF KOREA-OPERATIONS ACCOUNT 1",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1227589200000,
+    "country": "USA",
+    "colors": [],
+    "website": "https://wise.com",
+    "logo": "wise.svg",
+    "name": "Bank Of Korea-operations Account 1"
+}

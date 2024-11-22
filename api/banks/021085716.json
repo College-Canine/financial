@@ -1,0 +1,19 @@
+{
+    "routing": "021085716",
+    "short": "SWEDEN",
+    "long": "SWEDEN/FOREIGN DEPARTMENT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1202965200000,
+    "country": "USA",
+    "colors": [
+        "#1a2f4f",
+        "#fefefe",
+        "#6894b8"
+    ],
+    "website": "https://www.swedenabroad.se",
+    "logo": "swedenabroad.svg",
+    "name": "Sweden/foreign Department"
+}

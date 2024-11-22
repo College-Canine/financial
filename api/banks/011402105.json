@@ -1,0 +1,20 @@
+{
+    "routing": "011402105",
+    "short": "PRIMARY BANK NH",
+    "long": "PRIMARY BANK",
+    "state": "NH",
+    "city": "BEDFORD",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1522036800000,
+    "country": "USA",
+    "colors": [
+        "#143a90",
+        "#fdfefe",
+        "#a7b7db",
+        "#982344"
+    ],
+    "website": "https://www.primarybanknh.com",
+    "logo": "primarybanknh.svg",
+    "name": "Primary Bank"
+}

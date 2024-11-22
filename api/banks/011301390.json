@@ -1,0 +1,19 @@
+{
+    "routing": "011301390",
+    "short": "CENTURY SOMERVILLE",
+    "long": "CENTURY BANK & TRUST COMPANY",
+    "state": "MA",
+    "city": "MEDFORD",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#fefdfd",
+        "#822231",
+        "#7e8180"
+    ],
+    "website": "https://www.centurybankandtrust.com",
+    "logo": "centurybankandtrust.svg",
+    "name": "Century Bank & Trust Company"
+}

@@ -1,0 +1,18 @@
+{
+    "routing": "021089576",
+    "short": "TRINIDAD MIRROR",
+    "long": "CNTRL BK OF TRINIDAD & TOBAGO MIRROR",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1013576400000,
+    "country": "USA",
+    "colors": [
+        "#e5ecf1",
+        "#396191"
+    ],
+    "website": "https://www.central-bank.org.tt",
+    "logo": "org.svg",
+    "name": "Cntrl Bank Of Trinidad & Tobago Mirror"
+}

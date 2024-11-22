@@ -1,0 +1,18 @@
+{
+    "routing": "031176110",
+    "short": "CAPITAL ONE NA",
+    "long": "CAPITAL ONE, NA",
+    "logo": "capital-one.svg",
+    "state": "DE",
+    "city": "WILMINGTON",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1375761600000,
+    "country": "USA",
+    "colors": [
+        "#D03027",
+        "#004977"
+    ],
+    "website": "https://locations.capitalone.com",
+    "name": "Capital One"
+}

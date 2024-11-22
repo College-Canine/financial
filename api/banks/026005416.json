@@ -1,0 +1,19 @@
+{
+    "routing": "026005416",
+    "short": "WOORI BANK NYC",
+    "long": "WOORI BANK",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1031803200000,
+    "country": "USA",
+    "colors": [
+        "#fdfefe",
+        "#30bbed",
+        "#146da7"
+    ],
+    "website": "https://www.wooriamericabank.com",
+    "logo": "wooriamericabank.svg",
+    "name": "Woori Bank"
+}

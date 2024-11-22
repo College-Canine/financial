@@ -1,0 +1,19 @@
+{
+    "routing": "031101295",
+    "short": "STIFEL TRST CO DEL",
+    "long": "STIFEL TRUST COMPANY DELAWARE, NA",
+    "state": "DE",
+    "city": "WILMINGTON",
+    "transfer": false,
+    "settlement": false,
+    "updated": 1451538000000,
+    "country": "USA",
+    "colors": [
+        "#fdfefd",
+        "#13236b",
+        "#6571a1"
+    ],
+    "website": "https://bankwithstifel.com",
+    "logo": "bankwithstifel.svg",
+    "name": "Stifel Trust Company Delaware"
+}

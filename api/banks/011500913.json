@@ -1,0 +1,22 @@
+{
+    "routing": "011500913",
+    "short": "CENT W WARWICK",
+    "long": "CENTREVILLE BANK",
+    "state": "RI",
+    "city": "WEST WARWICK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1484802000000,
+    "country": "USA",
+    "colors": [
+        "#fdfffe",
+        "#868eb1",
+        "#29387f",
+        "#85b853",
+        "#e0cd89",
+        "#e7af2c"
+    ],
+    "website": "https://www.centrevillebank.com",
+    "logo": "centrevillebank.svg",
+    "name": "Centreville Bank"
+}

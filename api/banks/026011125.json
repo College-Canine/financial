@@ -1,0 +1,19 @@
+{
+    "routing": "026011125",
+    "short": "CHIBA BK",
+    "long": "CHIBA BANK LTD - N.Y.BRANCH",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#fefdfe",
+        "#3874b2",
+        "#92c2e7"
+    ],
+    "website": "https://www.chibabank.co.jp",
+    "logo": "co.svg",
+    "name": "Chiba Bank Ltd - N.y.branch"
+}

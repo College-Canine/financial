@@ -1,0 +1,21 @@
+{
+    "routing": "011110617",
+    "short": "ACBB GLAST",
+    "long": "ATLANTIC COMMUNITY BANKERS BANK",
+    "state": "CT",
+    "city": "GLASTONBURY",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1522987200000,
+    "country": "USA",
+    "colors": [
+        "#537ca1",
+        "#faf4ee",
+        "#c61217",
+        "#cf5b58",
+        "#e7a9a3"
+    ],
+    "website": "https://www.acbb.com",
+    "logo": "acbb.svg",
+    "name": "Atlantic Community Bankers Bank"
+}

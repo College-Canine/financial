@@ -1,0 +1,19 @@
+{
+    "routing": "026014504",
+    "short": "ICICI BANK LIMITED",
+    "long": "ICICI BANK LIMITED",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1439438400000,
+    "country": "USA",
+    "colors": [
+        "#ffffff",
+        "#ba6b5d",
+        "#f5a767"
+    ],
+    "website": "https://www.icicibankusa.com",
+    "logo": "icicibankusa.svg",
+    "name": "Icici Bank Limited"
+}

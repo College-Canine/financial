@@ -1,0 +1,20 @@
+{
+    "routing": "021086812",
+    "short": "FINLAND FMS",
+    "long": "SUOMEN PANKKI-FINLANDS/FOREIGN DEPT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#66aedb",
+        "#2a4656",
+        "#475d9c",
+        "#eaeef5"
+    ],
+    "website": "https://finlandabroad.fi",
+    "logo": "finlandabroad.svg",
+    "name": "Suomen Pankki-finlands/foreign Dept"
+}

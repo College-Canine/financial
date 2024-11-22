@@ -1,0 +1,18 @@
+{
+    "routing": "021083682",
+    "short": "DJIBOUTI",
+    "long": "CENTRAL BANK OF DJIBOUTI",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1482123600000,
+    "country": "USA",
+    "colors": [
+        "#fefefe",
+        "#3e3e3e"
+    ],
+    "website": "https://en.wikipedia.org",
+    "logo": "wikipedia.svg",
+    "name": "Central Bank Of Djibouti"
+}

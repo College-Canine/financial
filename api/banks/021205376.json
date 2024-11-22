@@ -1,0 +1,19 @@
+{
+    "routing": "021205376",
+    "short": "LAKELAND BANK NJ",
+    "long": "LAKELAND BANK",
+    "state": "NJ",
+    "city": "OAK RIDGE",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1473998400000,
+    "country": "USA",
+    "colors": [
+        "#16435a",
+        "#f2a112",
+        "#9f9579"
+    ],
+    "website": "https://www.provident.bank",
+    "logo": "provident.svg",
+    "name": "Lakeland Bank"
+}

@@ -1,0 +1,19 @@
+{
+    "routing": "026004297",
+    "short": "NATL BK NYC",
+    "long": "NATIONAL BANK OF NEW YORK CITY",
+    "state": "NY",
+    "city": "FLUSHING",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#333333",
+        "#979797",
+        "#fdfdfd"
+    ],
+    "website": "https://www.mapquest.com",
+    "logo": "mapquest.svg",
+    "name": "National Bank Of New York City"
+}

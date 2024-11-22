@@ -1,0 +1,18 @@
+{
+    "routing": "021089602",
+    "short": "PB CHINA DES B",
+    "long": "PEOPLE'S BANK OF CHINA DESIGNATED B",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1143435600000,
+    "country": "USA",
+    "colors": [
+        "#fefefe",
+        "#3e3e3e"
+    ],
+    "website": "https://en.wikipedia.org",
+    "logo": "wikipedia.svg",
+    "name": "People's Bank Of China Designated B"
+}

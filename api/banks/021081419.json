@@ -1,0 +1,15 @@
+{
+    "routing": "021081419",
+    "short": "BOC - OPS ACCT 1",
+    "long": "BANK OF CANADA-OPER ACCT 1",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1222315200000,
+    "country": "USA",
+    "colors": [],
+    "website": "https://wise.com",
+    "logo": "wise.svg",
+    "name": "Bank Of Canada-oper Account 1"
+}

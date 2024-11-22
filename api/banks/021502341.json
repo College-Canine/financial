@@ -1,0 +1,15 @@
+{
+    "routing": "021502341",
+    "short": "BANCO SANTANDER PR",
+    "long": "BANCO SANTANDER,  PUERTO RICO",
+    "logo": "santander.svg",
+    "state": "PR",
+    "city": "SAN JUAN",
+    "transfer": true,
+    "settlement": true,
+    "updated": 953096400000,
+    "country": "USA",
+    "colors": [],
+    "website": "https://m.yelp.com",
+    "name": "Banco Santander Puerto Rico"
+}

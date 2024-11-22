@@ -1,0 +1,23 @@
+{
+    "routing": "021083187",
+    "short": "ARUBA",
+    "long": "ARUBA/FOREIGN DEPARTMENT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#373d3e",
+        "#fdfdfd",
+        "#db852a",
+        "#629552",
+        "#a2a5a3",
+        "#67c146",
+        "#aa3032"
+    ],
+    "website": "https://www.visahq.com",
+    "logo": "visahq.svg",
+    "name": "Aruba/foreign Department"
+}

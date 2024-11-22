@@ -1,0 +1,19 @@
+{
+    "routing": "021081354",
+    "short": "EUROCLEAR BANK",
+    "long": "EUROCLEAR BANK ACCOUNT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1230613200000,
+    "country": "USA",
+    "colors": [
+        "#cc3133",
+        "#f5f9f4",
+        "#e09997"
+    ],
+    "website": "https://www.euroclear.com",
+    "logo": "euroclear.svg",
+    "name": "Euroclear Bank Account"
+}

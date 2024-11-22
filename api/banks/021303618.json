@@ -1,0 +1,19 @@
+{
+    "routing": "021303618",
+    "short": "NATL NORWICH",
+    "long": "NBT NATIONAL ASSOCIATION",
+    "state": "NY",
+    "city": "WHITNEY POINT",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1303444800000,
+    "country": "USA",
+    "colors": [
+        "#fdfdfc",
+        "#eba5b7",
+        "#e6254f"
+    ],
+    "website": "https://www.nbtbank.com",
+    "logo": "nbtbank.svg",
+    "name": "NBT National Association"
+}

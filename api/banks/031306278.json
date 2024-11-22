@@ -1,0 +1,20 @@
+{
+    "routing": "031306278",
+    "short": "COUNTY CLEARFIELD",
+    "long": "CNB BANK",
+    "state": "PA",
+    "city": "CLEARFIELD",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1167800400000,
+    "country": "USA",
+    "colors": [
+        "#fefdfd",
+        "#d8a4af",
+        "#a41e34",
+        "#616163"
+    ],
+    "website": "https://cnbbank.bank",
+    "logo": "cnbbank.svg",
+    "name": "Cnb Bank"
+}

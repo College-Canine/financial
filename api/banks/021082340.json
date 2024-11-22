@@ -1,0 +1,18 @@
+{
+    "routing": "021082340",
+    "short": "IMF ADMINISTERED",
+    "long": "IMF ADMINISTERED ACCOUNT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1487653200000,
+    "country": "USA",
+    "colors": [
+        "#1f4d83",
+        "#f8fefc"
+    ],
+    "website": "https://www.imf.org",
+    "logo": "imf.svg",
+    "name": "Imf Administered Account"
+}

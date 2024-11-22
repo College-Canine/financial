@@ -1,0 +1,18 @@
+{
+    "routing": "021308396",
+    "short": "BK OF RICHMONDVILL",
+    "long": "BANK OF RICHMONDVILLE",
+    "state": "NY",
+    "city": "COBLESKILL",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#dadbe9",
+        "#727cac"
+    ],
+    "website": "https://www.bankrich.com",
+    "logo": "bankrich.svg",
+    "name": "Bank Of Richmondville"
+}

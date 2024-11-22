@@ -1,0 +1,19 @@
+{
+    "routing": "021088823",
+    "short": "C B LUXEMBOURG",
+    "long": "CENTRAL BANK OF LUXEMBOURG",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1027915200000,
+    "country": "USA",
+    "colors": [
+        "#ebf0f2",
+        "#3e90a1",
+        "#1b3b51"
+    ],
+    "website": "https://www.bny.com",
+    "logo": "bny.svg",
+    "name": "Central Bank Of Luxembourg"
+}

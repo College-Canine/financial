@@ -1,0 +1,20 @@
+{
+    "routing": "011300142",
+    "short": "BERKSHIRE BANK",
+    "long": "BERKSHIRE BANK",
+    "state": "MA",
+    "city": "PITTSFIELD",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1526011200000,
+    "country": "USA",
+    "colors": [
+        "#f5f5fe",
+        "#515251",
+        "#c0961d",
+        "#b4a782"
+    ],
+    "website": "https://www.berkshirebank.com",
+    "logo": "berkshirebank.svg",
+    "name": "Berkshire Bank"
+}

@@ -1,0 +1,21 @@
+{
+    "routing": "031207924",
+    "short": "FIRST BANK",
+    "long": "FIRST BANK",
+    "state": "NJ",
+    "city": "HAMILTON",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1520398800000,
+    "country": "USA",
+    "colors": [
+        "#fefdfd",
+        "#1d1c1d",
+        "#e5322e",
+        "#e16f6d",
+        "#676767"
+    ],
+    "website": "https://www.myfirstbank.com",
+    "logo": "myfirstbank.svg",
+    "name": "First Bank"
+}

@@ -1,0 +1,18 @@
+{
+    "routing": "021080287",
+    "short": "ADB FUND ACCT",
+    "long": "ADB FUND ACCT/FOREIGN DEPARTMENT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1426132800000,
+    "country": "USA",
+    "colors": [
+        "#e8f5fa",
+        "#295a8c"
+    ],
+    "website": "https://www.adb.org",
+    "logo": "adb.svg",
+    "name": "Adb Fund Acct/foreign Department"
+}

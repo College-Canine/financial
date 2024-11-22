@@ -1,0 +1,19 @@
+{
+    "routing": "021502011",
+    "short": "BANCO POPULAR PR",
+    "long": "BANCO POPULAR DE PUERTO RICO",
+    "state": "PR",
+    "city": "SAN JUAN",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#fffefd",
+        "#d83d3c",
+        "#dc7f81"
+    ],
+    "website": "https://www.popular.com",
+    "logo": "popular.svg",
+    "name": "Banco Popular De Puerto Rico"
+}

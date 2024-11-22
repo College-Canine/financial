@@ -1,0 +1,19 @@
+{
+    "routing": "031302133",
+    "short": "LAFAYETTE EASTON",
+    "long": "LAFAYETTE AMBASSADOR BANK",
+    "state": "PA",
+    "city": "BETHLEHEM",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1334289600000,
+    "country": "USA",
+    "colors": [
+        "#fdfefd",
+        "#5988b5",
+        "#31363b"
+    ],
+    "website": "https://www.fultonbank.com",
+    "logo": "fultonbank.svg",
+    "name": "Lafayette Ambassador Bank"
+}

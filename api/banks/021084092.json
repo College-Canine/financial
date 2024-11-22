@@ -1,0 +1,20 @@
+{
+    "routing": "021084092",
+    "short": "GUYANA",
+    "long": "GUYANA/FOREIGN DEPARTMENT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1202965200000,
+    "country": "USA",
+    "colors": [
+        "#565657",
+        "#313172",
+        "#8d8db3",
+        "#fefefe"
+    ],
+    "website": "https://guyanaconsulatenewyork.org",
+    "logo": "guyanaconsulatenewyork.svg",
+    "name": "Guyana/foreign Department"
+}

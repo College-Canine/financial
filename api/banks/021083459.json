@@ -1,0 +1,21 @@
+{
+    "routing": "021083459",
+    "short": "AFRIQUE CENTRALE",
+    "long": "AFRIQUE CENTRALE/FOREIGN DEPARTMENT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 999748800000,
+    "country": "USA",
+    "colors": [
+        "#46586a",
+        "#47704c",
+        "#b7bec7",
+        "#593e23",
+        "#cca720"
+    ],
+    "website": "https://www.state.gov",
+    "logo": "state.svg",
+    "name": "Afrique Centrale/foreign Department"
+}

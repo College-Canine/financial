@@ -1,0 +1,18 @@
+{
+    "routing": "021085897",
+    "short": "TANZANIA",
+    "long": "TANZANIA/FOREIGN DEPARTMENT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1202965200000,
+    "country": "USA",
+    "colors": [
+        "#fcfefd",
+        "#e2cc98"
+    ],
+    "website": "https://www.un.tzembassy.go.tz",
+    "logo": "go.svg",
+    "name": "Tanzania/foreign Department"
+}

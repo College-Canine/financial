@@ -1,0 +1,19 @@
+{
+    "routing": "011500120",
+    "short": "CITIZENS BANK, NA",
+    "long": "CITIZENS BANK, NATIONAL ASSOCIATION",
+    "state": "RI",
+    "city": "PROVIDENCE",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1422939600000,
+    "country": "USA",
+    "colors": [
+        "#368258",
+        "#f7fcfa",
+        "#92baa6"
+    ],
+    "website": "https://locations.citizensbank.com",
+    "logo": "citizensbank.svg",
+    "name": "Citizens Bank National Association"
+}

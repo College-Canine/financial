@@ -1,0 +1,18 @@
+{
+    "routing": "021084924",
+    "short": "MEXICO FUNDS ACCT",
+    "long": "MEXICO FUNDS ACCT/FOREIGN DEPARTMENT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": false,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#4da3d9",
+        "#cee5ee"
+    ],
+    "website": "https://consulmex.sre.gob.mx",
+    "logo": "gob.svg",
+    "name": "Mexico Funds Acct/foreign Department"
+}

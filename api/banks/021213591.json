@@ -1,0 +1,19 @@
+{
+    "routing": "021213591",
+    "short": "SYNCHRONY BANK",
+    "long": "SYNCHRONY BANK",
+    "state": "UT",
+    "city": "DRAPER",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1403668800000,
+    "country": "USA",
+    "colors": [
+        "#333333",
+        "#979797",
+        "#fdfdfd"
+    ],
+    "website": "https://www.mapquest.com",
+    "logo": "mapquest.svg",
+    "name": "Synchrony Bank"
+}

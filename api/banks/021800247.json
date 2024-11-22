@@ -1,0 +1,18 @@
+{
+    "routing": "021800247",
+    "short": "VEN LRA PAR PC",
+    "long": "VENEZUELA LRA PAR SERIES/FOREIGN",
+    "state": "",
+    "city": "",
+    "transfer": false,
+    "settlement": true,
+    "updated": 1447045200000,
+    "country": "USA",
+    "colors": [
+        "#fefefe",
+        "#3e3e3e"
+    ],
+    "website": "https://en.wikipedia.org",
+    "logo": "wikipedia.svg",
+    "name": "Venezuela Lra Par Series/foreign"
+}

@@ -1,0 +1,19 @@
+{
+    "routing": "021307164",
+    "short": "FIRST DRYDEN",
+    "long": "FIRST NATIONAL BANK OF DRYDEN",
+    "state": "NY",
+    "city": "DRYDEN",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#fafdfa",
+        "#769776",
+        "#1d5b1d"
+    ],
+    "website": "https://www.drydenbank.com",
+    "logo": "drydenbank.svg",
+    "name": "First National Bank Of Dryden"
+}

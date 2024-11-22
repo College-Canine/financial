@@ -1,0 +1,20 @@
+{
+    "routing": "026084628",
+    "short": "THE FINEST FCU NY",
+    "long": "THE FINEST FCU",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1437969600000,
+    "country": "USA",
+    "colors": [
+        "#fefdfe",
+        "#87677f",
+        "#9a333f",
+        "#232b5e"
+    ],
+    "website": "https://thefinestfcu.org",
+    "logo": "thefinestfcu.svg",
+    "name": "The Finest Fcu"
+}

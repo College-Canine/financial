@@ -1,0 +1,19 @@
+{
+    "routing": "021083501",
+    "short": "CANADA FMS",
+    "long": "CANADA FMS/FOREIGN DEPARTMENT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#fbfcf6",
+        "#4d6481",
+        "#a1b2c3"
+    ],
+    "website": "https://www.international.gc.ca",
+    "logo": "gc.svg",
+    "name": "Canada Fms/foreign Department"
+}

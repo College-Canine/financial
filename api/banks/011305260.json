@@ -1,0 +1,18 @@
+{
+    "routing": "011305260",
+    "short": "IFS NEWBURYPORT",
+    "long": "INSTITUTION FOR SAVINGS",
+    "state": "MA",
+    "city": "NEWBURYPORT",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1414123200000,
+    "country": "USA",
+    "colors": [
+        "#fefdfd",
+        "#8a9c89"
+    ],
+    "website": "https://www.institutionforsavings.com",
+    "logo": "institutionforsavings.svg",
+    "name": "Institution For Savings"
+}

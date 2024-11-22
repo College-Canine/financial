@@ -1,0 +1,24 @@
+{
+    "routing": "021084966",
+    "short": "BN PANAMA FA GOP",
+    "long": "BN PANAMA FA GOP/FOREIGN DEPARTMENT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#f6ece6",
+        "#d6b580",
+        "#83553a",
+        "#e27714",
+        "#6e69ac",
+        "#135710",
+        "#111193",
+        "#c63931"
+    ],
+    "website": "https://www.embassyofpanama.org",
+    "logo": "embassyofpanama.svg",
+    "name": "Bn Panama Fa Gop/foreign Department"
+}

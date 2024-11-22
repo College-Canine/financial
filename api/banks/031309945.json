@@ -1,0 +1,19 @@
+{
+    "routing": "031309945",
+    "short": "ADAMS GETTYSBURG",
+    "long": "ACNB BANK",
+    "state": "PA",
+    "city": "GETTYSBURG",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1286164800000,
+    "country": "USA",
+    "colors": [
+        "#172654",
+        "#fafefe",
+        "#a4abbe"
+    ],
+    "website": "https://www.acnb.com",
+    "logo": "acnb.svg",
+    "name": "Acnb Bank"
+}

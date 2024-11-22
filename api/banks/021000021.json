@@ -1,0 +1,18 @@
+{
+    "routing": "021000021",
+    "short": "JPMCHASE",
+    "long": "JPMORGAN CHASE BANK, NA",
+    "logo": "chase.svg",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1100235600000,
+    "country": "USA",
+    "colors": [
+        "#004FC2",
+        "#FFFFFF"
+    ],
+    "website": "https://www.jpmorganchase.com",
+    "name": "JP-Morgan Chase Bank"
+}

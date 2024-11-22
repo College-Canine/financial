@@ -1,0 +1,19 @@
+{
+    "routing": "021083268",
+    "short": "BELGIUM B",
+    "long": "BELGIUM B/FOREIGN DEPARTMENT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1528776000000,
+    "country": "USA",
+    "colors": [
+        "#fdfdfd",
+        "#8b8a86",
+        "#282022"
+    ],
+    "website": "https://unitedstates.diplomatie.belgium.be",
+    "logo": "belgium.svg",
+    "name": "Belgium B/foreign Department"
+}

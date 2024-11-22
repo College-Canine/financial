@@ -1,0 +1,18 @@
+{
+    "routing": "031307086",
+    "short": "MERCHANTS BANGOR",
+    "long": "MERCHANTS BANK OF BANGOR",
+    "state": "PA",
+    "city": "BANGOR",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1214539200000,
+    "country": "USA",
+    "colors": [
+        "#b4d6e3",
+        "#1d83ac"
+    ],
+    "website": "https://merchantsbangor.com",
+    "logo": "merchantsbangor.svg",
+    "name": "Merchants Bank Of Bangor"
+}

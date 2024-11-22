@@ -1,0 +1,18 @@
+{
+    "routing": "021054721",
+    "short": "DA SLM",
+    "long": "DISTRIBUTION ACCT-FRBNY DEFEA TR SLM",
+    "state": "NJ",
+    "city": "EAST RUTHERFORD",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1151640000000,
+    "country": "USA",
+    "colors": [
+        "#275aa7",
+        "#bbc9e3"
+    ],
+    "website": "https://www.frbservices.org",
+    "logo": "frbservices.svg",
+    "name": "Distribution Acct-frbny Defea Trust Slm"
+}

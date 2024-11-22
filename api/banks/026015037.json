@@ -1,0 +1,18 @@
+{
+    "routing": "026015037",
+    "short": "LLOYDS BK CORP NY",
+    "long": "LLOYDS BANK CORPORATE MARKETS PLC (N",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": false,
+    "settlement": false,
+    "updated": 1535515200000,
+    "country": "USA",
+    "colors": [
+        "#fdfefd",
+        "#525250"
+    ],
+    "website": "https://www.lloydsbank.com",
+    "logo": "lloydsbank.svg",
+    "name": "Lloyds Bank Corporate Markets Plc (n"
+}

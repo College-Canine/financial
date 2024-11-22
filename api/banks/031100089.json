@@ -1,0 +1,19 @@
+{
+    "routing": "031100089",
+    "short": "PNCBANK WILM DEL",
+    "long": "PNC BANK, NATIONAL ASSOCIATION",
+    "logo": "pnc.svg",
+    "state": "DE",
+    "city": "WILMINGTON",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1360558800000,
+    "country": "USA",
+    "colors": [
+        "#F58025",
+        "#0069AA",
+        "#FFFFFF"
+    ],
+    "website": "https://apps.pnc.com",
+    "name": "Pnc Bank National Association"
+}

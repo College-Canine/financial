@@ -1,0 +1,19 @@
+{
+    "routing": "026002956",
+    "short": "AMERANT BANK, N.A.",
+    "long": "AMERANT BANK, N.A.",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1543294800000,
+    "country": "USA",
+    "colors": [
+        "#e15427",
+        "#fefcf9",
+        "#d58163"
+    ],
+    "website": "https://www.amerantbank.com",
+    "logo": "amerantbank.svg",
+    "name": "Amerant Bank"
+}

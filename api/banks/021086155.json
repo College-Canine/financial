@@ -1,0 +1,20 @@
+{
+    "routing": "021086155",
+    "short": "URUGUAY",
+    "long": "URAGUAY/FOREIGN DEPARTMENT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1202965200000,
+    "country": "USA",
+    "colors": [
+        "#fdfefe",
+        "#f5bc4e",
+        "#415986",
+        "#98a6bf"
+    ],
+    "website": "https://embassyofuruguay.us",
+    "logo": "embassyofuruguay.svg",
+    "name": "Uraguay/foreign Department"
+}

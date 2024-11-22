@@ -1,0 +1,25 @@
+{
+    "routing": "021083035",
+    "short": "ALGERIA",
+    "long": "ALGERIA/FOREIGN DEPARTMENT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1201755600000,
+    "country": "USA",
+    "colors": [
+        "#fafaf8",
+        "#f7ed3e",
+        "#c24e60",
+        "#384623",
+        "#a19732",
+        "#bf693b",
+        "#551f15",
+        "#adae91",
+        "#cc1121"
+    ],
+    "website": "https://www.algeria-cgny.org",
+    "logo": "algeria-cgny.svg",
+    "name": "Algeria/foreign Department"
+}

@@ -1,0 +1,18 @@
+{
+    "routing": "021084377",
+    "short": "IRELAND",
+    "long": "CENT BK & FIN SVCS AUTH OF IRELAND",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1202965200000,
+    "country": "USA",
+    "colors": [
+        "#d8d8d7",
+        "#828688"
+    ],
+    "website": "https://www.centralbank.ie",
+    "logo": "centralbank.svg",
+    "name": "Cent Bank & Fin Svcs Auth Of Ireland"
+}

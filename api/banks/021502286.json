@@ -1,0 +1,19 @@
+{
+    "routing": "021502286",
+    "short": "BANCO SAN JUAN",
+    "long": "BANCO SAN JUAN INTERNACIONAL INC",
+    "state": "PR",
+    "city": "GUAYNABO",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1490932800000,
+    "country": "USA",
+    "colors": [
+        "#fdfeff",
+        "#8184a1",
+        "#25294e"
+    ],
+    "website": "https://bsji.com",
+    "logo": "bsji.svg",
+    "name": "Banco San Juan Internacional Inc"
+}

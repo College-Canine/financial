@@ -1,0 +1,19 @@
+{
+    "routing": "026002545",
+    "short": "LANDESBANK HESSEN",
+    "long": "LANDESBANK HESSEN-THURINGEN",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1380081600000,
+    "country": "USA",
+    "colors": [
+        "#fefdfd",
+        "#113f59",
+        "#d72b2c"
+    ],
+    "website": "https://www.helaba.com",
+    "logo": "helaba.svg",
+    "name": "Landesbank Hessen-thuringen"
+}

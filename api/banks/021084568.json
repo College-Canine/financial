@@ -1,0 +1,19 @@
+{
+    "routing": "021084568",
+    "short": "JORDAN AID ACCOUNT",
+    "long": "JORDAN AID ACCOUNT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": false,
+    "settlement": true,
+    "updated": 1485406800000,
+    "country": "USA",
+    "colors": [
+        "#d9d9d9",
+        "#7d7d7d",
+        "#1b1b1b"
+    ],
+    "website": "https://www.nike.com",
+    "logo": "nike.svg",
+    "name": "Jordan Aid Account"
+}

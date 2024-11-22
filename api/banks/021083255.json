@@ -1,0 +1,19 @@
+{
+    "routing": "021083255",
+    "short": "BELGIUM A",
+    "long": "BELGIUM A/FOREIGN DEPARTMENT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1201755600000,
+    "country": "USA",
+    "colors": [
+        "#fdfdfd",
+        "#8b8a86",
+        "#282022"
+    ],
+    "website": "https://unitedstates.diplomatie.belgium.be",
+    "logo": "belgium.svg",
+    "name": "Belgium A/foreign Department"
+}

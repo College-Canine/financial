@@ -1,0 +1,19 @@
+{
+    "routing": "021081736",
+    "short": "SPAIN OPS ACCT1",
+    "long": "BANCO DE ESPANA OPS ACCT 1",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1269835200000,
+    "country": "USA",
+    "colors": [
+        "#fdfdfd",
+        "#868686",
+        "#222222"
+    ],
+    "website": "https://www.bde.es",
+    "logo": "bde.svg",
+    "name": "Banco De Espana Ops Account 1"
+}

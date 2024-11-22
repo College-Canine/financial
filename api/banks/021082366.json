@@ -1,0 +1,22 @@
+{
+    "routing": "021082366",
+    "short": "GHANA - PETROLEUM",
+    "long": "GHANA - PETROLEUM FUNDS ACCT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1302667200000,
+    "country": "USA",
+    "colors": [
+        "#2ca9e0",
+        "#fdfefe",
+        "#d71b48",
+        "#f7c835",
+        "#166940",
+        "#193b4e"
+    ],
+    "website": "https://www.ghanaweb.com",
+    "logo": "ghanaweb.svg",
+    "name": "Ghana - Petroleum Funds Account"
+}

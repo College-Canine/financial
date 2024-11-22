@@ -1,0 +1,18 @@
+{
+    "routing": "021082382",
+    "short": "IMF ADMIN CONTRIB",
+    "long": "IMF ADMIN CONTRIB/FOREIGN DEPARTMENT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": false,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#1f4d83",
+        "#f8fefc"
+    ],
+    "website": "https://www.imf.org",
+    "logo": "imf.svg",
+    "name": "Imf Admin Contrib/foreign Department"
+}

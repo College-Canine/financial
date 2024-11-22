@@ -1,0 +1,19 @@
+{
+    "routing": "031207814",
+    "short": "PARKE BANK",
+    "long": "PARKE BANK",
+    "state": "NJ",
+    "city": "SEWELL",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1416546000000,
+    "country": "USA",
+    "colors": [
+        "#fdfdfe",
+        "#a59976",
+        "#1d7156"
+    ],
+    "website": "https://www.parkebank.com",
+    "logo": "parkebank.svg",
+    "name": "Parke Bank"
+}

@@ -1,0 +1,18 @@
+{
+    "routing": "021080245",
+    "short": "ADB ACCT A",
+    "long": "ADB ACCT A/FOREIGN DEPARTMENT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1396238400000,
+    "country": "USA",
+    "colors": [
+        "#76b1cd",
+        "#f5fdfb"
+    ],
+    "website": "https://dos.ny.gov",
+    "logo": "ny.svg",
+    "name": "Adb Account A/foreign Department"
+}

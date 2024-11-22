@@ -1,0 +1,20 @@
+{
+    "routing": "021081503",
+    "short": "SINGAPORE OPS",
+    "long": "SINGAPORE OPS ACCT 1",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1241150400000,
+    "country": "USA",
+    "colors": [
+        "#4592d1",
+        "#ecebe3",
+        "#868793",
+        "#2f2a2c"
+    ],
+    "website": "https://nyc.evershinecpa.com",
+    "logo": "evershinecpa.svg",
+    "name": "Singapore Ops Account 1"
+}

@@ -1,0 +1,19 @@
+{
+    "routing": "026012713",
+    "short": "VAKIBANK NYC",
+    "long": "TURKIYE VAKIFLAR BANKASI TAO",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1423026000000,
+    "country": "USA",
+    "colors": [
+        "#fefeff",
+        "#fdefa0",
+        "#fdd515"
+    ],
+    "website": "https://vakifbankusa.com",
+    "logo": "vakifbankusa.svg",
+    "name": "Turkiye Vakiflar Bankasi Tao"
+}

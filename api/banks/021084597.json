@@ -1,0 +1,18 @@
+{
+    "routing": "021084597",
+    "short": "KOREA",
+    "long": "KOREA/FOREIGN DEPARTMENT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1202878800000,
+    "country": "USA",
+    "colors": [
+        "#fcfefd",
+        "#e2cc98"
+    ],
+    "website": "https://overseas.mofa.go.kr",
+    "logo": "go.svg",
+    "name": "Korea/foreign Department"
+}

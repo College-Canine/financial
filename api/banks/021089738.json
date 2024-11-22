@@ -1,0 +1,18 @@
+{
+    "routing": "021089738",
+    "short": "FRBJPM",
+    "long": "FRBNY - MBS ACCT JPM",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1321506000000,
+    "country": "USA",
+    "colors": [
+        "#eff6fd",
+        "#5a708e"
+    ],
+    "website": "https://www.newyorkfed.org",
+    "logo": "newyorkfed.svg",
+    "name": "Frbny - Mbs Account Jpm"
+}

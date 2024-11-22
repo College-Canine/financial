@@ -1,0 +1,18 @@
+{
+    "routing": "021083213",
+    "short": "BARBADOS",
+    "long": "BARBADOS/FOREIGN DEPARTMENT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1201755600000,
+    "country": "USA",
+    "colors": [
+        "#e4e4e4",
+        "#787979"
+    ],
+    "website": "https://www.foreign.gov.bb",
+    "logo": "gov.svg",
+    "name": "Barbados/foreign Department"
+}

@@ -1,0 +1,20 @@
+{
+    "routing": "021083941",
+    "short": "GUINEE SAEP",
+    "long": "GUINEE SAEP/FOREIGN DEPARTMENT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#565657",
+        "#313172",
+        "#8d8db3",
+        "#fefefe"
+    ],
+    "website": "https://guyanaconsulatenewyork.org",
+    "logo": "guyanaconsulatenewyork.svg",
+    "name": "Guinee Saep/foreign Department"
+}

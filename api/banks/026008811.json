@@ -1,0 +1,19 @@
+{
+    "routing": "026008811",
+    "short": "POPULAR BANK",
+    "long": "POPULAR BANK",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1522987200000,
+    "country": "USA",
+    "colors": [
+        "#fefefd",
+        "#d54047",
+        "#da8283"
+    ],
+    "website": "https://www.popularbank.com",
+    "logo": "popularbank.svg",
+    "name": "Popular Bank"
+}

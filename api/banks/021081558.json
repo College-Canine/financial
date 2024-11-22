@@ -1,0 +1,20 @@
+{
+    "routing": "021081558",
+    "short": "AUSTRIA OPS ACCT 1",
+    "long": "OESTERREICHISCHE NATLBANK OPS ACCT 1",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1334635200000,
+    "country": "USA",
+    "colors": [
+        "#1b3c5c",
+        "#f3d293",
+        "#a38e76",
+        "#56422c"
+    ],
+    "website": "https://www.federalreserve.gov",
+    "logo": "federalreserve.svg",
+    "name": "Oesterreichische Natlbank Ops Account 1"
+}

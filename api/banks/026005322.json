@@ -1,0 +1,21 @@
+{
+    "routing": "026005322",
+    "short": "BK BARODA NYC",
+    "long": "BANK OF BARODA",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1058932800000,
+    "country": "USA",
+    "colors": [
+        "#fdfefe",
+        "#f16a28",
+        "#3b3f71",
+        "#e1915b",
+        "#f5e926"
+    ],
+    "website": "https://www.bankofbaroda-usa.com",
+    "logo": "bankofbaroda-usa.svg",
+    "name": "Bank Of Baroda"
+}

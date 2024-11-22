@@ -1,0 +1,19 @@
+{
+    "routing": "026007472",
+    "short": "BK NEGARA INDONESI",
+    "long": "PT BANK NEGARA INDONESIA PERSERO TBK",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1456117200000,
+    "country": "USA",
+    "colors": [
+        "#fefdfe",
+        "#3874b2",
+        "#92c2e7"
+    ],
+    "website": "https://www.bni.co.id",
+    "logo": "co.svg",
+    "name": "Pt Bank Negara Indonesia Persero Tbk"
+}

@@ -1,0 +1,20 @@
+{
+    "routing": "021088098",
+    "short": "ECUADOR PAR IC",
+    "long": "ECUADOR USD PAR BONDS IC FNDS SEC",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#fdfefe",
+        "#233557",
+        "#bb8296",
+        "#b71c43"
+    ],
+    "website": "https://www.dfc.gov",
+    "logo": "dfc.svg",
+    "name": "Ecuador Usd Par Bonds Ic Fnds Sec"
+}

@@ -1,0 +1,19 @@
+{
+    "routing": "021302648",
+    "short": "TOMPKINS ITHACA",
+    "long": "TOMPKINS TRUST COMPANY",
+    "state": "NY",
+    "city": "ITHACA",
+    "transfer": true,
+    "settlement": true,
+    "updated": 988948800000,
+    "country": "USA",
+    "colors": [
+        "#fefdff",
+        "#c3872a",
+        "#d8bc8a"
+    ],
+    "website": "https://www.tompkinsbank.com",
+    "logo": "tompkinsbank.svg",
+    "name": "Tompkins Trust Company"
+}

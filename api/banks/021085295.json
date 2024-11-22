@@ -1,0 +1,20 @@
+{
+    "routing": "021085295",
+    "short": "BANGKO SENTRAL PI",
+    "long": "BANGKO SENTRAL NG PILIPINAS",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1529899200000,
+    "country": "USA",
+    "colors": [
+        "#fdfefd",
+        "#d26a37",
+        "#2b2a29",
+        "#989490"
+    ],
+    "website": "https://www.pnb.com.ph",
+    "logo": "com.svg",
+    "name": "Bangko Sentral Ng Pilipinas"
+}

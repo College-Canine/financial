@@ -1,0 +1,19 @@
+{
+    "routing": "026012577",
+    "short": "SWEDBANK NYC",
+    "long": "SWEDBANK NEW YORK BRANCH",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": false,
+    "settlement": true,
+    "updated": 1464148800000,
+    "country": "USA",
+    "colors": [
+        "#f5b63d",
+        "#e46f23",
+        "#984421"
+    ],
+    "website": "https://www.swedbank.us",
+    "logo": "swedbank.svg",
+    "name": "Swedbank New York Branch"
+}

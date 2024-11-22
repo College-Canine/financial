@@ -1,0 +1,19 @@
+{
+    "routing": "026014805",
+    "short": "LAND BANK TAIWAN",
+    "long": "LAND BANK OF TAIWAN CO., NY BRANCH",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1301284800000,
+    "country": "USA",
+    "colors": [
+        "#333333",
+        "#979797",
+        "#fdfdfd"
+    ],
+    "website": "https://www.mapquest.com",
+    "logo": "mapquest.svg",
+    "name": "Land Bank Of Taiwan Ny Branch"
+}

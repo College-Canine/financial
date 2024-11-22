@@ -1,0 +1,22 @@
+{
+    "routing": "021081671",
+    "short": "MALTA OPS ACCT 1",
+    "long": "CENTRAL BANK OF MALTA OPS ACCT 1",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1257397200000,
+    "country": "USA",
+    "colors": [
+        "#fdfdfd",
+        "#c9935d",
+        "#7a331f",
+        "#474522",
+        "#50839e",
+        "#b91d1d"
+    ],
+    "website": "https://www.centralbankmalta.org",
+    "logo": "centralbankmalta.svg",
+    "name": "Central Bank Of Malta Ops Account 1"
+}

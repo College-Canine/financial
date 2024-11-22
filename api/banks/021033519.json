@@ -1,0 +1,20 @@
+{
+    "routing": "021033519",
+    "short": "FICO P&I",
+    "long": "FINANCING CORP. P & I ACCOUNT",
+    "state": "VA",
+    "city": "RESTON",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1459396800000,
+    "country": "USA",
+    "colors": [
+        "#17325c",
+        "#123189",
+        "#92aac3",
+        "#effaf9"
+    ],
+    "website": "https://www.guidanceresidential.com",
+    "logo": "guidanceresidential.svg",
+    "name": "Financing Corporation P & I Account"
+}

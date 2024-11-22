@@ -1,0 +1,15 @@
+{
+    "routing": "021084199",
+    "short": "ICELAND",
+    "long": "ICELAND/FOREIGN DEPARTMENT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1202965200000,
+    "country": "USA",
+    "colors": [],
+    "website": "https://www.government.is",
+    "logo": "government.svg",
+    "name": "Iceland/foreign Department"
+}

@@ -1,0 +1,20 @@
+{
+    "routing": "026003269",
+    "short": "BK OF CHINA NYC",
+    "long": "BANK OF CHINA",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#ffffff",
+        "#a21636",
+        "#9c8487",
+        "#2d2625"
+    ],
+    "website": "https://www.bocusa.com",
+    "logo": "bocusa.svg",
+    "name": "Bank Of China"
+}

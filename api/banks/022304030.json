@@ -1,0 +1,20 @@
+{
+    "routing": "022304030",
+    "short": "FIVE STAR BANK",
+    "long": "FIVE STAR BANK",
+    "state": "NY",
+    "city": "WARSAW",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1134104400000,
+    "country": "USA",
+    "colors": [
+        "#10133e",
+        "#245fdf",
+        "#63637f",
+        "#fdfefd"
+    ],
+    "website": "https://www.five-starbank.com",
+    "logo": "five-starbank.svg",
+    "name": "Five Star Bank"
+}

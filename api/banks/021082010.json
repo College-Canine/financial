@@ -1,0 +1,22 @@
+{
+    "routing": "021082010",
+    "short": "EUROPEAN COMMISION",
+    "long": "EUROPEAN COMMISSION",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1527220800000,
+    "country": "USA",
+    "colors": [
+        "#fcfefc",
+        "#143860",
+        "#f8f21f",
+        "#153f9b",
+        "#748db6",
+        "#738757"
+    ],
+    "website": "https://www.eeas.europa.eu",
+    "logo": "europa.svg",
+    "name": "European Commission"
+}

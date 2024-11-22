@@ -1,0 +1,18 @@
+{
+    "routing": "021201639",
+    "short": "CITY OF NJ NEWARK",
+    "long": "CITY NATIONAL BANK OF NEW JERSEY",
+    "state": "NJ",
+    "city": "NEWARK",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#fefefe",
+        "#3e3e3e"
+    ],
+    "website": "https://en.wikipedia.org",
+    "logo": "wikipedia.svg",
+    "name": "City National Bank Of New Jersey"
+}

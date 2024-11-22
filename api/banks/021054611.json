@@ -1,0 +1,19 @@
+{
+    "routing": "021054611",
+    "short": "DA AFDB",
+    "long": "DISTRIBUTION ACCT-AFDB",
+    "state": "NJ",
+    "city": "EAST RUTHERFORD",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1151640000000,
+    "country": "USA",
+    "colors": [
+        "#fcfeff",
+        "#a0aba6",
+        "#17895a"
+    ],
+    "website": "https://www.afdb.org",
+    "logo": "afdb.svg",
+    "name": "Distribution Acct-afdb"
+}

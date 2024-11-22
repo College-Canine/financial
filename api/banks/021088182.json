@@ -1,0 +1,22 @@
+{
+    "routing": "021088182",
+    "short": "CARIB SP FOUR",
+    "long": "EASTERN CARIBBEAN CENTRAL BK FOUR",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#c0b336",
+        "#2f3b5e",
+        "#fefdfe",
+        "#b2b48c",
+        "#32961b",
+        "#101fa0"
+    ],
+    "website": "https://www.eccb-centralbank.org",
+    "logo": "eccb-centralbank.svg",
+    "name": "Eastern Caribbean Central Bank Four"
+}

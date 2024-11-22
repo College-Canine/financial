@@ -1,0 +1,22 @@
+{
+    "routing": "021080902",
+    "short": "DOM REP CONTINGEN",
+    "long": "BC REP DOMINICANA-CONTINGENCY FUND",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1112760000000,
+    "country": "USA",
+    "colors": [
+        "#fcfefe",
+        "#433429",
+        "#ef8061",
+        "#ae937d",
+        "#8e1d19",
+        "#f59528"
+    ],
+    "website": "https://www.bc.edu",
+    "logo": "bc.svg",
+    "name": "Bc Rep Dominicana-contingency Fund"
+}

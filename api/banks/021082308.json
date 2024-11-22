@@ -1,0 +1,18 @@
+{
+    "routing": "021082308",
+    "short": "FRB SP OPS ACCT 1",
+    "long": "FRBNY SPECIAL OPERATIONS ACCOUNT 1",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1231477200000,
+    "country": "USA",
+    "colors": [
+        "#eff6fd",
+        "#5a708e"
+    ],
+    "website": "https://www.newyorkfed.org",
+    "logo": "newyorkfed.svg",
+    "name": "Frbny Special Operations Account 1"
+}

@@ -1,0 +1,19 @@
+{
+    "routing": "021082146",
+    "short": "ENGLAND-NO. 3 AC",
+    "long": "BANK OF ENGLAND-NO.3 ACCOUNT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1266555600000,
+    "country": "USA",
+    "colors": [
+        "#fefdfe",
+        "#3874b2",
+        "#92c2e7"
+    ],
+    "website": "https://www.bankofengland.co.uk",
+    "logo": "co.svg",
+    "name": "Bank Of England-no.3 Account"
+}

@@ -1,0 +1,19 @@
+{
+    "routing": "021502422",
+    "short": "STATETRUST INT B&T",
+    "long": "STATETRUST INTERNATIONAL B&T, LLC",
+    "state": "PR",
+    "city": "SAN JUAN",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1523419200000,
+    "country": "USA",
+    "colors": [
+        "#fefefc",
+        "#447ffa",
+        "#93b9ec"
+    ],
+    "website": "https://www.opensanctions.org",
+    "logo": "opensanctions.svg",
+    "name": "Statetrust International B&t Llc"
+}

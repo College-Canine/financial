@@ -1,0 +1,18 @@
+{
+    "routing": "021082324",
+    "short": "IMF ACCT ONE",
+    "long": "IMF ACCT ONE/FOREIGN DEPARTMENT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#1f4d83",
+        "#f8fefc"
+    ],
+    "website": "https://www.imf.org",
+    "logo": "imf.svg",
+    "name": "Imf Account One/foreign Department"
+}

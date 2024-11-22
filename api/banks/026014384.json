@@ -1,0 +1,19 @@
+{
+    "routing": "026014384",
+    "short": "ALMA BANK",
+    "long": "ALMA BANK",
+    "state": "NY",
+    "city": "ASTORIA",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1280289600000,
+    "country": "USA",
+    "colors": [
+        "#fdfefd",
+        "#f18c3e",
+        "#97989a"
+    ],
+    "website": "https://www.almabank.com",
+    "logo": "almabank.svg",
+    "name": "Alma Bank"
+}

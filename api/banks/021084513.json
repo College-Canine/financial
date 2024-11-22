@@ -1,0 +1,18 @@
+{
+    "routing": "021084513",
+    "short": "JAPAN",
+    "long": "JAPAN/FOREIGN DEPARTMENT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1202878800000,
+    "country": "USA",
+    "colors": [
+        "#fcfefd",
+        "#e2cc98"
+    ],
+    "website": "https://www.ny.us.emb-japan.go.jp",
+    "logo": "go.svg",
+    "name": "Japan/foreign Department"
+}

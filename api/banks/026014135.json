@@ -1,0 +1,18 @@
+{
+    "routing": "026014135",
+    "short": "SPRING BANK",
+    "long": "SPRING BANK",
+    "state": "NY",
+    "city": "BRONX",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1460433600000,
+    "country": "USA",
+    "colors": [
+        "#fefdfe",
+        "#72817b"
+    ],
+    "website": "https://www.spring.bank",
+    "logo": "spring.svg",
+    "name": "Spring Bank"
+}

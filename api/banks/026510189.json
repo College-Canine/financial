@@ -1,0 +1,18 @@
+{
+    "routing": "026510189",
+    "short": "DOMINICAN DIS PC",
+    "long": "DOMINICAN DIS SERIES BDS PC FNDS/SEC",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": false,
+    "settlement": true,
+    "updated": 1523419200000,
+    "country": "USA",
+    "colors": [
+        "#fffdfe",
+        "#577cb6"
+    ],
+    "website": "https://www.sec.gov",
+    "logo": "sec.svg",
+    "name": "Dominican Dis Series Bds Pc Fnds/sec"
+}

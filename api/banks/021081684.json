@@ -1,0 +1,19 @@
+{
+    "routing": "021081684",
+    "short": "NETHERLANDS OPS1",
+    "long": "DE NEDERLANDSCHE BANK NV OPS ACCT 1",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1334721600000,
+    "country": "USA",
+    "colors": [
+        "#8eb4c2",
+        "#fcfefe",
+        "#124f67"
+    ],
+    "website": "https://www.dnb.nl",
+    "logo": "dnb.svg",
+    "name": "De Nederlandsche Bank Nv Ops Account 1"
+}

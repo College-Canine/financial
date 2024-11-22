@@ -1,0 +1,21 @@
+{
+    "routing": "021087895",
+    "short": "VEN USD BEAR F IC",
+    "long": "VEN USD BEAR F IC/FOREIGN DEPARTMENT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": false,
+    "settlement": true,
+    "updated": 1447045200000,
+    "country": "USA",
+    "colors": [
+        "#46586a",
+        "#47704c",
+        "#b7bec7",
+        "#593e23",
+        "#cca720"
+    ],
+    "website": "https://www.state.gov",
+    "logo": "state.svg",
+    "name": "Ven Usd Bear F Ic/foreign Department"
+}

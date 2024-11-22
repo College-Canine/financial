@@ -1,0 +1,18 @@
+{
+    "routing": "021502257",
+    "short": "ARCA INTL BANK",
+    "long": "ARCA INTERNATIONAL BANK, INC.",
+    "state": "PR",
+    "city": "SAN JUAN",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1437624000000,
+    "country": "USA",
+    "colors": [
+        "#fefefe",
+        "#112034"
+    ],
+    "website": "https://pitchbook.com",
+    "logo": "pitchbook.svg",
+    "name": "Arca International Bank Inc"
+}

@@ -1,0 +1,18 @@
+{
+    "routing": "021085622",
+    "short": "SPAIN FMS",
+    "long": "SPAIN FMS/FOREIGN DEPARTMENT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#4da3d9",
+        "#cee5ee"
+    ],
+    "website": "https://www.exteriores.gob.es",
+    "logo": "gob.svg",
+    "name": "Spain Fms/foreign Department"
+}

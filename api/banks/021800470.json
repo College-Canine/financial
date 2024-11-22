@@ -1,0 +1,19 @@
+{
+    "routing": "021800470",
+    "short": "URU USD FRN B PC",
+    "long": "URUGUAY USD FRN SERIES B/FOREIGN",
+    "state": "",
+    "city": "",
+    "transfer": false,
+    "settlement": true,
+    "updated": 1447045200000,
+    "country": "USA",
+    "colors": [
+        "#2d5969",
+        "#fdfdfe",
+        "#e76e43"
+    ],
+    "website": "https://www.prnewswire.com",
+    "logo": "prnewswire.svg",
+    "name": "Uruguay Usd Frn Series B/foreign"
+}

@@ -1,0 +1,20 @@
+{
+    "routing": "021913862",
+    "short": "EMPIRE STATE BANK",
+    "long": "EMPIRE STATE BANK",
+    "state": "NY",
+    "city": "NEWBURGH",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1496980800000,
+    "country": "USA",
+    "colors": [
+        "#fcfefc",
+        "#6c6177",
+        "#f1d885",
+        "#19104e"
+    ],
+    "website": "https://esbna.com",
+    "logo": "esbna.svg",
+    "name": "Empire State Bank"
+}

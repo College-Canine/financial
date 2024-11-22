@@ -1,0 +1,19 @@
+{
+    "routing": "021085936",
+    "short": "THAILAND CURRENCY",
+    "long": "THAILAND CURRENCY/FOREIGN DEPARTMENT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1202965200000,
+    "country": "USA",
+    "colors": [
+        "#f9f8f8",
+        "#9f9c9b",
+        "#4f4c4d"
+    ],
+    "website": "https://newyork.thaiembassy.org",
+    "logo": "thaiembassy.svg",
+    "name": "Thailand Currency/foreign Department"
+}

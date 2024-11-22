@@ -1,0 +1,19 @@
+{
+    "routing": "021088904",
+    "short": "ENGLAND SCB",
+    "long": "BANK OF ENGLAND - SEC CUST B",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 931838400000,
+    "country": "USA",
+    "colors": [
+        "#ebf0f2",
+        "#3e90a1",
+        "#1b3b51"
+    ],
+    "website": "https://www.bny.com",
+    "logo": "bny.svg",
+    "name": "Bank Of England - Sec Cust B"
+}

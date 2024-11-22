@@ -1,0 +1,20 @@
+{
+    "routing": "031101350",
+    "short": "BARCLAYS BANK DELA",
+    "long": "BARCLAYS BANK DELAWARE",
+    "state": "DE",
+    "city": "WILMINGTON",
+    "transfer": false,
+    "settlement": false,
+    "updated": 1476244800000,
+    "country": "USA",
+    "colors": [
+        "#fdfdfe",
+        "#6b6864",
+        "#d2ac3b",
+        "#d5c48f"
+    ],
+    "website": "https://web.dscc.com",
+    "logo": "dscc.svg",
+    "name": "Barclays Bank Delaware"
+}

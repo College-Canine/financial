@@ -1,0 +1,23 @@
+{
+    "routing": "026548407",
+    "short": "SECTY TREAS WASH",
+    "long": "FINANCIAL MANANGEMENT SERVICES",
+    "state": "DC",
+    "city": "WASHINGTON",
+    "transfer": false,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#f7d530",
+        "#90781a",
+        "#fdfefd",
+        "#3c99ab",
+        "#1b1f1f",
+        "#635e51",
+        "#ddca73"
+    ],
+    "website": "https://ofm.wa.gov",
+    "logo": "wa.svg",
+    "name": "Financial Manangement Services"
+}

@@ -1,0 +1,18 @@
+{
+    "routing": "011601029",
+    "short": "COMMUNITY DERBY",
+    "long": "COMMUNITY NATIONAL BANK",
+    "state": "VT",
+    "city": "NEWPORT",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1357794000000,
+    "country": "USA",
+    "colors": [
+        "#fcfefd",
+        "#7587a1"
+    ],
+    "website": "https://www.communitynationalbank.com",
+    "logo": "communitynationalbank.svg",
+    "name": "Community National Bank"
+}

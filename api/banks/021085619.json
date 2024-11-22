@@ -1,0 +1,18 @@
+{
+    "routing": "021085619",
+    "short": "SPAIN",
+    "long": "SPAIN/FOREIGN DEPARTMENT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1202965200000,
+    "country": "USA",
+    "colors": [
+        "#4da3d9",
+        "#cee5ee"
+    ],
+    "website": "https://www.exteriores.gob.es",
+    "logo": "gob.svg",
+    "name": "Spain/foreign Department"
+}

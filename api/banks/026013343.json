@@ -1,0 +1,20 @@
+{
+    "routing": "026013343",
+    "short": "KOOKMIN BANK",
+    "long": "KOOKMIN BANK",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1027569600000,
+    "country": "USA",
+    "colors": [
+        "#71665b",
+        "#f7f7f6",
+        "#d7ac13",
+        "#856113"
+    ],
+    "website": "https://omoney.kbstar.com",
+    "logo": "kbstar.svg",
+    "name": "Kookmin Bank"
+}

@@ -1,0 +1,19 @@
+{
+    "routing": "011975221",
+    "short": "TCF HARTFORD",
+    "long": "TCF NATIONAL BANK",
+    "state": "CT",
+    "city": "HARTFORD",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1338523200000,
+    "country": "USA",
+    "colors": [
+        "#fcfefd",
+        "#bfdeaa",
+        "#7dbf43"
+    ],
+    "website": "https://www.huntington.com",
+    "logo": "huntington.svg",
+    "name": "TCF National Bank"
+}

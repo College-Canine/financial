@@ -1,0 +1,19 @@
+{
+    "routing": "021081752",
+    "short": "MIGA ACCT GEN",
+    "long": "MIGA ACCT GFN/FOREIGN DEPARTMENT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#fefefd",
+        "#7698ab",
+        "#1e415c"
+    ],
+    "website": "https://www.miga.org",
+    "logo": "miga.svg",
+    "name": "Miga Account Gfn/foreign Department"
+}

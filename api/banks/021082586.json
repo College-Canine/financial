@@ -1,0 +1,15 @@
+{
+    "routing": "021082586",
+    "short": "MOLDOVA RAMP",
+    "long": "NATIONAL BANK OF MOLDOVA - RAMP ACCT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1294722000000,
+    "country": "USA",
+    "colors": [],
+    "website": "https://wise.com",
+    "logo": "wise.svg",
+    "name": "National Bank Of Moldova - Ramp Account"
+}

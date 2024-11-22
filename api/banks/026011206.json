@@ -1,0 +1,19 @@
+{
+    "routing": "026011206",
+    "short": "ERSTE GROUP BANK",
+    "long": "ERSTE GROUP BANK AG, NEW YORK",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1491796800000,
+    "country": "USA",
+    "colors": [
+        "#bbe4f8",
+        "#154f7c",
+        "#d52831"
+    ],
+    "website": "https://www.erstegroup.com",
+    "logo": "erstegroup.svg",
+    "name": "Erste Group Bank Ag New York"
+}

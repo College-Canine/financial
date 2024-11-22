@@ -1,0 +1,19 @@
+{
+    "routing": "026002558",
+    "short": "CAN IMPERIAL COMM",
+    "long": "CANADIAN IMPERIAL BANK OF COMMERCE",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": false,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#bfc3c2",
+        "#c21f3e",
+        "#cc7b8a"
+    ],
+    "website": "https://cibccm.com",
+    "logo": "cibccm.svg",
+    "name": "Canadian Imperial Bank Of Commerce"
+}

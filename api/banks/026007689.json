@@ -1,0 +1,18 @@
+{
+    "routing": "026007689",
+    "short": "BQE NAT PARIS",
+    "long": "BNP PARIBAS",
+    "state": "NJ",
+    "city": "JERSEY CITY",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1187928000000,
+    "country": "USA",
+    "colors": [
+        "#f4fdfc",
+        "#77ba9e"
+    ],
+    "website": "https://group.bnpparibas",
+    "logo": "group.svg",
+    "name": "Bnp Paribas"
+}

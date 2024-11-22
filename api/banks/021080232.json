@@ -1,0 +1,18 @@
+{
+    "routing": "021080232",
+    "short": "ADBACR",
+    "long": "ADBACR/FOREIGN DEPARTMENT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1426132800000,
+    "country": "USA",
+    "colors": [
+        "#e4e4e4",
+        "#787979"
+    ],
+    "website": "https://www.dfat.gov.au",
+    "logo": "gov.svg",
+    "name": "Adbacr/foreign Department"
+}

@@ -1,0 +1,19 @@
+{
+    "routing": "021213481",
+    "short": "BCB COMMUNITY BANK",
+    "long": "BCB COMMUNITY BANK",
+    "state": "NJ",
+    "city": "SOUTH ORANGE",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1332475200000,
+    "country": "USA",
+    "colors": [
+        "#fffcfd",
+        "#52b5bf",
+        "#405a5d"
+    ],
+    "website": "https://www.bcb.bank",
+    "logo": "bcb.svg",
+    "name": "Bcb Community Bank"
+}

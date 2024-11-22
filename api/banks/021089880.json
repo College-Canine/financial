@@ -1,0 +1,18 @@
+{
+    "routing": "021089880",
+    "short": "FRCSAG",
+    "long": "FRBNY  MBS ACCT CSAG NEW YORK",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1510030800000,
+    "country": "USA",
+    "colors": [
+        "#eff6fd",
+        "#5a708e"
+    ],
+    "website": "https://www.newyorkfed.org",
+    "logo": "newyorkfed.svg",
+    "name": "Frbny Mbs Account Csag New York"
+}

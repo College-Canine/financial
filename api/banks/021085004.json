@@ -1,0 +1,18 @@
+{
+    "routing": "021085004",
+    "short": "NZEAL TREAS",
+    "long": "NEW ZEALAND TREAS/FOREIGN DEPARTMENT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#cbcbcb",
+        "#464646"
+    ],
+    "website": "https://www.mfat.govt.nz",
+    "logo": "govt.svg",
+    "name": "New Zealand Treas/foreign Department"
+}

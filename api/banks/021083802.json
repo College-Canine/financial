@@ -1,0 +1,19 @@
+{
+    "routing": "021083802",
+    "short": "EUROPEAN INV BK P",
+    "long": "EUROPEAN INV BK P/FOREIGN DEPT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1202965200000,
+    "country": "USA",
+    "colors": [
+        "#fefefd",
+        "#999a9c",
+        "#3770a6"
+    ],
+    "website": "https://www.eib.org",
+    "logo": "eib.svg",
+    "name": "European Inv Bank P/foreign Dept"
+}

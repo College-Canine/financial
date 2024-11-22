@@ -1,0 +1,20 @@
+{
+    "routing": "021909342",
+    "short": "JEFF BANK",
+    "long": "JEFF BANK",
+    "state": "NY",
+    "city": "JEFFERSONVILLE",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1370404800000,
+    "country": "USA",
+    "colors": [
+        "#353f7c",
+        "#a6a9c5",
+        "#fffffe",
+        "#f15f27"
+    ],
+    "website": "https://www.jeff.bank",
+    "logo": "jeff.svg",
+    "name": "Jeff Bank"
+}

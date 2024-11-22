@@ -1,0 +1,21 @@
+{
+    "routing": "021309201",
+    "short": "CITIZENS HAMMOND",
+    "long": "CITIZENS NATIONAL BANK",
+    "state": "NY",
+    "city": "HAMMOND",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#faf9f8",
+        "#381960",
+        "#866773",
+        "#631019",
+        "#edadaf"
+    ],
+    "website": "https://www.fhlbny.com",
+    "logo": "fhlbny.svg",
+    "name": "Citizens National Bank"
+}

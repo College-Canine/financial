@@ -1,0 +1,19 @@
+{
+    "routing": "031207830",
+    "short": "CORNERSTONE BANK",
+    "long": "CORNERSTONE BANK",
+    "state": "NJ",
+    "city": "MOUNT LAUREL",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1375329600000,
+    "country": "USA",
+    "colors": [
+        "#333333",
+        "#979797",
+        "#fdfdfd"
+    ],
+    "website": "https://www.mapquest.com",
+    "logo": "mapquest.svg",
+    "name": "Cornerstone Bank"
+}

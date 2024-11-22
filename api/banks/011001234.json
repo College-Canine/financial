@@ -1,0 +1,19 @@
+{
+    "routing": "011001234",
+    "short": "BK OF NYC",
+    "long": "THE BANK OF NEW YORK MELLON",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1493006400000,
+    "country": "USA",
+    "colors": [
+        "#ebf0f2",
+        "#3e90a1",
+        "#1b3b51"
+    ],
+    "website": "https://www.bny.com",
+    "logo": "bny.svg",
+    "name": "The Bank Of New York Mellon"
+}

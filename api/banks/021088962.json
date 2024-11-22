@@ -1,0 +1,19 @@
+{
+    "routing": "021088962",
+    "short": "BCR PERU ALADI",
+    "long": "BANCO CENT.RES.PERU/AGENT FOR ALADI",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 944024400000,
+    "country": "USA",
+    "colors": [
+        "#fdfdfe",
+        "#3c365c",
+        "#837f96"
+    ],
+    "website": "https://www2.aladi.org",
+    "logo": "aladi.svg",
+    "name": "Banco Cent.res.peru/agent For Aladi"
+}

@@ -1,0 +1,18 @@
+{
+    "routing": "021085334",
+    "short": "PORTUGAL",
+    "long": "PORTUGAL/FOREIGN DEPARTMENT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1402286400000,
+    "country": "USA",
+    "colors": [
+        "#e4e4e4",
+        "#787979"
+    ],
+    "website": "https://novaiorque.consuladoportugal.mne.gov.pt",
+    "logo": "gov.svg",
+    "name": "Portugal/foreign Department"
+}

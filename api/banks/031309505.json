@@ -1,0 +1,20 @@
+{
+    "routing": "031309505",
+    "short": "HAMLIN BK & TR",
+    "long": "HAMLIN BANK & TRUST CO.",
+    "state": "PA",
+    "city": "SMETHPORT",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#6e97d0",
+        "#fafbfd",
+        "#8c8d8f",
+        "#222528"
+    ],
+    "website": "https://www.hamlinbank.com",
+    "logo": "hamlinbank.svg",
+    "name": "Hamlin Bank & Trust"
+}

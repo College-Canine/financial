@@ -1,0 +1,18 @@
+{
+    "routing": "021087125",
+    "short": "NATL BK OF MOLDOVA",
+    "long": "NATIONAL BANK OF MOLDOVA/FOREIGN",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#e5e5e4",
+        "#403f3d"
+    ],
+    "website": "https://www.bnm.md",
+    "logo": "bnm.svg",
+    "name": "National Bank Of Moldova/foreign"
+}

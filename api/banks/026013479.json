@@ -1,0 +1,20 @@
+{
+    "routing": "026013479",
+    "short": "ALPINE CAPITAL BK",
+    "long": "ALPINE CAPITAL BANK",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 953874000000,
+    "country": "USA",
+    "colors": [
+        "#fffdfe",
+        "#91c742",
+        "#a1b9a5",
+        "#2f90aa"
+    ],
+    "website": "https://www.alpinecapitalbank.com",
+    "logo": "alpinecapitalbank.svg",
+    "name": "Alpine Capital Bank"
+}

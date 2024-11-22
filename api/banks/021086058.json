@@ -1,0 +1,18 @@
+{
+    "routing": "021086058",
+    "short": "UGANDA",
+    "long": "UGANDA/FOREIGN DEPARTMENT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1202965200000,
+    "country": "USA",
+    "colors": [
+        "#fcfefd",
+        "#e2cc98"
+    ],
+    "website": "https://newyork.mofa.go.ug",
+    "logo": "go.svg",
+    "name": "Uganda/foreign Department"
+}

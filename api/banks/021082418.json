@@ -1,0 +1,18 @@
+{
+    "routing": "021082418",
+    "short": "SOUTH SUDAN",
+    "long": "BANK OF SOUTH SUDAN",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1357794000000,
+    "country": "USA",
+    "colors": [
+        "#e4e4e4",
+        "#787979"
+    ],
+    "website": "https://boss.gov.ss",
+    "logo": "gov.svg",
+    "name": "Bank Of South Sudan"
+}

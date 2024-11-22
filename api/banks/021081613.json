@@ -1,0 +1,19 @@
+{
+    "routing": "021081613",
+    "short": "FRANCE OPS ACCT1",
+    "long": "BANQUE DE FRANCE - OPS ACCT 1",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1334721600000,
+    "country": "USA",
+    "colors": [
+        "#fefefd",
+        "#8ca4c0",
+        "#325e99"
+    ],
+    "website": "https://www.banque-france.fr",
+    "logo": "banque-france.svg",
+    "name": "Banque De France - Ops Account 1"
+}

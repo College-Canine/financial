@@ -1,0 +1,20 @@
+{
+    "routing": "011104335",
+    "short": "PATRIOT BANK NA",
+    "long": "PATRIOT BANK, NATIONAL ASSOCIATION",
+    "state": "CT",
+    "city": "STAMFORD",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1541131200000,
+    "country": "USA",
+    "colors": [
+        "#fcfefe",
+        "#6798a7",
+        "#912828",
+        "#c29595"
+    ],
+    "website": "https://bankpatriot.com",
+    "logo": "bankpatriot.svg",
+    "name": "Patriot Bank National Association"
+}

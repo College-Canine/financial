@@ -1,0 +1,22 @@
+{
+    "routing": "021311383",
+    "short": "BK UTICA",
+    "long": "BANK OF UTICA",
+    "state": "NY",
+    "city": "UTICA",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#354e58",
+        "#1b5c96",
+        "#dac4b1",
+        "#76201a",
+        "#71a5d2",
+        "#927253"
+    ],
+    "website": "https://www.bankofutica.com",
+    "logo": "bankofutica.svg",
+    "name": "Bank Of Utica"
+}

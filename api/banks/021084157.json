@@ -1,0 +1,18 @@
+{
+    "routing": "021084157",
+    "short": "HONG KONG",
+    "long": "HONG KONG/FOREIGN DEPARTMENT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1202965200000,
+    "country": "USA",
+    "colors": [
+        "#e4e4e4",
+        "#787979"
+    ],
+    "website": "https://www.hketony.gov.hk",
+    "logo": "gov.svg",
+    "name": "Hong Kong/foreign Department"
+}

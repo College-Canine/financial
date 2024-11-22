@@ -1,0 +1,19 @@
+{
+    "routing": "021082007",
+    "short": "IDA WASH",
+    "long": "IDA WASH/FOREIGN DEPARTMENT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#fefefc",
+        "#94aedf",
+        "#2d76cf"
+    ],
+    "website": "https://www.internationaldisabilityalliance.org",
+    "logo": "internationaldisabilityalliance.svg",
+    "name": "Ida Wash/foreign Department"
+}

@@ -1,0 +1,22 @@
+{
+    "routing": "021083776",
+    "short": "EGYPT SUB",
+    "long": "EGYPT SUB/FOREIGN DEPARTMENT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1202965200000,
+    "country": "USA",
+    "colors": [
+        "#fefefd",
+        "#d6625a",
+        "#f6b59e",
+        "#e92e2a",
+        "#8b9296",
+        "#212223"
+    ],
+    "website": "https://www.egyptembassy.org",
+    "logo": "egyptembassy.svg",
+    "name": "Egypt Sub/foreign Department"
+}

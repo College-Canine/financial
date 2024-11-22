@@ -1,0 +1,19 @@
+{
+    "routing": "021083462",
+    "short": "CANADA GENERAL",
+    "long": "BANK OF CANADA GENERAL ACCOUNT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1135659600000,
+    "country": "USA",
+    "colors": [
+        "#ffffff",
+        "#2e2e2e",
+        "#7c7c7c"
+    ],
+    "website": "https://www.bankofcanada.ca",
+    "logo": "bankofcanada.svg",
+    "name": "Bank Of Canada General Account"
+}

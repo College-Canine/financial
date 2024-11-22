@@ -1,0 +1,21 @@
+{
+    "routing": "021087727",
+    "short": "VEN USD PAR A IC",
+    "long": "VEN USD PAR A IC/FOREIGN DEPARTMENT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": false,
+    "settlement": true,
+    "updated": 1447045200000,
+    "country": "USA",
+    "colors": [
+        "#e1c3cc",
+        "#111f33",
+        "#d56875",
+        "#43668c",
+        "#653a60"
+    ],
+    "website": "https://www.usembassy.gov",
+    "logo": "usembassy.svg",
+    "name": "Ven Usd Par A Ic/foreign Department"
+}

@@ -1,0 +1,20 @@
+{
+    "routing": "021914544",
+    "short": "WESTCHESTER BANK",
+    "long": "THE WESTCHESTER BANK",
+    "state": "NY",
+    "city": "WHITE PLAINS",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1448600400000,
+    "country": "USA",
+    "colors": [
+        "#fdfefe",
+        "#f6d911",
+        "#2e4b63",
+        "#80929f"
+    ],
+    "website": "https://ir.valleynationalbank.com",
+    "logo": "valleynationalbank.svg",
+    "name": "The Westchester Bank"
+}

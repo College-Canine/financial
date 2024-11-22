@@ -1,0 +1,21 @@
+{
+    "routing": "021084694",
+    "short": "LEBANON",
+    "long": "LEBANON/FOREIGN DEPARTMENT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1202878800000,
+    "country": "USA",
+    "colors": [
+        "#ae2b2e",
+        "#f4f5f5",
+        "#565556",
+        "#70da9b",
+        "#111010"
+    ],
+    "website": "https://nylebcons.org",
+    "logo": "nylebcons.svg",
+    "name": "Lebanon/foreign Department"
+}

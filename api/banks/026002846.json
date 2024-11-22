@@ -1,0 +1,19 @@
+{
+    "routing": "026002846",
+    "short": "METRO BK TR NYC",
+    "long": "METROPOLITAN BANK & TRUST COMPANY",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": false,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#333333",
+        "#979797",
+        "#fdfdfd"
+    ],
+    "website": "https://www.mapquest.com",
+    "logo": "mapquest.svg",
+    "name": "Metropolitan Bank & Trust Company"
+}

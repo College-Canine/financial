@@ -1,0 +1,20 @@
+{
+    "routing": "031303129",
+    "short": "FIDELITY DUNMORE",
+    "long": "FIDELITY DEPOSIT AND DISCOUNT BANK,",
+    "state": "PA",
+    "city": "DUNMORE",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1442980800000,
+    "country": "USA",
+    "colors": [
+        "#96b5a6",
+        "#22533c",
+        "#fcfefd",
+        "#cdb736"
+    ],
+    "website": "https://www.bankatfidelity.com",
+    "logo": "bankatfidelity.svg",
+    "name": "Fidelity Deposit And Discount Bank undefined"
+}

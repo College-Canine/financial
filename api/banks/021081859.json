@@ -1,0 +1,18 @@
+{
+    "routing": "021081859",
+    "short": "FRB SP OPS ACCT2",
+    "long": "FRBNY SPECIAL OPERATIONS ACOUNT 2",
+    "state": "NY",
+    "city": "HAVERSTRAW",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1236142800000,
+    "country": "USA",
+    "colors": [
+        "#eff6fd",
+        "#5a708e"
+    ],
+    "website": "https://www.newyorkfed.org",
+    "logo": "newyorkfed.svg",
+    "name": "Frbny Special Operations Acount 2"
+}

@@ -1,0 +1,20 @@
+{
+    "routing": "021502820",
+    "short": "EURO PACIFIC",
+    "long": "EURO PACIFIC INTL BANK, INC",
+    "state": "PR",
+    "city": "SAN JUAN",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1525838400000,
+    "country": "USA",
+    "colors": [
+        "#fbfbfc",
+        "#206bb7",
+        "#111111",
+        "#717477"
+    ],
+    "website": "https://europacbank.com",
+    "logo": "europacbank.svg",
+    "name": "Euro Pacific Intl Bank Inc"
+}

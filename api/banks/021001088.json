@@ -1,0 +1,19 @@
+{
+    "routing": "021001088",
+    "short": "HSBC USA",
+    "long": "HSBC BANK USA, NA",
+    "state": "NY",
+    "city": "BUFFALO",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1340164800000,
+    "country": "USA",
+    "colors": [
+        "#fcfdfc",
+        "#df8a92",
+        "#ba1122"
+    ],
+    "website": "https://www.us.hsbc.com",
+    "logo": "hsbc.svg",
+    "name": "HSBC Bank USA"
+}

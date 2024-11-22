@@ -1,0 +1,18 @@
+{
+    "routing": "021081079",
+    "short": "IA INVES CORP",
+    "long": "IA INVES CORP/FOREIGN DEPARTMENT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": false,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#76b1cd",
+        "#f5fdfb"
+    ],
+    "website": "https://esd.ny.gov",
+    "logo": "ny.svg",
+    "name": "Ia Inves Corp/foreign Department"
+}

@@ -1,0 +1,15 @@
+{
+    "routing": "026007692",
+    "short": "BCO SANTANDER NYC",
+    "long": "BANCO SANTANDER, S.A.",
+    "logo": "santander.svg",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1192593600000,
+    "country": "USA",
+    "colors": [],
+    "website": "https://locations.santanderbank.com",
+    "name": "Banco Santander S.a"
+}

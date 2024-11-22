@@ -1,0 +1,20 @@
+{
+    "routing": "026009632",
+    "short": "MUFG BANK, LTD.",
+    "long": "MUFG BANK, LTD.",
+    "state": "NJ",
+    "city": "JERSEY CITY",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1522382400000,
+    "country": "USA",
+    "colors": [
+        "#fdfefd",
+        "#e62825",
+        "#737474",
+        "#c98484"
+    ],
+    "website": "https://www.mufgamericas.com",
+    "logo": "mufgamericas.svg",
+    "name": "Mufg Bank Ltd"
+}

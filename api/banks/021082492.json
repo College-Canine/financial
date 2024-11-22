@@ -1,0 +1,18 @@
+{
+    "routing": "021082492",
+    "short": "IMF EMERGENCY",
+    "long": "IMF EMERGENCY/FOREIGN DEPARTMENT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1420606800000,
+    "country": "USA",
+    "colors": [
+        "#1f4d83",
+        "#f8fefc"
+    ],
+    "website": "https://www.imf.org",
+    "logo": "imf.svg",
+    "name": "Imf Emergency/foreign Department"
+}

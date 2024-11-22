@@ -1,0 +1,19 @@
+{
+    "routing": "021302554",
+    "short": "GLENS FALLS NB TR",
+    "long": "GLENS FALLS NAT'L BANK & TRUST",
+    "state": "NY",
+    "city": "GLENS FALLS",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#711b33",
+        "#fdfafb",
+        "#aa7987"
+    ],
+    "website": "https://www.gfnational.com",
+    "logo": "gfnational.svg",
+    "name": "Glens Falls Nat'l Bank & Trust"
+}

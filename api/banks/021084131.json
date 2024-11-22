@@ -1,0 +1,21 @@
+{
+    "routing": "021084131",
+    "short": "HONDURAS",
+    "long": "HONDURAS/FOREIGN DEPARTMENT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1202965200000,
+    "country": "USA",
+    "colors": [
+        "#46586a",
+        "#47704c",
+        "#b7bec7",
+        "#593e23",
+        "#cca720"
+    ],
+    "website": "https://travel.state.gov",
+    "logo": "state.svg",
+    "name": "Honduras/foreign Department"
+}

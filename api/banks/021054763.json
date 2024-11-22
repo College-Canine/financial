@@ -1,0 +1,19 @@
+{
+    "routing": "021054763",
+    "short": "FHLB WASHS DN P&I",
+    "long": "FHLBB DN P&I",
+    "state": "VA",
+    "city": "RESTON",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1459396800000,
+    "country": "USA",
+    "colors": [
+        "#fffffd",
+        "#9a9b9d",
+        "#1d8657"
+    ],
+    "website": "https://www.fhlbboston.com",
+    "logo": "fhlbboston.svg",
+    "name": "Fhlbb Dn Principal and Interest"
+}

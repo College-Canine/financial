@@ -1,0 +1,19 @@
+{
+    "routing": "021502231",
+    "short": "BANCREDITO INTL BK",
+    "long": "BANCREDITO INTERNATIONAL BANK & TRUS",
+    "state": "PR",
+    "city": "SAN JUAN",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1531886400000,
+    "country": "USA",
+    "colors": [
+        "#8eb4c2",
+        "#fcfefe",
+        "#124f67"
+    ],
+    "website": "https://www.dnb.com",
+    "logo": "dnb.svg",
+    "name": "Bancredito International Bank & Trus"
+}

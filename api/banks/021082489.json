@@ -1,0 +1,18 @@
+{
+    "routing": "021082489",
+    "short": "IMF ACCT TWO",
+    "long": "IMF ACCT TWO/FOREIGN DEPARTMENT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": false,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#1f4d83",
+        "#f8fefc"
+    ],
+    "website": "https://www.imf.org",
+    "logo": "imf.svg",
+    "name": "Imf Account Two/foreign Department"
+}

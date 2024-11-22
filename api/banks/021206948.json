@@ -1,0 +1,21 @@
+{
+    "routing": "021206948",
+    "short": "BRUNSWICK BTNJ",
+    "long": "BRUNSWICK BANK & TRUST COMPANY",
+    "state": "NJ",
+    "city": "NEW BRUNSWICK",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#1b1b41",
+        "#814f2f",
+        "#e8892b",
+        "#999fb5",
+        "#f1f4f7"
+    ],
+    "website": "https://midpennbank.com",
+    "logo": "midpennbank.svg",
+    "name": "Brunswick Bank & Trust Company"
+}

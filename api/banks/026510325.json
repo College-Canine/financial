@@ -1,0 +1,18 @@
+{
+    "routing": "026510325",
+    "short": "ECUADOR PAR PC",
+    "long": "ECUADOR USD PAR SERIES BONDS PC F/S",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#f35325",
+        "#d7d6bc"
+    ],
+    "website": "https://ypfsresourcelibrary.blob.core.windows.net",
+    "logo": "windows.svg",
+    "name": "Ecuador Usd Par Series Bonds Pc F/s"
+}

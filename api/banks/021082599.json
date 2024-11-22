@@ -1,0 +1,22 @@
+{
+    "routing": "021082599",
+    "short": "ECB - OPS ACCT 1",
+    "long": "EUROPEAN CENTRAL BANK-OPER ACCT 1",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1389070800000,
+    "country": "USA",
+    "colors": [
+        "#fcfefc",
+        "#143860",
+        "#f8f21f",
+        "#153f9b",
+        "#748db6",
+        "#738757"
+    ],
+    "website": "https://www.ecb.europa.eu",
+    "logo": "europa.svg",
+    "name": "European Central Bank-oper Account 1"
+}

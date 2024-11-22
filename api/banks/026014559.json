@@ -1,0 +1,20 @@
+{
+    "routing": "026014559",
+    "short": "CHINA MERCHANTS",
+    "long": "CHINA MERCHANTS BANK., LIMITED",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1254283200000,
+    "country": "USA",
+    "colors": [
+        "#fefdfe",
+        "#c87878",
+        "#181718",
+        "#706f6f"
+    ],
+    "website": "https://us.cmbchina.com",
+    "logo": "cmbchina.svg",
+    "name": "China Merchants Bank. Limited"
+}

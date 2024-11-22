@@ -1,0 +1,18 @@
+{
+    "routing": "026011921",
+    "short": "BERKSHIRE BANK NYC",
+    "long": "BERKSHIRE BANK",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#576271",
+        "#17191b"
+    ],
+    "website": "https://www.berkbank.com",
+    "logo": "berkbank.svg",
+    "name": "Berkshire Bank"
+}

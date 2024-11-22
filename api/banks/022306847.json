@@ -1,0 +1,19 @@
+{
+    "routing": "022306847",
+    "short": "BANK CATTARAUGUS",
+    "long": "BANK OF CATTARAUGUS",
+    "state": "NY",
+    "city": "CATTARAUGUS",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#fefefe",
+        "#489d71",
+        "#f7c036"
+    ],
+    "website": "https://www.countonccb.com",
+    "logo": "countonccb.svg",
+    "name": "Bank Of Cattaraugus"
+}

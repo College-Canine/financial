@@ -1,0 +1,19 @@
+{
+    "routing": "021054572",
+    "short": "DA FREDDIE MAC",
+    "long": "DISTRIBUTION ACCT-FREDDIE MAC",
+    "state": "NJ",
+    "city": "EAST RUTHERFORD",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1151640000000,
+    "country": "USA",
+    "colors": [
+        "#fefdfe",
+        "#25447e",
+        "#7f90ac"
+    ],
+    "website": "https://sf.freddiemac.com",
+    "logo": "freddiemac.svg",
+    "name": "Distribution Acct-freddie Mac"
+}

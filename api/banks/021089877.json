@@ -1,0 +1,18 @@
+{
+    "routing": "021089877",
+    "short": "FRSGNY",
+    "long": "FRBNY - MBS ACCT SG NEW YORK",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1449550800000,
+    "country": "USA",
+    "colors": [
+        "#eff6fd",
+        "#5a708e"
+    ],
+    "website": "https://www.newyorkfed.org",
+    "logo": "newyorkfed.svg",
+    "name": "Frbny - Mbs Account Sg New York"
+}

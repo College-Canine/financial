@@ -1,0 +1,20 @@
+{
+    "routing": "021089495",
+    "short": "KAZAKHSTAN MF",
+    "long": "NATL BANK OF KAZAKHSTAN-MF ACCT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 994132800000,
+    "country": "USA",
+    "colors": [
+        "#fefffd",
+        "#bea448",
+        "#25553c",
+        "#95b8a4"
+    ],
+    "website": "https://nationalbank.kz",
+    "logo": "nationalbank.svg",
+    "name": "Natl Bank Of Kazakhstan-mf Account"
+}

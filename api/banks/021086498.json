@@ -1,0 +1,23 @@
+{
+    "routing": "021086498",
+    "short": "RUSSIAN FEDERATION",
+    "long": "RUSSIAN FEDERATION/FOREIGN DEPT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#fdfdf7",
+        "#a58937",
+        "#f0c413",
+        "#ddb095",
+        "#c62c1f",
+        "#714735",
+        "#838783"
+    ],
+    "website": "https://newyork.mid.ru",
+    "logo": "mid.svg",
+    "name": "Russian Federation/foreign Dept"
+}

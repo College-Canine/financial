@@ -1,0 +1,17 @@
+{
+    "routing": "021088616",
+    "short": "TAJIKISTAN",
+    "long": "NAT'L BK.OF REPUBLIC OF TAJIKISTAN",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": false,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#1f1a17"
+    ],
+    "website": "https://nbt.tj",
+    "logo": "nbt.svg",
+    "name": "Nat'l Bk.of Republic Of Tajikistan"
+}

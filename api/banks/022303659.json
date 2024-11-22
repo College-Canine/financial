@@ -1,0 +1,19 @@
+{
+    "routing": "022303659",
+    "short": "NATL CANANDAIGUA",
+    "long": "CANANDAIGUA NAT'L BANK & TR. CO.",
+    "state": "NY",
+    "city": "CANANDAIGUA",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#fefefe",
+        "#ae3328",
+        "#c37e78"
+    ],
+    "website": "https://www.cnbank.com",
+    "logo": "cnbank.svg",
+    "name": "Canandaigua Nat'l Bank & Trust"
+}

@@ -1,0 +1,23 @@
+{
+    "routing": "021083666",
+    "short": "DENMARK SEP",
+    "long": "DANMARKS SEP ACCOUNT/FOREIGN DEPT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": false,
+    "settlement": true,
+    "updated": 1485406800000,
+    "country": "USA",
+    "colors": [
+        "#ee302e",
+        "#e6733a",
+        "#ddd185",
+        "#fedc4d",
+        "#285a6c",
+        "#677a4e",
+        "#7fa9ae"
+    ],
+    "website": "https://usa.um.dk",
+    "logo": "um.svg",
+    "name": "Danmarks Sep Account/foreign Dept"
+}

@@ -1,0 +1,21 @@
+{
+    "routing": "021502215",
+    "short": "ITALBANK",
+    "long": "ITALBANK INTERNATIONAL, INC.",
+    "state": "PR",
+    "city": "SAN JUAN",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1424667600000,
+    "country": "USA",
+    "colors": [
+        "#fefefc",
+        "#e4232a",
+        "#e29094",
+        "#9db9d1",
+        "#3c75b0"
+    ],
+    "website": "https://www.italbank.com",
+    "logo": "italbank.svg",
+    "name": "Italbank International Inc"
+}

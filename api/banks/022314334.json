@@ -1,0 +1,19 @@
+{
+    "routing": "022314334",
+    "short": "USNY BANK",
+    "long": "USNY BANK",
+    "state": "NY",
+    "city": "GENEVA",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1187323200000,
+    "country": "USA",
+    "colors": [
+        "#10a5fb",
+        "#fdf8fb",
+        "#84d5f2"
+    ],
+    "website": "https://wayne.bank",
+    "logo": "wayne.svg",
+    "name": "Usny Bank"
+}

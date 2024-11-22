@@ -1,0 +1,18 @@
+{
+    "routing": "021084746",
+    "short": "MACAU",
+    "long": "MACAU/FOREIGN DEPARTMENT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#e4e4e4",
+        "#787979"
+    ],
+    "website": "https://newyork.china-consulate.gov.cn",
+    "logo": "gov.svg",
+    "name": "Macau/foreign Department"
+}

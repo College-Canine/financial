@@ -1,0 +1,20 @@
+{
+    "routing": "021085172",
+    "short": "PAKISTAN",
+    "long": "PAKISTAN/FOREIGN DEPARTMENT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1202965200000,
+    "country": "USA",
+    "colors": [
+        "#219c3f",
+        "#f4f5f4",
+        "#a8ddb4",
+        "#215b27"
+    ],
+    "website": "https://pakistanconsulateny.org",
+    "logo": "pakistanconsulateny.svg",
+    "name": "Pakistan/foreign Department"
+}

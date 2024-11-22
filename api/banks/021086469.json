@@ -1,0 +1,21 @@
+{
+    "routing": "021086469",
+    "short": "PEOPLES BK CHINA",
+    "long": "PEOPLES BK CHINA/FOREIGN DEPARTMENT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#fefefd",
+        "#a83035",
+        "#5d415c",
+        "#353d89",
+        "#b3a4ab"
+    ],
+    "website": "https://www.cgccusa.org",
+    "logo": "cgccusa.svg",
+    "name": "Peoples Bank China/foreign Department"
+}

@@ -1,0 +1,20 @@
+{
+    "routing": "031100966",
+    "short": "APPLIED BANK",
+    "long": "APPLIED BANK",
+    "state": "DE",
+    "city": "WILMINGTON",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1233032400000,
+    "country": "USA",
+    "colors": [
+        "#fdfdfd",
+        "#f26723",
+        "#2c2a2b",
+        "#979596"
+    ],
+    "website": "https://www.appliedbank.com",
+    "logo": "appliedbank.svg",
+    "name": "Applied Bank"
+}

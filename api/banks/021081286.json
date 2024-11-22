@@ -1,0 +1,17 @@
+{
+    "routing": "021081286",
+    "short": "SWAZILAND RAMP",
+    "long": "CB SWAZILAND-RAMP ACCOUNT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1213588800000,
+    "country": "USA",
+    "colors": [
+        "#fafafa"
+    ],
+    "website": "https://ramp.com",
+    "logo": "ramp.svg",
+    "name": "Cb Swaziland-ramp Account"
+}

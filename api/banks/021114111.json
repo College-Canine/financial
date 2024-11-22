@@ -1,0 +1,19 @@
+{
+    "routing": "021114111",
+    "short": "LAUREL ROAD BK",
+    "long": "LAUREL ROAD BANK",
+    "state": "CT",
+    "city": "DARIEN",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1519794000000,
+    "country": "USA",
+    "colors": [
+        "#192341",
+        "#fdfefc",
+        "#b7a780"
+    ],
+    "website": "https://www.laurelroad.com",
+    "logo": "laurelroad.svg",
+    "name": "Laurel Road Bank"
+}

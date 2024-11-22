@@ -1,0 +1,18 @@
+{
+    "routing": "021054624",
+    "short": "DA ADB",
+    "long": "DISTRIBUTION ACCT-ASIAN DEV BANK",
+    "state": "NJ",
+    "city": "EAST RUTHERFORD",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1151640000000,
+    "country": "USA",
+    "colors": [
+        "#e8f5fa",
+        "#295a8c"
+    ],
+    "website": "https://www.adb.org",
+    "logo": "adb.svg",
+    "name": "Distribution Acct-asian Dev Bank"
+}

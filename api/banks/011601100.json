@@ -1,0 +1,19 @@
+{
+    "routing": "011601100",
+    "short": "UNION MORRISVILLE",
+    "long": "UNION BANK",
+    "state": "VT",
+    "city": "MORRISVILLE",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#fefeff",
+        "#28395a",
+        "#6a9792"
+    ],
+    "website": "https://www.ublocal.com",
+    "logo": "ublocal.svg",
+    "name": "Union Bank"
+}

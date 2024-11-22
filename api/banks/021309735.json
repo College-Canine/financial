@@ -1,0 +1,19 @@
+{
+    "routing": "021309735",
+    "short": "BK SOLVAY",
+    "long": "SOLVAY BANK",
+    "state": "NY",
+    "city": "SOLVAY",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#fefefe",
+        "#337ba7",
+        "#706f6f"
+    ],
+    "website": "https://www.solvaybank.com",
+    "logo": "solvaybank.svg",
+    "name": "Solvay Bank"
+}

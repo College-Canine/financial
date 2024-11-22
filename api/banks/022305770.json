@@ -1,0 +1,20 @@
+{
+    "routing": "022305770",
+    "short": "BK AKRON",
+    "long": "BANK OF AKRON",
+    "state": "NY",
+    "city": "AKRON",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#fbfefd",
+        "#962c40",
+        "#b59198",
+        "#545759"
+    ],
+    "website": "https://bankonbuffalo.bank",
+    "logo": "bankonbuffalo.svg",
+    "name": "Bank Of Akron"
+}

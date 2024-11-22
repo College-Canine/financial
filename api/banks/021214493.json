@@ -1,0 +1,20 @@
+{
+    "routing": "021214493",
+    "short": "FREEDOM BANK",
+    "long": "FREEDOM BANK",
+    "state": "NJ",
+    "city": "MAYWOOD",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1388466000000,
+    "country": "USA",
+    "colors": [
+        "#efeceb",
+        "#778eb0",
+        "#bc321c",
+        "#ca7f71"
+    ],
+    "website": "https://www.fbnj.com",
+    "logo": "fbnj.svg",
+    "name": "Freedom Bank"
+}

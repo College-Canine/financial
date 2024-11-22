@@ -1,0 +1,19 @@
+{
+    "routing": "021081587",
+    "short": "FINLAND OPS ACCT1",
+    "long": "SUOMEN PANKKI FINLANDS BK OPS ACCT 1",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1334721600000,
+    "country": "USA",
+    "colors": [
+        "#fdfdfe",
+        "#abaed2",
+        "#4d53a1"
+    ],
+    "website": "https://www.suomenpankki.fi",
+    "logo": "suomenpankki.svg",
+    "name": "Suomen Pankki Finlands Bank Ops Account 1"
+}

@@ -1,0 +1,18 @@
+{
+    "routing": "026014685",
+    "short": "CHINA CONSTRUCTION",
+    "long": "CHINA CONSTRUCTION BANK CORPORATION",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1281931200000,
+    "country": "USA",
+    "colors": [
+        "#131011",
+        "#204c82"
+    ],
+    "website": "https://us.ccb.com",
+    "logo": "ccb.svg",
+    "name": "China Construction Bank Corporation"
+}

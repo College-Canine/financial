@@ -1,0 +1,22 @@
+{
+    "routing": "021084018",
+    "short": "GERMANY",
+    "long": "GERMANY/FOREIGN DEPARTMENT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1202965200000,
+    "country": "USA",
+    "colors": [
+        "#fdfdfd",
+        "#3838c3",
+        "#464345",
+        "#6857b3",
+        "#ce4146",
+        "#9494cc"
+    ],
+    "website": "https://www.germany.info",
+    "logo": "germany.svg",
+    "name": "Germany/foreign Department"
+}

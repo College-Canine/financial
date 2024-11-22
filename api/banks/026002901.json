@@ -1,0 +1,21 @@
+{
+    "routing": "026002901",
+    "short": "RABOBANK NYC",
+    "long": "RABOBANK NEDERLAND",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1531886400000,
+    "country": "USA",
+    "colors": [
+        "#fefefd",
+        "#f8933f",
+        "#6b517c",
+        "#804032",
+        "#eebf95"
+    ],
+    "website": "https://www.rabobank.com",
+    "logo": "rabobank.svg",
+    "name": "Rabobank Nederland"
+}

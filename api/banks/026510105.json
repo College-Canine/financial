@@ -1,0 +1,15 @@
+{
+    "routing": "026510105",
+    "short": "ARG DMK PAR IC",
+    "long": "ARGENTINA DMK PAR SER IC/FOREIGN",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": false,
+    "settlement": true,
+    "updated": 1415336400000,
+    "country": "USA",
+    "colors": [],
+    "website": "https://github.com",
+    "logo": "github.svg",
+    "name": "Argentina Dmk Par Ser Ic/foreign"
+}

@@ -1,0 +1,21 @@
+{
+    "routing": "021084076",
+    "short": "GUATEMALA",
+    "long": "BANCO DE GUATEMALA",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1496808000000,
+    "country": "USA",
+    "colors": [
+        "#fffde2",
+        "#ffc812",
+        "#a99c93",
+        "#fff481",
+        "#c97d19"
+    ],
+    "website": "https://www.yellowpages.com",
+    "logo": "yellowpages.svg",
+    "name": "Banco De Guatemala"
+}

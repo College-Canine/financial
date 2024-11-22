@@ -1,0 +1,18 @@
+{
+    "routing": "011501718",
+    "short": "INDEPENDENCE BANK",
+    "long": "INDEPENDENCE BANK",
+    "state": "RI",
+    "city": "EAST GREENWICH",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1049173200000,
+    "country": "USA",
+    "colors": [
+        "#f9fafa",
+        "#a1a090"
+    ],
+    "website": "https://www.independence-bank.com",
+    "logo": "independence-bank.svg",
+    "name": "Independence Bank"
+}

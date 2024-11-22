@@ -1,0 +1,18 @@
+{
+    "routing": "021089479",
+    "short": "SERBIA",
+    "long": "NATIONAL BANK OF SERBIA",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1174881600000,
+    "country": "USA",
+    "colors": [
+        "#fefeff",
+        "#dacb9a"
+    ],
+    "website": "https://www.nbs.rs",
+    "logo": "nbs.svg",
+    "name": "National Bank Of Serbia"
+}

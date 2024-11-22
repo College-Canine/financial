@@ -1,0 +1,18 @@
+{
+    "routing": "021088205",
+    "short": "BELGIUM FMS INT",
+    "long": "NAT'L BANK OF BELGIUM FMS INT AC",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": false,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#fefefd",
+        "#6b80a1"
+    ],
+    "website": "https://www.nbb.be",
+    "logo": "nbb.svg",
+    "name": "Nat'l Bank Of Belgium Fms Int Ac"
+}

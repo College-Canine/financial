@@ -1,0 +1,19 @@
+{
+    "routing": "026002532",
+    "short": "BK NOVA SCOTIA NYC",
+    "long": "BANK OF NOVA SCOTIA",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#ec1119",
+        "#fefaf7",
+        "#ea666d"
+    ],
+    "website": "https://www.scotiabank.com",
+    "logo": "scotiabank.svg",
+    "name": "Bank Of Nova Scotia"
+}

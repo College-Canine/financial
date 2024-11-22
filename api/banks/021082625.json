@@ -1,0 +1,20 @@
+{
+    "routing": "021082625",
+    "short": "SEC TREAS",
+    "long": "SEC TREAS SPECIAL/FOREIGN DEPT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1416546000000,
+    "country": "USA",
+    "colors": [
+        "#d4fafe",
+        "#1d6ba5",
+        "#dcd878",
+        "#8fac80"
+    ],
+    "website": "https://home.treasury.gov",
+    "logo": "treasury.svg",
+    "name": "Sec Treasury Special/foreign Dept"
+}

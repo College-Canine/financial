@@ -1,0 +1,20 @@
+{
+    "routing": "026005050",
+    "short": "UNION BANK NY",
+    "long": "MUFG UNION BANK, NA",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1404100800000,
+    "country": "USA",
+    "colors": [
+        "#fdfefd",
+        "#e62825",
+        "#737474",
+        "#c98484"
+    ],
+    "website": "https://www.mufgamericas.com",
+    "logo": "mufgamericas.svg",
+    "name": "Mufg Union Bank"
+}

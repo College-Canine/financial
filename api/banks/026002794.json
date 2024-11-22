@@ -1,0 +1,19 @@
+{
+    "routing": "026002794",
+    "short": "BK LEUMI TR NY",
+    "long": "BANK LEUMI USA",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#fefdfe",
+        "#3874b2",
+        "#92c2e7"
+    ],
+    "website": "https://english.leumi.co.il",
+    "logo": "co.svg",
+    "name": "Bank Leumi USA"
+}

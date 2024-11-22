@@ -1,0 +1,20 @@
+{
+    "routing": "021089466",
+    "short": "PB CHINA DES ACCT",
+    "long": "PEOPLE'S BK OF CHINA DESIGNATED ACCT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 998625600000,
+    "country": "USA",
+    "colors": [
+        "#ffffff",
+        "#a21636",
+        "#9c8487",
+        "#2d2625"
+    ],
+    "website": "https://www.bocusa.com",
+    "logo": "bocusa.svg",
+    "name": "People's Bank Of China Designated Account"
+}

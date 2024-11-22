@@ -1,0 +1,18 @@
+{
+    "routing": "021083873",
+    "short": "FIJI",
+    "long": "FIJI/FOREIGN DEPARTMENT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1202965200000,
+    "country": "USA",
+    "colors": [
+        "#e4e4e4",
+        "#787979"
+    ],
+    "website": "https://www.foreignaffairs.gov.fj",
+    "logo": "gov.svg",
+    "name": "Fiji/foreign Department"
+}

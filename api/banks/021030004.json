@@ -1,0 +1,21 @@
+{
+    "routing": "021030004",
+    "short": "TREAS NYC",
+    "long": "TREAS NYC/FUNDS TRANSFER DIVISION",
+    "state": "DC",
+    "city": "WASHINGTON",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1440734400000,
+    "country": "USA",
+    "colors": [
+        "#fcfdfe",
+        "#3f5171",
+        "#716657",
+        "#c49b29",
+        "#ebd69f"
+    ],
+    "website": "https://www.fcc.gov",
+    "logo": "fcc.svg",
+    "name": "Treasury Nyc/funds Transfer Division"
+}

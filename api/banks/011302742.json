@@ -1,0 +1,19 @@
+{
+    "routing": "011302742",
+    "short": "ENTERPRISE LOWELL",
+    "long": "ENTERPRISE BANK & TR. CO.",
+    "state": "MA",
+    "city": "LOWELL",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#2a4925",
+        "#b7965e",
+        "#c7d6d1"
+    ],
+    "website": "https://www.enterprisebanking.com",
+    "logo": "enterprisebanking.svg",
+    "name": "Enterprise Bank & Trust"
+}

@@ -1,0 +1,19 @@
+{
+    "routing": "021907975",
+    "short": "BK MILLBROOK",
+    "long": "BANK OF MILLBROOK",
+    "state": "NY",
+    "city": "MILLBROOK",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#346894",
+        "#f9fafb",
+        "#939598"
+    ],
+    "website": "https://www.bankofmillbrook.com",
+    "logo": "bankofmillbrook.svg",
+    "name": "Bank Of Millbrook"
+}

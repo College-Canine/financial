@@ -1,0 +1,18 @@
+{
+    "routing": "021083161",
+    "short": "BAHRAIN G",
+    "long": "CENTRAL BANK OF BAHRAIN - G ACCOUNT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1520312400000,
+    "country": "USA",
+    "colors": [
+        "#e4e4e4",
+        "#787979"
+    ],
+    "website": "https://www.cbb.gov.bh",
+    "logo": "gov.svg",
+    "name": "Central Bank Of Bahrain - G Account"
+}

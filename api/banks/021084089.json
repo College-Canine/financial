@@ -1,0 +1,18 @@
+{
+    "routing": "021084089",
+    "short": "GUATEMALA CAMS FD",
+    "long": "GUATEMALA CAMS FD/FOREIGN DEPT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#fdf7fe",
+        "#4a3a68"
+    ],
+    "website": "https://refugeerights.org",
+    "logo": "refugeerights.svg",
+    "name": "Guatemala Cams Fd/foreign Dept"
+}

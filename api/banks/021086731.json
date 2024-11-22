@@ -1,0 +1,18 @@
+{
+    "routing": "021086731",
+    "short": "NATL BK UKRAINE",
+    "long": "NAT'L BANK OF UKRAINE/FOREIGN DEPT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#e4e4e4",
+        "#787979"
+    ],
+    "website": "https://bank.gov.ua",
+    "logo": "gov.svg",
+    "name": "Nat'l Bank Of Ukraine/foreign Dept"
+}

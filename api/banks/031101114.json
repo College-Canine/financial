@@ -1,0 +1,19 @@
+{
+    "routing": "031101114",
+    "short": "THE BANCORP BANK",
+    "long": "THE BANCORP BANK",
+    "state": "DE",
+    "city": "WILMINGTON",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1370232000000,
+    "country": "USA",
+    "colors": [
+        "#fdfeff",
+        "#b3c889",
+        "#226ea9"
+    ],
+    "website": "https://www.thebancorp.com",
+    "logo": "thebancorp.svg",
+    "name": "The Bancorp Bank"
+}

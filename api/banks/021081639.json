@@ -1,0 +1,19 @@
+{
+    "routing": "021081639",
+    "short": "GREECE OPS ACCT1",
+    "long": "BANQUE DE GRECE OPS ACCT 1.",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1416546000000,
+    "country": "USA",
+    "colors": [
+        "#fdfefc",
+        "#10199d",
+        "#697fe3"
+    ],
+    "website": "https://www.bankofgreece.gr",
+    "logo": "bankofgreece.svg",
+    "name": "Banque De Grece Ops Account 1"
+}

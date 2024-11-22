@@ -1,0 +1,19 @@
+{
+    "routing": "011202392",
+    "short": "KATAHDIN TR PATTEN",
+    "long": "KATAHDIN TRUST COMPANY",
+    "state": "ME",
+    "city": "PATTEN",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#e7b45d",
+        "#398165",
+        "#fcfdfd"
+    ],
+    "website": "https://www.katahdintrust.com",
+    "logo": "katahdintrust.svg",
+    "name": "Katahdin Trust Company"
+}

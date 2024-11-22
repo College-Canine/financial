@@ -1,0 +1,19 @@
+{
+    "routing": "011102638",
+    "short": "NATLIRON SALISBURY",
+    "long": "THE NATIONAL IRON BANK",
+    "state": "CT",
+    "city": "SALISBURY",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#83a0b9",
+        "#255282",
+        "#fbfefe"
+    ],
+    "website": "https://ironbank.com",
+    "logo": "ironbank.svg",
+    "name": "The National Iron Bank"
+}

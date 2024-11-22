@@ -1,0 +1,19 @@
+{
+    "routing": "026011031",
+    "short": "SHOKO CHUKIN BK",
+    "long": "SHOKO CHUKIN BANK",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1212465600000,
+    "country": "USA",
+    "colors": [
+        "#fefdfe",
+        "#3874b2",
+        "#92c2e7"
+    ],
+    "website": "https://www.shokochukin.co.jp",
+    "logo": "co.svg",
+    "name": "Shoko Chukin Bank"
+}

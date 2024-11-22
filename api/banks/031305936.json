@@ -1,0 +1,19 @@
+{
+    "routing": "031305936",
+    "short": "FIR COL BLOOMSBURG",
+    "long": "FIRST COLUMBIA BK & TRUST CO",
+    "state": "PA",
+    "city": "BLOOMSBURG",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#fefefe",
+        "#42739c",
+        "#a0abb1"
+    ],
+    "website": "https://www.journeybank.com",
+    "logo": "journeybank.svg",
+    "name": "First Columbia Bank & Trust"
+}

@@ -1,0 +1,19 @@
+{
+    "routing": "011201830",
+    "short": "FIRST DAMARISCOTTA",
+    "long": "FIRST NATIONAL BANK",
+    "state": "ME",
+    "city": "DAMARISCOTTA",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1455858000000,
+    "country": "USA",
+    "colors": [
+        "#d1a720",
+        "#506069",
+        "#114394"
+    ],
+    "website": "https://www.thefirst.com",
+    "logo": "thefirst.svg",
+    "name": "First National Bank"
+}

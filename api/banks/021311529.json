@@ -1,0 +1,19 @@
+{
+    "routing": "021311529",
+    "short": "SARATOGA NATL B&TC",
+    "long": "SARATOGA NATIONAL BK & T/C",
+    "state": "NY",
+    "city": "SARATOGA SPRINGS",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1188446400000,
+    "country": "USA",
+    "colors": [
+        "#431720",
+        "#884f39",
+        "#e4dedd"
+    ],
+    "website": "https://www.saratoganational.com",
+    "logo": "saratoganational.svg",
+    "name": "Saratoga National Bank & T/c"
+}

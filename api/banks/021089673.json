@@ -1,0 +1,18 @@
+{
+    "routing": "021089673",
+    "short": "FRBNPP",
+    "long": "FRBNY - MBS ACCT BNPP",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1321506000000,
+    "country": "USA",
+    "colors": [
+        "#eff6fd",
+        "#5a708e"
+    ],
+    "website": "https://www.newyorkfed.org",
+    "logo": "newyorkfed.svg",
+    "name": "Frbny - Mbs Account Bnpp"
+}

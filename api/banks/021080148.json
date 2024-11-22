@@ -1,0 +1,22 @@
+{
+    "routing": "021080148",
+    "short": "EUROPEAN CEN BANK",
+    "long": "EUROPEAN CENTRAL BANK ACCT ECB",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#fcfefc",
+        "#143860",
+        "#f8f21f",
+        "#153f9b",
+        "#748db6",
+        "#738757"
+    ],
+    "website": "https://www.ecb.europa.eu",
+    "logo": "europa.svg",
+    "name": "European Central Bank Account Ecb"
+}

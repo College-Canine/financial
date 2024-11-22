@@ -1,0 +1,18 @@
+{
+    "routing": "031203915",
+    "short": "FIRST ELMER",
+    "long": "THE FIRST NATL BANK OF ELMER",
+    "state": "NJ",
+    "city": "ELMER",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#fdfefe",
+        "#5395bc"
+    ],
+    "website": "https://www.elmerbank.com",
+    "logo": "elmerbank.svg",
+    "name": "The First Natl Bank Of Elmer"
+}

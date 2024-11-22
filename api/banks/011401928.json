@@ -1,0 +1,18 @@
+{
+    "routing": "011401928",
+    "short": "MERRIMACK COUNTY",
+    "long": "MERRIMACK COUNTY SAVINGS BK",
+    "state": "NH",
+    "city": "CONCORD",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1379563200000,
+    "country": "USA",
+    "colors": [
+        "#216a48",
+        "#b0ccbf"
+    ],
+    "website": "https://www.themerrimack.com",
+    "logo": "themerrimack.svg",
+    "name": "Merrimack County Savings Bank"
+}

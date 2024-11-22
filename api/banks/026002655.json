@@ -1,0 +1,18 @@
+{
+    "routing": "026002655",
+    "short": "LLOYDS TSB BK PLC",
+    "long": "LLOYDS BANK PLC",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": false,
+    "settlement": true,
+    "updated": 1478581200000,
+    "country": "USA",
+    "colors": [
+        "#fdfefd",
+        "#525250"
+    ],
+    "website": "https://www.lloydsbank.com",
+    "logo": "lloydsbank.svg",
+    "name": "Lloyds Bank Plc"
+}

@@ -1,0 +1,15 @@
+{
+    "routing": "021083048",
+    "short": "AUSTRIA FMS",
+    "long": "AUSTRIA FMS/FOREIGN DEPARTMENT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [],
+    "website": "https://www.bmeia.gv.at",
+    "logo": "gv.svg",
+    "name": "Austria Fms/foreign Department"
+}

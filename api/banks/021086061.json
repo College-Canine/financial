@@ -1,0 +1,19 @@
+{
+    "routing": "021086061",
+    "short": "ENGLAND 1A",
+    "long": "BANK OF ENGLAND - NO 1A ACCOUNT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1322024400000,
+    "country": "USA",
+    "colors": [
+        "#fefdfe",
+        "#3874b2",
+        "#92c2e7"
+    ],
+    "website": "https://www.bankofengland.co.uk",
+    "logo": "co.svg",
+    "name": "Bank Of England - No 1a Account"
+}

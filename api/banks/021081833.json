@@ -1,0 +1,18 @@
+{
+    "routing": "021081833",
+    "short": "ECB DES ACCT DE",
+    "long": "ECBDESIGNATED ACCOUNT DE,",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1235710800000,
+    "country": "USA",
+    "colors": [
+        "#76b1cd",
+        "#f5fdfb"
+    ],
+    "website": "https://www.dfs.ny.gov",
+    "logo": "ny.svg",
+    "name": "Ecbdesignated Account De undefined"
+}

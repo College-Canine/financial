@@ -1,0 +1,19 @@
+{
+    "routing": "021039526",
+    "short": "FREDDIE MAC MBS PI",
+    "long": "FHL MORTG. PC ISSUE - P & I",
+    "state": "VA",
+    "city": "MCLEAN",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1459396800000,
+    "country": "USA",
+    "colors": [
+        "#fdfbfe",
+        "#bc92e4",
+        "#7522dd"
+    ],
+    "website": "https://finance.yahoo.com",
+    "logo": "yahoo.svg",
+    "name": "Fhl Mortgage Pc Issue - P & I"
+}

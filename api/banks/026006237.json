@@ -1,0 +1,18 @@
+{
+    "routing": "026006237",
+    "short": "INTERAUDI BANK",
+    "long": "INTERAUDI BANK",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1051761600000,
+    "country": "USA",
+    "colors": [
+        "#fefdfe",
+        "#848890"
+    ],
+    "website": "https://www.interaudibank.com",
+    "logo": "interaudibank.svg",
+    "name": "Interaudi Bank"
+}

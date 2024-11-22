@@ -1,0 +1,20 @@
+{
+    "routing": "031099996",
+    "short": "LEGACY HOLDING SYS",
+    "long": "LEGACY HOLDING SYSTEM",
+    "state": "WV",
+    "city": "PARKERSBURG",
+    "transfer": false,
+    "settlement": true,
+    "updated": 1537761600000,
+    "country": "USA",
+    "colors": [
+        "#326fa6",
+        "#80805c",
+        "#b5c7da",
+        "#d0a03c"
+    ],
+    "website": "https://apps.sos.wv.gov",
+    "logo": "wv.svg",
+    "name": "Legacy Holding System"
+}

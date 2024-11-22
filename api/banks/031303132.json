@@ -1,0 +1,20 @@
+{
+    "routing": "031303132",
+    "short": "FIRST DUNMORE",
+    "long": "FNCB BANK",
+    "state": "PA",
+    "city": "DUNMORE",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1472184000000,
+    "country": "USA",
+    "colors": [
+        "#1b2958",
+        "#9d96a6",
+        "#eaeff3",
+        "#ec2f24"
+    ],
+    "website": "https://www.psbt.com",
+    "logo": "psbt.svg",
+    "name": "Fncb Bank"
+}

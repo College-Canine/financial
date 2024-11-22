@@ -1,0 +1,21 @@
+{
+    "routing": "021085088",
+    "short": "NEW ZEAL FMS",
+    "long": "NEW ZEAL FMS/FOREIGN DEPARTMENT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#46586a",
+        "#47704c",
+        "#b7bec7",
+        "#593e23",
+        "#cca720"
+    ],
+    "website": "https://www.state.gov",
+    "logo": "state.svg",
+    "name": "New Zeal Fms/foreign Department"
+}

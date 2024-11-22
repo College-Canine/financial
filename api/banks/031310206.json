@@ -1,0 +1,19 @@
+{
+    "routing": "031310206",
+    "short": "PENNIAN BANK",
+    "long": "PENNIAN BANK",
+    "state": "PA",
+    "city": "MIFFLINTOWN",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1498795200000,
+    "country": "USA",
+    "colors": [
+        "#fdfefd",
+        "#4a5d8f",
+        "#999eb5"
+    ],
+    "website": "https://pennian.bank",
+    "logo": "pennian.svg",
+    "name": "Pennian Bank"
+}

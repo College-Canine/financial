@@ -1,0 +1,18 @@
+{
+    "routing": "021082311",
+    "short": "BUR FIN PROTECTION",
+    "long": "BUREAU OF CONSUMER FIN PROTECTION",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1334721600000,
+    "country": "USA",
+    "colors": [
+        "#76b1cd",
+        "#f5fdfb"
+    ],
+    "website": "https://dos.ny.gov",
+    "logo": "ny.svg",
+    "name": "Bureau Of Consumer Fin Protection"
+}

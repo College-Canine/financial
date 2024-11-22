@@ -1,0 +1,19 @@
+{
+    "routing": "026002752",
+    "short": "UN ORIENT NYC",
+    "long": "UNITED ORIENT BANK",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#fefdfd",
+        "#217a25",
+        "#a9cb91"
+    ],
+    "website": "https://www.uobusa.com",
+    "logo": "uobusa.svg",
+    "name": "United Orient Bank"
+}

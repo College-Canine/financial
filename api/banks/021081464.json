@@ -1,0 +1,19 @@
+{
+    "routing": "021081464",
+    "short": "AFRICAN DEV.FUND",
+    "long": "AFRICAN DEVELOPMENT FUND-GEN ACCOUNT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1420520400000,
+    "country": "USA",
+    "colors": [
+        "#fcfeff",
+        "#a0aba6",
+        "#17895a"
+    ],
+    "website": "https://www.afdb.org",
+    "logo": "afdb.svg",
+    "name": "African Development Fund-gen Account"
+}

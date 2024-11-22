@@ -1,0 +1,21 @@
+{
+    "routing": "021082939",
+    "short": "LATVIA-OPS ACCT 1",
+    "long": "LATVIJAS BANKA - OPS ACCT 1",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1408507200000,
+    "country": "USA",
+    "colors": [
+        "#3c4854",
+        "#fefffd",
+        "#1b5694",
+        "#a5a9af",
+        "#f6e473"
+    ],
+    "website": "https://www.bank.lv",
+    "logo": "bank.svg",
+    "name": "Latvijas Banka - Ops Account 1"
+}

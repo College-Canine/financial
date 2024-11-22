@@ -1,0 +1,20 @@
+{
+    "routing": "031306993",
+    "short": "JERSEY SHORE ST BK",
+    "long": "JERSEY SHORE STATE BANK",
+    "state": "PA",
+    "city": "WILLIAMSPORT",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#fefdfd",
+        "#727473",
+        "#2a2829",
+        "#29a161"
+    ],
+    "website": "https://www.jssb.com",
+    "logo": "jssb.svg",
+    "name": "Jersey Shore State Bank"
+}

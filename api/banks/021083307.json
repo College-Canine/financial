@@ -1,0 +1,18 @@
+{
+    "routing": "021083307",
+    "short": "BHUTAN",
+    "long": "BHUTAN/FOREIGN DEPARTMENT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#e4e4e4",
+        "#787979"
+    ],
+    "website": "https://www.mfa.gov.bt",
+    "logo": "gov.svg",
+    "name": "Bhutan/foreign Department"
+}

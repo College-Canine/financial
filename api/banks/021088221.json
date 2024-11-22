@@ -1,0 +1,18 @@
+{
+    "routing": "021088221",
+    "short": "AZERBAIJAN",
+    "long": "CENTRAL BK OF THE REP OF AZERBAIJAN",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1395201600000,
+    "country": "USA",
+    "colors": [
+        "#fefdfe",
+        "#888c87"
+    ],
+    "website": "https://www.cbar.az",
+    "logo": "cbar.svg",
+    "name": "Central Bank Of The Rep Of Azerbaijan"
+}

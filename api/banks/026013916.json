@@ -1,0 +1,18 @@
+{
+    "routing": "026013916",
+    "short": "EMIGRANT BANK",
+    "long": "EMIGRANT BANK",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1101790800000,
+    "country": "USA",
+    "colors": [
+        "#fdfefe",
+        "#6ca37d"
+    ],
+    "website": "https://emigrant.com",
+    "logo": "emigrant.svg",
+    "name": "Emigrant Bank"
+}

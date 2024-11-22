@@ -1,0 +1,18 @@
+{
+    "routing": "021054035",
+    "short": "DEF TRUST CA",
+    "long": "DEFEASANCE TRUST COLLATERAL ACCOUNT",
+    "state": "NJ",
+    "city": "EAST RUTHERFORD",
+    "transfer": false,
+    "settlement": true,
+    "updated": 1103778000000,
+    "country": "USA",
+    "colors": [
+        "#fdfeff",
+        "#303a55"
+    ],
+    "website": "https://www.investopedia.com",
+    "logo": "investopedia.svg",
+    "name": "Defeasance Trust Collateral Account"
+}

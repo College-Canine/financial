@@ -1,0 +1,18 @@
+{
+    "routing": "026004048",
+    "short": "ARAB CORP",
+    "long": "ARAB BANKING CORPORATION",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": false,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#fffefd",
+        "#70a5b4"
+    ],
+    "website": "https://www.bank-abc.com",
+    "logo": "bank-abc.svg",
+    "name": "Arab Banking Corporation"
+}

@@ -1,0 +1,18 @@
+{
+    "routing": "021086773",
+    "short": "IRAQ DEVELOPMT FD",
+    "long": "CENTRAL BANK OF IRAQ-DEV FUND",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1064894400000,
+    "country": "USA",
+    "colors": [
+        "#fefefe",
+        "#3e3e3e"
+    ],
+    "website": "https://en.wikipedia.org",
+    "logo": "wikipedia.svg",
+    "name": "Central Bank Of Iraq-dev Fund"
+}

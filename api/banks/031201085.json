@@ -1,0 +1,18 @@
+{
+    "routing": "031201085",
+    "short": "PENNSVILLE NATL",
+    "long": "PENNSVILLE NATIONAL BANK",
+    "state": "NJ",
+    "city": "PENNSVILLE",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#525072",
+        "#dfe0ed"
+    ],
+    "website": "https://www.pennsvillenb.com",
+    "logo": "pennsvillenb.svg",
+    "name": "Pennsville National Bank"
+}

@@ -1,0 +1,20 @@
+{
+    "routing": "026004970",
+    "short": "EW BK SMRINO",
+    "long": "EAST WEST BANK",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1415336400000,
+    "country": "USA",
+    "colors": [
+        "#f12e1b",
+        "#fdfdfe",
+        "#d8544c",
+        "#e0aaa4"
+    ],
+    "website": "https://www.eastwestbank.com",
+    "logo": "eastwestbank.svg",
+    "name": "East West Bank"
+}

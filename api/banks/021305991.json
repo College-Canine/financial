@@ -1,0 +1,18 @@
+{
+    "routing": "021305991",
+    "short": "FIRST GROTON",
+    "long": "FIRST NATIONAL BANK OF GROTON",
+    "state": "NY",
+    "city": "GROTON",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#3a6399",
+        "#bac8db"
+    ],
+    "website": "https://www.grotonbank.com",
+    "logo": "grotonbank.svg",
+    "name": "First National Bank Of Groton"
+}

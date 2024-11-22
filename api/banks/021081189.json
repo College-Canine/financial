@@ -1,0 +1,18 @@
+{
+    "routing": "021081189",
+    "short": "AUSTRIA DES ACCT",
+    "long": "OESTERREICHISCHE NATIONALBANK DES AC",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1168232400000,
+    "country": "USA",
+    "colors": [
+        "#fdfefe",
+        "#6489ae"
+    ],
+    "website": "https://www.oenb.at",
+    "logo": "oenb.svg",
+    "name": "Oesterreichische Nationalbank Des Ac"
+}

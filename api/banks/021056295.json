@@ -1,0 +1,19 @@
+{
+    "routing": "021056295",
+    "short": "DA F&F SS",
+    "long": "DISTRIBUTION ACCT - F&F SS",
+    "state": "NY",
+    "city": "EAST RUTHERFORD",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1537329600000,
+    "country": "USA",
+    "colors": [
+        "#333333",
+        "#979797",
+        "#fdfdfd"
+    ],
+    "website": "https://www.mapquest.com",
+    "logo": "mapquest.svg",
+    "name": "Distribution Account - F&f Ss"
+}

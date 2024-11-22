@@ -1,0 +1,19 @@
+{
+    "routing": "026546784",
+    "short": "IFC PI",
+    "long": "IFC-PI",
+    "state": "DC",
+    "city": "WASHINGTON",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#fefdfe",
+        "#38245b",
+        "#867e96"
+    ],
+    "website": "https://uwifc.com",
+    "logo": "uwifc.svg",
+    "name": "Ifc-pi"
+}

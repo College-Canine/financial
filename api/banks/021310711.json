@@ -1,0 +1,19 @@
+{
+    "routing": "021310711",
+    "short": "FIRST BK SCOTIA",
+    "long": "FIRST NATIONAL BANK OF SCOTIA",
+    "state": "NY",
+    "city": "SCOTIA",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#161616",
+        "#f7f7f7",
+        "#a3a3a3"
+    ],
+    "website": "https://firstscotia.com",
+    "logo": "firstscotia.svg",
+    "name": "First National Bank Of Scotia"
+}

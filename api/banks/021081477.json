@@ -1,0 +1,19 @@
+{
+    "routing": "021081477",
+    "short": "AFRICAN DB GL FUND",
+    "long": "AFRICAN DEVELOPMENT BK FUND FOR GLR",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1420606800000,
+    "country": "USA",
+    "colors": [
+        "#fcfeff",
+        "#a0aba6",
+        "#17895a"
+    ],
+    "website": "https://www.afdb.org",
+    "logo": "afdb.svg",
+    "name": "African Development Bank Fund For Glr"
+}

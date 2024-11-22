@@ -1,0 +1,18 @@
+{
+    "routing": "021272655",
+    "short": "CITIBANK FSB NJ",
+    "long": "CITIBANK, N.A.",
+    "logo": "citibank.svg",
+    "state": "NJ",
+    "city": "PARSIPPANY",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1340337600000,
+    "country": "USA",
+    "colors": [
+        "#1C4882",
+        "#CC2131"
+    ],
+    "website": "https://www.mapquest.com",
+    "name": "Citibank"
+}

@@ -1,0 +1,18 @@
+{
+    "routing": "021086207",
+    "short": "VATICAN AMMN",
+    "long": "AMMINISTRAZIONE DEL PATRIMONIO/FRGN",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#76b1cd",
+        "#f5fdfb"
+    ],
+    "website": "https://www.osc.ny.gov",
+    "logo": "ny.svg",
+    "name": "Amministrazione Del Patrimonio/frgn"
+}

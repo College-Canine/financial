@@ -1,0 +1,15 @@
+{
+    "routing": "021082353",
+    "short": "IRELAND OPS ACCT2",
+    "long": "CENT BK OF IRELAND OPS ACCT 2",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1294894800000,
+    "country": "USA",
+    "colors": [],
+    "website": "https://wise.com",
+    "logo": "wise.svg",
+    "name": "Cent Bank Of Ireland Ops Account 2"
+}

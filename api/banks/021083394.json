@@ -1,0 +1,20 @@
+{
+    "routing": "021083394",
+    "short": "BRAZIL",
+    "long": "BANCO CENTRAL DO BRAZIL",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1202965200000,
+    "country": "USA",
+    "colors": [
+        "#fdfefd",
+        "#d26a37",
+        "#2b2a29",
+        "#989490"
+    ],
+    "website": "https://www.bb.com.br",
+    "logo": "com.svg",
+    "name": "Banco Central Do Brazil"
+}

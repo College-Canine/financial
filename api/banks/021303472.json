@@ -1,0 +1,18 @@
+{
+    "routing": "021303472",
+    "short": "COMMUNITY BK SYR",
+    "long": "COMMUNITY BANK, NA",
+    "state": "NY",
+    "city": "ONEONTA",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1355374800000,
+    "country": "USA",
+    "colors": [
+        "#ca4a1e",
+        "#e5ad98"
+    ],
+    "website": "https://cbna.com",
+    "logo": "cbna.svg",
+    "name": "Community Bank"
+}

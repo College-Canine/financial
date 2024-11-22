@@ -1,0 +1,22 @@
+{
+    "routing": "031307691",
+    "short": "JIM THORPE NEIGHBO",
+    "long": "JIM THORPE NEIGHBORHOOD BANK",
+    "state": "PA",
+    "city": "JIM THORPE",
+    "transfer": false,
+    "settlement": true,
+    "updated": 1493092800000,
+    "country": "USA",
+    "colors": [
+        "#fcfcfb",
+        "#211d93",
+        "#9e9cca",
+        "#6260b0",
+        "#bc8281",
+        "#8b1211"
+    ],
+    "website": "https://www.jtnb.com",
+    "logo": "jtnb.svg",
+    "name": "Jim Thorpe Neighborhood Bank"
+}

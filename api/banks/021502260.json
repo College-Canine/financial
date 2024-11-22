@@ -1,0 +1,19 @@
+{
+    "routing": "021502260",
+    "short": "NODUS INTL BANK",
+    "long": "NODUS INTERNATIONAL BANK, INC",
+    "state": "PR",
+    "city": "SAN JUAN",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1463976000000,
+    "country": "USA",
+    "colors": [
+        "#fdfdfd",
+        "#163d9f",
+        "#73a0d2"
+    ],
+    "website": "https://nodusbank.com",
+    "logo": "nodusbank.svg",
+    "name": "Nodus International Bank Inc"
+}

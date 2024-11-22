@@ -1,0 +1,18 @@
+{
+    "routing": "011400149",
+    "short": "ST MARYS MANCHESTR",
+    "long": "ST MARYS BANK",
+    "state": "NH",
+    "city": "MANCHESTER",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1268024400000,
+    "country": "USA",
+    "colors": [
+        "#488dcb",
+        "#f7fefe"
+    ],
+    "website": "https://stmarysbank.com",
+    "logo": "stmarysbank.svg",
+    "name": "St Marys Bank"
+}

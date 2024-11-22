@@ -1,0 +1,19 @@
+{
+    "routing": "026013356",
+    "short": "METCOMMBK NY",
+    "long": "METROPOLITAN COMMERCIAL BANK",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1388466000000,
+    "country": "USA",
+    "colors": [
+        "#1c55a1",
+        "#e3f2fb",
+        "#83a0c1"
+    ],
+    "website": "https://mcbankny.com",
+    "logo": "mcbankny.svg",
+    "name": "Metropolitan Commercial Bank"
+}

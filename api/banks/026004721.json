@@ -1,0 +1,18 @@
+{
+    "routing": "026004721",
+    "short": "NATL PAKISTAN",
+    "long": "NATIONAL BANK OF PAKISTAN",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1377835200000,
+    "country": "USA",
+    "colors": [
+        "#76b1cd",
+        "#f5fdfb"
+    ],
+    "website": "https://www.dfs.ny.gov",
+    "logo": "ny.svg",
+    "name": "National Bank Of Pakistan"
+}

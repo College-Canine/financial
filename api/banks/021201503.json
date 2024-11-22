@@ -1,0 +1,18 @@
+{
+    "routing": "021201503",
+    "short": "TD BANK, NA",
+    "long": "TD BANK, NA",
+    "logo": "td.svg",
+    "state": "ME",
+    "city": "LEWISTON",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1380859200000,
+    "country": "USA",
+    "colors": [
+        "#4fba47",
+        "#fafefd"
+    ],
+    "website": "https://locations.td.com",
+    "name": "TD Bank"
+}

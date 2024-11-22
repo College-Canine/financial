@@ -1,0 +1,19 @@
+{
+    "routing": "021087329",
+    "short": "BELARUS",
+    "long": "NATL BANK OF THE REPUBLIC OF BELARUS",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1393822800000,
+    "country": "USA",
+    "colors": [
+        "#7c1e3e",
+        "#fdfdfe",
+        "#f0cf97"
+    ],
+    "website": "https://www.nbrb.by",
+    "logo": "nbrb.svg",
+    "name": "Natl Bank Of The Republic Of Belarus"
+}

@@ -1,0 +1,20 @@
+{
+    "routing": "021081406",
+    "short": "BOJ-OPS ACCT 1",
+    "long": "BANK OF JAPAN - OPERATIONS ACCOUNT 1",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1221796800000,
+    "country": "USA",
+    "colors": [
+        "#2a2d10",
+        "#29ac60",
+        "#5ebca9",
+        "#7cbc29"
+    ],
+    "website": "https://www.boj.or.jp",
+    "logo": "or.svg",
+    "name": "Bank Of Japan - Operations Account 1"
+}

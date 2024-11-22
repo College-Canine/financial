@@ -1,0 +1,18 @@
+{
+    "routing": "021202719",
+    "short": "BK OF NY NA NCD",
+    "long": "JPMORGAN CHASE BANK, NA",
+    "logo": "chase.svg",
+    "state": "NJ",
+    "city": "CARLSTADT",
+    "transfer": false,
+    "settlement": true,
+    "updated": 1415336400000,
+    "country": "USA",
+    "colors": [
+        "#004FC2",
+        "#FFFFFF"
+    ],
+    "website": "https://m.yelp.com",
+    "name": "JP-Morgan Chase Bank"
+}

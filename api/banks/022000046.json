@@ -1,0 +1,19 @@
+{
+    "routing": "022000046",
+    "short": "MFRS BUF",
+    "long": "MANUFACTURERS & TRADERS TRUST CO",
+    "state": "NY",
+    "city": "BUFFALO",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1446177600000,
+    "country": "USA",
+    "colors": [
+        "#159c6f",
+        "#f7faf7",
+        "#143321"
+    ],
+    "website": "https://ir.mtb.com",
+    "logo": "mtb.svg",
+    "name": "Manufacturers & Traders Trust"
+}

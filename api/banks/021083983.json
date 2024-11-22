@@ -1,0 +1,21 @@
+{
+    "routing": "021083983",
+    "short": "GAMBIA USAID GEPRP",
+    "long": "GAMBIA USAID GEPRP/FOREIGN DEPT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": false,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#fefdfe",
+        "#d87186",
+        "#3d567c",
+        "#99aabe",
+        "#b61234"
+    ],
+    "website": "https://www.usaid.gov",
+    "logo": "usaid.svg",
+    "name": "Gambia Usaid Geprp/foreign Dept"
+}

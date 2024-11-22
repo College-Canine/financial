@@ -1,0 +1,19 @@
+{
+    "routing": "022304616",
+    "short": "NATL LYONS",
+    "long": "LYONS NATIONAL BANK",
+    "state": "NY",
+    "city": "LYONS",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#fefdfd",
+        "#b6a6a6",
+        "#812e41"
+    ],
+    "website": "https://www.bankwithlnb.com",
+    "logo": "bankwithlnb.svg",
+    "name": "Lyons National Bank"
+}

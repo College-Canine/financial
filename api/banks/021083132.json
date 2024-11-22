@@ -1,0 +1,15 @@
+{
+    "routing": "021083132",
+    "short": "AUSTRIA",
+    "long": "AUSTRIA/FOREIGN DEPARTMENT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1201755600000,
+    "country": "USA",
+    "colors": [],
+    "website": "https://www.bmeia.gv.at",
+    "logo": "gv.svg",
+    "name": "Austria/foreign Department"
+}

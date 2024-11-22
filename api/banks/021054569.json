@@ -1,0 +1,24 @@
+{
+    "routing": "021054569",
+    "short": "DA REFCO",
+    "long": "DISTRIBUTION ACCT-REFCO",
+    "state": "NJ",
+    "city": "EAST RUTHERFORD",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1151640000000,
+    "country": "USA",
+    "colors": [
+        "#4c4d35",
+        "#9b8e2f",
+        "#313b78",
+        "#fdfdfc",
+        "#e7ca21",
+        "#3337a5",
+        "#9293e2",
+        "#3732fd"
+    ],
+    "website": "https://www.eastrutherfordnj.net",
+    "logo": "eastrutherfordnj.svg",
+    "name": "Distribution Acct-refco"
+}

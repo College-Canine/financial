@@ -1,0 +1,20 @@
+{
+    "routing": "021086948",
+    "short": "NICARAGUA",
+    "long": "NICARAGUA/FOREIGN DEPARTMENT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#1c3574",
+        "#fbfdfb",
+        "#8da5d0",
+        "#1043b6"
+    ],
+    "website": "https://migrantinfo.iom.int",
+    "logo": "iom.svg",
+    "name": "Nicaragua/foreign Department"
+}

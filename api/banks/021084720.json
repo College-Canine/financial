@@ -1,0 +1,18 @@
+{
+    "routing": "021084720",
+    "short": "LIBERIA DEBT",
+    "long": "CENTRAL BANK OF LIBERIA DEBT SVC ACC",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1113278400000,
+    "country": "USA",
+    "colors": [
+        "#e5ecf1",
+        "#396191"
+    ],
+    "website": "https://www.cbl.org.lr",
+    "logo": "org.svg",
+    "name": "Central Bank Of Liberia Debt Svc Acc"
+}

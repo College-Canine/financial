@@ -1,0 +1,19 @@
+{
+    "routing": "021205648",
+    "short": "CONNECTONE BANK",
+    "long": "CONNECTONE BANK",
+    "state": "NJ",
+    "city": "ENGLEWOOD CLIFFS",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1470196800000,
+    "country": "USA",
+    "colors": [
+        "#fffcfe",
+        "#93b7c9",
+        "#17314a"
+    ],
+    "website": "https://www.connectonebank.com",
+    "logo": "connectonebank.svg",
+    "name": "Connectone Bank"
+}

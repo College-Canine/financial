@@ -1,0 +1,18 @@
+{
+    "routing": "021085376",
+    "short": "SAUDI ARABIA",
+    "long": "SAUDI ARABIA/FOREIGN DEPARTMENT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1202965200000,
+    "country": "USA",
+    "colors": [
+        "#e4e4e4",
+        "#787979"
+    ],
+    "website": "https://embassies.mofa.gov.sa",
+    "logo": "gov.svg",
+    "name": "Saudi Arabia/foreign Department"
+}

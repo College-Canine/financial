@@ -1,0 +1,19 @@
+{
+    "routing": "021088713",
+    "short": "CANADA FA CSA POOL",
+    "long": "BANK OF CANADA AS F/A - CSA POOL",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1414123200000,
+    "country": "USA",
+    "colors": [
+        "#fbfcf6",
+        "#4d6481",
+        "#a1b2c3"
+    ],
+    "website": "https://www.osfi-bsif.gc.ca",
+    "logo": "gc.svg",
+    "name": "Bank Of Canada As F/a - Csa Pool"
+}

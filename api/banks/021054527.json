@@ -1,0 +1,19 @@
+{
+    "routing": "021054527",
+    "short": "DA FARM CREDIT",
+    "long": "DISTRIBUTION ACCT-FARM CREDIT",
+    "state": "NJ",
+    "city": "EAST RUTHERFORD",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1155787200000,
+    "country": "USA",
+    "colors": [
+        "#fcfef6",
+        "#5a982b",
+        "#adc996"
+    ],
+    "website": "https://www.farmcrediteast.com",
+    "logo": "farmcrediteast.svg",
+    "name": "Distribution Acct-farm Credit"
+}

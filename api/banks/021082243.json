@@ -1,0 +1,20 @@
+{
+    "routing": "021082243",
+    "short": "UGANDA SP ACCT",
+    "long": "BANK OF UGANDA-SPECIAL ACCOUNT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1275451200000,
+    "country": "USA",
+    "colors": [
+        "#2a2d10",
+        "#29ac60",
+        "#5ebca9",
+        "#7cbc29"
+    ],
+    "website": "https://www.bou.or.ug",
+    "logo": "or.svg",
+    "name": "Bank Of Uganda-special Account"
+}

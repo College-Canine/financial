@@ -1,0 +1,18 @@
+{
+    "routing": "021086074",
+    "short": "ENGLAND A",
+    "long": "BK OF ENGLAND A*",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1202965200000,
+    "country": "USA",
+    "colors": [
+        "#599db5",
+        "#ffffff"
+    ],
+    "website": "https://www.usbanklocations.com",
+    "logo": "usbanklocations.svg",
+    "name": "Bank Of England A*"
+}

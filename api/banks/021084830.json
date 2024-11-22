@@ -1,0 +1,19 @@
+{
+    "routing": "021084830",
+    "short": "MALDIVES",
+    "long": "MALDIVES/FOREIGN DEPARTMENT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1202878800000,
+    "country": "USA",
+    "colors": [
+        "#fcfcfc",
+        "#393939",
+        "#979797"
+    ],
+    "website": "https://www.maldivesmission.com",
+    "logo": "maldivesmission.svg",
+    "name": "Maldives/foreign Department"
+}

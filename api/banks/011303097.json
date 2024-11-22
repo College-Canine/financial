@@ -1,0 +1,18 @@
+{
+    "routing": "011303097",
+    "short": "NORTHERN BK WOBURN",
+    "long": "NORTHERN BANK AND TRUST CO",
+    "state": "MA",
+    "city": "WOBURN",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#278855",
+        "#fefffc"
+    ],
+    "website": "https://www.nbtc.com",
+    "logo": "nbtc.svg",
+    "name": "Northern Bank And Trust"
+}

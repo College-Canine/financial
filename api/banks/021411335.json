@@ -1,0 +1,19 @@
+{
+    "routing": "021411335",
+    "short": "FIRST GLEN HEAD",
+    "long": "FIRST NATIONAL BANK OF LONG ISLAND",
+    "state": "NY",
+    "city": "GLEN HEAD",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#fefdfe",
+        "#5c666d",
+        "#1a98d1"
+    ],
+    "website": "https://www.fnbli.com",
+    "logo": "fnbli.svg",
+    "name": "First National Bank Of Long Island"
+}

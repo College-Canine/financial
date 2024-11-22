@@ -1,0 +1,20 @@
+{
+    "routing": "026008536",
+    "short": "ITALCREDIT",
+    "long": "UNICREDIT S.P.A.",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1347595200000,
+    "country": "USA",
+    "colors": [
+        "#fcfcfc",
+        "#d42828",
+        "#e3b0ad",
+        "#b34749"
+    ],
+    "website": "https://www.unicreditgroup.eu",
+    "logo": "unicreditgroup.svg",
+    "name": "Unicredit S.p.a"
+}

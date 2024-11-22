@@ -1,0 +1,19 @@
+{
+    "routing": "026001122",
+    "short": "NORTHERN INTL NYC",
+    "long": "NORTHERN TRUST INTL BKG. CORP.",
+    "state": "NJ",
+    "city": "JERSEY CITY",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1415336400000,
+    "country": "USA",
+    "colors": [
+        "#1b5240",
+        "#789d8f",
+        "#fafdfd"
+    ],
+    "website": "https://www.northerntrust.com",
+    "logo": "northerntrust.svg",
+    "name": "Northern Trust Intl Bkg. Corporation"
+}

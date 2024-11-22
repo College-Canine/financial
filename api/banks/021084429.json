@@ -1,0 +1,18 @@
+{
+    "routing": "021084429",
+    "short": "ITALYA",
+    "long": "ITALY ACCOUNT A/FOREIGN DEPARTMENT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1339387200000,
+    "country": "USA",
+    "colors": [
+        "#fefffe",
+        "#72717c"
+    ],
+    "website": "https://consnewyork.esteri.it",
+    "logo": "esteri.svg",
+    "name": "Italy Account A/foreign Department"
+}

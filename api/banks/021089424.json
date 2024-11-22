@@ -1,0 +1,19 @@
+{
+    "routing": "021089424",
+    "short": "AFDB-HIPC TRUST",
+    "long": "AFRICAN DEVELOPMENT BANK-HIPC TRUST",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 988948800000,
+    "country": "USA",
+    "colors": [
+        "#fcfeff",
+        "#a0aba6",
+        "#17895a"
+    ],
+    "website": "https://www.afdb.org",
+    "logo": "afdb.svg",
+    "name": "African Development Bank-hipc Trust"
+}

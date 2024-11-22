@@ -1,0 +1,22 @@
+{
+    "routing": "011501705",
+    "short": "FREEDOM NATL BANK",
+    "long": "FREEDOM NATIONAL BANK",
+    "state": "RI",
+    "city": "GREENVILLE",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1380254400000,
+    "country": "USA",
+    "colors": [
+        "#4c577a",
+        "#fefde3",
+        "#102a8b",
+        "#8b6a32",
+        "#aebbd3",
+        "#dbbc7f"
+    ],
+    "website": "https://www.mass.gov",
+    "logo": "mass.svg",
+    "name": "Freedom National Bank"
+}

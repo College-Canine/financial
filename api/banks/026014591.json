@@ -1,0 +1,19 @@
+{
+    "routing": "026014591",
+    "short": "ICBC",
+    "long": "INDUSTRIAL & COMM BANK OF CHINA LTD",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1258347600000,
+    "country": "USA",
+    "colors": [
+        "#fefefd",
+        "#5a4647",
+        "#aa9d9b"
+    ],
+    "website": "https://www.icbkus.com",
+    "logo": "icbkus.svg",
+    "name": "Industrial & Comm Bank Of China Ltd"
+}

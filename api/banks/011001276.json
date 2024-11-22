@@ -1,0 +1,19 @@
+{
+    "routing": "011001276",
+    "short": "ONEUNITED BANK",
+    "long": "ONEUNITED BANK",
+    "state": "MA",
+    "city": "BOSTON",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1041310800000,
+    "country": "USA",
+    "colors": [
+        "#9f7a10",
+        "#7f7b6e",
+        "#cfcfcf"
+    ],
+    "website": "https://www.oneunited.com",
+    "logo": "oneunited.svg",
+    "name": "Oneunited Bank"
+}

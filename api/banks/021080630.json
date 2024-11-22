@@ -1,0 +1,18 @@
+{
+    "routing": "021080630",
+    "short": "AFDB-HIPC NTF",
+    "long": "AFRICAN DEVEL B-HIPC NT FUND",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1069650000000,
+    "country": "USA",
+    "colors": [
+        "#1f4d83",
+        "#f8fefc"
+    ],
+    "website": "https://www.imf.org",
+    "logo": "imf.svg",
+    "name": "African Devel B-hipc Nt Fund"
+}

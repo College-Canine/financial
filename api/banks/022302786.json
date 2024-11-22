@@ -1,0 +1,18 @@
+{
+    "routing": "022302786",
+    "short": "STEUBEN TR HORNELL",
+    "long": "STEUBEN TRUST COMPANY",
+    "state": "NY",
+    "city": "HORNELL",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#c4b1b0",
+        "#7c2723"
+    ],
+    "website": "https://mysteubentrust.com",
+    "logo": "mysteubentrust.svg",
+    "name": "Steuben Trust Company"
+}

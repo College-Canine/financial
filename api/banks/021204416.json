@@ -1,0 +1,20 @@
+{
+    "routing": "021204416",
+    "short": "AMBOY OLD BRIDGE",
+    "long": "AMBOY BANK",
+    "state": "NJ",
+    "city": "OLD BRIDGE",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1355374800000,
+    "country": "USA",
+    "colors": [
+        "#fefefd",
+        "#9d9d9f",
+        "#1d1d1d",
+        "#1786c3"
+    ],
+    "website": "https://www.amboybank.com",
+    "logo": "amboybank.svg",
+    "name": "Amboy Bank"
+}

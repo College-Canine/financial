@@ -1,0 +1,19 @@
+{
+    "routing": "011201380",
+    "short": "CAMDEN NATL ME",
+    "long": "CAMDEN NATIONAL BANK",
+    "state": "ME",
+    "city": "ELLSWORTH",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1268024400000,
+    "country": "USA",
+    "colors": [
+        "#379fd9",
+        "#fefefc",
+        "#13547d"
+    ],
+    "website": "https://www.camdennational.bank",
+    "logo": "camdennational.svg",
+    "name": "Camden National Bank"
+}

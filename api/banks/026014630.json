@@ -1,0 +1,15 @@
+{
+    "routing": "026014630",
+    "short": "MORGAN STANLEY",
+    "long": "MORGAN STANLEY BANK, N.A.",
+    "state": "UT",
+    "city": "SALT LAKE CITY",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1255924800000,
+    "country": "USA",
+    "colors": [],
+    "website": "https://advisor.morganstanley.com",
+    "logo": "morganstanley.svg",
+    "name": "Morgan Stanley Bank"
+}

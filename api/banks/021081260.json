@@ -1,0 +1,19 @@
+{
+    "routing": "021081260",
+    "short": "AFDB MIC FUND",
+    "long": "AFRICAN DEVBK MIC FUND",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1421816400000,
+    "country": "USA",
+    "colors": [
+        "#fcfeff",
+        "#a0aba6",
+        "#17895a"
+    ],
+    "website": "https://www.afdb.org",
+    "logo": "afdb.svg",
+    "name": "African Devbk Mic Fund"
+}

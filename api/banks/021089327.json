@@ -1,0 +1,19 @@
+{
+    "routing": "021089327",
+    "short": "MAURITIUS SP",
+    "long": "BANK OF MAURITIUS-SPECIAL DEP. ACCT.",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1339387200000,
+    "country": "USA",
+    "colors": [
+        "#f8f9fd",
+        "#292854",
+        "#9090a4"
+    ],
+    "website": "https://www.bom.mu",
+    "logo": "bom.svg",
+    "name": "Bank Of Mauritius-special Dep. Account"
+}

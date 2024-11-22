@@ -1,0 +1,15 @@
+{
+    "routing": "026007906",
+    "short": "UNITED BK LTD NYC",
+    "long": "UNITED BANK LIMITED",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": false,
+    "updated": null,
+    "country": "USA",
+    "colors": [],
+    "website": "https://www.brecorder.com",
+    "logo": "brecorder.svg",
+    "name": "United Bank Limited"
+}

@@ -1,0 +1,18 @@
+{
+    "routing": "021310465",
+    "short": "UPSTATE NATL",
+    "long": "THE UPSTATE NATIONAL BANK",
+    "state": "NY",
+    "city": "LISBON",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1147924800000,
+    "country": "USA",
+    "colors": [
+        "#fefefe",
+        "#c4ac6f"
+    ],
+    "website": "https://upstatebank.com",
+    "logo": "upstatebank.svg",
+    "name": "The Upstate National Bank"
+}

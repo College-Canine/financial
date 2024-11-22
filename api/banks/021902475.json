@@ -1,0 +1,19 @@
+{
+    "routing": "021902475",
+    "short": "ORANGE MIDDLETOWN",
+    "long": "ORANGE BANK & TRUST COMPANY",
+    "state": "NY",
+    "city": "MIDDLETOWN",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1469678400000,
+    "country": "USA",
+    "colors": [
+        "#fffefd",
+        "#e09a46",
+        "#9d9e9f"
+    ],
+    "website": "https://www.orangebanktrust.com",
+    "logo": "orangebanktrust.svg",
+    "name": "Orange Bank & Trust Company"
+}

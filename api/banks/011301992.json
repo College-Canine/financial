@@ -1,0 +1,19 @@
+{
+    "routing": "011301992",
+    "short": "BANKFIVE",
+    "long": "BANKFIVE",
+    "state": "MA",
+    "city": "NEW BEDFORD",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1415336400000,
+    "country": "USA",
+    "colors": [
+        "#5a237a",
+        "#e7d8ec",
+        "#a085ae"
+    ],
+    "website": "https://www.bankfive.com",
+    "logo": "bankfive.svg",
+    "name": "Bankfive"
+}

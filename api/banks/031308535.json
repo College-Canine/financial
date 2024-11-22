@@ -1,0 +1,20 @@
+{
+    "routing": "031308535",
+    "short": "HONESDALE NATL",
+    "long": "HONESDALE NATIONAL BANK, THE",
+    "state": "PA",
+    "city": "HONESDALE",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1484283600000,
+    "country": "USA",
+    "colors": [
+        "#f9fdfd",
+        "#bb626a",
+        "#a2a6c0",
+        "#47649a"
+    ],
+    "website": "https://www.hnbbank.bank",
+    "logo": "hnbbank.svg",
+    "name": "Honesdale National Bank The"
+}

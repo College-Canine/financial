@@ -1,0 +1,18 @@
+{
+    "routing": "021081820",
+    "short": "HAITI RAMP",
+    "long": "BANQUE DE LA REPUBLIQUE D'HAITI RAMP",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1527566400000,
+    "country": "USA",
+    "colors": [
+        "#fefefe",
+        "#3e3e3e"
+    ],
+    "website": "https://en.wikipedia.org",
+    "logo": "wikipedia.svg",
+    "name": "Banque De La Republique D'haiti Ramp"
+}

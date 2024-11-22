@@ -1,0 +1,19 @@
+{
+    "routing": "031100102",
+    "short": "WSFS WILM DE",
+    "long": "WILMINGTON SAVINGS FUND SOCIETY, FSB",
+    "state": "DE",
+    "city": "WILMINGTON",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1291352400000,
+    "country": "USA",
+    "colors": [
+        "#179452",
+        "#fdfcfc",
+        "#96b7a6"
+    ],
+    "website": "https://www.wsfsbank.com",
+    "logo": "wsfsbank.svg",
+    "name": "Wilmington Savings Fund Society Fsb"
+}

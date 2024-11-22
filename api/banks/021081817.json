@@ -1,0 +1,18 @@
+{
+    "routing": "021081817",
+    "short": "KENYA RAMP",
+    "long": "CENTRAL BANK OF KENYA-RAMP ACCOUNT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": false,
+    "settlement": true,
+    "updated": 1485406800000,
+    "country": "USA",
+    "colors": [
+        "#fcfefd",
+        "#e2cc98"
+    ],
+    "website": "https://www.centralbank.go.ke",
+    "logo": "go.svg",
+    "name": "Central Bank Of Kenya-ramp Account"
+}

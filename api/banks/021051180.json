@@ -1,0 +1,18 @@
+{
+    "routing": "021051180",
+    "short": "CHIPS",
+    "long": "CHIPS ACCOUNT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1066708800000,
+    "country": "USA",
+    "colors": [
+        "#76b1cd",
+        "#f5fdfb"
+    ],
+    "website": "https://www.dot.ny.gov",
+    "logo": "ny.svg",
+    "name": "Chips Account"
+}

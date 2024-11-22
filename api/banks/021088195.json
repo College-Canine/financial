@@ -1,0 +1,18 @@
+{
+    "routing": "021088195",
+    "short": "BELGIUM PROD FMS",
+    "long": "NAT'L BANK OF BELGIUM PROD FMS AC",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#fefefd",
+        "#6b80a1"
+    ],
+    "website": "https://www.nbb.be",
+    "logo": "nbb.svg",
+    "name": "Nat'l Bank Of Belgium Prod Fms Ac"
+}

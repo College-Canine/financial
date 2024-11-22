@@ -1,0 +1,19 @@
+{
+    "routing": "021082162",
+    "short": "IFC ACCT ONE",
+    "long": "IFC WASH/FOREIGN DEPARTMENT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#1b5178",
+        "#4da6d4",
+        "#fefefe"
+    ],
+    "website": "https://www.ifc.org",
+    "logo": "ifc.svg",
+    "name": "Ifc Wash/foreign Department"
+}

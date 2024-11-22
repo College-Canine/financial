@@ -1,0 +1,21 @@
+{
+    "routing": "026011743",
+    "short": "MASHREQBANK PSC NY",
+    "long": "MASHREQBANK PSC",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": false,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#fffeff",
+        "#ee7b1c",
+        "#cf7d54",
+        "#f9ca99",
+        "#f5b91b"
+    ],
+    "website": "https://www.mashreq.com",
+    "logo": "mashreq.svg",
+    "name": "Mashreqbank Psc"
+}

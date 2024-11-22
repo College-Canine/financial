@@ -1,0 +1,19 @@
+{
+    "routing": "026008691",
+    "short": "BANGKOK BK NYC",
+    "long": "BANGKOK BANK PUBLIC COMPANY LIMITED",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": false,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#1f3fa3",
+        "#8090bc",
+        "#fcfdf7"
+    ],
+    "website": "https://www.bangkokbank.com",
+    "logo": "bangkokbank.svg",
+    "name": "Bangkok Bank Public Company Limited"
+}

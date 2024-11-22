@@ -1,0 +1,18 @@
+{
+    "routing": "021308642",
+    "short": "TIOGA SPENCER",
+    "long": "TIOGA STATE BANK",
+    "state": "NY",
+    "city": "SPENCER",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#2f4b7b",
+        "#bec7d6"
+    ],
+    "website": "https://www.tiogabank.com",
+    "logo": "tiogabank.svg",
+    "name": "Tioga State Bank"
+}

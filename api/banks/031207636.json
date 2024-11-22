@@ -1,0 +1,19 @@
+{
+    "routing": "031207636",
+    "short": "FULTON BANK NJ",
+    "long": "FULTON BANK OF NEW JERSEY",
+    "state": "NJ",
+    "city": "WOODBURY",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1319428800000,
+    "country": "USA",
+    "colors": [
+        "#fdfefd",
+        "#5988b5",
+        "#31363b"
+    ],
+    "website": "https://www.fultonbank.com",
+    "logo": "fultonbank.svg",
+    "name": "Fulton Bank Of New Jersey"
+}

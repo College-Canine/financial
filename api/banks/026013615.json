@@ -1,0 +1,19 @@
+{
+    "routing": "026013615",
+    "short": "CLSS",
+    "long": "CLS BANK INTERNATIONAL",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1397188800000,
+    "country": "USA",
+    "colors": [
+        "#103456",
+        "#f8fcfc",
+        "#5a7d9d"
+    ],
+    "website": "https://www.cls-group.com",
+    "logo": "cls-group.svg",
+    "name": "Cls Bank International"
+}

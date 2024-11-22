@@ -1,0 +1,19 @@
+{
+    "routing": "021083417",
+    "short": "MYANMAR BK",
+    "long": "MYANMAR BK/FOREIGN DEPARTMENT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#f4da12",
+        "#a89410",
+        "#cf2411"
+    ],
+    "website": "https://myanmarcgla.org",
+    "logo": "myanmarcgla.svg",
+    "name": "Myanmar Bk/foreign Department"
+}

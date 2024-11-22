@@ -1,0 +1,18 @@
+{
+    "routing": "026008659",
+    "short": "CIC - NEW YORK",
+    "long": "CREDIT INDUSTRIEL ET COMMERCIAL",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1469678400000,
+    "country": "USA",
+    "colors": [
+        "#fefefe",
+        "#434343"
+    ],
+    "website": "https://www.bloomberg.com",
+    "logo": "bloomberg.svg",
+    "name": "Credit Industriel Et Commercial"
+}

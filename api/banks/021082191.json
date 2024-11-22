@@ -1,0 +1,19 @@
+{
+    "routing": "021082191",
+    "short": "CANADA FISCALAGT B",
+    "long": "BANK OF CANADA FISCAL AGENT ACCT B",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1334721600000,
+    "country": "USA",
+    "colors": [
+        "#ffffff",
+        "#2e2e2e",
+        "#7c7c7c"
+    ],
+    "website": "https://www.bankofcanada.ca",
+    "logo": "bankofcanada.svg",
+    "name": "Bank Of Canada Fiscal Agent Account B"
+}

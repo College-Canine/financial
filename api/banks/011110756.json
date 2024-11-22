@@ -1,0 +1,19 @@
+{
+    "routing": "011110756",
+    "short": "START COMM BANK",
+    "long": "START COMMUNITY BANK",
+    "state": "CT",
+    "city": "NEW HAVEN",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1292907600000,
+    "country": "USA",
+    "colors": [
+        "#fefefe",
+        "#1a9796",
+        "#106fa8"
+    ],
+    "website": "https://www.newhavenbank.com",
+    "logo": "newhavenbank.svg",
+    "name": "Start Community Bank"
+}

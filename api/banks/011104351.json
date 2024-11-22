@@ -1,0 +1,20 @@
+{
+    "routing": "011104351",
+    "short": "SIMSBURY B&T",
+    "long": "SIMSBURY BANK AND TRUST CO",
+    "state": "CT",
+    "city": "SIMSBURY",
+    "transfer": true,
+    "settlement": true,
+    "updated": 945925200000,
+    "country": "USA",
+    "colors": [
+        "#fefefe",
+        "#ca3331",
+        "#144278",
+        "#8eb6d3"
+    ],
+    "website": "https://www.liberty-bank.com",
+    "logo": "liberty-bank.svg",
+    "name": "Simsbury Bank And Trust"
+}

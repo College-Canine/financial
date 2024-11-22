@@ -1,0 +1,25 @@
+{
+    "routing": "021083158",
+    "short": "BAHAMAS",
+    "long": "BAHAMAS/FOREIGN DEPARTMENT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1201755600000,
+    "country": "USA",
+    "colors": [
+        "#417038",
+        "#3091e6",
+        "#b92016",
+        "#4b3421",
+        "#f4eee1",
+        "#e45771",
+        "#a0957a",
+        "#1a2f5a",
+        "#cf8c3d"
+    ],
+    "website": "https://www.bahamasny.com",
+    "logo": "bahamasny.svg",
+    "name": "Bahamas/foreign Department"
+}

@@ -1,0 +1,19 @@
+{
+    "routing": "026084602",
+    "short": "EMPIRE FIN FCU NY",
+    "long": "EMPIRE FINANCIAL FCU",
+    "state": "NY",
+    "city": "HICKSVILLE",
+    "transfer": false,
+    "settlement": false,
+    "updated": 1539316800000,
+    "country": "USA",
+    "colors": [
+        "#fdfef8",
+        "#afb530",
+        "#f5f6b5"
+    ],
+    "website": "https://www.jovia.org",
+    "logo": "jovia.svg",
+    "name": "Empire Financial Fcu"
+}

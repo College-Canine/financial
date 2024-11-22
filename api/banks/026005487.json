@@ -1,0 +1,20 @@
+{
+    "routing": "026005487",
+    "short": "NATL CANADA NYC",
+    "long": "NATIONAL BANK OF CANADA",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": false,
+    "settlement": true,
+    "updated": 1377144000000,
+    "country": "USA",
+    "colors": [
+        "#f9fafb",
+        "#c82521",
+        "#1e4861",
+        "#a97c86"
+    ],
+    "website": "https://nbfm.ca",
+    "logo": "nbfm.svg",
+    "name": "National Bank Of Canada"
+}

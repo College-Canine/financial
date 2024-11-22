@@ -1,0 +1,18 @@
+{
+    "routing": "021083530",
+    "short": "CHILE",
+    "long": "CHILE/FOREIGN DEPARTMENT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1202965200000,
+    "country": "USA",
+    "colors": [
+        "#4da3d9",
+        "#cee5ee"
+    ],
+    "website": "https://chile.gob.cl",
+    "logo": "gob.svg",
+    "name": "Chile/foreign Department"
+}

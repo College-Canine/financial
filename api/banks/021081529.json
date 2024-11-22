@@ -1,0 +1,17 @@
+{
+    "routing": "021081529",
+    "short": "ZAMBIA RAMP",
+    "long": "BANK OF ZAMBIA-RAMP ACCOUNT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1230699600000,
+    "country": "USA",
+    "colors": [
+        "#fafafa"
+    ],
+    "website": "https://support.ramp.network",
+    "logo": "ramp.svg",
+    "name": "Bank Of Zambia-ramp Account"
+}

@@ -1,0 +1,19 @@
+{
+    "routing": "026590109",
+    "short": "IBRD PI",
+    "long": "IBRD - PRINCIPAL & INTEREST ACCOUNT",
+    "state": "DC",
+    "city": "WASHINGTON",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#fefefd",
+        "#3ec3ed",
+        "#3a5e77"
+    ],
+    "website": "https://treasury.worldbank.org",
+    "logo": "worldbank.svg",
+    "name": "Ibrd - Principal & Interest Account"
+}

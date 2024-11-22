@@ -1,0 +1,20 @@
+{
+    "routing": "021213371",
+    "short": "NEW MILLENNIUM BK",
+    "long": "NEW MILLENNIUM BANK",
+    "state": "NJ",
+    "city": "FORT LEE",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1500004800000,
+    "country": "USA",
+    "colors": [
+        "#fffefe",
+        "#787a7c",
+        "#4383bd",
+        "#312f30"
+    ],
+    "website": "https://nmbonline.com",
+    "logo": "nmbonline.svg",
+    "name": "New Millennium Bank"
+}

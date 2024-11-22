@@ -1,0 +1,19 @@
+{
+    "routing": "026014245",
+    "short": "GLOBAL BANK",
+    "long": "GLOBAL BANK",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1188964800000,
+    "country": "USA",
+    "colors": [
+        "#fafdfd",
+        "#18aa7b",
+        "#50b7bd"
+    ],
+    "website": "https://globalbankny.com",
+    "logo": "globalbankny.svg",
+    "name": "Global Bank"
+}

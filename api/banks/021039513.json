@@ -1,0 +1,19 @@
+{
+    "routing": "021039513",
+    "short": "FHLMC INVESTOR PI",
+    "long": "FEDERAL HOME LOAN MTG. INVESTOR PI",
+    "state": "VA",
+    "city": "MCLEAN",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1221710400000,
+    "country": "USA",
+    "colors": [
+        "#fefdfe",
+        "#25447e",
+        "#7f90ac"
+    ],
+    "website": "https://www.freddiemac.com",
+    "logo": "freddiemac.svg",
+    "name": "Federal Home Loan Mortgage Investor Principal and Interest"
+}

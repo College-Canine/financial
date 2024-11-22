@@ -1,0 +1,18 @@
+{
+    "routing": "021084034",
+    "short": "GHANA",
+    "long": "GHANA/FOREIGN DEPARTMENT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1202965200000,
+    "country": "USA",
+    "colors": [
+        "#e4e4e4",
+        "#787979"
+    ],
+    "website": "https://newyork.mfa.gov.gh",
+    "logo": "gov.svg",
+    "name": "Ghana/foreign Department"
+}

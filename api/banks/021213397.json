@@ -1,0 +1,21 @@
+{
+    "routing": "021213397",
+    "short": "STERLING NATIONAL",
+    "long": "STERLING NATIONAL BANK",
+    "state": "NJ",
+    "city": "LODI",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1465790400000,
+    "country": "USA",
+    "colors": [
+        "#fcfefd",
+        "#c7b638",
+        "#424d45",
+        "#102e64",
+        "#647da9"
+    ],
+    "website": "https://www.websterbank.com",
+    "logo": "websterbank.svg",
+    "name": "Sterling National Bank"
+}

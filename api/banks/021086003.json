@@ -1,0 +1,20 @@
+{
+    "routing": "021086003",
+    "short": "NRB TONGA",
+    "long": "NRB TONGA/FOREIGN DEPARTMENT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1493006400000,
+    "country": "USA",
+    "colors": [
+        "#fdfefe",
+        "#7c9eba",
+        "#152e49",
+        "#a6b962"
+    ],
+    "website": "https://www.hcch.net",
+    "logo": "hcch.svg",
+    "name": "Nrb Tonga/foreign Department"
+}

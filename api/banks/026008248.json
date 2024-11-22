@@ -1,0 +1,18 @@
+{
+    "routing": "026008248",
+    "short": "KBC BANK NV NYC",
+    "long": "KBC BANK, N.V.",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 946357200000,
+    "country": "USA",
+    "colors": [
+        "#ccedf4",
+        "#2ba0ce"
+    ],
+    "website": "https://www.kbc.be",
+    "logo": "kbc.svg",
+    "name": "Kbc Bank N.v"
+}

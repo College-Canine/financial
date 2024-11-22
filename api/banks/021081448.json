@@ -1,0 +1,18 @@
+{
+    "routing": "021081448",
+    "short": "SVERIGES OPS ACCT1",
+    "long": "SVERIGES RIKSBANK-OPER ACCOUNT 1",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1312948800000,
+    "country": "USA",
+    "colors": [
+        "#5a8cbb",
+        "#b7d4e8"
+    ],
+    "website": "https://www.riksbank.se",
+    "logo": "riksbank.svg",
+    "name": "Sveriges Riksbank-oper Account 1"
+}

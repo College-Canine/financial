@@ -1,0 +1,19 @@
+{
+    "routing": "021039500",
+    "short": "FNMA NYC",
+    "long": "FNMA - GENERAL ACCOUNT",
+    "state": "DC",
+    "city": "WASHINGTON",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#fdfefd",
+        "#143046",
+        "#6b7e8c"
+    ],
+    "website": "https://www.fanniemae.com",
+    "logo": "fanniemae.svg",
+    "name": "Fnma - General Account"
+}

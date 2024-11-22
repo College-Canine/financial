@@ -1,0 +1,20 @@
+{
+    "routing": "026014889",
+    "short": "AGRICULTURAL BANK",
+    "long": "AGRICULTURAL BANK OF CHINA LIMITED",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1445227200000,
+    "country": "USA",
+    "colors": [
+        "#fdfdfd",
+        "#23a590",
+        "#212121",
+        "#777777"
+    ],
+    "website": "https://www.us.abchina.com",
+    "logo": "abchina.svg",
+    "name": "Agricultural Bank Of China Limited"
+}

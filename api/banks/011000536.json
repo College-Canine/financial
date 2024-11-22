@@ -1,0 +1,20 @@
+{
+    "routing": "011000536",
+    "short": "FHLB BOSTON",
+    "long": "FEDERAL HOME LOAN BANK",
+    "state": "MA",
+    "city": "BOSTON",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1503028800000,
+    "country": "USA",
+    "colors": [
+        "#fdfefe",
+        "#dd9f3d",
+        "#83807f",
+        "#383838"
+    ],
+    "website": "https://fhlbanks.com",
+    "logo": "fhlbanks.svg",
+    "name": "Federal Home Loan Bank"
+}

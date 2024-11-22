@@ -1,0 +1,20 @@
+{
+    "routing": "021800328",
+    "short": "VEN FFF PAR IC",
+    "long": "VENEZUELA FFF PAR SERIES/FOREIGN",
+    "state": "",
+    "city": "",
+    "transfer": false,
+    "settlement": true,
+    "updated": 1447045200000,
+    "country": "USA",
+    "colors": [
+        "#475281",
+        "#152076",
+        "#141caf",
+        "#f3f4f7"
+    ],
+    "website": "https://www.transfermarkt.com",
+    "logo": "transfermarkt.svg",
+    "name": "Venezuela Fff Par Series/foreign"
+}

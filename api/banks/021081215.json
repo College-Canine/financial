@@ -1,0 +1,19 @@
+{
+    "routing": "021081215",
+    "short": "NBK INV PORT",
+    "long": "NATIONAL BANK OF KAZAK INV PORT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1207281600000,
+    "country": "USA",
+    "colors": [
+        "#fefefe",
+        "#3e3934",
+        "#a3a09e"
+    ],
+    "website": "https://www.nbcoxsackie.com",
+    "logo": "nbcoxsackie.svg",
+    "name": "National Bank Of Kazak Inv Port"
+}

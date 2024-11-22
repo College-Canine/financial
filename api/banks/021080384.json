@@ -1,0 +1,19 @@
+{
+    "routing": "021080384",
+    "short": "AFDB-HIPC AFD FUND",
+    "long": "AFRICAN DEVELOPMENT BK-HIPC AFD FUND",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1017118800000,
+    "country": "USA",
+    "colors": [
+        "#fcfeff",
+        "#a0aba6",
+        "#17895a"
+    ],
+    "website": "https://www.afdb.org",
+    "logo": "afdb.svg",
+    "name": "African Development Bk-hipc Afd Fund"
+}

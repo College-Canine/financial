@@ -1,0 +1,17 @@
+{
+    "routing": "011402079",
+    "short": "OPTIMA BANK",
+    "long": "OPTIMA BANK & TRUST",
+    "state": "NH",
+    "city": "PORTSMOUTH",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1201582800000,
+    "country": "USA",
+    "colors": [
+        "#daeaf4"
+    ],
+    "website": "https://www.linkedin.com",
+    "logo": "linkedin.svg",
+    "name": "Optima Bank & Trust"
+}

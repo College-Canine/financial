@@ -1,0 +1,22 @@
+{
+    "routing": "031307701",
+    "short": "MAUCH CHUNK TRUST",
+    "long": "MAUCH CHUNK TRUST CO.",
+    "state": "PA",
+    "city": "JIM THORPE",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1100840400000,
+    "country": "USA",
+    "colors": [
+        "#91c459",
+        "#e5f6d3",
+        "#9b9d9e",
+        "#27813f",
+        "#2d9cb0",
+        "#484948"
+    ],
+    "website": "https://www.mct.bank",
+    "logo": "mct.svg",
+    "name": "Mauch Chunk Trust"
+}

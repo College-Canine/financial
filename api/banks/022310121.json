@@ -1,0 +1,19 @@
+{
+    "routing": "022310121",
+    "short": "EVANS ANGOLA",
+    "long": "EVANS BANK, NATIONAL ASSOCIATION",
+    "state": "NY",
+    "city": "ANGOLA",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1380081600000,
+    "country": "USA",
+    "colors": [
+        "#fa8f1c",
+        "#fefffe",
+        "#ecb26d"
+    ],
+    "website": "https://www.evansbank.com",
+    "logo": "evansbank.svg",
+    "name": "Evans Bank National Association"
+}

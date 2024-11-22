@@ -1,0 +1,20 @@
+{
+    "routing": "011201759",
+    "short": "BAR HARBOR BK TR",
+    "long": "BAR HARBOR BANK & TRUST",
+    "state": "ME",
+    "city": "BAR HARBOR",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1117771200000,
+    "country": "USA",
+    "colors": [
+        "#fefefd",
+        "#93d5b9",
+        "#9dc0df",
+        "#1078b7"
+    ],
+    "website": "https://www.barharbor.bank",
+    "logo": "barharbor.svg",
+    "name": "Bar Harbor Bank & Trust"
+}

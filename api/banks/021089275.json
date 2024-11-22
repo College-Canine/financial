@@ -1,0 +1,18 @@
+{
+    "routing": "021089275",
+    "short": "FRBFX ACCOUNT",
+    "long": "FRBNYFX ACCOUNT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": false,
+    "updated": 962769600000,
+    "country": "USA",
+    "colors": [
+        "#eff6fd",
+        "#5a708e"
+    ],
+    "website": "https://www.newyorkfed.org",
+    "logo": "newyorkfed.svg",
+    "name": "Frbnyfx Account"
+}

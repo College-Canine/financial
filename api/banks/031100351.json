@@ -1,0 +1,19 @@
+{
+    "routing": "031100351",
+    "short": "BK OF NY WILM",
+    "long": "BNY MELLON TRUST OF DELAWARE",
+    "state": "DE",
+    "city": "WILMINGTON",
+    "transfer": false,
+    "settlement": false,
+    "updated": 1398744000000,
+    "country": "USA",
+    "colors": [
+        "#ebf0f2",
+        "#3e90a1",
+        "#1b3b51"
+    ],
+    "website": "https://www.bny.com",
+    "logo": "bny.svg",
+    "name": "Bny Mellon Trust Of Delaware"
+}

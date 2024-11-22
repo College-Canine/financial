@@ -1,0 +1,20 @@
+{
+    "routing": "021081626",
+    "short": "GERMANY OPS ACCT1",
+    "long": "DEUTSCHE BUNDESBANK OPER ACCT 1",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1237521600000,
+    "country": "USA",
+    "colors": [
+        "#fdfefd",
+        "#efce66",
+        "#717d45",
+        "#2a77ad"
+    ],
+    "website": "https://www.bundesbank.de",
+    "logo": "bundesbank.svg",
+    "name": "Deutsche Bundesbank Oper Account 1"
+}

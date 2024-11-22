@@ -1,0 +1,18 @@
+{
+    "routing": "021172784",
+    "short": "FIELDPOINT PRIV BK",
+    "long": "FIELDPOINT PRIVATE BANK & TRUST",
+    "state": "CT",
+    "city": "GREENWICH",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1525060800000,
+    "country": "USA",
+    "colors": [
+        "#384054",
+        "#fdfefd"
+    ],
+    "website": "https://www.fieldpointprivate.com",
+    "logo": "fieldpointprivate.svg",
+    "name": "Fieldpoint Private Bank & Trust"
+}

@@ -1,0 +1,18 @@
+{
+    "routing": "011500858",
+    "short": "WASH TR WESTERLY",
+    "long": "WASHINGTON TRUST COMPANY",
+    "state": "RI",
+    "city": "WESTERLY",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#fefcfc",
+        "#2c6ca7"
+    ],
+    "website": "https://www.washtrust.com",
+    "logo": "washtrust.svg",
+    "name": "Washington Trust Company"
+}

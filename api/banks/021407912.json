@@ -1,0 +1,18 @@
+{
+    "routing": "021407912",
+    "short": "CAPITAL ONE NA",
+    "long": "CAPITAL ONE, NA",
+    "logo": "capital-one.svg",
+    "state": "NY",
+    "city": "MELVILLE",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1440043200000,
+    "country": "USA",
+    "colors": [
+        "#D03027",
+        "#004977"
+    ],
+    "website": "https://m.yelp.com",
+    "name": "Capital One"
+}

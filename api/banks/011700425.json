@@ -1,0 +1,20 @@
+{
+    "routing": "011700425",
+    "short": "NORTHWAY BANK",
+    "long": "NORTHWAY BANK",
+    "state": "NH",
+    "city": "BERLIN",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1332907200000,
+    "country": "USA",
+    "colors": [
+        "#fdfefe",
+        "#233169",
+        "#40434d",
+        "#9da3b1"
+    ],
+    "website": "https://www.northwaybank.com",
+    "logo": "northwaybank.svg",
+    "name": "Northway Bank"
+}

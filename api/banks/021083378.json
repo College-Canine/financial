@@ -1,0 +1,22 @@
+{
+    "routing": "021083378",
+    "short": "NATO NACISA FMS",
+    "long": "NATO NACISA FMS/FOREIGN DEPARTMENT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#5f67b0",
+        "#92b6e5",
+        "#fdfdfe",
+        "#7d7922",
+        "#1225fc",
+        "#1f2795"
+    ],
+    "website": "https://www.dsca.mil",
+    "logo": "dsca.svg",
+    "name": "Nato Nacisa Fms/foreign Department"
+}

@@ -1,0 +1,21 @@
+{
+    "routing": "026000217",
+    "short": "NATL BK KUWAIT",
+    "long": "NATIONAL BANK OF KUWAIT S.A.K.P.",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1472097600000,
+    "country": "USA",
+    "colors": [
+        "#fefdfd",
+        "#7289a8",
+        "#d5273d",
+        "#10366c",
+        "#e38997"
+    ],
+    "website": "https://www.nbk.com",
+    "logo": "nbk.svg",
+    "name": "National Bank Of Kuwait S.a.k.p"
+}

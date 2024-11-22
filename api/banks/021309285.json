@@ -1,0 +1,19 @@
+{
+    "routing": "021309285",
+    "short": "WSB MUNICIPAL BANK",
+    "long": "WSB MUNICIPAL BANK",
+    "state": "NY",
+    "city": "WATERTOWN",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1444104000000,
+    "country": "USA",
+    "colors": [
+        "#fefefe",
+        "#696969",
+        "#1c1c1c"
+    ],
+    "website": "https://www.watertownsavingsbank.com",
+    "logo": "watertownsavingsbank.svg",
+    "name": "Wsb Municipal Bank"
+}

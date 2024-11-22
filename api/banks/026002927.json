@@ -1,0 +1,19 @@
+{
+    "routing": "026002927",
+    "short": "CATHAY BANK",
+    "long": "CATHAY BANK",
+    "state": "NY",
+    "city": "FLUSHING",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1327467600000,
+    "country": "USA",
+    "colors": [
+        "#fefdfd",
+        "#ca2935",
+        "#e5a6ab"
+    ],
+    "website": "https://www.cathaybank.com",
+    "logo": "cathaybank.svg",
+    "name": "Cathay Bank"
+}

@@ -1,0 +1,18 @@
+{
+    "routing": "021086456",
+    "short": "MOZAMBIQUE",
+    "long": "MOZAMBIQUE/FOREIGN DEPARTMENT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1426132800000,
+    "country": "USA",
+    "colors": [
+        "#fffeff",
+        "#fca9f0"
+    ],
+    "website": "https://mozambique-un.org",
+    "logo": "mozambique-un.svg",
+    "name": "Mozambique/foreign Department"
+}

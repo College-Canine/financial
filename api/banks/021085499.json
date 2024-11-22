@@ -1,0 +1,18 @@
+{
+    "routing": "021085499",
+    "short": "SINGAPORE FMS",
+    "long": "SINGAPORE FMS/FOREIGN DEPARTMENT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#e4e4e4",
+        "#787979"
+    ],
+    "website": "https://www.mfa.gov.sg",
+    "logo": "gov.svg",
+    "name": "Singapore Fms/foreign Department"
+}

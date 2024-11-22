@@ -1,0 +1,15 @@
+{
+    "routing": "011075150",
+    "short": "SANTANDER BK",
+    "long": "SANTANDER BANK, N.A.",
+    "logo": "santander.svg",
+    "state": "PA",
+    "city": "WYOMISSING",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1383019200000,
+    "country": "USA",
+    "colors": [],
+    "website": "https://locations.santanderbank.com",
+    "name": "Santander Bank"
+}

@@ -1,0 +1,19 @@
+{
+    "routing": "021033205",
+    "short": "FHLMC WASHS",
+    "long": "FED. HOME LOAN MORT. GENERAL ACCOUNT",
+    "state": "VA",
+    "city": "MCLEAN",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1397188800000,
+    "country": "USA",
+    "colors": [
+        "#fefdfe",
+        "#25447e",
+        "#7f90ac"
+    ],
+    "website": "https://www.freddiemac.com",
+    "logo": "freddiemac.svg",
+    "name": "Federal Home Loan Mortgage General Account"
+}

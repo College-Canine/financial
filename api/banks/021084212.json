@@ -1,0 +1,18 @@
+{
+    "routing": "021084212",
+    "short": "INDIA",
+    "long": "INDIA/FOREIGN DEPARTMENT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1202965200000,
+    "country": "USA",
+    "colors": [
+        "#e4e4e4",
+        "#787979"
+    ],
+    "website": "https://www.indiainnewyork.gov.in",
+    "logo": "gov.svg",
+    "name": "India/foreign Department"
+}

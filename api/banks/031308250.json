@@ -1,0 +1,21 @@
+{
+    "routing": "031308250",
+    "short": "EPHRATA NATL",
+    "long": "THE EPHRATA NATIONAL BANK",
+    "state": "PA",
+    "city": "EPHRATA",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#d95c7c",
+        "#cfe5f4",
+        "#f4b3c5",
+        "#d4103e",
+        "#2d5f8f"
+    ],
+    "website": "https://www.epnb.com",
+    "logo": "epnb.svg",
+    "name": "The Ephrata National Bank"
+}

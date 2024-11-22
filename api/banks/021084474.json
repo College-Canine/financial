@@ -1,0 +1,20 @@
+{
+    "routing": "021084474",
+    "short": "JAMAICA",
+    "long": "JAMAICA/FOREIGN DEPARTMENT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1202878800000,
+    "country": "USA",
+    "colors": [
+        "#ae8073",
+        "#cfa251",
+        "#e0d6d6",
+        "#c25e2e"
+    ],
+    "website": "https://congenjamaica-ny.org",
+    "logo": "congenjamaica-ny.svg",
+    "name": "Jamaica/foreign Department"
+}

@@ -1,0 +1,18 @@
+{
+    "routing": "026006020",
+    "short": "GULF INTL BK NY",
+    "long": "GULF INTERNATIONAL BANK (UK) LIMITED",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": false,
+    "settlement": false,
+    "updated": 1431403200000,
+    "country": "USA",
+    "colors": [
+        "#fefdfe",
+        "#686c6e"
+    ],
+    "website": "https://www.gib.com",
+    "logo": "gib.svg",
+    "name": "Gulf International Bank (uk) Limited"
+}

@@ -1,0 +1,19 @@
+{
+    "routing": "011102502",
+    "short": "UNION SAVINGS",
+    "long": "UNION SAVINGS BANK",
+    "state": "CT",
+    "city": "LITCHFIELD",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1293080400000,
+    "country": "USA",
+    "colors": [
+        "#fbfeef",
+        "#77a22d",
+        "#157373"
+    ],
+    "website": "https://www.unionsavings.com",
+    "logo": "unionsavings.svg",
+    "name": "Union Savings Bank"
+}

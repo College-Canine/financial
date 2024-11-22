@@ -1,0 +1,19 @@
+{
+    "routing": "021502804",
+    "short": "SCOTIABANK PR",
+    "long": "SCOTIABANK DE PUERTO RICO",
+    "state": "PR",
+    "city": "SAN JUAN",
+    "transfer": false,
+    "settlement": true,
+    "updated": 1330059600000,
+    "country": "USA",
+    "colors": [
+        "#333333",
+        "#979797",
+        "#fdfdfd"
+    ],
+    "website": "https://www.mapquest.com",
+    "logo": "mapquest.svg",
+    "name": "Scotiabank De Puerto Rico"
+}

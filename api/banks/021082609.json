@@ -1,0 +1,18 @@
+{
+    "routing": "021082609",
+    "short": "SEC TREAS SPEC ACC",
+    "long": "SEC TREAS SPEC ACC/FOREIGN DEPT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1479445200000,
+    "country": "USA",
+    "colors": [
+        "#fffdfe",
+        "#577cb6"
+    ],
+    "website": "https://www.sec.gov",
+    "logo": "sec.svg",
+    "name": "Sec Treasury Spec Acc/foreign Dept"
+}

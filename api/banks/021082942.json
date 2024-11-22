@@ -1,0 +1,17 @@
+{
+    "routing": "021082942",
+    "short": "MAURITANIA RAMP",
+    "long": "BANQUE CENTRALE DE MAURITANIE- RAMP",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1400040000000,
+    "country": "USA",
+    "colors": [
+        "#fafafa"
+    ],
+    "website": "https://ramp.com",
+    "logo": "ramp.svg",
+    "name": "Banque Centrale De Mauritanie- Ramp"
+}

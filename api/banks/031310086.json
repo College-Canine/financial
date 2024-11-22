@@ -1,0 +1,18 @@
+{
+    "routing": "031310086",
+    "short": "PEOPLESBANK CVB",
+    "long": "PEOPLESBANK, A CODORUS VALLEY COMPAN",
+    "state": "PA",
+    "city": "YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1421125200000,
+    "country": "USA",
+    "colors": [
+        "#29adfb",
+        "#daedfc"
+    ],
+    "website": "https://www.facebook.com",
+    "logo": "facebook.svg",
+    "name": "Peoplesbank A Codorus Valley Compan"
+}

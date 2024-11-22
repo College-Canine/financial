@@ -1,0 +1,21 @@
+{
+    "routing": "021087701",
+    "short": "VEN USD DIS A IC",
+    "long": "VEN USD DIS A IC/FOREIGN DEPARTMENT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": false,
+    "settlement": true,
+    "updated": 1447045200000,
+    "country": "USA",
+    "colors": [
+        "#46586a",
+        "#47704c",
+        "#b7bec7",
+        "#593e23",
+        "#cca720"
+    ],
+    "website": "https://www.state.gov",
+    "logo": "state.svg",
+    "name": "Ven Usd Dis A Ic/foreign Department"
+}

@@ -1,0 +1,18 @@
+{
+    "routing": "021054718",
+    "short": "DA US TREASURY",
+    "long": "DISTRIBUTION ACCT-US TREASURY",
+    "state": "NJ",
+    "city": "EAST RUTHERFORD",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1151640000000,
+    "country": "USA",
+    "colors": [
+        "#fefefe",
+        "#3e3e3e"
+    ],
+    "website": "https://en.wikipedia.org",
+    "logo": "wikipedia.svg",
+    "name": "Distribution Acct-us Treasury"
+}

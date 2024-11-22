@@ -1,0 +1,18 @@
+{
+    "routing": "021087840",
+    "short": "LIETUVOS OPSACCT1",
+    "long": "LIETUVOS BANKAS - OPERATIONS ACCOUNT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1424322000000,
+    "country": "USA",
+    "colors": [
+        "#76b1cd",
+        "#f5fdfb"
+    ],
+    "website": "https://www.dfs.ny.gov",
+    "logo": "ny.svg",
+    "name": "Lietuvos Bankas - Operations Account"
+}

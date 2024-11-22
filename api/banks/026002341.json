@@ -1,0 +1,18 @@
+{
+    "routing": "026002341",
+    "short": "GULF INTL BK NYC",
+    "long": "GULF INTERNATIONAL BANK",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": false,
+    "settlement": false,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#fefdfe",
+        "#686c6e"
+    ],
+    "website": "https://www.gib.com",
+    "logo": "gib.svg",
+    "name": "Gulf International Bank"
+}

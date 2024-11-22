@@ -1,0 +1,18 @@
+{
+    "routing": "021083174",
+    "short": "BAHRAIN",
+    "long": "CENTRAL BANK OF BAHRAIN",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1520312400000,
+    "country": "USA",
+    "colors": [
+        "#e4e4e4",
+        "#787979"
+    ],
+    "website": "https://www.cbb.gov.bh",
+    "logo": "gov.svg",
+    "name": "Central Bank Of Bahrain"
+}

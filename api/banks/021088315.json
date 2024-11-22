@@ -1,0 +1,15 @@
+{
+    "routing": "021088315",
+    "short": "ALBANIA",
+    "long": "BANK OF ALBANIA",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [],
+    "website": "https://wise.com",
+    "logo": "wise.svg",
+    "name": "Bank Of Albania"
+}

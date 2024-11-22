@@ -1,0 +1,15 @@
+{
+    "routing": "021300077",
+    "short": "KEYBANK ALBANY",
+    "long": "KEYBANK NATIONAL ASSOCIATION",
+    "logo": "keybank.svg",
+    "state": "NY",
+    "city": "ALBANY",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1393909200000,
+    "country": "USA",
+    "colors": [],
+    "website": "https://www.key.com",
+    "name": "Keybank National Association"
+}

@@ -1,0 +1,21 @@
+{
+    "routing": "021089440",
+    "short": "CB PARAGUAY IP",
+    "long": "BANCO CENTRAL DEL PARAGUAY-INVESTMEN",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1511499600000,
+    "country": "USA",
+    "colors": [
+        "#46586a",
+        "#47704c",
+        "#b7bec7",
+        "#593e23",
+        "#cca720"
+    ],
+    "website": "https://www.state.gov",
+    "logo": "state.svg",
+    "name": "Banco Central Del Paraguay-investmen"
+}

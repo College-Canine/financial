@@ -1,0 +1,19 @@
+{
+    "routing": "021054802",
+    "short": "IBRD DN P&I",
+    "long": "IBRD DN P&I ACCOUNT",
+    "state": "NJ",
+    "city": "EAST RUTHERFORD",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1152504000000,
+    "country": "USA",
+    "colors": [
+        "#fefefd",
+        "#3ec3ed",
+        "#3a5e77"
+    ],
+    "website": "https://www.worldbank.org",
+    "logo": "worldbank.svg",
+    "name": "Ibrd Dn Principal and Interest Account"
+}

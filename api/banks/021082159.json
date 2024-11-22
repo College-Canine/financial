@@ -1,0 +1,19 @@
+{
+    "routing": "021082159",
+    "short": "IFAD",
+    "long": "IFAD/FOREIGN DEPARTMENT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1426132800000,
+    "country": "USA",
+    "colors": [
+        "#fefefe",
+        "#939393",
+        "#1b1b1b"
+    ],
+    "website": "https://www.ifad.org",
+    "logo": "ifad.svg",
+    "name": "Ifad/foreign Department"
+}

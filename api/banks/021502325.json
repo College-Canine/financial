@@ -1,0 +1,20 @@
+{
+    "routing": "021502325",
+    "short": "ELITE",
+    "long": "ELITE INTERNATIONAL BANK, INC",
+    "state": "PR",
+    "city": "SAN JUAN",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1425445200000,
+    "country": "USA",
+    "colors": [
+        "#39344c",
+        "#fdfdfe",
+        "#3e8445",
+        "#7e8d8a"
+    ],
+    "website": "https://eliteinternationalbank.com",
+    "logo": "eliteinternationalbank.svg",
+    "name": "Elite International Bank Inc"
+}

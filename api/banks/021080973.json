@@ -1,0 +1,15 @@
+{
+    "routing": "021080973",
+    "short": "TIMOR PETRO FUND",
+    "long": "BANCO CENTRAL DE TIMOR-LESTE PET FND",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1375934400000,
+    "country": "USA",
+    "colors": [],
+    "website": "https://wise.com",
+    "logo": "wise.svg",
+    "name": "Banco Central De Timor-leste Pet Fnd"
+}

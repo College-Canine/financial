@@ -1,0 +1,20 @@
+{
+    "routing": "011110659",
+    "short": "LIBERTY MIDDLETOWN",
+    "long": "LIBERTY BANK",
+    "state": "CT",
+    "city": "MIDDLETOWN",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1372046400000,
+    "country": "USA",
+    "colors": [
+        "#fefefe",
+        "#ca3331",
+        "#144278",
+        "#8eb6d3"
+    ],
+    "website": "https://www.liberty-bank.com",
+    "logo": "liberty-bank.svg",
+    "name": "Liberty Bank"
+}

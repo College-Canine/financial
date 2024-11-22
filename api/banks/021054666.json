@@ -1,0 +1,19 @@
+{
+    "routing": "021054666",
+    "short": "DA GNMA WASH",
+    "long": "DISTRIBUTION ACCT-GNMA WASH",
+    "state": "NJ",
+    "city": "EAST RUTHERFORD",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1151640000000,
+    "country": "USA",
+    "colors": [
+        "#fdfefe",
+        "#7b91b1",
+        "#214479"
+    ],
+    "website": "https://www.ginniemae.gov",
+    "logo": "ginniemae.svg",
+    "name": "Distribution Acct-gnma Wash"
+}

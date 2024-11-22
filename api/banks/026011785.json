@@ -1,0 +1,20 @@
+{
+    "routing": "026011785",
+    "short": "CTBC USA NYC",
+    "long": "CTBC BANK CORP (USA)",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1377144000000,
+    "country": "USA",
+    "colors": [
+        "#e51f29",
+        "#fdfefe",
+        "#e98287",
+        "#1d954b"
+    ],
+    "website": "https://www.ctbcbankusa.com",
+    "logo": "ctbcbankusa.svg",
+    "name": "Ctbc Bank Corporation (usa)"
+}

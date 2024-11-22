@@ -1,0 +1,19 @@
+{
+    "routing": "026007993",
+    "short": "UBS AG NYC",
+    "long": "UBS AG",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1404100800000,
+    "country": "USA",
+    "colors": [
+        "#fdfdfd",
+        "#2c2c2c",
+        "#929292"
+    ],
+    "website": "https://local.ubs.com",
+    "logo": "ubs.svg",
+    "name": "Ubs Ag"
+}

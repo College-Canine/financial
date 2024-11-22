@@ -1,0 +1,18 @@
+{
+    "routing": "021087484",
+    "short": "ITALY FMS",
+    "long": "BANCA D'ITALIA- FMS ACCOUNT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1421125200000,
+    "country": "USA",
+    "colors": [
+        "#779ec3",
+        "#f8fbf5"
+    ],
+    "website": "https://www.bancaditalia.it",
+    "logo": "bancaditalia.svg",
+    "name": "Banca D'italia- Fms Account"
+}

@@ -1,0 +1,19 @@
+{
+    "routing": "021088328",
+    "short": "FINLAND FMS INT",
+    "long": "SUOMEN PANKKI FINLANDS BK FMS INT.",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": false,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#fdfdfe",
+        "#abaed2",
+        "#4d53a1"
+    ],
+    "website": "https://www.suomenpankki.fi",
+    "logo": "suomenpankki.svg",
+    "name": "Suomen Pankki Finlands Bank Fms Int"
+}

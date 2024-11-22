@@ -1,0 +1,18 @@
+{
+    "routing": "011600033",
+    "short": "TD BANK, NA",
+    "long": "TD BANK, NA",
+    "logo": "td.svg",
+    "state": "VT",
+    "city": "WILLISTON",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1415336400000,
+    "country": "USA",
+    "colors": [
+        "#4fba47",
+        "#fafefd"
+    ],
+    "website": "https://locations.td.com",
+    "name": "TD Bank"
+}

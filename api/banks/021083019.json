@@ -1,0 +1,21 @@
+{
+    "routing": "021083019",
+    "short": "AFGHANISTAN",
+    "long": "AFGHANISTAN/FOREIGN DEPARTMENT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1201755600000,
+    "country": "USA",
+    "colors": [
+        "#46586a",
+        "#47704c",
+        "#b7bec7",
+        "#593e23",
+        "#cca720"
+    ],
+    "website": "https://www.state.gov",
+    "logo": "state.svg",
+    "name": "Afghanistan/foreign Department"
+}

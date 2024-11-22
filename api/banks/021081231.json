@@ -1,0 +1,18 @@
+{
+    "routing": "021081231",
+    "short": "ANGOLA",
+    "long": "BANCO NACIONAL DE ANGOLA",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1280116800000,
+    "country": "USA",
+    "colors": [
+        "#fefefe",
+        "#3e3e3e"
+    ],
+    "website": "https://en.wikipedia.org",
+    "logo": "wikipedia.svg",
+    "name": "Banco Nacional De Angola"
+}

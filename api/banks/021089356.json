@@ -1,0 +1,21 @@
+{
+    "routing": "021089356",
+    "short": "MOZAMBIQUE GRM",
+    "long": "MOCAMBIQUE-GRM/USAID",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 973141200000,
+    "country": "USA",
+    "colors": [
+        "#fefdfe",
+        "#d87186",
+        "#3d567c",
+        "#99aabe",
+        "#b61234"
+    ],
+    "website": "https://www.usaid.gov",
+    "logo": "usaid.svg",
+    "name": "Mocambique-grm/usaid"
+}

@@ -1,0 +1,20 @@
+{
+    "routing": "031300135",
+    "short": "PEOPLES NATIONAL",
+    "long": "PEOPLES SECURITY BANK AND TRUST COMP",
+    "state": "PA",
+    "city": "HALLSTEAD",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1415250000000,
+    "country": "USA",
+    "colors": [
+        "#1b2958",
+        "#9d96a6",
+        "#eaeff3",
+        "#ec2f24"
+    ],
+    "website": "https://www.psbt.com",
+    "logo": "psbt.svg",
+    "name": "Peoples Security Bank And Trust Comp"
+}

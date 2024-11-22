@@ -1,0 +1,19 @@
+{
+    "routing": "021210057",
+    "short": "UNITY BANK NJ",
+    "long": "UNITY BANK",
+    "state": "NJ",
+    "city": "CLINTON",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1074056400000,
+    "country": "USA",
+    "colors": [
+        "#fefdfd",
+        "#40959b",
+        "#201e1e"
+    ],
+    "website": "https://www.unitybank.com",
+    "logo": "unitybank.svg",
+    "name": "Unity Bank"
+}

@@ -1,0 +1,20 @@
+{
+    "routing": "021088085",
+    "short": "ECUADOR DIS IC",
+    "long": "ECUADOR USD DIS BONDS IC FNDS SEC",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#fdfefe",
+        "#233557",
+        "#bb8296",
+        "#b71c43"
+    ],
+    "website": "https://www.dfc.gov",
+    "logo": "dfc.svg",
+    "name": "Ecuador Usd Dis Bonds Ic Fnds Sec"
+}

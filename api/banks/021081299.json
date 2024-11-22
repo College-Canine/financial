@@ -1,0 +1,21 @@
+{
+    "routing": "021081299",
+    "short": "RWANDA RAMP",
+    "long": "BANQUE NATIONALE DU RWANDA RAMP",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": false,
+    "settlement": true,
+    "updated": 1490241600000,
+    "country": "USA",
+    "colors": [
+        "#fefcfe",
+        "#d8a92f",
+        "#85cbde",
+        "#ada580",
+        "#33a360"
+    ],
+    "website": "https://www.bnr.rw",
+    "logo": "bnr.svg",
+    "name": "Banque Nationale Du Rwanda Ramp"
+}

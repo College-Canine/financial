@@ -1,0 +1,19 @@
+{
+    "routing": "026005319",
+    "short": "BANCA INTESA S.P.A",
+    "long": "INTESA SANPAOLO SPA",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1167282000000,
+    "country": "USA",
+    "colors": [
+        "#fffffe",
+        "#e98737",
+        "#1b7979"
+    ],
+    "website": "https://imi.intesasanpaolo.com",
+    "logo": "intesasanpaolo.svg",
+    "name": "Intesa Sanpaolo Spa"
+}

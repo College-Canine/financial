@@ -1,0 +1,19 @@
+{
+    "routing": "011307213",
+    "short": "BROOKLINE BANK",
+    "long": "BROOKLINE BANK",
+    "state": "MA",
+    "city": "BROOKLINE",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1527825600000,
+    "country": "USA",
+    "colors": [
+        "#fffefd",
+        "#59b2d9",
+        "#a5a6a7"
+    ],
+    "website": "https://www.brooklinebank.com",
+    "logo": "brooklinebank.svg",
+    "name": "Brookline Bank"
+}

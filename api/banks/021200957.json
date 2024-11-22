@@ -1,0 +1,18 @@
+{
+    "routing": "021200957",
+    "short": "TD BANK, NA",
+    "long": "TD BANK, NA",
+    "logo": "td.svg",
+    "state": "NJ",
+    "city": "CHERRY HILL",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1257829200000,
+    "country": "USA",
+    "colors": [
+        "#4fba47",
+        "#fafefd"
+    ],
+    "website": "https://locations.td.com",
+    "name": "TD Bank"
+}

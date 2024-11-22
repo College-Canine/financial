@@ -1,0 +1,19 @@
+{
+    "routing": "011001881",
+    "short": "FIDUCIARY TR BOS",
+    "long": "FIDUCIARY TRUST COMPANY",
+    "state": "MA",
+    "city": "BOSTON",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#2c5987",
+        "#fcfcf5",
+        "#859db5"
+    ],
+    "website": "https://www.fiduciary-trust.com",
+    "logo": "fiduciary-trust.svg",
+    "name": "Fiduciary Trust Company"
+}

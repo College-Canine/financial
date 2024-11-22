@@ -1,0 +1,19 @@
+{
+    "routing": "021054695",
+    "short": "DA TVA",
+    "long": "DISTRIBUTION ACCT-TENNESSEE VAL AUTH",
+    "state": "NJ",
+    "city": "EAST RUTHERFORD",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1151640000000,
+    "country": "USA",
+    "colors": [
+        "#2f5d91",
+        "#f8fafc",
+        "#86a1bf"
+    ],
+    "website": "https://www.tva.com",
+    "logo": "tva.svg",
+    "name": "Distribution Acct-tennessee Val Auth"
+}

@@ -1,0 +1,20 @@
+{
+    "routing": "011303327",
+    "short": "ROCKLAND TRUST",
+    "long": "ROCKLAND TRUST COMPANY",
+    "state": "MA",
+    "city": "ROCKLAND",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1542344400000,
+    "country": "USA",
+    "colors": [
+        "#529abe",
+        "#f1f9fb",
+        "#6d8c70",
+        "#f7c139"
+    ],
+    "website": "https://www.rocklandtrust.com",
+    "logo": "rocklandtrust.svg",
+    "name": "Rockland Trust Company"
+}

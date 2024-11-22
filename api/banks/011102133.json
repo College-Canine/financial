@@ -1,0 +1,19 @@
+{
+    "routing": "011102133",
+    "short": "HOMETOWN CNB",
+    "long": "HOMETOWN BANK",
+    "state": "MA",
+    "city": "WEBSTER",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1479445200000,
+    "country": "USA",
+    "colors": [
+        "#46a53f",
+        "#f9fefc",
+        "#c8e4a8"
+    ],
+    "website": "https://bankhometown.com",
+    "logo": "bankhometown.svg",
+    "name": "Hometown Bank"
+}

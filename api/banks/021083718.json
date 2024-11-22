@@ -1,0 +1,18 @@
+{
+    "routing": "021083718",
+    "short": "ECUADOR",
+    "long": "ECUADOR/FOREIGN DEPARTMENT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1202965200000,
+    "country": "USA",
+    "colors": [
+        "#4da3d9",
+        "#cee5ee"
+    ],
+    "website": "https://www.cancilleria.gob.ec",
+    "logo": "gob.svg",
+    "name": "Ecuador/foreign Department"
+}

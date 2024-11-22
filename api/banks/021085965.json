@@ -1,0 +1,18 @@
+{
+    "routing": "021085965",
+    "short": "UNITED ARAB FMS",
+    "long": "UNITED ARAB FMS/FOREIGN DEPARTMENT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#e4e4e4",
+        "#787979"
+    ],
+    "website": "https://www.mofa.gov.ae",
+    "logo": "gov.svg",
+    "name": "United Arab Fms/foreign Department"
+}

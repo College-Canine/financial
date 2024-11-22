@@ -1,0 +1,17 @@
+{
+    "routing": "021082557",
+    "short": "MONGOLIA RAMP",
+    "long": "BANK OF MONGOLIA RAMP ACCOUNT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1326430800000,
+    "country": "USA",
+    "colors": [
+        "#fafafa"
+    ],
+    "website": "https://ramp.com",
+    "logo": "ramp.svg",
+    "name": "Bank Of Mongolia Ramp Account"
+}

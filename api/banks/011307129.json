@@ -1,0 +1,20 @@
+{
+    "routing": "011307129",
+    "short": "LEADER BK ARLINGTN",
+    "long": "THE LEADER BANK",
+    "state": "MA",
+    "city": "ARLINGTON",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1379563200000,
+    "country": "USA",
+    "colors": [
+        "#fefefd",
+        "#2c2829",
+        "#9f787a",
+        "#981b20"
+    ],
+    "website": "https://www.leaderbank.com",
+    "logo": "leaderbank.svg",
+    "name": "The Leader Bank"
+}

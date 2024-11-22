@@ -1,0 +1,18 @@
+{
+    "routing": "021089916",
+    "short": "RYL MON AUTH BHUTA",
+    "long": "ROYAL MONETARY AUTHORITY OF BHUTAN-R",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1473912000000,
+    "country": "USA",
+    "colors": [
+        "#e5ecf1",
+        "#396191"
+    ],
+    "website": "https://www.rma.org.bt",
+    "logo": "org.svg",
+    "name": "Royal Monetary Authority Of Bhutan-r"
+}

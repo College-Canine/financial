@@ -1,0 +1,18 @@
+{
+    "routing": "021081697",
+    "short": "PORTUGAL OPS ACCT1",
+    "long": "BANCO DE PORTUGAL OPS ACCT 1",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1257397200000,
+    "country": "USA",
+    "colors": [
+        "#fefefd",
+        "#998967"
+    ],
+    "website": "https://www.bportugal.pt",
+    "logo": "bportugal.svg",
+    "name": "Banco De Portugal Ops Account 1"
+}

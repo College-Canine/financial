@@ -1,0 +1,19 @@
+{
+    "routing": "021087976",
+    "short": "DOMINICAN DIS IC",
+    "long": "DOMINICAN DIS BONDS IC FNDS-SEC AC",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": false,
+    "settlement": true,
+    "updated": 1523419200000,
+    "country": "USA",
+    "colors": [
+        "#2d5969",
+        "#fdfdfe",
+        "#e76e43"
+    ],
+    "website": "https://www.prnewswire.com",
+    "logo": "prnewswire.svg",
+    "name": "Dominican Dis Bonds Ic Fnds-sec Ac"
+}

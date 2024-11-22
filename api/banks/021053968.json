@@ -1,0 +1,24 @@
+{
+    "routing": "021053968",
+    "short": "RTPS PREFUNDED",
+    "long": "RTPS PREFUNDED ACCOUNT",
+    "state": "NJ",
+    "city": "EAST RUTHERFORD",
+    "transfer": false,
+    "settlement": false,
+    "updated": 1510290000000,
+    "country": "USA",
+    "colors": [
+        "#4c4d35",
+        "#9b8e2f",
+        "#313b78",
+        "#fdfdfc",
+        "#e7ca21",
+        "#3337a5",
+        "#9293e2",
+        "#3732fd"
+    ],
+    "website": "https://www.eastrutherfordnj.net",
+    "logo": "eastrutherfordnj.svg",
+    "name": "Rtps Prefunded Account"
+}

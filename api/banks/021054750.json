@@ -1,0 +1,19 @@
+{
+    "routing": "021054750",
+    "short": "FNMA DN P&I",
+    "long": "FNMA DN P&I",
+    "state": "DC",
+    "city": "WASHINGTON",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1459396800000,
+    "country": "USA",
+    "colors": [
+        "#fdfefd",
+        "#143046",
+        "#6b7e8c"
+    ],
+    "website": "https://singlefamily.fanniemae.com",
+    "logo": "fanniemae.svg",
+    "name": "Fnma Dn Principal and Interest"
+}

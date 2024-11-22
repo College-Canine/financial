@@ -1,0 +1,17 @@
+{
+    "routing": "021502396",
+    "short": "ANDCAPITAL BANK",
+    "long": "ANDCAPITAL BANK INTERNATIONAL CORP.",
+    "state": "PR",
+    "city": "SAN JUAN",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1429156800000,
+    "country": "USA",
+    "colors": [
+        "#daeaf4"
+    ],
+    "website": "https://www.linkedin.com",
+    "logo": "linkedin.svg",
+    "name": "Andcapital Bank International Corporation"
+}

@@ -1,0 +1,19 @@
+{
+    "routing": "021081309",
+    "short": "BANK OF SLOVENIA",
+    "long": "BANK OF SLOVENIA",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1223611200000,
+    "country": "USA",
+    "colors": [
+        "#ebf0f2",
+        "#3e90a1",
+        "#1b3b51"
+    ],
+    "website": "https://www.bny.com",
+    "logo": "bny.svg",
+    "name": "Bank Of Slovenia"
+}

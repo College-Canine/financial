@@ -1,0 +1,21 @@
+{
+    "routing": "021214325",
+    "short": "BANK OF HOPE",
+    "long": "BANK OF HOPE",
+    "state": "CA",
+    "city": "LOS ANGELES",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1508990400000,
+    "country": "USA",
+    "colors": [
+        "#fefefd",
+        "#9ac922",
+        "#46af59",
+        "#8ca082",
+        "#343434"
+    ],
+    "website": "https://www.bankofhope.com",
+    "logo": "bankofhope.svg",
+    "name": "Bank Of Hope"
+}

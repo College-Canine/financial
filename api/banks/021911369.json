@@ -1,0 +1,20 @@
+{
+    "routing": "021911369",
+    "short": "COUNTRY BANK",
+    "long": "COUNTRY BANK",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1383627600000,
+    "country": "USA",
+    "colors": [
+        "#fdfdfd",
+        "#108152",
+        "#afd6a1",
+        "#96ca42"
+    ],
+    "website": "https://www.countrybank.com",
+    "logo": "countrybank.svg",
+    "name": "Country Bank"
+}

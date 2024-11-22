@@ -1,0 +1,19 @@
+{
+    "routing": "021004823",
+    "short": "REPUBLIC NYC",
+    "long": "HSBC BANK USA, NA",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1415336400000,
+    "country": "USA",
+    "colors": [
+        "#fcfdfc",
+        "#df8a92",
+        "#ba1122"
+    ],
+    "website": "https://www.us.hsbc.com",
+    "logo": "hsbc.svg",
+    "name": "HSBC Bank USA"
+}

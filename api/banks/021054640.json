@@ -1,0 +1,20 @@
+{
+    "routing": "021054640",
+    "short": "DA IBRD",
+    "long": "DISTRIBUTION ACCT-IBRD",
+    "state": "NJ",
+    "city": "EAST RUTHERFORD",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1151640000000,
+    "country": "USA",
+    "colors": [
+        "#fefef9",
+        "#3781b2",
+        "#b5cb9f",
+        "#599013"
+    ],
+    "website": "https://www.nj.gov",
+    "logo": "nj.svg",
+    "name": "Distribution Acct-ibrd"
+}

@@ -1,0 +1,17 @@
+{
+    "routing": "021083925",
+    "short": "MAURITIUS RAMP",
+    "long": "BANK OF MAURITIUS-RAMP ACCOUNT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": false,
+    "settlement": true,
+    "updated": 1485406800000,
+    "country": "USA",
+    "colors": [
+        "#fafafa"
+    ],
+    "website": "https://ramp.com",
+    "logo": "ramp.svg",
+    "name": "Bank Of Mauritius-ramp Account"
+}

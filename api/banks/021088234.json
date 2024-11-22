@@ -1,0 +1,15 @@
+{
+    "routing": "021088234",
+    "short": "MALAYSIA FMS",
+    "long": "BANK NEGARA MALAYSIA FMS ACCOUNT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [],
+    "website": "https://wise.com",
+    "logo": "wise.svg",
+    "name": "Bank Negara Malaysia Fms Account"
+}

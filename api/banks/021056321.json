@@ -1,0 +1,20 @@
+{
+    "routing": "021056321",
+    "short": "NADB P&I",
+    "long": "NADB P&I",
+    "state": "NJ",
+    "city": "EAST RUTHERFORD",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1274241600000,
+    "country": "USA",
+    "colors": [
+        "#15b7ed",
+        "#f5fefc",
+        "#1766a9",
+        "#1c204d"
+    ],
+    "website": "https://web.cvent.com",
+    "logo": "cvent.svg",
+    "name": "Nadb Principal and Interest"
+}

@@ -1,0 +1,19 @@
+{
+    "routing": "021054941",
+    "short": "FARMER MAC SEC P&I",
+    "long": "FARMER MAC SEC P&I ACCOUNT",
+    "state": "NJ",
+    "city": "EAST RUTHERFORD",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1459396800000,
+    "country": "USA",
+    "colors": [
+        "#fefdfe",
+        "#496a8d",
+        "#ea9774"
+    ],
+    "website": "https://www.farmermac.com",
+    "logo": "farmermac.svg",
+    "name": "Farmer Mac Sec Principal and Interest Account"
+}

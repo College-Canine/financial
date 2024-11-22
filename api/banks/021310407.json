@@ -1,0 +1,20 @@
+{
+    "routing": "021310407",
+    "short": "CHAMPLAIN WILSBORO",
+    "long": "CHAMPLAIN NATIONAL BANK",
+    "state": "NY",
+    "city": "WILLSBORO",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#a3cbed",
+        "#80c5b2",
+        "#fefdf7",
+        "#116599"
+    ],
+    "website": "https://www.champlainbank.com",
+    "logo": "champlainbank.svg",
+    "name": "Champlain National Bank"
+}

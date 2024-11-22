@@ -1,0 +1,21 @@
+{
+    "routing": "021084762",
+    "short": "NATO SUPPORT AGNCY",
+    "long": "NATO SUPPORT AGENCY",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1401768000000,
+    "country": "USA",
+    "colors": [
+        "#1e89d0",
+        "#e5eaee",
+        "#171c10",
+        "#878b91",
+        "#d2a91d"
+    ],
+    "website": "https://www.nato.int",
+    "logo": "nato.svg",
+    "name": "Nato Support Agency"
+}

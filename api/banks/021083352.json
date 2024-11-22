@@ -1,0 +1,18 @@
+{
+    "routing": "021083352",
+    "short": "BOTSWANA",
+    "long": "BOTSWANA/FOREIGN DEPARTMENT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1427342400000,
+    "country": "USA",
+    "colors": [
+        "#e4e4e4",
+        "#787979"
+    ],
+    "website": "https://www.gov.bw",
+    "logo": "gov.svg",
+    "name": "Botswana/foreign Department"
+}

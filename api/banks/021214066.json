@@ -1,0 +1,19 @@
+{
+    "routing": "021214066",
+    "short": "INDUS AMERICAN BK",
+    "long": "BCB COMMUNITY BANK",
+    "state": "NJ",
+    "city": "BAYONNE",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1532664000000,
+    "country": "USA",
+    "colors": [
+        "#fffcfd",
+        "#52b5bf",
+        "#405a5d"
+    ],
+    "website": "https://www.bcb.bank",
+    "logo": "bcb.svg",
+    "name": "Bcb Community Bank"
+}

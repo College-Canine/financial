@@ -1,0 +1,19 @@
+{
+    "routing": "021031003",
+    "short": "FHLBB WASHS",
+    "long": "FHLB- GENERAL ACCOUNT",
+    "state": "VA",
+    "city": "RESTON",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1397188800000,
+    "country": "USA",
+    "colors": [
+        "#fdfdfd",
+        "#7387af",
+        "#404040"
+    ],
+    "website": "https://www.fhlb-of.com",
+    "logo": "fhlb-of.svg",
+    "name": "Fhlb- General Account"
+}

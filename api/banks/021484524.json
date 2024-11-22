@@ -1,0 +1,19 @@
+{
+    "routing": "021484524",
+    "short": "AM BR EMPL FCU",
+    "long": "AMERICAN BROADCAST EMPL FCU",
+    "state": "NY",
+    "city": "ROCKVILLE CENTRE",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1358485200000,
+    "country": "USA",
+    "colors": [
+        "#3f3f3f",
+        "#ffffff",
+        "#969696"
+    ],
+    "website": "https://www.abefcu.org",
+    "logo": "abefcu.svg",
+    "name": "American Broadcast Empl Fcu"
+}

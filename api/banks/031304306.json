@@ -1,0 +1,19 @@
+{
+    "routing": "031304306",
+    "short": "F & M CHAMBERSBURG",
+    "long": "FARMERS AND MERCHANTS TRUST COMPANY",
+    "state": "PA",
+    "city": "CHAMBERSBURG",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1266901200000,
+    "country": "USA",
+    "colors": [
+        "#fefefd",
+        "#1b3c6c",
+        "#8d95ab"
+    ],
+    "website": "https://fmtrust.bank",
+    "logo": "fmtrust.svg",
+    "name": "Farmers And Merchants Trust Company"
+}

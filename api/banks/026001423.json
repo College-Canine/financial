@@ -1,0 +1,19 @@
+{
+    "routing": "026001423",
+    "short": "CATH BK LA",
+    "long": "CATHAY BANK",
+    "state": "CA",
+    "city": "LOS ANGELES",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1440129600000,
+    "country": "USA",
+    "colors": [
+        "#fefdfd",
+        "#ca2935",
+        "#e5a6ab"
+    ],
+    "website": "https://www.cathaybank.com",
+    "logo": "cathaybank.svg",
+    "name": "Cathay Bank"
+}

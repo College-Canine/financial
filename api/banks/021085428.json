@@ -1,0 +1,20 @@
+{
+    "routing": "021085428",
+    "short": "SAMA ACCT FOUR",
+    "long": "SAMA ACCT FOUR/FOREIGN DEPARTMENT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": false,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#dc5b62",
+        "#444863",
+        "#8e9cac",
+        "#ffffff"
+    ],
+    "website": "https://sam.gov",
+    "logo": "sam.svg",
+    "name": "Sama Account Four/foreign Department"
+}

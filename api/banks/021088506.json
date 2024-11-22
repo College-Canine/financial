@@ -1,0 +1,19 @@
+{
+    "routing": "021088506",
+    "short": "MONGOLIA",
+    "long": "BANK OF MONGOLIA",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#fefdfe",
+        "#757984",
+        "#e69672"
+    ],
+    "website": "https://www.newsfilecorp.com",
+    "logo": "newsfilecorp.svg",
+    "name": "Bank Of Mongolia"
+}

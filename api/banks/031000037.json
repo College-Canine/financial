@@ -1,0 +1,19 @@
+{
+    "routing": "031000037",
+    "short": "MELLON EAST PSFS",
+    "long": "THE BANK OF NEW YORK MELLON",
+    "state": "PA",
+    "city": "PHILADELPHIA",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1415336400000,
+    "country": "USA",
+    "colors": [
+        "#ebf0f2",
+        "#3e90a1",
+        "#1b3b51"
+    ],
+    "website": "https://www.bny.com",
+    "logo": "bny.svg",
+    "name": "The Bank Of New York Mellon"
+}

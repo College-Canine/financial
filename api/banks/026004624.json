@@ -1,0 +1,20 @@
+{
+    "routing": "026004624",
+    "short": "MODERN BK NYC",
+    "long": "MODERN BANK, NATIONAL ASSOCIATION",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1140670800000,
+    "country": "USA",
+    "colors": [
+        "#fdfefd",
+        "#3b5892",
+        "#373839",
+        "#97999e"
+    ],
+    "website": "https://www.modernbank.com",
+    "logo": "modernbank.svg",
+    "name": "Modern Bank National Association"
+}

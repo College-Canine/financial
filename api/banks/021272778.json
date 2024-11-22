@@ -1,0 +1,15 @@
+{
+    "routing": "021272778",
+    "short": "MS PRIVATE BANK",
+    "long": "MORGAN STANLEY PRIVATE BANK NA",
+    "state": "NY",
+    "city": "PURCHASE",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1278561600000,
+    "country": "USA",
+    "colors": [],
+    "website": "https://advisor.morganstanley.com",
+    "logo": "morganstanley.svg",
+    "name": "Morgan Stanley Private Bank"
+}

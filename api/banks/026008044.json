@@ -1,0 +1,17 @@
+{
+    "routing": "026008044",
+    "short": "COMMERZBANK NYC",
+    "long": "COMMERZBANK AG, NEW YORK BRANCH",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1316750400000,
+    "country": "USA",
+    "colors": [
+        "#daeaf4"
+    ],
+    "website": "https://www.linkedin.com",
+    "logo": "linkedin.svg",
+    "name": "Commerzbank Ag New York Branch"
+}

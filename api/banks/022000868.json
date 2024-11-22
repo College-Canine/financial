@@ -1,0 +1,18 @@
+{
+    "routing": "022000868",
+    "short": "CITIBANK BUF",
+    "long": "CITIBANK, N.A.",
+    "logo": "citibank.svg",
+    "state": "NY",
+    "city": "PITTSFORD",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1415336400000,
+    "country": "USA",
+    "colors": [
+        "#1C4882",
+        "#CC2131"
+    ],
+    "website": "https://www.mapquest.com",
+    "name": "Citibank"
+}

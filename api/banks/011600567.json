@@ -1,0 +1,19 @@
+{
+    "routing": "011600567",
+    "short": "PEOPLES TRUST CO",
+    "long": "PEOPLES TRUST COMPANY",
+    "state": "VT",
+    "city": "SAINT ALBANS",
+    "transfer": false,
+    "settlement": true,
+    "updated": 1415336400000,
+    "country": "USA",
+    "colors": [
+        "#fdfefc",
+        "#366259",
+        "#b6d199"
+    ],
+    "website": "https://www.ptcvt.com",
+    "logo": "ptcvt.svg",
+    "name": "Peoples Trust Company"
+}

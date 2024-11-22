@@ -1,0 +1,18 @@
+{
+    "routing": "021088072",
+    "short": "TURKEY ACCT TWO",
+    "long": "TURKIYE CUMHURIYET MERKEZ BANK AC 2",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#e4e4e4",
+        "#787979"
+    ],
+    "website": "https://www3.tcmb.gov.tr",
+    "logo": "gov.svg",
+    "name": "Turkiye Cumhuriyet Merkez Bank Ac 2"
+}

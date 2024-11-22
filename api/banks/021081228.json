@@ -1,0 +1,19 @@
+{
+    "routing": "021081228",
+    "short": "CABO VERDE",
+    "long": "BANCO DE CABO VERDE",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1218081600000,
+    "country": "USA",
+    "colors": [
+        "#ffffff",
+        "#4e4e4e",
+        "#999999"
+    ],
+    "website": "https://embassies.net",
+    "logo": "embassies.svg",
+    "name": "Banco De Cabo Verde"
+}

@@ -1,0 +1,20 @@
+{
+    "routing": "031308302",
+    "short": "CITIZENS WELLSBORO",
+    "long": "CITIZENS & NORTHERN BANK",
+    "state": "PA",
+    "city": "WELLSBORO",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#fefdfe",
+        "#989b9e",
+        "#b4ecc1",
+        "#26b24c"
+    ],
+    "website": "https://www.cnbankpa.com",
+    "logo": "cnbankpa.svg",
+    "name": "Citizens & Northern Bank"
+}

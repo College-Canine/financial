@@ -1,0 +1,18 @@
+{
+    "routing": "021088742",
+    "short": "ISRAEL MOF SP ONE",
+    "long": "GOVT OF ISRAEL MOF SP NO. 1",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": false,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#e4e4e4",
+        "#787979"
+    ],
+    "website": "https://mission-ny.mod.gov.il",
+    "logo": "gov.svg",
+    "name": "Govt Of Israel Mof Sp No. 1"
+}

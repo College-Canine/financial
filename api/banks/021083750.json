@@ -1,0 +1,22 @@
+{
+    "routing": "021083750",
+    "short": "EGYPT",
+    "long": "EGYPT/FOREIGN DEPARTMENT",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1202965200000,
+    "country": "USA",
+    "colors": [
+        "#fefefd",
+        "#d6625a",
+        "#f6b59e",
+        "#e92e2a",
+        "#8b9296",
+        "#212223"
+    ],
+    "website": "https://www.egyptembassy.org",
+    "logo": "egyptembassy.svg",
+    "name": "Egypt/foreign Department"
+}

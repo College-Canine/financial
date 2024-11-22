@@ -1,0 +1,23 @@
+{
+    "routing": "031059567",
+    "short": "DEPARTMENT OF LABO",
+    "long": "DEPT OF LABOR",
+    "state": "DC",
+    "city": "WASHINGTON",
+    "transfer": false,
+    "settlement": true,
+    "updated": 1282881600000,
+    "country": "USA",
+    "colors": [
+        "#f7d530",
+        "#90781a",
+        "#fdfefd",
+        "#3c99ab",
+        "#1b1f1f",
+        "#635e51",
+        "#ddca73"
+    ],
+    "website": "https://www.lni.wa.gov",
+    "logo": "wa.svg",
+    "name": "Dept Of Labor"
+}

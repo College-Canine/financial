@@ -1,0 +1,20 @@
+{
+    "routing": "031309851",
+    "short": "FIRST COM BK OF M",
+    "long": "FIRST COMMUNITY BANK OF MERCERSBURG",
+    "state": "PA",
+    "city": "MERCERSBURG",
+    "transfer": false,
+    "settlement": true,
+    "updated": 1418274000000,
+    "country": "USA",
+    "colors": [
+        "#466332",
+        "#ad934e",
+        "#7ba59c",
+        "#fbfcfe"
+    ],
+    "website": "https://www.orrstown.com",
+    "logo": "orrstown.svg",
+    "name": "First Community Bank Of Mercersburg"
+}

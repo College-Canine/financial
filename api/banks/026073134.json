@@ -1,0 +1,18 @@
+{
+    "routing": "026073134",
+    "short": "M.Y. SAFRA BK, FSB",
+    "long": "M.Y. SAFRA BANK, FSB",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1477627200000,
+    "country": "USA",
+    "colors": [
+        "#ffffff",
+        "#757575"
+    ],
+    "website": "https://www.mysafra.com",
+    "logo": "mysafra.svg",
+    "name": "M.y. Safra Bank Fsb"
+}

@@ -1,0 +1,18 @@
+{
+    "routing": "031207694",
+    "short": "CROWN BK ELIZABETH",
+    "long": "CROWN BANK",
+    "state": "NJ",
+    "city": "ELIZABETH",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1488517200000,
+    "country": "USA",
+    "colors": [
+        "#fdfdfb",
+        "#a69865"
+    ],
+    "website": "https://crownbank.net",
+    "logo": "crownbank.svg",
+    "name": "Crown Bank"
+}
