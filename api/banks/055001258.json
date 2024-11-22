@@ -1,0 +1,20 @@
+{
+    "routing": "055001258",
+    "short": "MIDDLETOWN VAL BK",
+    "long": "MIDDLETOWN VALLEY BANK",
+    "state": "MD",
+    "city": "MIDDLETOWN",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#fdfefd",
+        "#2a96bf",
+        "#4b5052",
+        "#9c9fa1"
+    ],
+    "name": "Middletown Valley Bank",
+    "website": "https://mvbbank.com",
+    "logo": "mvbbank.svg"
+}

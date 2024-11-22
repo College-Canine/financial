@@ -1,0 +1,19 @@
+{
+    "routing": "063114360",
+    "short": "COMM BK TR FL",
+    "long": "COMMUNITY BANK & TRUST OF FLORIDA",
+    "state": "FL",
+    "city": "OCALA",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1351828800000,
+    "country": "USA",
+    "colors": [
+        "#333333",
+        "#979797",
+        "#fdfdfd"
+    ],
+    "name": "Community Bank & Trust Of Florida",
+    "website": "https://www.mapquest.com",
+    "logo": "mapquest.svg"
+}

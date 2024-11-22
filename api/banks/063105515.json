@@ -1,0 +1,19 @@
+{
+    "routing": "063105515",
+    "short": "LAFAYETTE S/B",
+    "long": "LAFAYETTE STATE BANK",
+    "state": "FL",
+    "city": "MAYO",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1432872000000,
+    "country": "USA",
+    "colors": [
+        "#fdfefd",
+        "#c3f3be",
+        "#51c944"
+    ],
+    "name": "Lafayette State Bank",
+    "website": "https://www.lafayettestatebank.com",
+    "logo": "lafayettestatebank.svg"
+}

@@ -1,0 +1,19 @@
+{
+    "routing": "062201533",
+    "short": "PEOPLES BANK",
+    "long": "PEOPLES BANK",
+    "state": "AL",
+    "city": "GREENSBORO",
+    "transfer": false,
+    "settlement": false,
+    "updated": 1079931600000,
+    "country": "USA",
+    "colors": [
+        "#fefefd",
+        "#151615",
+        "#9d9e9e"
+    ],
+    "name": "Peoples Bank",
+    "website": "https://peoplesbankofgreensboro.com",
+    "logo": "peoplesbankofgreensboro.svg"
+}

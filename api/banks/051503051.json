@@ -1,0 +1,21 @@
+{
+    "routing": "051503051",
+    "short": "FIRST PETERSTOWN",
+    "long": "FIRST NATIONAL BK OF PETERSTOWN",
+    "state": "WV",
+    "city": "PETERSTOWN",
+    "transfer": true,
+    "settlement": false,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#9b3121",
+        "#bc756a",
+        "#474762",
+        "#dde2e8",
+        "#7699b8"
+    ],
+    "name": "First National Bank Of Peterstown",
+    "website": "https://www.fnbpeterstown.com",
+    "logo": "fnbpeterstown.svg"
+}

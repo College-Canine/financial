@@ -1,0 +1,19 @@
+{
+    "routing": "062203719",
+    "short": "FIRST BANK OF EVA",
+    "long": "EVABANK",
+    "state": "AL",
+    "city": "CULLMAN",
+    "transfer": false,
+    "settlement": false,
+    "updated": 1408939200000,
+    "country": "USA",
+    "colors": [
+        "#bc1717",
+        "#ffffff",
+        "#d77474"
+    ],
+    "name": "Evabank",
+    "website": "https://www.evabank.com",
+    "logo": "evabank.svg"
+}

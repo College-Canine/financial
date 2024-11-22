@@ -1,0 +1,20 @@
+{
+    "routing": "062203913",
+    "short": "BANK OF YORK",
+    "long": "BANK OF YORK",
+    "state": "AL",
+    "city": "YORK",
+    "transfer": false,
+    "settlement": true,
+    "updated": 1173758400000,
+    "country": "USA",
+    "colors": [
+        "#86a692",
+        "#202020",
+        "#fbfcfb",
+        "#187039"
+    ],
+    "name": "Bank Of York",
+    "website": "https://www.bankofyork.com",
+    "logo": "bankofyork.svg"
+}

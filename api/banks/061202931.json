@@ -1,0 +1,17 @@
+{
+    "routing": "061202931",
+    "short": "FST ST BK BLAKELY",
+    "long": "FIRST STATE BANK OF BLAKELY",
+    "state": "GA",
+    "city": "BLAKELY",
+    "transfer": true,
+    "settlement": false,
+    "updated": 967089600000,
+    "country": "USA",
+    "colors": [
+        "#487157"
+    ],
+    "name": "First State Bank Of Blakely",
+    "website": "https://www.fsbanks.com",
+    "logo": "fsbanks.svg"
+}

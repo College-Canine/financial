@@ -1,0 +1,19 @@
+{
+    "routing": "061119804",
+    "short": "CENTURY BK GEORGIA",
+    "long": "CENTURY BANK OF GEORGIA",
+    "state": "GA",
+    "city": "CARTERSVILLE",
+    "transfer": false,
+    "settlement": true,
+    "updated": 1415336400000,
+    "country": "USA",
+    "colors": [
+        "#fcfefc",
+        "#248377",
+        "#1a648d"
+    ],
+    "name": "Century Bank Of Georgia",
+    "website": "https://southernstatesbank.net",
+    "logo": "southernstatesbank.svg"
+}

@@ -1,0 +1,20 @@
+{
+    "routing": "062203010",
+    "short": "PEOPLES BANK",
+    "long": "PEOPLES BANK OF ALABAMA",
+    "state": "AL",
+    "city": "CULLMAN",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1462852800000,
+    "country": "USA",
+    "colors": [
+        "#fcfefd",
+        "#ad9342",
+        "#252423",
+        "#5e7c73"
+    ],
+    "name": "Peoples Bank Of Alabama",
+    "website": "https://peoplesbankal.com",
+    "logo": "peoplesbankal.svg"
+}

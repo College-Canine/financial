@@ -1,0 +1,18 @@
+{
+    "routing": "061212345",
+    "short": "FARMERS & MERCH BK",
+    "long": "FARMERS & MERCHANTS BANK",
+    "state": "GA",
+    "city": "SYLVANIA",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1248840000000,
+    "country": "USA",
+    "colors": [
+        "#fafbfc",
+        "#4f80a1"
+    ],
+    "name": "Farmers & Merchants Bank",
+    "website": "https://www.fmbanksylvania.com",
+    "logo": "fmbanksylvania.svg"
+}

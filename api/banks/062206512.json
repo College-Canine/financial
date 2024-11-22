@@ -1,0 +1,19 @@
+{
+    "routing": "062206512",
+    "short": "BRYANT BANK AL",
+    "long": "BRYANT BANK",
+    "state": "AL",
+    "city": "BIRMINGHAM",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1397793600000,
+    "country": "USA",
+    "colors": [
+        "#fdfefe",
+        "#908f8f",
+        "#221e1f"
+    ],
+    "name": "Bryant Bank",
+    "website": "https://www.bryantbank.com",
+    "logo": "bryantbank.svg"
+}

@@ -1,0 +1,18 @@
+{
+    "routing": "061211443",
+    "short": "DURDEN BKNG CO",
+    "long": "DURDEN BANKING CO INC",
+    "state": "GA",
+    "city": "TWIN CITY",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1241668800000,
+    "country": "USA",
+    "colors": [
+        "#dcc9b9",
+        "#a97951"
+    ],
+    "name": "Durden Banking Inc",
+    "website": "https://durdenbc.com",
+    "logo": "durdenbc.svg"
+}

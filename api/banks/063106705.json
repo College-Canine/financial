@@ -1,0 +1,19 @@
+{
+    "routing": "063106705",
+    "short": "FIRST WAUCHULA",
+    "long": "FIRST NATIONAL BANK",
+    "state": "FL",
+    "city": "WAUCHULA",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#fdfefd",
+        "#c3f3be",
+        "#51c944"
+    ],
+    "name": "First National Bank",
+    "website": "https://www.fnbwauchula.com",
+    "logo": "fnbwauchula.svg"
+}

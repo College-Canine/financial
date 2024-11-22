@@ -1,0 +1,19 @@
+{
+    "routing": "061220418",
+    "short": "1ST NTL BK DECATUR",
+    "long": "FIRST NATIONAL BANK OF DECATUR CO.",
+    "state": "GA",
+    "city": "BAINBRIDGE",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1081310400000,
+    "country": "USA",
+    "colors": [
+        "#923f36",
+        "#866e3e",
+        "#b2b89b"
+    ],
+    "name": "First National Bank Of Decatur",
+    "website": "https://fnbdc.com",
+    "logo": "fnbdc.svg"
+}

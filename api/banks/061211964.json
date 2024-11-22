@@ -1,0 +1,18 @@
+{
+    "routing": "061211964",
+    "short": "PINELAND BANK",
+    "long": "PINELAND BANK",
+    "state": "GA",
+    "city": "ALMA",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1476417600000,
+    "country": "USA",
+    "colors": [
+        "#174a34",
+        "#becbc6"
+    ],
+    "name": "Pineland Bank",
+    "website": "https://pineland.bank",
+    "logo": "pineland.svg"
+}

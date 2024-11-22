@@ -1,0 +1,23 @@
+{
+    "routing": "061204735",
+    "short": "FNB COFFEE CTY",
+    "long": "FIRST NATIONAL BANK OF COFFEE COUNTY",
+    "state": "GA",
+    "city": "DOUGLAS",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1331096400000,
+    "country": "USA",
+    "colors": [
+        "#4e86c1",
+        "#b4b7c8",
+        "#1e3455",
+        "#bc8869",
+        "#532c19",
+        "#575a19",
+        "#676163"
+    ],
+    "name": "First National Bank Of Coffee County",
+    "website": "https://www.fnbcc.com",
+    "logo": "fnbcc.svg"
+}

@@ -1,0 +1,20 @@
+{
+    "routing": "061205938",
+    "short": "BK OF DUDLEY",
+    "long": "BANK OF DUDLEY",
+    "state": "GA",
+    "city": "DUDLEY",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1242619200000,
+    "country": "USA",
+    "colors": [
+        "#f8fdfd",
+        "#1f2b5c",
+        "#b7b07e",
+        "#717375"
+    ],
+    "name": "Bank Of Dudley",
+    "website": "https://www.bankofdudley.com",
+    "logo": "bankofdudley.svg"
+}

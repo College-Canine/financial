@@ -1,0 +1,20 @@
+{
+    "routing": "063104927",
+    "short": "WAUCHULA ST BK",
+    "long": "WAUCHULA STATE BANK",
+    "state": "FL",
+    "city": "WAUCHULA",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1260162000000,
+    "country": "USA",
+    "colors": [
+        "#fffefd",
+        "#c55c6a",
+        "#152136",
+        "#616e80"
+    ],
+    "name": "Wauchula State Bank",
+    "website": "https://www.crews.bank",
+    "logo": "crews.svg"
+}

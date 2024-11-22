@@ -1,0 +1,21 @@
+{
+    "routing": "063114030",
+    "short": "CENTERSTATE BK FL",
+    "long": "CENTERSTATE BANK, NATIONAL ASSOCIATI",
+    "state": "FL",
+    "city": "WINTER HAVEN",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1496980800000,
+    "country": "USA",
+    "colors": [
+        "#ebbb54",
+        "#51503e",
+        "#384665",
+        "#8a98ac",
+        "#fbfdf5"
+    ],
+    "name": "Centerstate Bank National Associati",
+    "website": "https://www.southstatebank.com",
+    "logo": "southstatebank.svg"
+}

@@ -1,0 +1,19 @@
+{
+    "routing": "063000225",
+    "short": "TIAA BANK",
+    "long": "TIAA BANK",
+    "state": "FL",
+    "city": "JACKSONVILLE",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1529035200000,
+    "country": "USA",
+    "colors": [
+        "#fefdfd",
+        "#173c58",
+        "#92a9bc"
+    ],
+    "name": "Tiaa Bank",
+    "website": "https://locations.tiaa.org",
+    "logo": "tiaa.svg"
+}

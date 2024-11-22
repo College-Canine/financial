@@ -1,0 +1,19 @@
+{
+    "routing": "061220654",
+    "short": "FLINT COMMUNITY",
+    "long": "FLINT COMMUNITY BANK",
+    "state": "GA",
+    "city": "ALBANY",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1513746000000,
+    "country": "USA",
+    "colors": [
+        "#dcfefa",
+        "#82ab9e",
+        "#404543"
+    ],
+    "name": "Flint Community Bank",
+    "website": "https://www.flint.bank",
+    "logo": "flint.svg"
+}

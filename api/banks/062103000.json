@@ -1,0 +1,19 @@
+{
+    "routing": "062103000",
+    "short": "FIRST PROG BREWTON",
+    "long": "FIRST PROGRESSIVE BANK",
+    "state": "AL",
+    "city": "BREWTON",
+    "transfer": true,
+    "settlement": false,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#8eb4c2",
+        "#fcfefe",
+        "#124f67"
+    ],
+    "name": "First Progressive Bank",
+    "website": "https://www.dnb.com",
+    "logo": "dnb.svg"
+}

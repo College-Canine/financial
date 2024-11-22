@@ -1,0 +1,18 @@
+{
+    "routing": "061211197",
+    "short": "FARMERS STATE BK",
+    "long": "FARMERS STATE BANK",
+    "state": "GA",
+    "city": "CADWELL",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1334030400000,
+    "country": "USA",
+    "colors": [
+        "#3e3c3c",
+        "#ffffff"
+    ],
+    "name": "Farmers State Bank",
+    "website": "https://farmersstate-online.net",
+    "logo": "farmersstate-online.svg"
+}

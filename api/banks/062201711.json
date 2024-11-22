@@ -1,0 +1,18 @@
+{
+    "routing": "062201711",
+    "short": "F&M BK LAFAYETTE",
+    "long": "FARMERS & MERCHANTS BANK",
+    "state": "AL",
+    "city": "LAFAYETTE",
+    "transfer": false,
+    "settlement": false,
+    "updated": 1352178000000,
+    "country": "USA",
+    "colors": [
+        "#fcfefd",
+        "#56bb8f"
+    ],
+    "name": "Farmers & Merchants Bank",
+    "website": "https://www.fmlafayette.com",
+    "logo": "fmlafayette.svg"
+}

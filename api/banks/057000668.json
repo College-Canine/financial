@@ -1,0 +1,18 @@
+{
+    "routing": "057000668",
+    "short": "BB&T BALTIMORE",
+    "long": "BB&T - BALTIMORE",
+    "state": "NC",
+    "city": "WILSON",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1037768400000,
+    "country": "USA",
+    "colors": [
+        "#2b1a46",
+        "#fefdfe"
+    ],
+    "name": "Bb&t - Baltimore",
+    "website": "https://www.truist.com",
+    "logo": "truist.svg"
+}

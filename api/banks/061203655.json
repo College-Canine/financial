@@ -1,0 +1,19 @@
+{
+    "routing": "061203655",
+    "short": "PRIMESOUTH BANK",
+    "long": "PRIMESOUTH BANK",
+    "state": "GA",
+    "city": "BLACKSHEAR",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1247457600000,
+    "country": "USA",
+    "colors": [
+        "#fefefd",
+        "#7aa1b7",
+        "#164562"
+    ],
+    "name": "Primesouth Bank",
+    "website": "https://www.primesouth.com",
+    "logo": "primesouth.svg"
+}

@@ -1,0 +1,18 @@
+{
+    "routing": "063108680",
+    "short": "THE BK OF TAMPA",
+    "long": "THE BANK OF TAMPA",
+    "state": "FL",
+    "city": "TAMPA",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#caaa75",
+        "#574736"
+    ],
+    "name": "The Bank Of Tampa",
+    "website": "https://www.bankoftampa.com",
+    "logo": "bankoftampa.svg"
+}

@@ -1,0 +1,20 @@
+{
+    "routing": "063112142",
+    "short": "FLORIDA CAPITAL BK",
+    "long": "FLORIDA CAPITAL BANK, NA",
+    "state": "FL",
+    "city": "JACKSONVILLE",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1322456400000,
+    "country": "USA",
+    "colors": [
+        "#fdfdfd",
+        "#1c3a9e",
+        "#3f3f3f",
+        "#727b9a"
+    ],
+    "name": "Florida Capital Bank",
+    "website": "https://www.floridacapitalbank.com",
+    "logo": "floridacapitalbank.svg"
+}

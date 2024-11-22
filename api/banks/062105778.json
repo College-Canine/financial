@@ -1,0 +1,19 @@
+{
+    "routing": "062105778",
+    "short": "CCB COMMUNITY BK",
+    "long": "CCB COMMUNITY BANK",
+    "state": "AL",
+    "city": "ANDALUSIA",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1352178000000,
+    "country": "USA",
+    "colors": [
+        "#6a5c5b",
+        "#f1eeed",
+        "#ca3c2d"
+    ],
+    "name": "Ccb Community Bank",
+    "website": "https://www.bankccb.com",
+    "logo": "bankccb.svg"
+}

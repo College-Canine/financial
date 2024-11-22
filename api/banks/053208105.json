@@ -1,0 +1,20 @@
+{
+    "routing": "053208105",
+    "short": "COASTALSTATES BANK",
+    "long": "COASTALSTATES BANK",
+    "state": "SC",
+    "city": "HILTON HEAD ISLAND",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1181102400000,
+    "country": "USA",
+    "colors": [
+        "#fdfefe",
+        "#184563",
+        "#82a3b3",
+        "#c29638"
+    ],
+    "name": "Coastalstates Bank",
+    "website": "https://www.coastalstatesbank.com",
+    "logo": "coastalstatesbank.svg"
+}

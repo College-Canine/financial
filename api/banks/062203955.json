@@ -1,0 +1,19 @@
+{
+    "routing": "062203955",
+    "short": "FST MET MUSCLE SHL",
+    "long": "FIRST METRO BANK",
+    "state": "AL",
+    "city": "MUSCLE SHOALS",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#f9f6f7",
+        "#c62032",
+        "#cd7882"
+    ],
+    "name": "First Metro Bank",
+    "website": "https://www.firstmetro.com",
+    "logo": "firstmetro.svg"
+}

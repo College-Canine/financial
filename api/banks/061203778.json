@@ -1,0 +1,21 @@
+{
+    "routing": "061203778",
+    "short": "THE MERCH & CIT BK",
+    "long": "THE MERCHANTS AND CITIZENS BANK",
+    "state": "GA",
+    "city": "MC RAE",
+    "transfer": false,
+    "settlement": true,
+    "updated": 1415336400000,
+    "country": "USA",
+    "colors": [
+        "#8facd6",
+        "#292318",
+        "#f9faf6",
+        "#a89986",
+        "#6d6725"
+    ],
+    "name": "The Merchants And Citizens Bank",
+    "website": "https://www.merchantsandcitizensbank.com",
+    "logo": "merchantsandcitizensbank.svg"
+}

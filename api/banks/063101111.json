@@ -1,0 +1,19 @@
+{
+    "routing": "063101111",
+    "short": "FARMERS MONTICELLO",
+    "long": "FARMERS AND MERCHANTS BANK",
+    "state": "FL",
+    "city": "MONTICELLO",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1352178000000,
+    "country": "USA",
+    "colors": [
+        "#fdfefd",
+        "#811027",
+        "#b47e8a"
+    ],
+    "name": "Farmers And Merchants Bank",
+    "website": "https://www.fmbankva.com",
+    "logo": "fmbankva.svg"
+}

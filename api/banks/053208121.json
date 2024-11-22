@@ -1,0 +1,18 @@
+{
+    "routing": "053208121",
+    "short": "PALMETTO HERITAGE",
+    "long": "PALMETTO HERITAGE BANK & TRUST",
+    "state": "SC",
+    "city": "PAWLEYS ISLAND",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1248667200000,
+    "country": "USA",
+    "colors": [
+        "#fefefe",
+        "#112034"
+    ],
+    "name": "Palmetto Heritage Bank & Trust",
+    "website": "https://pitchbook.com",
+    "logo": "pitchbook.svg"
+}

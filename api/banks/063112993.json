@@ -1,0 +1,20 @@
+{
+    "routing": "063112993",
+    "short": "STEARNS BK SARASTA",
+    "long": "STEARNS BANK NA",
+    "state": "FL",
+    "city": "VENICE",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1264741200000,
+    "country": "USA",
+    "colors": [
+        "#fefefd",
+        "#107573",
+        "#818b9d",
+        "#252525"
+    ],
+    "name": "Stearns Bank",
+    "website": "https://www.stearnsbank.com",
+    "logo": "stearnsbank.svg"
+}

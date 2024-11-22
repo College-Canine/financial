@@ -1,0 +1,18 @@
+{
+    "routing": "061202957",
+    "short": "PLANTERS & CITIZEN",
+    "long": "PLANTERS & CITIZENS BANK",
+    "state": "GA",
+    "city": "CAMILLA",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#dde4e2",
+        "#215b57"
+    ],
+    "name": "Planters & Citizens Bank",
+    "website": "https://pcbank.net",
+    "logo": "pcbank.svg"
+}

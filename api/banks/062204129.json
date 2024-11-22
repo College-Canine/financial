@@ -1,0 +1,19 @@
+{
+    "routing": "062204129",
+    "short": "EXCHANGE BK",
+    "long": "EXCHANGE BANK OF ALABAMA",
+    "state": "AL",
+    "city": "ATTALLA",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1242705600000,
+    "country": "USA",
+    "colors": [
+        "#fefdfe",
+        "#95c7b9",
+        "#1b6c55"
+    ],
+    "name": "Exchange Bank Of Alabama",
+    "website": "https://exba.com",
+    "logo": "exba.svg"
+}

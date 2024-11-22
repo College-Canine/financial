@@ -4,7 +4,7 @@
 
 ## Banks
 
-In total, there are over 7694 banks in our list. Of these banks, 21.2% have website data and 20.1% have logos.
+In total, there are over 7694 banks in our list. Of these banks, 23.8% have website data and 22.4% have logos.
 
 | Name | Division, Country | Logo | Colors |
 | ---- | ----------------- | ---- | ------ |

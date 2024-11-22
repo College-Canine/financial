@@ -1,0 +1,19 @@
+{
+    "routing": "062105529",
+    "short": "BK SOUTH DOTHAN",
+    "long": "BANKSOUTH",
+    "state": "AL",
+    "city": "DOTHAN",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1415336400000,
+    "country": "USA",
+    "colors": [
+        "#fdfdfd",
+        "#b59096",
+        "#7d2735"
+    ],
+    "name": "Banksouth",
+    "website": "https://banksouth.com",
+    "logo": "banksouth.svg"
+}

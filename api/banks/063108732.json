@@ -1,0 +1,20 @@
+{
+    "routing": "063108732",
+    "short": "FST ST BK ARCADIA",
+    "long": "FIRST STATE BANK OF ARCADIA",
+    "state": "FL",
+    "city": "ARCADIA",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#eff0ef",
+        "#739172",
+        "#4d9e44",
+        "#3f4743"
+    ],
+    "name": "First State Bank Of Arcadia",
+    "website": "https://www.firstnbtc.com",
+    "logo": "firstnbtc.svg"
+}

@@ -1,0 +1,19 @@
+{
+    "routing": "061110557",
+    "short": "FARMERS & MER BK",
+    "long": "FARMERS & MERCHANTS BANK",
+    "state": "GA",
+    "city": "EATONTON",
+    "transfer": false,
+    "settlement": true,
+    "updated": 1345694400000,
+    "country": "USA",
+    "colors": [
+        "#fefefe",
+        "#72b084",
+        "#148333"
+    ],
+    "name": "Farmers & Merchants Bank",
+    "website": "https://ibankfmb.com",
+    "logo": "ibankfmb.svg"
+}

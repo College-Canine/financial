@@ -1,0 +1,20 @@
+{
+    "routing": "061212015",
+    "short": "CLAXTON BANK GA",
+    "long": "THE CLAXTON BANK",
+    "state": "GA",
+    "city": "CLAXTON",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1241582400000,
+    "country": "USA",
+    "colors": [
+        "#fefdfe",
+        "#76d5ef",
+        "#16244e",
+        "#7f8aa2"
+    ],
+    "name": "The Claxton Bank",
+    "website": "https://www.tcbga.bank",
+    "logo": "tcbga.svg"
+}

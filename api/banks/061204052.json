@@ -1,0 +1,18 @@
+{
+    "routing": "061204052",
+    "short": "WAYCROSS BT",
+    "long": "WAYCROSS BANK & TRUST COMPANY",
+    "state": "GA",
+    "city": "WAYCROSS",
+    "transfer": true,
+    "settlement": true,
+    "updated": 999057600000,
+    "country": "USA",
+    "colors": [
+        "#731c38",
+        "#b58996"
+    ],
+    "name": "Waycross Bank & Trust Company",
+    "website": "https://wbt.bank",
+    "logo": "wbt.svg"
+}

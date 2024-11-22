@@ -1,0 +1,19 @@
+{
+    "routing": "061203642",
+    "short": "F&M BANK LAKELAND",
+    "long": "FARMERS & MERCHANTS BANK",
+    "state": "GA",
+    "city": "LAKELAND",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1355288400000,
+    "country": "USA",
+    "colors": [
+        "#233470",
+        "#f2f3f6",
+        "#717ca3"
+    ],
+    "name": "Farmers & Merchants Bank",
+    "website": "https://fmb.net",
+    "logo": "fmb.svg"
+}

@@ -1,0 +1,21 @@
+{
+    "routing": "061212057",
+    "short": "THE CITIZENS BK",
+    "long": "THE CITIZENS BANK",
+    "state": "GA",
+    "city": "NASHVILLE",
+    "transfer": false,
+    "settlement": true,
+    "updated": 1415336400000,
+    "country": "USA",
+    "colors": [
+        "#fdfdfd",
+        "#898989",
+        "#2e271a",
+        "#e0a422",
+        "#ab531e"
+    ],
+    "name": "The Citizens Bank",
+    "website": "https://www.bankcbn.com",
+    "logo": "bankcbn.svg"
+}

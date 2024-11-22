@@ -1,0 +1,18 @@
+{
+    "routing": "061211427",
+    "short": "BARWICK BK",
+    "long": "BARWICK BANKING COMPANY",
+    "state": "GA",
+    "city": "BARWICK",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#4d3a3c",
+        "#b29c7e"
+    ],
+    "name": "Barwick Banking Company",
+    "website": "https://barwickbank.com",
+    "logo": "barwickbank.svg"
+}

@@ -1,0 +1,18 @@
+{
+    "routing": "061212727",
+    "short": "THE PEOPLES BK GA",
+    "long": "THE PEOPLES BANK",
+    "state": "GA",
+    "city": "WILLACOOCHEE",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1391576400000,
+    "country": "USA",
+    "colors": [
+        "#158a58",
+        "#f2f9f6"
+    ],
+    "name": "The Peoples Bank",
+    "website": "https://thepeoplesbank.com",
+    "logo": "thepeoplesbank.svg"
+}

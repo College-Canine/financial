@@ -1,0 +1,19 @@
+{
+    "routing": "061202672",
+    "short": "BANK OF FITZGERALD",
+    "long": "COLONY BANK",
+    "state": "GA",
+    "city": "FITZGERALD",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1259643600000,
+    "country": "USA",
+    "colors": [
+        "#61182d",
+        "#f8e7ee",
+        "#ba8193"
+    ],
+    "name": "Colony Bank",
+    "website": "https://colony.bank",
+    "logo": "colony.svg"
+}

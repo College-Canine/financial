@@ -1,0 +1,19 @@
+{
+    "routing": "061120835",
+    "short": "FIRST COVENANT BK",
+    "long": "FIRST COVENANT BANK",
+    "state": "GA",
+    "city": "COMMERCE",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1253678400000,
+    "country": "USA",
+    "colors": [
+        "#21559d",
+        "#f6f6f6",
+        "#3f3e3e"
+    ],
+    "name": "First Covenant Bank",
+    "website": "https://www.myfirstcenturybank.com",
+    "logo": "myfirstcenturybank.svg"
+}

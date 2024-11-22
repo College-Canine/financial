@@ -1,0 +1,19 @@
+{
+    "routing": "062106557",
+    "short": "TRINITY BANK AL",
+    "long": "TRINITY BANK",
+    "state": "AL",
+    "city": "DOTHAN",
+    "transfer": false,
+    "settlement": true,
+    "updated": 1415336400000,
+    "country": "USA",
+    "colors": [
+        "#333333",
+        "#979797",
+        "#fdfdfd"
+    ],
+    "name": "Trinity Bank",
+    "website": "https://www.mapquest.com",
+    "logo": "mapquest.svg"
+}

@@ -1,0 +1,21 @@
+{
+    "routing": "056005075",
+    "short": "UNION BANK AND TR",
+    "long": "UNION BANK & TRUST",
+    "state": "VA",
+    "city": "RUTHER GLEN",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1439956800000,
+    "country": "USA",
+    "colors": [
+        "#114c91",
+        "#fdfdfd",
+        "#a0dcb1",
+        "#20af4a",
+        "#86a3c6"
+    ],
+    "name": "Union Bank & Trust",
+    "website": "https://locations.atlanticunionbank.com",
+    "logo": "atlanticunionbank.svg"
+}

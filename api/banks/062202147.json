@@ -1,0 +1,18 @@
+{
+    "routing": "062202147",
+    "short": "FNB BANK AL",
+    "long": "FNB BANK",
+    "state": "AL",
+    "city": "SCOTTSBORO",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1328245200000,
+    "country": "USA",
+    "colors": [
+        "#dbebee",
+        "#2f6799"
+    ],
+    "name": "Fnb Bank",
+    "website": "https://www.fnbforyou.com",
+    "logo": "fnbforyou.svg"
+}

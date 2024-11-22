@@ -1,0 +1,18 @@
+{
+    "routing": "061221310",
+    "short": "SOUTH COAST B&T",
+    "long": "SOUTH COAST BANK & TRUST",
+    "state": "GA",
+    "city": "PEARSON",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1423198800000,
+    "country": "USA",
+    "colors": [
+        "#fffefc",
+        "#9cc9ea"
+    ],
+    "name": "South Coast Bank & Trust",
+    "website": "https://southcoast.bank",
+    "logo": "southcoast.svg"
+}

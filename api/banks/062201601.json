@@ -1,0 +1,19 @@
+{
+    "routing": "062201601",
+    "short": "COMPASS BANK",
+    "long": "COMPASS BANK",
+    "state": "AL",
+    "city": "UNIONTOWN",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1443585600000,
+    "country": "USA",
+    "colors": [
+        "#1b2b3e",
+        "#89aed1",
+        "#fbfcfd"
+    ],
+    "name": "Compass Bank",
+    "website": "https://compassbank.us",
+    "logo": "compassbank.svg"
+}

@@ -1,0 +1,19 @@
+{
+    "routing": "062206444",
+    "short": "HOMETOWN BANK",
+    "long": "HOMETOWN BANK",
+    "state": "AL",
+    "city": "ONEONTA",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1488344400000,
+    "country": "USA",
+    "colors": [
+        "#fdfefd",
+        "#142440",
+        "#86909f"
+    ],
+    "name": "Hometown Bank",
+    "website": "https://hometownbankal.com",
+    "logo": "hometownbankal.svg"
+}

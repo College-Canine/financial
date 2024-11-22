@@ -1,0 +1,19 @@
+{
+    "routing": "061210541",
+    "short": "THE CITIZENS ST BK",
+    "long": "THE CITIZENS STATE BANK OF TAYLOR CO",
+    "state": "GA",
+    "city": "REYNOLDS",
+    "transfer": false,
+    "settlement": false,
+    "updated": 1415336400000,
+    "country": "USA",
+    "colors": [
+        "#ffffff",
+        "#76b673",
+        "#3c4b63"
+    ],
+    "name": "The Citizens State Bank Of Taylor",
+    "website": "https://www.cbaofga.com",
+    "logo": "cbaofga.svg"
+}

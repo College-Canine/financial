@@ -1,0 +1,19 @@
+{
+    "routing": "062206460",
+    "short": "BANK OF WALKER CTY",
+    "long": "BANK OF WALKER COUNTY",
+    "state": "AL",
+    "city": "JASPER",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1226898000000,
+    "country": "USA",
+    "colors": [
+        "#ffffff",
+        "#146547",
+        "#88b1a2"
+    ],
+    "name": "Bank Of Walker County",
+    "website": "https://www.bankofwalkercounty.bank",
+    "logo": "bankofwalkercounty.svg"
+}

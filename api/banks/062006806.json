@@ -1,0 +1,19 @@
+{
+    "routing": "062006806",
+    "short": "COMMONE BANK",
+    "long": "COMMERCEONE BANK",
+    "state": "AL",
+    "city": "BIRMINGHAM",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1528344000000,
+    "country": "USA",
+    "colors": [
+        "#fffefd",
+        "#155ea5",
+        "#4fb7e1"
+    ],
+    "name": "Commerceone Bank",
+    "website": "https://www.commerceonebank.com",
+    "logo": "commerceonebank.svg"
+}

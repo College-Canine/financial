@@ -1,0 +1,19 @@
+{
+    "routing": "061203558",
+    "short": "CITZ BK SWAINSBORO",
+    "long": "THE CITIZENS BANK OF SWAINSBORO",
+    "state": "GA",
+    "city": "SWAINSBORO",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1241409600000,
+    "country": "USA",
+    "colors": [
+        "#fefffd",
+        "#1b1b1b",
+        "#6e6e6e"
+    ],
+    "name": "The Citizens Bank Of Swainsboro",
+    "website": "https://cbs-lc.com",
+    "logo": "cbs-lc.svg"
+}

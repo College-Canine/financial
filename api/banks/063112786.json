@@ -1,0 +1,17 @@
+{
+    "routing": "063112786",
+    "short": "HANCOCK WHITNEY BA",
+    "long": "HANCOCK WHITNEY BANK",
+    "state": "FL",
+    "city": "TALLAHASSEE",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1527134400000,
+    "country": "USA",
+    "colors": [
+        "#74b4dd"
+    ],
+    "name": "Hancock Whitney Bank",
+    "website": "https://locations.hancockwhitney.com",
+    "logo": "hancockwhitney.svg"
+}

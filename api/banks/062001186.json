@@ -1,0 +1,18 @@
+{
+    "routing": "062001186",
+    "short": "COMPASS BANK",
+    "long": "COMPASS BANK",
+    "state": "AL",
+    "city": "BIRMINGHAM",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#2577ba",
+        "#2f3186"
+    ],
+    "name": "Compass Bank",
+    "website": "https://compass-bank.com",
+    "logo": "compass-bank.svg"
+}

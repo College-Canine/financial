@@ -1,0 +1,18 @@
+{
+    "routing": "062005690",
+    "short": "REGIONS BK",
+    "long": "REGIONS BANK",
+    "state": "AL",
+    "city": "BIRMINGHAM",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1503028800000,
+    "country": "USA",
+    "colors": [
+        "#87bc41",
+        "#f0f8e4"
+    ],
+    "name": "Regions Bank",
+    "website": "https://www.regions.com",
+    "logo": "regions.svg"
+}

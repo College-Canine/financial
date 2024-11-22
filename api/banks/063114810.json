@@ -1,0 +1,15 @@
+{
+    "routing": "063114810",
+    "short": "SEACOAST NATL BK",
+    "long": "SEACOAST NATIONAL BANK",
+    "state": "FL",
+    "city": "ORLANDO",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1415336400000,
+    "country": "USA",
+    "colors": [],
+    "name": "Seacoast National Bank",
+    "website": "https://www.seacoastbank.com",
+    "logo": "seacoastbank.svg"
+}

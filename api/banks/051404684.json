@@ -1,0 +1,19 @@
+{
+    "routing": "051404684",
+    "short": "MINERS COEBURN",
+    "long": "MINERS EXCHANGE BANK",
+    "state": "VA",
+    "city": "COEBURN",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#13356b",
+        "#d5c6ad",
+        "#77838e"
+    ],
+    "name": "Miners Exchange Bank",
+    "website": "https://www.mymeb.com",
+    "logo": "mymeb.svg"
+}

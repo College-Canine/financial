@@ -1,0 +1,20 @@
+{
+    "routing": "061210237",
+    "short": "ST BK COCHRAN",
+    "long": "STATE BANK OF COCHRAN",
+    "state": "GA",
+    "city": "COCHRAN",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1355202000000,
+    "country": "USA",
+    "colors": [
+        "#95d6b8",
+        "#2aad71",
+        "#f4f6ef",
+        "#c2a874"
+    ],
+    "name": "State Bank Of Cochran",
+    "website": "https://www.statebankofcochran.com",
+    "logo": "statebankofcochran.svg"
+}

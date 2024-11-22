@@ -1,0 +1,18 @@
+{
+    "routing": "062006505",
+    "short": "SERVISFIRST BANK",
+    "long": "SERVISFIRST BANK",
+    "state": "AL",
+    "city": "HOMEWOOD",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1509508800000,
+    "country": "USA",
+    "colors": [
+        "#fcfefd",
+        "#5e89cb"
+    ],
+    "name": "Servisfirst Bank",
+    "website": "https://www.servisfirstbank.com",
+    "logo": "servisfirstbank.svg"
+}

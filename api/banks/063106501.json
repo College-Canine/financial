@@ -1,0 +1,20 @@
+{
+    "routing": "063106501",
+    "short": "CITIZENS STATE",
+    "long": "CITIZENS STATE BANK",
+    "state": "FL",
+    "city": "PERRY",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1352264400000,
+    "country": "USA",
+    "colors": [
+        "#acd486",
+        "#26656e",
+        "#fefdfa",
+        "#88bbc5"
+    ],
+    "name": "Citizens State Bank",
+    "website": "https://www.csbcolorado.com",
+    "logo": "csbcolorado.svg"
+}

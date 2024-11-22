@@ -1,0 +1,18 @@
+{
+    "routing": "062103592",
+    "short": "FIRST US BANK AL",
+    "long": "FIRST US BANK",
+    "state": "AL",
+    "city": "BIRMINGHAM",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1508472000000,
+    "country": "USA",
+    "colors": [
+        "#253375",
+        "#959bbb"
+    ],
+    "name": "First Us Bank",
+    "website": "https://www.fusb.com",
+    "logo": "fusb.svg"
+}

@@ -1,0 +1,19 @@
+{
+    "routing": "061219694",
+    "short": "AB&T",
+    "long": "AB&T",
+    "state": "GA",
+    "city": "ALBANY",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1482987600000,
+    "country": "USA",
+    "colors": [
+        "#f6f5f5",
+        "#53829f",
+        "#ebd29d"
+    ],
+    "name": "Ab&t",
+    "website": "https://www.abtgold.com",
+    "logo": "abtgold.svg"
+}

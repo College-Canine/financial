@@ -1,0 +1,19 @@
+{
+    "routing": "062204158",
+    "short": "CITIZENS FAYETTE",
+    "long": "CITIZENS BANK OF FAYETTE",
+    "state": "AL",
+    "city": "FAYETTE",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1202965200000,
+    "country": "USA",
+    "colors": [
+        "#2d5969",
+        "#fdfdfe",
+        "#e76e43"
+    ],
+    "name": "Citizens Bank Of Fayette",
+    "website": "https://www.prnewswire.com",
+    "logo": "prnewswire.svg"
+}

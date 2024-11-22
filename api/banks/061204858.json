@@ -1,0 +1,20 @@
+{
+    "routing": "061204858",
+    "short": "THOMASVILLE NATL",
+    "long": "THOMASVILLE NATIONAL BANK",
+    "state": "GA",
+    "city": "THOMASVILLE",
+    "transfer": true,
+    "settlement": true,
+    "updated": 999057600000,
+    "country": "USA",
+    "colors": [
+        "#fefdfd",
+        "#829e8a",
+        "#2d6c40",
+        "#191a1a"
+    ],
+    "name": "Thomasville National Bank",
+    "website": "https://tnbank.com",
+    "logo": "tnbank.svg"
+}

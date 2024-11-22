@@ -1,0 +1,19 @@
+{
+    "routing": "062102098",
+    "short": "UNITED BK ATMORE",
+    "long": "UNITED BANK",
+    "state": "AL",
+    "city": "ATMORE",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1332475200000,
+    "country": "USA",
+    "colors": [
+        "#fdfffd",
+        "#1f566e",
+        "#8aa8b4"
+    ],
+    "name": "United Bank",
+    "website": "https://www.unitedbank.com",
+    "logo": "unitedbank.svg"
+}

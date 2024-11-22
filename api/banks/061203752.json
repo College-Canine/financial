@@ -1,0 +1,17 @@
+{
+    "routing": "061203752",
+    "short": "BK HAZLEHURST",
+    "long": "BANK OF HAZLEHURST",
+    "state": "GA",
+    "city": "HAZLEHURST",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1355115600000,
+    "country": "USA",
+    "colors": [
+        "#ee3a41"
+    ],
+    "name": "Bank Of Hazlehurst",
+    "website": "https://bankofhazlehurst.com",
+    "logo": "bankofhazlehurst.svg"
+}

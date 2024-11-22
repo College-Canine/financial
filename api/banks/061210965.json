@@ -1,0 +1,19 @@
+{
+    "routing": "061210965",
+    "short": "PLANTERS FIRST GA",
+    "long": "PLANTERS FIRST BANK",
+    "state": "GA",
+    "city": "CORDELE",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1451451600000,
+    "country": "USA",
+    "colors": [
+        "#fefdfd",
+        "#54595a",
+        "#4083ef"
+    ],
+    "name": "Planters First Bank",
+    "website": "https://bankplanters.com",
+    "logo": "bankplanters.svg"
+}

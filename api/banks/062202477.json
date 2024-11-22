@@ -1,0 +1,18 @@
+{
+    "routing": "062202477",
+    "short": "FIRST STEVENSON",
+    "long": "FIRST SOUTHERN STATE BANK",
+    "state": "AL",
+    "city": "STEVENSON",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1133326800000,
+    "country": "USA",
+    "colors": [
+        "#3571a9",
+        "#fdfefd"
+    ],
+    "name": "First Southern State Bank",
+    "website": "https://www.fssbank.com",
+    "logo": "fssbank.svg"
+}

@@ -1,0 +1,17 @@
+{
+    "routing": "061212170",
+    "short": "WHEELR CNTY ST BK",
+    "long": "WHEELER COUNTY STATE BANK",
+    "state": "GA",
+    "city": "ALAMO",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1238040000000,
+    "country": "USA",
+    "colors": [
+        "#194390"
+    ],
+    "name": "Wheeler County State Bank",
+    "website": "https://www.atlanticsouthbank.com",
+    "logo": "atlanticsouthbank.svg"
+}

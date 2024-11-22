@@ -1,0 +1,17 @@
+{
+    "routing": "061212002",
+    "short": "BANK OF EARLY",
+    "long": "BANK OF EARLY",
+    "state": "GA",
+    "city": "BLAKELY",
+    "transfer": false,
+    "settlement": true,
+    "updated": 1392354000000,
+    "country": "USA",
+    "colors": [
+        "#487157"
+    ],
+    "name": "Bank Of Early",
+    "website": "https://www.fsbanks.com",
+    "logo": "fsbanks.svg"
+}

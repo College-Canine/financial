@@ -1,0 +1,20 @@
+{
+    "routing": "061212811",
+    "short": "SUNMARK COMM BK",
+    "long": "SUNMARK COMMUNITY BANK",
+    "state": "GA",
+    "city": "HAWKINSVILLE",
+    "transfer": false,
+    "settlement": true,
+    "updated": 1415336400000,
+    "country": "USA",
+    "colors": [
+        "#fefdfe",
+        "#e7ce5c",
+        "#386148",
+        "#8dad98"
+    ],
+    "name": "Sunmark Community Bank",
+    "website": "https://www.sunmarkbank.com",
+    "logo": "sunmarkbank.svg"
+}

@@ -1,0 +1,20 @@
+{
+    "routing": "063113523",
+    "short": "STEARNS BK FL",
+    "long": "STEARNS BANK NA",
+    "state": "FL",
+    "city": "SARASOTA",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1415336400000,
+    "country": "USA",
+    "colors": [
+        "#fefefd",
+        "#107573",
+        "#818b9d",
+        "#252525"
+    ],
+    "name": "Stearns Bank",
+    "website": "https://www.stearnsbank.com",
+    "logo": "stearnsbank.svg"
+}

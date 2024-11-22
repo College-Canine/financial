@@ -1,0 +1,18 @@
+{
+    "routing": "062006796",
+    "short": "SERVISFIRST BK",
+    "long": "SERVISFIRST BANK",
+    "state": "AL",
+    "city": "BIRMINGHAM",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1427342400000,
+    "country": "USA",
+    "colors": [
+        "#fcfefd",
+        "#5e89cb"
+    ],
+    "name": "Servisfirst Bank",
+    "website": "https://www.servisfirstbank.com",
+    "logo": "servisfirstbank.svg"
+}

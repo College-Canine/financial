@@ -1,0 +1,19 @@
+{
+    "routing": "062201449",
+    "short": "FNB OF CENTRAL ALA",
+    "long": "FNB OF CENTRAL ALABAMA",
+    "state": "AL",
+    "city": "TUSCALOOSA",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1403841600000,
+    "country": "USA",
+    "colors": [
+        "#333333",
+        "#979797",
+        "#fdfdfd"
+    ],
+    "name": "Fnb Of Central Alabama",
+    "website": "https://www.mapquest.com",
+    "logo": "mapquest.svg"
+}

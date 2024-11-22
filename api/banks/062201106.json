@@ -1,0 +1,19 @@
+{
+    "routing": "062201106",
+    "short": "PHENIX-GIRARD BK",
+    "long": "PHENIX-GIRARD BANK",
+    "state": "AL",
+    "city": "PHENIX CITY",
+    "transfer": false,
+    "settlement": false,
+    "updated": 1352178000000,
+    "country": "USA",
+    "colors": [
+        "#bcd7e0",
+        "#646667",
+        "#1985b2"
+    ],
+    "name": "Phenix-girard Bank",
+    "website": "https://www.phenix-girard.com",
+    "logo": "phenix-girard.svg"
+}

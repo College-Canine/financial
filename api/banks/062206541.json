@@ -1,0 +1,22 @@
+{
+    "routing": "062206541",
+    "short": "NOBLEBANK & TRUST",
+    "long": "NOBLEBANK & TRUST",
+    "state": "AL",
+    "city": "ANNISTON",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1517979600000,
+    "country": "USA",
+    "colors": [
+        "#4a6a45",
+        "#bda167",
+        "#261e11",
+        "#e4b641",
+        "#797073",
+        "#575ca6"
+    ],
+    "name": "Noblebank & Trust",
+    "website": "https://www.noblebank.com",
+    "logo": "noblebank.svg"
+}

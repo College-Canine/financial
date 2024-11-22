@@ -1,0 +1,19 @@
+{
+    "routing": "053112592",
+    "short": "WOODFOREST NATL BK",
+    "long": "WOODFOREST NATIONAL BANK",
+    "logo": "woodforest.svg",
+    "state": "TX",
+    "city": "HOUSTON",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1119499200000,
+    "country": "USA",
+    "colors": [
+        "#010101",
+        "#55A939",
+        "#FFFFFF"
+    ],
+    "name": "Woodforest National Bank",
+    "website": "https://www.woodforest.com"
+}

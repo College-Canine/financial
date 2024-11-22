@@ -1,0 +1,19 @@
+{
+    "routing": "061205844",
+    "short": "SOUTHEASTERN BANK",
+    "long": "SOUTHEASTERN BANK",
+    "state": "GA",
+    "city": "DARIEN",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#fefefe",
+        "#739743",
+        "#b6c89c"
+    ],
+    "name": "Southeastern Bank",
+    "website": "https://www.southeasternbank.com",
+    "logo": "southeasternbank.svg"
+}

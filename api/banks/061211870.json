@@ -1,0 +1,19 @@
+{
+    "routing": "061211870",
+    "short": "SO GA BKG CO",
+    "long": "SOUTH GEORGIA BANKING COMPANY",
+    "state": "GA",
+    "city": "TIFTON",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#325073",
+        "#fdfefd",
+        "#8897a9"
+    ],
+    "name": "South Georgia Banking Company",
+    "website": "https://www.sgbconline.com",
+    "logo": "sgbconline.svg"
+}

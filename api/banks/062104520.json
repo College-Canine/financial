@@ -1,0 +1,18 @@
+{
+    "routing": "062104520",
+    "short": "FIRST ATMORE",
+    "long": "FIRST NATIONAL BANK AND TRUST",
+    "state": "AL",
+    "city": "ATMORE",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1168491600000,
+    "country": "USA",
+    "colors": [
+        "#efcc92",
+        "#5c4828"
+    ],
+    "name": "First National Bank And Trust",
+    "website": "https://www.fnbandt.com",
+    "logo": "fnbandt.svg"
+}

@@ -1,0 +1,18 @@
+{
+    "routing": "062102386",
+    "short": "COMMUNTY NEIGHBOR",
+    "long": "COMMUNITY NEIGHBOR BANK",
+    "state": "AL",
+    "city": "CAMDEN",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1390539600000,
+    "country": "USA",
+    "colors": [
+        "#166936",
+        "#97775c"
+    ],
+    "name": "Community Neighbor Bank",
+    "website": "https://www.cnbal.net",
+    "logo": "cnbal.svg"
+}

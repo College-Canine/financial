@@ -1,0 +1,17 @@
+{
+    "routing": "061206843",
+    "short": "FST BK COASTAL GA",
+    "long": "FIRST BANK OF COASTAL GEORGIA",
+    "state": "GA",
+    "city": "PEMBROKE",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1144900800000,
+    "country": "USA",
+    "colors": [
+        "#ffffff"
+    ],
+    "name": "First Bank Of Coastal Georgia",
+    "website": "https://firstbankofcg.com",
+    "logo": "firstbankofcg.svg"
+}

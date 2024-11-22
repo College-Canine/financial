@@ -1,0 +1,20 @@
+{
+    "routing": "061205271",
+    "short": "BK OF ALAPAHA",
+    "long": "BANK OF ALAPAHA",
+    "state": "GA",
+    "city": "ALAPAHA",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1273636800000,
+    "country": "USA",
+    "colors": [
+        "#f1efe9",
+        "#e9bd54",
+        "#7e87a4",
+        "#2b3a6a"
+    ],
+    "name": "Bank Of Alapaha",
+    "website": "https://bankofalapaha.com",
+    "logo": "bankofalapaha.svg"
+}

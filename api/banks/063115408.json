@@ -1,0 +1,18 @@
+{
+    "routing": "063115408",
+    "short": "COMM NATL BK & TR",
+    "long": "COMMERCE NATIONAL BANK & TRUST",
+    "state": "FL",
+    "city": "WINTER PARK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1392354000000,
+    "country": "USA",
+    "colors": [
+        "#fefafe",
+        "#8b2928"
+    ],
+    "name": "Commerce National Bank & Trust",
+    "website": "https://cbtfl.com",
+    "logo": "cbtfl.svg"
+}

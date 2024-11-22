@@ -1,0 +1,18 @@
+{
+    "routing": "062103864",
+    "short": "MIDSOUTH BANK",
+    "long": "MIDSOUTH BANK",
+    "state": "AL",
+    "city": "DOTHAN",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1396584000000,
+    "country": "USA",
+    "colors": [
+        "#f5fefe",
+        "#679bcc"
+    ],
+    "name": "Midsouth Bank",
+    "website": "https://www.bankmidsouth.com",
+    "logo": "bankmidsouth.svg"
+}

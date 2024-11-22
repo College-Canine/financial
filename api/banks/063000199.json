@@ -1,0 +1,18 @@
+{
+    "routing": "063000199",
+    "short": "FRB JAX",
+    "long": "JACKSONVILLE - FRB ATLANTA",
+    "state": "FL",
+    "city": "JACKSONVILLE",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1541044800000,
+    "country": "USA",
+    "colors": [
+        "#3079a9",
+        "#d0e5ee"
+    ],
+    "name": "Jacksonville - Frb Atlanta",
+    "website": "https://www.atlantafed.org",
+    "logo": "atlantafed.svg"
+}

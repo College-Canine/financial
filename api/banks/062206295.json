@@ -1,0 +1,20 @@
+{
+    "routing": "062206295",
+    "short": "CADENCE BANK",
+    "long": "CADENCE BANK, NA",
+    "state": "AL",
+    "city": "BIRMINGHAM",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1321333200000,
+    "country": "USA",
+    "colors": [
+        "#fefdfd",
+        "#124043",
+        "#838e95",
+        "#c9b880"
+    ],
+    "name": "Cadence Bank",
+    "website": "https://cadencebank.com",
+    "logo": "cadencebank.svg"
+}

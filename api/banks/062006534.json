@@ -1,0 +1,19 @@
+{
+    "routing": "062006534",
+    "short": "SOUTHPOINT BANK",
+    "long": "SOUTHPOINT BANK",
+    "state": "AL",
+    "city": "BIRMINGHAM",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1536724800000,
+    "country": "USA",
+    "colors": [
+        "#2a3284",
+        "#7e9fce",
+        "#fefdfe"
+    ],
+    "name": "Southpoint Bank",
+    "website": "https://southpoint.bank",
+    "logo": "southpoint.svg"
+}

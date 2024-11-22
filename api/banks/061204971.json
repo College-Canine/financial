@@ -1,0 +1,18 @@
+{
+    "routing": "061204971",
+    "short": "BK OF SOPERTON GA",
+    "long": "BANK OF SOPERTON",
+    "state": "GA",
+    "city": "SOPERTON",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1246248000000,
+    "country": "USA",
+    "colors": [
+        "#587362",
+        "#fdfcfc"
+    ],
+    "name": "Bank Of Soperton",
+    "website": "https://georgiafirst.bank",
+    "logo": "georgiafirst.svg"
+}

@@ -1,0 +1,22 @@
+{
+    "routing": "061303348",
+    "short": "FIRST VOLUNTEER BK",
+    "long": "FIRST VOLUNTEER BANK",
+    "state": "TN",
+    "city": "CHATTANOOGA",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1340078400000,
+    "country": "USA",
+    "colors": [
+        "#2b2d38",
+        "#643828",
+        "#e5b64d",
+        "#ea471f",
+        "#112677",
+        "#1988b3"
+    ],
+    "name": "First Volunteer Bank",
+    "website": "https://www.builtwell.bank",
+    "logo": "builtwell.svg"
+}

@@ -1,0 +1,18 @@
+{
+    "routing": "062203078",
+    "short": "MERCHANTS BANK",
+    "long": "MERCHANTS BANK OF ALABAMA",
+    "state": "AL",
+    "city": "CULLMAN",
+    "transfer": false,
+    "settlement": true,
+    "updated": 1158120000000,
+    "country": "USA",
+    "colors": [
+        "#fefefe",
+        "#a09163"
+    ],
+    "name": "Merchants Bank Of Alabama",
+    "website": "https://www.merchantsbankal.bank",
+    "logo": "merchantsbankal.svg"
+}

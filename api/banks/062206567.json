@@ -1,0 +1,18 @@
+{
+    "routing": "062206567",
+    "short": "RIVER BK TRUST AL",
+    "long": "RIVER BANK & TRUST",
+    "state": "AL",
+    "city": "PRATTVILLE",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1539144000000,
+    "country": "USA",
+    "colors": [
+        "#fafbfc",
+        "#638bb2"
+    ],
+    "name": "River Bank & Trust",
+    "website": "https://riverbankandtrust.com",
+    "logo": "riverbankandtrust.svg"
+}

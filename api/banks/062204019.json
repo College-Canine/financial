@@ -1,0 +1,18 @@
+{
+    "routing": "062204019",
+    "short": "METRO BK PELL CITY",
+    "long": "METRO BANK",
+    "state": "AL",
+    "city": "PELL CITY",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1332734400000,
+    "country": "USA",
+    "colors": [
+        "#c8d5d1",
+        "#184b3b"
+    ],
+    "name": "Metro Bank",
+    "website": "https://www.metrobankpc.com",
+    "logo": "metrobankpc.svg"
+}

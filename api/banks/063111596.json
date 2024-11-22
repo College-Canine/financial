@@ -1,0 +1,19 @@
+{
+    "routing": "063111596",
+    "short": "FST NAT BANKERS BK",
+    "long": "FIRST NATIONAL BANKERS BANK",
+    "state": "LA",
+    "city": "BATON ROUGE",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1478667600000,
+    "country": "USA",
+    "colors": [
+        "#fdffff",
+        "#1a2d53",
+        "#908d76"
+    ],
+    "name": "First National Bankers Bank",
+    "website": "https://www.bankers-bank.com",
+    "logo": "bankers-bank.svg"
+}

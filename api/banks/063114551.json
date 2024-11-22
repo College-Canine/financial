@@ -1,0 +1,19 @@
+{
+    "routing": "063114551",
+    "short": "FIRST HOME BK FLA",
+    "long": "FIRST HOME BANK",
+    "state": "FL",
+    "city": "SEMINOLE",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1290142800000,
+    "country": "USA",
+    "colors": [
+        "#fdfffe",
+        "#fd934e",
+        "#3e7238"
+    ],
+    "name": "First Home Bank",
+    "website": "https://bayfirstfinancial.com",
+    "logo": "bayfirstfinancial.svg"
+}

@@ -1,0 +1,20 @@
+{
+    "routing": "063104312",
+    "short": "FIRST MT DORA",
+    "long": "FIRST NATIONAL BANK",
+    "state": "FL",
+    "city": "MOUNT DORA",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#fefcfe",
+        "#b98037",
+        "#214d76",
+        "#cdb291"
+    ],
+    "name": "First National Bank",
+    "website": "https://www.fnbmd.com",
+    "logo": "fnbmd.svg"
+}

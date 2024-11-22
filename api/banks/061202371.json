@@ -1,0 +1,19 @@
+{
+    "routing": "061202371",
+    "short": "PEOPLES BANK",
+    "long": "PEOPLESOUTH BANK",
+    "state": "GA",
+    "city": "COLQUITT",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1243396800000,
+    "country": "USA",
+    "colors": [
+        "#fdfefd",
+        "#621926",
+        "#b47b85"
+    ],
+    "name": "Peoplesouth Bank",
+    "website": "https://www.peoplessouth.com",
+    "logo": "peoplessouth.svg"
+}

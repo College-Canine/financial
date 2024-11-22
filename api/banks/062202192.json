@@ -1,0 +1,19 @@
+{
+    "routing": "062202192",
+    "short": "MER & FAR EUTAW",
+    "long": "MERCHANTS & FARMERS BK OF GREENE CO",
+    "state": "AL",
+    "city": "EUTAW",
+    "transfer": true,
+    "settlement": false,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#fefdfd",
+        "#156132",
+        "#9abba8"
+    ],
+    "name": "Merchants & Farmers Bank Of Greene",
+    "website": "https://www.mfbusa.com",
+    "logo": "mfbusa.svg"
+}

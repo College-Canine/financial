@@ -1,0 +1,19 @@
+{
+    "routing": "063100688",
+    "short": "CAPITAL CITY TAL",
+    "long": "CAPITAL CITY BANK",
+    "state": "FL",
+    "city": "TALLAHASSEE",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#fafdfa",
+        "#1d5b84",
+        "#75a2b9"
+    ],
+    "name": "Capital City Bank",
+    "website": "https://www.ccbg.com",
+    "logo": "ccbg.svg"
+}

@@ -1,0 +1,15 @@
+{
+    "routing": "062203395",
+    "short": "UNION ST PELL CITY",
+    "long": "UNION STATE BANK",
+    "state": "AL",
+    "city": "PELL CITY",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [],
+    "name": "Union State Bank",
+    "website": "https://www.unionstate.net",
+    "logo": "unionstate.svg"
+}

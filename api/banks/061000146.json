@@ -1,0 +1,18 @@
+{
+    "routing": "061000146",
+    "short": "FRB ATL",
+    "long": "FEDERAL RESERVE BANK OF ATLANTA",
+    "state": "GA",
+    "city": "ATLANTA",
+    "transfer": true,
+    "settlement": true,
+    "updated": 932356800000,
+    "country": "USA",
+    "colors": [
+        "#3079a9",
+        "#d0e5ee"
+    ],
+    "name": "Federal Reserve Bank Of Atlanta",
+    "website": "https://www.atlantafed.org",
+    "logo": "atlantafed.svg"
+}

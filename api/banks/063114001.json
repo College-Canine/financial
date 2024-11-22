@@ -1,0 +1,18 @@
+{
+    "routing": "063114001",
+    "short": "CITIZENS FIRST BK",
+    "long": "CITIZENS FIRST BANK",
+    "state": "FL",
+    "city": "THE VILLAGES",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1020225600000,
+    "country": "USA",
+    "colors": [
+        "#1d7859",
+        "#c2d8d1"
+    ],
+    "name": "Citizens First Bank",
+    "website": "https://www.citizensfb.com",
+    "logo": "citizensfb.svg"
+}

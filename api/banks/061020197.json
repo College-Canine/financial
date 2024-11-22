@@ -1,0 +1,18 @@
+{
+    "routing": "061020197",
+    "short": "AFFINITY BANK GA",
+    "long": "AFFINITY BANK",
+    "state": "GA",
+    "city": "ATLANTA",
+    "transfer": false,
+    "settlement": true,
+    "updated": 1285646400000,
+    "country": "USA",
+    "colors": [
+        "#c0ced2",
+        "#2a4752"
+    ],
+    "name": "Affinity Bank",
+    "website": "https://myaffinitybank.com",
+    "logo": "myaffinitybank.svg"
+}

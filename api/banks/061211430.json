@@ -1,0 +1,19 @@
+{
+    "routing": "061211430",
+    "short": "CITIZENS BK & TR",
+    "long": "CITIZENS BANK & TRUST COMPANY",
+    "state": "GA",
+    "city": "EASTMAN",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1303876800000,
+    "country": "USA",
+    "colors": [
+        "#333333",
+        "#979797",
+        "#fdfdfd"
+    ],
+    "name": "Citizens Bank & Trust Company",
+    "website": "https://www.mapquest.com",
+    "logo": "mapquest.svg"
+}

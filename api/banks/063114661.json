@@ -1,0 +1,19 @@
+{
+    "routing": "063114661",
+    "short": "COGENT BANK",
+    "long": "COGENT BANK",
+    "state": "FL",
+    "city": "ORANGE CITY",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1539921600000,
+    "country": "USA",
+    "colors": [
+        "#fefdfe",
+        "#9eb4de",
+        "#18409b"
+    ],
+    "name": "Cogent Bank",
+    "website": "https://cogentbank.com",
+    "logo": "cogentbank.svg"
+}

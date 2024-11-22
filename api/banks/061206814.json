@@ -1,0 +1,19 @@
+{
+    "routing": "061206814",
+    "short": "FIRST SOUTHERN BK",
+    "long": "FIRST SOUTHERN BANK",
+    "state": "GA",
+    "city": "PATTERSON",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1367985600000,
+    "country": "USA",
+    "colors": [
+        "#4a4e93",
+        "#eff2f6",
+        "#9b9da5"
+    ],
+    "name": "First Southern Bank",
+    "website": "https://www.fsb-bank.bank",
+    "logo": "fsb-bank.svg"
+}

@@ -1,0 +1,19 @@
+{
+    "routing": "063105285",
+    "short": "UNITED SOUTH BK",
+    "long": "UNITED SOUTHERN BANK",
+    "state": "FL",
+    "city": "UMATILLA",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#2868a4",
+        "#82a9c5",
+        "#fefefe"
+    ],
+    "name": "United Southern Bank",
+    "website": "https://www.unitedsouthernbank.com",
+    "logo": "unitedsouthernbank.svg"
+}

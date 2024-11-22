@@ -1,0 +1,19 @@
+{
+    "routing": "061010220",
+    "short": "CITZ TR ATL",
+    "long": "CITIZENS TRUST BANK",
+    "state": "GA",
+    "city": "ATLANTA",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#104e5f",
+        "#f2faf6",
+        "#80aab3"
+    ],
+    "name": "Citizens Trust Bank",
+    "website": "https://ctbconnect.com",
+    "logo": "ctbconnect.svg"
+}

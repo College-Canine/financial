@@ -1,0 +1,18 @@
+{
+    "routing": "061211317",
+    "short": "PEOPLES BK LYONS",
+    "long": "THE PEOPLES BANK OF LYONS",
+    "state": "GA",
+    "city": "LYONS",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1248667200000,
+    "country": "USA",
+    "colors": [
+        "#2a784c",
+        "#f5f9f7"
+    ],
+    "name": "The Peoples Bank Of Lyons",
+    "website": "https://ourpeoplesbank.com",
+    "logo": "ourpeoplesbank.svg"
+}

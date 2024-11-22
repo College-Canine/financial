@@ -1,0 +1,20 @@
+{
+    "routing": "062102593",
+    "short": "PEOPLES EXCHANGE",
+    "long": "PEOPLES EXCHANGE BANK",
+    "state": "AL",
+    "city": "MONROEVILLE",
+    "transfer": false,
+    "settlement": true,
+    "updated": 1520312400000,
+    "country": "USA",
+    "colors": [
+        "#201d54",
+        "#fbfbfc",
+        "#5b5879",
+        "#a9a7b8"
+    ],
+    "name": "Peoples Exchange Bank",
+    "website": "https://www.peb.bank",
+    "logo": "peb.svg"
+}

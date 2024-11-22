@@ -1,0 +1,19 @@
+{
+    "routing": "063114917",
+    "short": "FLA BUSINESS BANK",
+    "long": "FLORIDA BUSINESS BANK",
+    "state": "FL",
+    "city": "MELBOURNE",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1473825600000,
+    "country": "USA",
+    "colors": [
+        "#333333",
+        "#979797",
+        "#fdfdfd"
+    ],
+    "name": "Florida Business Bank",
+    "website": "https://www.mapquest.com",
+    "logo": "mapquest.svg"
+}

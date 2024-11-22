@@ -1,0 +1,15 @@
+{
+    "routing": "062203874",
+    "short": "BANK OF VERNON",
+    "long": "BANK OF VERNON",
+    "state": "AL",
+    "city": "VERNON",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1352178000000,
+    "country": "USA",
+    "colors": [],
+    "name": "Bank Of Vernon",
+    "website": "https://www.bankofvernon.bank",
+    "logo": "bankofvernon.svg"
+}

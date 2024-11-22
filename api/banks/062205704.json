@@ -1,0 +1,19 @@
+{
+    "routing": "062205704",
+    "short": "WEST ALA BK & TR",
+    "long": "WEST ALABAMA BANK & TRUST",
+    "state": "AL",
+    "city": "REFORM",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1332734400000,
+    "country": "USA",
+    "colors": [
+        "#fab914",
+        "#fbfefb",
+        "#c09e48"
+    ],
+    "name": "West Alabama Bank & Trust",
+    "website": "https://www.wabt.com",
+    "logo": "wabt.svg"
+}

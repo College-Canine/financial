@@ -1,0 +1,19 @@
+{
+    "routing": "062104274",
+    "short": "AMERIFIRST BANK",
+    "long": "AMERIFIRST BANK",
+    "state": "AL",
+    "city": "UNION SPRINGS",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1107752400000,
+    "country": "USA",
+    "colors": [
+        "#fefefd",
+        "#bdae91",
+        "#3c3c3c"
+    ],
+    "name": "Amerifirst Bank",
+    "website": "https://amerifirstbank.com",
+    "logo": "amerifirstbank.svg"
+}

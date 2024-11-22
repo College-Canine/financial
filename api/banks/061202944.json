@@ -1,0 +1,19 @@
+{
+    "routing": "061202944",
+    "short": "BANK OF CAMILLA",
+    "long": "BANK OF CAMILLA",
+    "state": "GA",
+    "city": "CAMILLA",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1036040400000,
+    "country": "USA",
+    "colors": [
+        "#fcfbf5",
+        "#f3d99d",
+        "#e6b136"
+    ],
+    "name": "Bank Of Camilla",
+    "website": "https://www.bankofcamilla.net",
+    "logo": "bankofcamilla.svg"
+}

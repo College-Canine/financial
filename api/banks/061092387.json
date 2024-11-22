@@ -1,0 +1,18 @@
+{
+    "routing": "061092387",
+    "short": "JPMCHASE",
+    "long": "JPMORGAN CHASE BANK, NA",
+    "logo": "chase.svg",
+    "state": "CA",
+    "city": "STOCKTON",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1291006800000,
+    "country": "USA",
+    "colors": [
+        "#004FC2",
+        "#FFFFFF"
+    ],
+    "name": "JP-Morgan Chase Bank",
+    "website": "https://locator.chase.com"
+}

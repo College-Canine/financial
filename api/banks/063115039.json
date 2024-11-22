@@ -1,0 +1,19 @@
+{
+    "routing": "063115039",
+    "short": "CENTURY BANK OF FL",
+    "long": "CENTURY BANK OF FLORIDA",
+    "state": "FL",
+    "city": "TAMPA",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1521000000000,
+    "country": "USA",
+    "colors": [
+        "#fdfefd",
+        "#c3f3be",
+        "#51c944"
+    ],
+    "name": "Century Bank Of Florida",
+    "website": "https://www.centurybk.com",
+    "logo": "centurybk.svg"
+}

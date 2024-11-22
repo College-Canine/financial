@@ -1,0 +1,19 @@
+{
+    "routing": "061202025",
+    "short": "SOUTHWEST GA BK",
+    "long": "SOUTHWEST GEORGIA BANK",
+    "state": "GA",
+    "city": "MOULTRIE",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#155f48",
+        "#dff9f4",
+        "#74a999"
+    ],
+    "name": "Southwest Georgia Bank",
+    "website": "https://www.thefirstbank.com",
+    "logo": "thefirstbank.svg"
+}

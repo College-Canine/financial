@@ -1,0 +1,20 @@
+{
+    "routing": "062206486",
+    "short": "NATL BK COMM AL",
+    "long": "NATIONAL BANK OF COMMERCE",
+    "state": "AL",
+    "city": "BIRMINGHAM",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1288584000000,
+    "country": "USA",
+    "colors": [
+        "#f38320",
+        "#fcedda",
+        "#d54429",
+        "#e0a881"
+    ],
+    "name": "National Bank Of Commerce",
+    "website": "https://www.nbcbanking.com",
+    "logo": "nbcbanking.svg"
+}

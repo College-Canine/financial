@@ -1,0 +1,18 @@
+{
+    "routing": "062204022",
+    "short": "NORTH ALABAMA BK",
+    "long": "NORTH ALABAMA BANK",
+    "state": "AL",
+    "city": "HAZEL GREEN",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1286424000000,
+    "country": "USA",
+    "colors": [
+        "#79bbd3",
+        "#12496e"
+    ],
+    "name": "North Alabama Bank",
+    "website": "https://www.northalabamabank.com",
+    "logo": "northalabamabank.svg"
+}

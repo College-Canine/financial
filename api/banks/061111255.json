@@ -1,0 +1,20 @@
+{
+    "routing": "061111255",
+    "short": "FST AMER BK AND",
+    "long": "FIRST AMERICAN BANK & TRUST CO",
+    "state": "GA",
+    "city": "ATHENS",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1238558400000,
+    "country": "USA",
+    "colors": [
+        "#6e9ba4",
+        "#bc433d",
+        "#fcfcfd",
+        "#644140"
+    ],
+    "name": "First American Bank & Trust",
+    "website": "https://www.fabt.bank",
+    "logo": "fabt.svg"
+}

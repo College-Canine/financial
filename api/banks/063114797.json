@@ -1,0 +1,19 @@
+{
+    "routing": "063114797",
+    "short": "HEARTLAND NATL BK",
+    "long": "HEARTLAND NATIONAL BANK",
+    "state": "FL",
+    "city": "SEBRING",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1352264400000,
+    "country": "USA",
+    "colors": [
+        "#fcfdfd",
+        "#375216",
+        "#72997a"
+    ],
+    "name": "Heartland National Bank",
+    "website": "https://www.heartlandnb.com",
+    "logo": "heartlandnb.svg"
+}

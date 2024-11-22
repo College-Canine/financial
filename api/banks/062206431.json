@@ -1,0 +1,19 @@
+{
+    "routing": "062206431",
+    "short": "CITIZENS B&T",
+    "long": "CITIZENS BANK & TRUST",
+    "state": "AL",
+    "city": "GUNTERSVILLE",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1535515200000,
+    "country": "USA",
+    "colors": [
+        "#fdfdfd",
+        "#74424f",
+        "#262626"
+    ],
+    "name": "Citizens Bank & Trust",
+    "website": "https://www.citizensbanktrust.com",
+    "logo": "citizensbanktrust.svg"
+}

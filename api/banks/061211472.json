@@ -1,0 +1,19 @@
+{
+    "routing": "061211472",
+    "short": "COMM STATE BK",
+    "long": "COMMERCIAL STATE BANK",
+    "state": "GA",
+    "city": "DONALSONVILLE",
+    "transfer": false,
+    "settlement": false,
+    "updated": 1355202000000,
+    "country": "USA",
+    "colors": [
+        "#333333",
+        "#979797",
+        "#fdfdfd"
+    ],
+    "name": "Commercial State Bank",
+    "website": "https://www.mapquest.com",
+    "logo": "mapquest.svg"
+}

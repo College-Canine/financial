@@ -1,0 +1,20 @@
+{
+    "routing": "062203476",
+    "short": "COMM SPIRIT BK",
+    "long": "COMMUNITY SPIRIT BANK",
+    "state": "AL",
+    "city": "RED BAY",
+    "transfer": false,
+    "settlement": true,
+    "updated": 1270094400000,
+    "country": "USA",
+    "colors": [
+        "#fefefd",
+        "#484c65",
+        "#af8096",
+        "#ab395c"
+    ],
+    "name": "Community Spirit Bank",
+    "website": "https://www.communityspirit.bank",
+    "logo": "communityspirit.svg"
+}

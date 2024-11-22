@@ -1,0 +1,20 @@
+{
+    "routing": "062201847",
+    "short": "LIBERTY BANK",
+    "long": "LIBERTY BANK OF GERALDINE",
+    "state": "AL",
+    "city": "GERALDINE",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1352178000000,
+    "country": "USA",
+    "colors": [
+        "#49494b",
+        "#224288",
+        "#fcfcf6",
+        "#a7a8a9"
+    ],
+    "name": "Liberty Bank Of Geraldine",
+    "website": "https://www.libertybankal.com",
+    "logo": "libertybankal.svg"
+}

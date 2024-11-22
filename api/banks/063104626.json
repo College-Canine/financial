@@ -1,0 +1,20 @@
+{
+    "routing": "063104626",
+    "short": "BRANNEN BANK",
+    "long": "BRANNEN BANK",
+    "state": "FL",
+    "city": "INVERNESS",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1352264400000,
+    "country": "USA",
+    "colors": [
+        "#fdfdfd",
+        "#659dd6",
+        "#2d2d2d",
+        "#808284"
+    ],
+    "name": "Brannen Bank",
+    "website": "https://www.brannenbanks.com",
+    "logo": "brannenbanks.svg"
+}

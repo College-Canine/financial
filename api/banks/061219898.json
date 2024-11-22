@@ -1,0 +1,19 @@
+{
+    "routing": "061219898",
+    "short": "UNITED NATL BANK",
+    "long": "UNITED NATIONAL BANK",
+    "state": "GA",
+    "city": "CAIRO",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1215576000000,
+    "country": "USA",
+    "colors": [
+        "#b61921",
+        "#ac5255",
+        "#f7e4e1"
+    ],
+    "name": "United National Bank",
+    "website": "https://unbonline.com",
+    "logo": "unbonline.svg"
+}

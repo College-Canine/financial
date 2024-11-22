@@ -1,0 +1,19 @@
+{
+    "routing": "061212439",
+    "short": "ALTAMAHA BK & TRUS",
+    "long": "ALTAMAHA BANK & TRUST COMPANY",
+    "state": "GA",
+    "city": "VIDALIA",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1415336400000,
+    "country": "USA",
+    "colors": [
+        "#3f3f3f",
+        "#ffffff",
+        "#8b8b8b"
+    ],
+    "name": "Altamaha Bank & Trust Company",
+    "website": "https://www.altamaha.bank",
+    "logo": "altamaha.svg"
+}

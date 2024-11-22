@@ -1,0 +1,18 @@
+{
+    "routing": "061213043",
+    "short": "MORRIS BANK",
+    "long": "MORRIS BANK",
+    "state": "GA",
+    "city": "DUBLIN",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1238040000000,
+    "country": "USA",
+    "colors": [
+        "#26659a",
+        "#c3dbe7"
+    ],
+    "name": "Morris Bank",
+    "website": "https://www.morris.bank",
+    "logo": "morris.svg"
+}

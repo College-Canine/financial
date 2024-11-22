@@ -1,0 +1,20 @@
+{
+    "routing": "063100646",
+    "short": "COLUMBIA CO BK",
+    "long": "COLUMBIA  BANK",
+    "state": "FL",
+    "city": "LAKE CITY",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1152244800000,
+    "country": "USA",
+    "colors": [
+        "#273a45",
+        "#ce9e1f",
+        "#f9fdfe",
+        "#6d6541"
+    ],
+    "name": "Columbia Bank",
+    "website": "https://www.columbiabankonline.com",
+    "logo": "columbiabankonline.svg"
+}

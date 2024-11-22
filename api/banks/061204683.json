@@ -1,0 +1,19 @@
+{
+    "routing": "061204683",
+    "short": "GLENVLLE B&T",
+    "long": "GLENNVILLE BANK",
+    "state": "GA",
+    "city": "GLENNVILLE",
+    "transfer": false,
+    "settlement": true,
+    "updated": 1408507200000,
+    "country": "USA",
+    "colors": [
+        "#626261",
+        "#1d3e7b",
+        "#dadada"
+    ],
+    "name": "Glennville Bank",
+    "website": "https://www.gbbankgroup.com",
+    "logo": "gbbankgroup.svg"
+}

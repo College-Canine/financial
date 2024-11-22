@@ -1,0 +1,18 @@
+{
+    "routing": "062102030",
+    "short": "HNB FIRST BANK",
+    "long": "HNB FIRST BANK",
+    "state": "AL",
+    "city": "HEADLAND",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1396411200000,
+    "country": "USA",
+    "colors": [
+        "#fafafc",
+        "#6b78ba"
+    ],
+    "name": "Hnb First Bank",
+    "website": "https://www.hnbfirst.com",
+    "logo": "hnbfirst.svg"
+}

@@ -1,0 +1,19 @@
+{
+    "routing": "062205597",
+    "short": "CITZ VALLEY HEAD",
+    "long": "THE CITIZENS BANK OF VALLEY HEAD",
+    "state": "AL",
+    "city": "VALLEY HEAD",
+    "transfer": true,
+    "settlement": false,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#333333",
+        "#979797",
+        "#fdfdfd"
+    ],
+    "name": "The Citizens Bank Of Valley Head",
+    "website": "https://www.mapquest.com",
+    "logo": "mapquest.svg"
+}

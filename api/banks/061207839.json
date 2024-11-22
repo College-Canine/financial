@@ -1,0 +1,19 @@
+{
+    "routing": "061207839",
+    "short": "HERITAGE BANK",
+    "long": "THE HERITAGE BANK",
+    "state": "GA",
+    "city": "HINESVILLE",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#155f48",
+        "#dff9f4",
+        "#74a999"
+    ],
+    "name": "The Heritage Bank",
+    "website": "https://www.thefirstbank.com",
+    "logo": "thefirstbank.svg"
+}

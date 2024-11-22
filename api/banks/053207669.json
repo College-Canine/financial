@@ -1,0 +1,19 @@
+{
+    "routing": "053207669",
+    "short": "BLUE RIDGE WALHALA",
+    "long": "BLUE RIDGE BANK",
+    "state": "SC",
+    "city": "WALHALLA",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1222920000000,
+    "country": "USA",
+    "colors": [
+        "#fffeff",
+        "#99b9e6",
+        "#373489"
+    ],
+    "name": "Blue Ridge Bank",
+    "website": "https://blueridge.bank",
+    "logo": "blueridge.svg"
+}

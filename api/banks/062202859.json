@@ -1,0 +1,20 @@
+{
+    "routing": "062202859",
+    "short": "FIRST HAMILTON",
+    "long": "FIRST NATIONAL BANK",
+    "state": "AL",
+    "city": "HAMILTON",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#fefdfe",
+        "#6c9426",
+        "#a6a6a6",
+        "#353535"
+    ],
+    "name": "First National Bank",
+    "website": "https://fnbhamilton.com",
+    "logo": "fnbhamilton.svg"
+}

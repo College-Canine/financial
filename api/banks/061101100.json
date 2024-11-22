@@ -1,0 +1,20 @@
+{
+    "routing": "061101100",
+    "short": "CAPITAL BANK",
+    "long": "CAPITAL BANK, A DIVISION OF FNB BANK",
+    "state": "AL",
+    "city": "SCOTTSBORO",
+    "transfer": false,
+    "settlement": true,
+    "updated": 1540353600000,
+    "country": "USA",
+    "colors": [
+        "#343e4b",
+        "#d1d6db",
+        "#f5ce4e",
+        "#7d6f40"
+    ],
+    "name": "Capital Bank A Division Of Fnb Bank",
+    "website": "https://www.al.com",
+    "logo": "al.svg"
+}

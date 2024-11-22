@@ -1,0 +1,19 @@
+{
+    "routing": "062101031",
+    "short": "TROY BK & TRUST",
+    "long": "TROY BANK & TRUST COMPANY",
+    "state": "AL",
+    "city": "TROY",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1331784000000,
+    "country": "USA",
+    "colors": [
+        "#eafefe",
+        "#106c52",
+        "#7eaea3"
+    ],
+    "name": "Troy Bank & Trust Company",
+    "website": "https://troybankandtrust.com",
+    "logo": "troybankandtrust.svg"
+}

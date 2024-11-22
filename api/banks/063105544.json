@@ -1,0 +1,19 @@
+{
+    "routing": "063105544",
+    "short": "CITIZENS FLORIDA",
+    "long": "CITIZENS BANK OF FLORIDA",
+    "state": "FL",
+    "city": "OVIEDO",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1533009600000,
+    "country": "USA",
+    "colors": [
+        "#333333",
+        "#979797",
+        "#fdfdfd"
+    ],
+    "name": "Citizens Bank Of Florida",
+    "website": "https://www.mapquest.com",
+    "logo": "mapquest.svg"
+}

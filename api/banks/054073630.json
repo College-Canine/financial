@@ -1,0 +1,18 @@
+{
+    "routing": "054073630",
+    "short": "AXIOM BANK NA FL",
+    "long": "AXIOM BANK, NA",
+    "state": "FL",
+    "city": "MAITLAND",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1502078400000,
+    "country": "USA",
+    "colors": [
+        "#1f445d",
+        "#fdfdfc"
+    ],
+    "name": "Axiom Bank",
+    "website": "https://banks.data.fdic.gov",
+    "logo": "fdic.svg"
+}

@@ -1,0 +1,20 @@
+{
+    "routing": "062203890",
+    "short": "PREMIER BK SOUTH",
+    "long": "PREMIER BANK OF THE SOUTH",
+    "state": "AL",
+    "city": "CULLMAN",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1111554000000,
+    "country": "USA",
+    "colors": [
+        "#fdfefe",
+        "#6cbfb5",
+        "#151515",
+        "#868888"
+    ],
+    "name": "Premier Bank Of The South",
+    "website": "https://www.premierbankofthesouth.com",
+    "logo": "premierbankofthesouth.svg"
+}

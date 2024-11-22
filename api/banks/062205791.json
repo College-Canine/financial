@@ -1,0 +1,18 @@
+{
+    "routing": "062205791",
+    "short": "BK IND SHEFF",
+    "long": "BANK INDEPENDENT",
+    "state": "AL",
+    "city": "SHEFFIELD",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#f3f3f3",
+        "#6ca990"
+    ],
+    "name": "Bank Independent",
+    "website": "https://www.bibank.com",
+    "logo": "bibank.svg"
+}

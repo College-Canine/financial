@@ -1,0 +1,18 @@
+{
+    "routing": "062000019",
+    "short": "REGIONS",
+    "long": "REGIONS BANK",
+    "state": "AL",
+    "city": "HOOVER",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1415336400000,
+    "country": "USA",
+    "colors": [
+        "#87bc41",
+        "#f0f8e4"
+    ],
+    "name": "Regions Bank",
+    "website": "https://www.regions.com",
+    "logo": "regions.svg"
+}

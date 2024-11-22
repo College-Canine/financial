@@ -1,0 +1,19 @@
+{
+    "routing": "063115136",
+    "short": "BEACH COMMUNITY BK",
+    "long": "BEACH COMMUNITY BANK",
+    "state": "FL",
+    "city": "FORT WALTON BEACH",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1275364800000,
+    "country": "USA",
+    "colors": [
+        "#fefdfe",
+        "#8d335b",
+        "#b689a1"
+    ],
+    "name": "Beach Community Bank",
+    "website": "https://communitybank.net",
+    "logo": "communitybank.svg"
+}

@@ -1,0 +1,19 @@
+{
+    "routing": "061201754",
+    "short": "AMERIS BANK",
+    "long": "AMERIS BANK",
+    "state": "GA",
+    "city": "MOULTRIE",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1165554000000,
+    "country": "USA",
+    "colors": [
+        "#fdf1f3",
+        "#c92b46",
+        "#f1aab6"
+    ],
+    "name": "Ameris Bank",
+    "website": "https://banks.amerisbank.com",
+    "logo": "amerisbank.svg"
+}

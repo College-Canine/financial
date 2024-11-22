@@ -1,0 +1,19 @@
+{
+    "routing": "061202245",
+    "short": "FIRST WAYNESBORO",
+    "long": "THE 1ST NATL BK OF WAYNESBORO",
+    "state": "GA",
+    "city": "WAYNESBORO",
+    "transfer": true,
+    "settlement": false,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#fdfdfd",
+        "#738972",
+        "#254723"
+    ],
+    "name": "The 1st Natl Bank Of Waynesboro",
+    "website": "https://www.fnbwaynesboro.com",
+    "logo": "fnbwaynesboro.svg"
+}

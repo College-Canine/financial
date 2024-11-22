@@ -1,0 +1,20 @@
+{
+    "routing": "062206392",
+    "short": "1ST COMM BK CNT AL",
+    "long": "FIRST COMMUNITY BANK OF CENTRAL AL",
+    "state": "AL",
+    "city": "WETUMPKA",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1248667200000,
+    "country": "USA",
+    "colors": [
+        "#e9e8e8",
+        "#4c7739",
+        "#61a625",
+        "#a7c18f"
+    ],
+    "name": "First Community Bank Of Central Al",
+    "website": "https://www.fcbca.com",
+    "logo": "fcbca.svg"
+}

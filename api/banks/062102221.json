@@ -1,0 +1,18 @@
+{
+    "routing": "062102221",
+    "short": "FRIEND BANK",
+    "long": "FRIEND BANK",
+    "state": "AL",
+    "city": "SLOCOMB",
+    "transfer": false,
+    "settlement": true,
+    "updated": 1358398800000,
+    "country": "USA",
+    "colors": [
+        "#fcfefd",
+        "#26b5e3"
+    ],
+    "name": "Friend Bank",
+    "website": "https://www.friendbank.net",
+    "logo": "friendbank.svg"
+}

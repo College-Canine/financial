@@ -1,0 +1,18 @@
+{
+    "routing": "061202533",
+    "short": "BANK OF EASTMAN",
+    "long": "BANK OF EASTMAN",
+    "state": "GA",
+    "city": "EASTMAN",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1248235200000,
+    "country": "USA",
+    "colors": [
+        "#faf8eb",
+        "#47947d"
+    ],
+    "name": "Bank Of Eastman",
+    "website": "https://www.bankmsb.com",
+    "logo": "bankmsb.svg"
+}

@@ -1,0 +1,18 @@
+{
+    "routing": "062101882",
+    "short": "FIRST HARTFORD",
+    "long": "FIRST NATIONAL BANK OF HARTFORD",
+    "state": "AL",
+    "city": "HARTFORD",
+    "transfer": false,
+    "settlement": true,
+    "updated": 1329800400000,
+    "country": "USA",
+    "colors": [
+        "#fdfefd",
+        "#427eb4"
+    ],
+    "name": "First National Bank Of Hartford",
+    "website": "https://www.fnbhartford.com",
+    "logo": "fnbhartford.svg"
+}

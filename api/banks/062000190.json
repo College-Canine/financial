@@ -1,0 +1,18 @@
+{
+    "routing": "062000190",
+    "short": "FRB BHAM",
+    "long": "BIRMINGHAM - FRB ATLANTA",
+    "state": "AL",
+    "city": "BIRMINGHAM",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1540958400000,
+    "country": "USA",
+    "colors": [
+        "#3079a9",
+        "#d0e5ee"
+    ],
+    "name": "Birmingham - Frb Atlanta",
+    "website": "https://www.atlantafed.org",
+    "logo": "atlantafed.svg"
+}

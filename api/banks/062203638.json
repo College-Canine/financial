@@ -1,0 +1,18 @@
+{
+    "routing": "062203638",
+    "short": "FIRST BANK",
+    "long": "FIRST BANK",
+    "state": "AL",
+    "city": "WADLEY",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1262149200000,
+    "country": "USA",
+    "colors": [
+        "#fefdff",
+        "#65a16b"
+    ],
+    "name": "First Bank",
+    "website": "https://patch.com",
+    "logo": "patch.svg"
+}

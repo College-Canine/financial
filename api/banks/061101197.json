@@ -1,0 +1,20 @@
+{
+    "routing": "061101197",
+    "short": "CITIZENS BK SOUTH",
+    "long": "CITIZENS BANK OF THE SOUTH",
+    "state": "GA",
+    "city": "SANDERSVILLE",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1451970000000,
+    "country": "USA",
+    "colors": [
+        "#fefefd",
+        "#2e4383",
+        "#717fa5",
+        "#b8aa99"
+    ],
+    "name": "Citizens Bank Of The South",
+    "website": "https://www.cbots.com",
+    "logo": "cbots.svg"
+}

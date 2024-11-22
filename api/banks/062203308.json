@@ -1,0 +1,18 @@
+{
+    "routing": "062203308",
+    "short": "FST ST BK DEKALB",
+    "long": "FIRST STATE BANK OF DEKALB",
+    "state": "AL",
+    "city": "FORT PAYNE",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1467259200000,
+    "country": "USA",
+    "colors": [
+        "#1e2c60",
+        "#949ab3"
+    ],
+    "name": "First State Bank Of Dekalb",
+    "website": "https://www.fsbal.com",
+    "logo": "fsbal.svg"
+}

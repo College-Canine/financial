@@ -1,0 +1,18 @@
+{
+    "routing": "061212688",
+    "short": "FARMERS & MERCHANT",
+    "long": "FARMERS & MERCHANTS BANK",
+    "state": "GA",
+    "city": "STATESBORO",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#26659a",
+        "#c3dbe7"
+    ],
+    "name": "Farmers & Merchants Bank",
+    "website": "https://www.morris.bank",
+    "logo": "morris.svg"
+}

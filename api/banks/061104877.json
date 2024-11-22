@@ -1,0 +1,18 @@
+{
+    "routing": "061104877",
+    "short": "FIRST BANK",
+    "long": "FIRST BANK",
+    "state": "GA",
+    "city": "DALTON",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1534305600000,
+    "country": "USA",
+    "colors": [
+        "#526a88",
+        "#c6d0da"
+    ],
+    "name": "First Bank",
+    "website": "https://www.firstbankonline.com",
+    "logo": "firstbankonline.svg"
+}
