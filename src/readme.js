@@ -43,8 +43,8 @@ function generateBankTable() {
       .filter((i, n) => n < 25)
       .map(
         (i) =>
-          `| ${i.long} | ${i.state}, ${i.country} | ![${
-            i.long
+          `| ${i.name} | ${i.state}, ${i.country} | ![${
+            i.name
           } Logo](https://raw.githubusercontent.com/College-Canine/financial/master/logos/bank/${
             i.logo
           }) | ${i.colors
