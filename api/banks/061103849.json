@@ -1,0 +1,19 @@
+{
+    "routing": "061103849",
+    "short": "FIRST PEOPLES BK",
+    "long": "FIRST PEOPLES BANK",
+    "state": "GA",
+    "city": "PINE MOUNTAIN",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1534305600000,
+    "country": "USA",
+    "colors": [
+        "#fdfefd",
+        "#c3f3be",
+        "#51c944"
+    ],
+    "name": "First Peoples Bank",
+    "website": "https://www.firstpeoplesbank.com",
+    "logo": "firstpeoplesbank.svg"
+}

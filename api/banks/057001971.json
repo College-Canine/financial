@@ -1,0 +1,19 @@
+{
+    "routing": "057001971",
+    "short": "JEFF SEC SHPDSTOWN",
+    "long": "JEFFERSON SECURITY BANK",
+    "state": "WV",
+    "city": "SHEPHERDSTOWN",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#fefefe",
+        "#287155",
+        "#90b7a9"
+    ],
+    "name": "Jefferson Security Bank",
+    "website": "https://www.jsb.bank",
+    "logo": "jsb.svg"
+}

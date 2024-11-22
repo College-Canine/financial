@@ -1,0 +1,19 @@
+{
+    "routing": "061121180",
+    "short": "NOA BANK GA",
+    "long": "NOA BANK",
+    "state": "GA",
+    "city": "DULUTH",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1405483200000,
+    "country": "USA",
+    "colors": [
+        "#fcfbfd",
+        "#2e4b67",
+        "#6bc6cd"
+    ],
+    "name": "Noa Bank",
+    "website": "https://promiseone.bank",
+    "logo": "promiseone.svg"
+}

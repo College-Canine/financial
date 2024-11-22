@@ -1,0 +1,19 @@
+{
+    "routing": "061020375",
+    "short": "NATL BK COMM AL",
+    "long": "NATIONAL BANK OF COMMERCE",
+    "state": "GA",
+    "city": "MARIETTA",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1540526400000,
+    "country": "USA",
+    "colors": [
+        "#333333",
+        "#979797",
+        "#fdfdfd"
+    ],
+    "name": "National Bank Of Commerce",
+    "website": "https://www.mapquest.com",
+    "logo": "mapquest.svg"
+}

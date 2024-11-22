@@ -1,0 +1,19 @@
+{
+    "routing": "053208260",
+    "short": "SOUTH ATLANTIC BK",
+    "long": "SOUTH ATLANTIC BANK",
+    "state": "SC",
+    "city": "MYRTLE BEACH",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1248667200000,
+    "country": "USA",
+    "colors": [
+        "#fdfefe",
+        "#6d88a4",
+        "#ad8d24"
+    ],
+    "name": "South Atlantic Bank",
+    "website": "https://southatlantic.bank",
+    "logo": "southatlantic.svg"
+}

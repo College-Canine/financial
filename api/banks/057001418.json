@@ -1,0 +1,19 @@
+{
+    "routing": "057001418",
+    "short": "BK OF CHARLES TOWN",
+    "long": "BANK OF CHARLES TOWN",
+    "state": "WV",
+    "city": "CHARLES TOWN",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1351828800000,
+    "country": "USA",
+    "colors": [
+        "#fefeff",
+        "#46b9c6",
+        "#216176"
+    ],
+    "name": "Bank Of Charles Town",
+    "website": "https://www.mybct.bank",
+    "logo": "mybct.svg"
+}

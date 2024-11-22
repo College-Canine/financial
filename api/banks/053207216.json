@@ -1,0 +1,19 @@
+{
+    "routing": "053207216",
+    "short": "CAR BK DARLINGTON",
+    "long": "CAROLINA BANK & TRUST COMPANY",
+    "state": "SC",
+    "city": "DARLINGTON",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#20337c",
+        "#fefdfe",
+        "#556181"
+    ],
+    "name": "Carolina Bank & Trust Company",
+    "website": "https://www.carolinabank.net",
+    "logo": "carolinabank.svg"
+}

@@ -1,0 +1,18 @@
+{
+    "routing": "053208341",
+    "short": "BEACON CMNTY BK",
+    "long": "BEACON COMMUNITY BANK",
+    "state": "SC",
+    "city": "CHARLESTON",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1515128400000,
+    "country": "USA",
+    "colors": [
+        "#fefefd",
+        "#3d3c3d"
+    ],
+    "name": "Beacon Community Bank",
+    "website": "https://www.beacon.bank",
+    "logo": "beacon.svg"
+}

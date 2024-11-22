@@ -1,0 +1,19 @@
+{
+    "routing": "051405670",
+    "short": "FARMERS BK WINDSOR",
+    "long": "FARMERS BANK",
+    "state": "VA",
+    "city": "WINDSOR",
+    "transfer": false,
+    "settlement": true,
+    "updated": 1278475200000,
+    "country": "USA",
+    "colors": [
+        "#fefffe",
+        "#3b445a",
+        "#8a91a1"
+    ],
+    "name": "Farmers Bank",
+    "website": "https://www.townebank.com",
+    "logo": "townebank.svg"
+}

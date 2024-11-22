@@ -1,0 +1,19 @@
+{
+    "routing": "053185613",
+    "short": "SELF-HELP FCU",
+    "long": "SELF-HELP FCU",
+    "state": "NC",
+    "city": "DURHAM",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1391490000000,
+    "country": "USA",
+    "colors": [
+        "#fefdfd",
+        "#d19f6c",
+        "#3d4f73"
+    ],
+    "name": "Self-help Fcu",
+    "website": "https://www.self-help.org",
+    "logo": "self-help.svg"
+}

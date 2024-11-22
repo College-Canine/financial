@@ -1,0 +1,18 @@
+{
+    "routing": "061103182",
+    "short": "BANK LAFAYETTE GA",
+    "long": "THE BANK OF LAFAYETTE",
+    "state": "GA",
+    "city": "LAFAYETTE",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1363665600000,
+    "country": "USA",
+    "colors": [
+        "#a5d3bd",
+        "#349c6b"
+    ],
+    "name": "The Bank Of Lafayette",
+    "website": "https://www.bankoflafayette.com",
+    "logo": "bankoflafayette.svg"
+}

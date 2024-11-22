@@ -1,0 +1,19 @@
+{
+    "routing": "053905877",
+    "short": "SC COMMUNITY BK",
+    "long": "SOUTH CAROLINA COMMUNITY BANK",
+    "state": "SC",
+    "city": "COLUMBIA",
+    "transfer": false,
+    "settlement": true,
+    "updated": 1411099200000,
+    "country": "USA",
+    "colors": [
+        "#fbfefe",
+        "#7d8c93",
+        "#274667"
+    ],
+    "name": "South Carolina Community Bank",
+    "website": "https://www.carolinapanorama.com",
+    "logo": "carolinapanorama.svg"
+}

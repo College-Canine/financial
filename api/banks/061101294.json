@@ -1,0 +1,19 @@
+{
+    "routing": "061101294",
+    "short": "PINNACLE BANK",
+    "long": "PINNACLE BANK",
+    "state": "GA",
+    "city": "ELBERTON",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1234933200000,
+    "country": "USA",
+    "colors": [
+        "#115741",
+        "#82aa9d",
+        "#fdfcfe"
+    ],
+    "name": "Pinnacle Bank",
+    "website": "https://www.pinnaclebank.com",
+    "logo": "pinnaclebank.svg"
+}

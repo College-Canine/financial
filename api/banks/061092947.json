@@ -1,0 +1,20 @@
+{
+    "routing": "061092947",
+    "short": "DELTA CCU",
+    "long": "DELTA COMMUNITY CREDIT UNION",
+    "state": "GA",
+    "city": "ATLANTA",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1314158400000,
+    "country": "USA",
+    "colors": [
+        "#fefefe",
+        "#7f92ad",
+        "#25436d",
+        "#a5b07a"
+    ],
+    "name": "Delta Community Credit Union",
+    "website": "https://www.deltacommunitycu.com",
+    "logo": "deltacommunitycu.svg"
+}

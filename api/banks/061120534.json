@@ -1,0 +1,19 @@
+{
+    "routing": "061120534",
+    "short": "FIRST MADISON B&T",
+    "long": "FIRST MADISON BANK & TRUST",
+    "state": "GA",
+    "city": "COLBERT",
+    "transfer": false,
+    "settlement": false,
+    "updated": 1360126800000,
+    "country": "USA",
+    "colors": [
+        "#333333",
+        "#979797",
+        "#fdfdfd"
+    ],
+    "name": "First Madison Bank & Trust",
+    "website": "https://www.mapquest.com",
+    "logo": "mapquest.svg"
+}

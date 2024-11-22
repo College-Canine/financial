@@ -1,0 +1,19 @@
+{
+    "routing": "061104482",
+    "short": "SYNCHRONY BANK",
+    "long": "SYNCHRONY BANK",
+    "state": "GA",
+    "city": "ALPHARETTA",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1403668800000,
+    "country": "USA",
+    "colors": [
+        "#333333",
+        "#979797",
+        "#fdfdfd"
+    ],
+    "name": "Synchrony Bank",
+    "website": "https://www.mapquest.com",
+    "logo": "mapquest.svg"
+}

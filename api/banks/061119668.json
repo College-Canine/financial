@@ -1,0 +1,18 @@
+{
+    "routing": "061119668",
+    "short": "SHBKUS6LNYX",
+    "long": "SHINHAN BANK AMERICA",
+    "state": "GA",
+    "city": "ALPHARETTA",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1339646400000,
+    "country": "USA",
+    "colors": [
+        "#fdfefe",
+        "#9ca4a7"
+    ],
+    "name": "Shinhan Bank America",
+    "website": "https://online.shbamerica.com",
+    "logo": "shbamerica.svg"
+}

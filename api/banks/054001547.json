@@ -1,0 +1,18 @@
+{
+    "routing": "054001547",
+    "short": "BB&T WASHINGTON DC",
+    "long": "BB&T WASHINGTON DC",
+    "state": "DC",
+    "city": "WASHINGTON",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1415336400000,
+    "country": "USA",
+    "colors": [
+        "#2b1a46",
+        "#fefdfe"
+    ],
+    "name": "Bb&t Washington Dc",
+    "website": "https://www.truist.com",
+    "logo": "truist.svg"
+}

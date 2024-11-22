@@ -1,0 +1,21 @@
+{
+    "routing": "053207614",
+    "short": "SANDHILLS BETHUNE",
+    "long": "SANDHILLS BANK",
+    "state": "SC",
+    "city": "NORTH MYRTLE BEACH",
+    "transfer": false,
+    "settlement": true,
+    "updated": 1119499200000,
+    "country": "USA",
+    "colors": [
+        "#fdfdfd",
+        "#86aec1",
+        "#bdd372",
+        "#e095be",
+        "#1d5f8e"
+    ],
+    "name": "Sandhills Bank",
+    "website": "https://www.explorenorthmyrtlebeach.com",
+    "logo": "explorenorthmyrtlebeach.svg"
+}

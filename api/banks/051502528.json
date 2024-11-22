@@ -1,0 +1,18 @@
+{
+    "routing": "051502528",
+    "short": "FIR ST BARBOURSVLE",
+    "long": "FIRST STATE BANK",
+    "state": "WV",
+    "city": "BARBOURSVILLE",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1484283600000,
+    "country": "USA",
+    "colors": [
+        "#1f445d",
+        "#fdfdfc"
+    ],
+    "name": "First State Bank",
+    "website": "https://www.fdic.gov",
+    "logo": "fdic.svg"
+}

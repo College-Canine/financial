@@ -1,0 +1,20 @@
+{
+    "routing": "053208202",
+    "short": "CAROLINA ALLIANCE",
+    "long": "CAROLINA ALLIANCE BANK",
+    "state": "SC",
+    "city": "SPARTANBURG",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1439784000000,
+    "country": "USA",
+    "colors": [
+        "#fefffe",
+        "#155783",
+        "#5fc8ed",
+        "#b1bf53"
+    ],
+    "name": "Carolina Alliance Bank",
+    "website": "https://parknationalbank.com",
+    "logo": "parknationalbank.svg"
+}

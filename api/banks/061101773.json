@@ -1,0 +1,18 @@
+{
+    "routing": "061101773",
+    "short": "CENTURY BK &TR",
+    "long": "CENTURY BANK & TRUST",
+    "state": "GA",
+    "city": "MILLEDGEVILLE",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1377748800000,
+    "country": "USA",
+    "colors": [
+        "#336749",
+        "#946a4c"
+    ],
+    "name": "Century Bank & Trust",
+    "website": "https://www.centurybankonline.com",
+    "logo": "centurybankonline.svg"
+}

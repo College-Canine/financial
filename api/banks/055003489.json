@@ -1,0 +1,19 @@
+{
+    "routing": "055003489",
+    "short": "WOORI AMERICAN BK",
+    "long": "WOORI AMERICA BANK",
+    "state": "NY",
+    "city": "NEW YORK",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1445227200000,
+    "country": "USA",
+    "colors": [
+        "#fdfefe",
+        "#30bbed",
+        "#146da7"
+    ],
+    "name": "Woori America Bank",
+    "website": "https://www.wooriamericabank.com",
+    "logo": "wooriamericabank.svg"
+}

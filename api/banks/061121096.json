@@ -1,0 +1,19 @@
+{
+    "routing": "061121096",
+    "short": "CALUMET BANK",
+    "long": "CALUMET BANK",
+    "state": "GA",
+    "city": "LAGRANGE",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1436414400000,
+    "country": "USA",
+    "colors": [
+        "#333333",
+        "#979797",
+        "#fdfdfd"
+    ],
+    "name": "Calumet Bank",
+    "website": "https://www.mapquest.com",
+    "logo": "mapquest.svg"
+}

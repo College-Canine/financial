@@ -1,0 +1,21 @@
+{
+    "routing": "053202318",
+    "short": "CONWAY NATL",
+    "long": "THE CONWAY NATIONAL BANK",
+    "state": "SC",
+    "city": "CONWAY",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#fefef1",
+        "#1b5c29",
+        "#171718",
+        "#7a857c",
+        "#f8ba42"
+    ],
+    "name": "The Conway National Bank",
+    "website": "https://conwaynationalbank.com",
+    "logo": "conwaynationalbank.svg"
+}

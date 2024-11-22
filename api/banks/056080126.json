@@ -1,0 +1,20 @@
+{
+    "routing": "056080126",
+    "short": "LOUDOUN CU LEESBRG",
+    "long": "LOUDOUN CU",
+    "state": "VA",
+    "city": "LEESBURG",
+    "transfer": false,
+    "settlement": false,
+    "updated": 1159502400000,
+    "country": "USA",
+    "colors": [
+        "#fdfeff",
+        "#343a7e",
+        "#98be4c",
+        "#5f81a8"
+    ],
+    "name": "Loudoun Cu",
+    "website": "https://loudouncu.com",
+    "logo": "loudouncu.svg"
+}

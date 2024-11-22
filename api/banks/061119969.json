@@ -1,0 +1,18 @@
+{
+    "routing": "061119969",
+    "short": "INTEGRITY BANK",
+    "long": "REGIONS BANK",
+    "state": "GA",
+    "city": "ALPHARETTA",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1227070800000,
+    "country": "USA",
+    "colors": [
+        "#87bc41",
+        "#f0f8e4"
+    ],
+    "name": "Regions Bank",
+    "website": "https://www.regions.com",
+    "logo": "regions.svg"
+}

@@ -1,0 +1,18 @@
+{
+    "routing": "061112092",
+    "short": "THE PEOPLES BK",
+    "long": "THE PEOPLES BANK",
+    "state": "GA",
+    "city": "EATONTON",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1353906000000,
+    "country": "USA",
+    "colors": [
+        "#ffffff",
+        "#4b4b4b"
+    ],
+    "name": "The Peoples Bank",
+    "website": "https://tpbeatonton.com",
+    "logo": "tpbeatonton.svg"
+}

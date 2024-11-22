@@ -1,0 +1,19 @@
+{
+    "routing": "053000206",
+    "short": "FRB CHAR",
+    "long": "CHARLOTTE - FRB RICHMOND",
+    "state": "NC",
+    "city": "CHARLOTTE",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1540958400000,
+    "country": "USA",
+    "colors": [
+        "#fefefd",
+        "#6a99b7",
+        "#13507b"
+    ],
+    "name": "Charlotte - Frb Richmond",
+    "website": "https://www.richmondfed.org",
+    "logo": "richmondfed.svg"
+}

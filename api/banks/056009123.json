@@ -1,0 +1,19 @@
+{
+    "routing": "056009123",
+    "short": "FREEDOM BK VIENNA",
+    "long": "THE FREEDOM BANK OF VIRGINIA",
+    "state": "VA",
+    "city": "FAIRFAX",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1386306000000,
+    "country": "USA",
+    "colors": [
+        "#fdfefe",
+        "#daac63",
+        "#3d6696"
+    ],
+    "name": "The Freedom Bank Of Virginia",
+    "website": "https://www.freedom.bank",
+    "logo": "freedom.svg"
+}

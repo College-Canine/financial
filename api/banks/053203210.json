@@ -1,0 +1,20 @@
+{
+    "routing": "053203210",
+    "short": "FIRST HOLLY HILL",
+    "long": "THE FIRST NATL BK OF SOUTH CAROLINA",
+    "state": "SC",
+    "city": "HOLLY HILL",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#fefffd",
+        "#88a59d",
+        "#323333",
+        "#176950"
+    ],
+    "name": "The First Natl Bank Of South Carolina",
+    "website": "https://www.fnbsc.com",
+    "logo": "fnbsc.svg"
+}

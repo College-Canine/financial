@@ -1,0 +1,21 @@
+{
+    "routing": "061021060",
+    "short": "GEORGIA PRIMARY",
+    "long": "GEORGIA PRIMARY BANK",
+    "state": "GA",
+    "city": "ATLANTA",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1374033600000,
+    "country": "USA",
+    "colors": [
+        "#fefefd",
+        "#1e4833",
+        "#2449c7",
+        "#829c93",
+        "#7587cd"
+    ],
+    "name": "Georgia Primary Bank",
+    "website": "https://www.georgiaprimarybank.com",
+    "logo": "georgiaprimarybank.svg"
+}

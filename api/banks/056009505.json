@@ -1,0 +1,20 @@
+{
+    "routing": "056009505",
+    "short": "FVCBANK FAIRFAX VA",
+    "long": "FVCBANK",
+    "state": "VA",
+    "city": "FAIRFAX",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1523246400000,
+    "country": "USA",
+    "colors": [
+        "#fefefd",
+        "#16562f",
+        "#99b4a4",
+        "#f5d043"
+    ],
+    "name": "Fvcbank",
+    "website": "https://www.fvcbank.com",
+    "logo": "fvcbank.svg"
+}

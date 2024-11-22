@@ -1,0 +1,20 @@
+{
+    "routing": "061120686",
+    "short": "METRO CITY BANK",
+    "long": "METRO CITY BANK",
+    "state": "GA",
+    "city": "DORAVILLE",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1205899200000,
+    "country": "USA",
+    "colors": [
+        "#417394",
+        "#d4af33",
+        "#6b7b57",
+        "#bbcacc"
+    ],
+    "name": "Metro City Bank",
+    "website": "https://www.metrocitybank.bank",
+    "logo": "metrocitybank.svg"
+}

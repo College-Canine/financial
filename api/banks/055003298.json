@@ -1,0 +1,19 @@
+{
+    "routing": "055003298",
+    "short": "EAGLEBANK BETHESDA",
+    "long": "EAGLEBANK",
+    "state": "MD",
+    "city": "BETHESDA",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#1a2066",
+        "#bd9227",
+        "#3b3035"
+    ],
+    "name": "Eaglebank",
+    "website": "https://www.eaglebankcorp.com",
+    "logo": "eaglebankcorp.svg"
+}

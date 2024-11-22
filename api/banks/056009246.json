@@ -1,0 +1,20 @@
+{
+    "routing": "056009246",
+    "short": "MAINSTREET BANK",
+    "long": "MAINSTREET BANK",
+    "state": "VA",
+    "city": "FAIRFAX",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1415336400000,
+    "country": "USA",
+    "colors": [
+        "#fffdfe",
+        "#37a57a",
+        "#41acb5",
+        "#38a1df"
+    ],
+    "name": "Mainstreet Bank",
+    "website": "https://mstreetbank.com",
+    "logo": "mstreetbank.svg"
+}

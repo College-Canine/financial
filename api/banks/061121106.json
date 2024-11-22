@@ -1,0 +1,17 @@
+{
+    "routing": "061121106",
+    "short": "TOUCHMARK NAT'L BK",
+    "long": "TOUCHMARK NATIONAL BANK",
+    "state": "GA",
+    "city": "ALPHARETTA",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1301284800000,
+    "country": "USA",
+    "colors": [
+        "#14316f"
+    ],
+    "name": "Touchmark National Bank",
+    "website": "https://www.touchmarknb.com",
+    "logo": "touchmarknb.svg"
+}

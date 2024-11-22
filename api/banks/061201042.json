@@ -1,0 +1,19 @@
+{
+    "routing": "061201042",
+    "short": "CITZ BK OF AMER",
+    "long": "CITIZENS BANK OF AMERICUS",
+    "state": "GA",
+    "city": "AMERICUS",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1375848000000,
+    "country": "USA",
+    "colors": [
+        "#fcfcfd",
+        "#a1adbc",
+        "#2c4667"
+    ],
+    "name": "Citizens Bank Of Americus",
+    "website": "https://www.cbkamericus.com",
+    "logo": "cbkamericus.svg"
+}

@@ -1,0 +1,19 @@
+{
+    "routing": "061106655",
+    "short": "FIRST BK OF PIKE",
+    "long": "FIRST BANK OF PIKE",
+    "state": "GA",
+    "city": "MOLENA",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1247716800000,
+    "country": "USA",
+    "colors": [
+        "#fdfffe",
+        "#6c8b7d",
+        "#161616"
+    ],
+    "name": "First Bank Of Pike",
+    "website": "https://firstbankofpike.com",
+    "logo": "firstbankofpike.svg"
+}

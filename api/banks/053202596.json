@@ -1,0 +1,18 @@
+{
+    "routing": "053202596",
+    "short": "PALMETTO HAMPTN SC",
+    "long": "PALMETTO STATE BANK",
+    "state": "SC",
+    "city": "HAMPTON",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#fefefc",
+        "#3b906a"
+    ],
+    "name": "Palmetto State Bank",
+    "website": "https://www.palmettostatebank.com",
+    "logo": "palmettostatebank.svg"
+}

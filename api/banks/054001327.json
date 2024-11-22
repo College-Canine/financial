@@ -1,0 +1,20 @@
+{
+    "routing": "054001327",
+    "short": "NATL PAKISTAN WASH",
+    "long": "NATIONAL BANK OF PAKISTAN",
+    "state": "DC",
+    "city": "WASHINGTON",
+    "transfer": false,
+    "settlement": false,
+    "updated": 1271649600000,
+    "country": "USA",
+    "colors": [
+        "#fefefe",
+        "#c1d9aa",
+        "#2b7a31",
+        "#223e23"
+    ],
+    "name": "National Bank Of Pakistan",
+    "website": "https://www.nbp.com.pk",
+    "logo": "com.svg"
+}

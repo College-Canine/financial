@@ -1,0 +1,18 @@
+{
+    "routing": "061104929",
+    "short": "THE CITIZENS BK GA",
+    "long": "THE CITIZENS BANK OF GEORGIA",
+    "state": "GA",
+    "city": "CUMMING",
+    "transfer": false,
+    "settlement": true,
+    "updated": 1536206400000,
+    "country": "USA",
+    "colors": [
+        "#816f3f",
+        "#ded9cd"
+    ],
+    "name": "The Citizens Bank Of Georgia",
+    "website": "https://www.citizbank.com",
+    "logo": "citizbank.svg"
+}

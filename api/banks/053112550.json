@@ -1,0 +1,21 @@
+{
+    "routing": "053112550",
+    "short": "ALLIANCE BK&TR CO",
+    "long": "ALLIANCE BANK & TRUST COMPANY",
+    "state": "NC",
+    "city": "GASTONIA",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1450414800000,
+    "country": "USA",
+    "colors": [
+        "#8ab33a",
+        "#fcfefe",
+        "#cc7f1d",
+        "#d9cb8d",
+        "#73c3e2"
+    ],
+    "name": "Alliance Bank & Trust Company",
+    "website": "https://members.gastonbusiness.com",
+    "logo": "gastonbusiness.svg"
+}

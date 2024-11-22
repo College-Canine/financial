@@ -1,0 +1,20 @@
+{
+    "routing": "061113282",
+    "short": "OCONEE STATE BANK",
+    "long": "OCONEE STATE BANK",
+    "state": "GA",
+    "city": "WATKINSVILLE",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#fffefd",
+        "#2a71c3",
+        "#138d61",
+        "#6bacb5"
+    ],
+    "name": "Oconee State Bank",
+    "website": "https://www.oconeestatebank.com",
+    "logo": "oconeestatebank.svg"
+}

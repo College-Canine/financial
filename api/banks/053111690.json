@@ -1,0 +1,20 @@
+{
+    "routing": "053111690",
+    "short": "UWHARRIE BANK",
+    "long": "UWHARRIE BANK",
+    "state": "NC",
+    "city": "ALBEMARLE",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1377835200000,
+    "country": "USA",
+    "colors": [
+        "#fefefe",
+        "#949882",
+        "#6b8134",
+        "#453d39"
+    ],
+    "name": "Uwharrie Bank",
+    "website": "https://www.uwharrie.com",
+    "logo": "uwharrie.svg"
+}

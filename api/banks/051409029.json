@@ -1,0 +1,19 @@
+{
+    "routing": "051409029",
+    "short": "VILLAGE BANK",
+    "long": "VILLAGE BANK",
+    "state": "VA",
+    "city": "MIDLOTHIAN",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1236916800000,
+    "country": "USA",
+    "colors": [
+        "#f7fdfd",
+        "#133463",
+        "#7a8fa9"
+    ],
+    "name": "Village Bank",
+    "website": "https://www.villagebank.com",
+    "logo": "villagebank.svg"
+}

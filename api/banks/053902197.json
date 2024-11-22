@@ -1,0 +1,18 @@
+{
+    "routing": "053902197",
+    "short": "CAROLINA COLA BR",
+    "long": "TD BANK, NA",
+    "logo": "td.svg",
+    "state": "SC",
+    "city": "COLUMBIA",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1308283200000,
+    "country": "USA",
+    "colors": [
+        "#4fba47",
+        "#fafefd"
+    ],
+    "name": "TD Bank",
+    "website": "https://www.td.com"
+}

@@ -1,0 +1,19 @@
+{
+    "routing": "053206819",
+    "short": "CNTY BK GREENWOOD",
+    "long": "COUNTYBANK",
+    "state": "SC",
+    "city": "GREENWOOD",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1015563600000,
+    "country": "USA",
+    "colors": [
+        "#fdfdfd",
+        "#8ecfad",
+        "#848484"
+    ],
+    "name": "Countybank",
+    "website": "https://www.ecountybank.com",
+    "logo": "ecountybank.svg"
+}

@@ -1,0 +1,19 @@
+{
+    "routing": "061112597",
+    "short": "F&M MANCHESTER",
+    "long": "F&M BANK AND TRUST COMPANY",
+    "state": "GA",
+    "city": "MANCHESTER",
+    "transfer": false,
+    "settlement": true,
+    "updated": 1415336400000,
+    "country": "USA",
+    "colors": [
+        "#f8f9fb",
+        "#221b55",
+        "#8283aa"
+    ],
+    "name": "F&m Bank And Trust Company",
+    "website": "https://www.fmbankandtrust.com",
+    "logo": "fmbankandtrust.svg"
+}

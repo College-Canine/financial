@@ -1,0 +1,19 @@
+{
+    "routing": "053274061",
+    "short": "FIRST CAPITAL BK",
+    "long": "FIRST CAPITAL BANK",
+    "state": "SC",
+    "city": "LAURINBURG",
+    "transfer": false,
+    "settlement": false,
+    "updated": 1540526400000,
+    "country": "USA",
+    "colors": [
+        "#26337d",
+        "#fcfef7",
+        "#989daf"
+    ],
+    "name": "First Capital Bank",
+    "website": "https://www.fcbcarolinas.com",
+    "logo": "fcbcarolinas.svg"
+}

@@ -1,0 +1,19 @@
+{
+    "routing": "053208011",
+    "short": "SOUTHERN FIRST BK",
+    "long": "SOUTHERN FIRST BANK",
+    "state": "SC",
+    "city": "GREENVILLE",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1364961600000,
+    "country": "USA",
+    "colors": [
+        "#fefefe",
+        "#f1ad35",
+        "#edcc84"
+    ],
+    "name": "Southern First Bank",
+    "website": "https://www.southernfirst.com",
+    "logo": "southernfirst.svg"
+}

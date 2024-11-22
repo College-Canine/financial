@@ -1,0 +1,18 @@
+{
+    "routing": "053206741",
+    "short": "ANDERSN BROS BK SC",
+    "long": "ANDERSON BROTHERS BANK",
+    "state": "SC",
+    "city": "MULLINS",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#fefefd",
+        "#379667"
+    ],
+    "name": "Anderson Brothers Bank",
+    "website": "https://www.abbank.com",
+    "logo": "abbank.svg"
+}

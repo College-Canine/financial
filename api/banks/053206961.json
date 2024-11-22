@@ -1,0 +1,17 @@
+{
+    "routing": "053206961",
+    "short": "COMM BK HONEA PATH",
+    "long": "THE COMMERCIAL BANK",
+    "state": "SC",
+    "city": "HONEA PATH",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1245038400000,
+    "country": "USA",
+    "colors": [
+        "#ffffff"
+    ],
+    "name": "The Commercial Bank",
+    "website": "https://www.thecommercialbanksc.com",
+    "logo": "thecommercialbanksc.svg"
+}

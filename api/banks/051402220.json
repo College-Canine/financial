@@ -1,0 +1,21 @@
+{
+    "routing": "051402220",
+    "short": "STELLARONE BANK",
+    "long": "UNION BANK & TRUST",
+    "state": "VA",
+    "city": "RICHMOND",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1439870400000,
+    "country": "USA",
+    "colors": [
+        "#114c91",
+        "#fdfdfd",
+        "#a0dcb1",
+        "#20af4a",
+        "#86a3c6"
+    ],
+    "name": "Union Bank & Trust",
+    "website": "https://www.atlanticunionbank.com",
+    "logo": "atlanticunionbank.svg"
+}

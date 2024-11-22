@@ -1,0 +1,18 @@
+{
+    "routing": "053202208",
+    "short": "FIRST COMM LEXNTN",
+    "long": "FIRST COMMUNITY BANK",
+    "state": "SC",
+    "city": "LEXINGTON",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1349064000000,
+    "country": "USA",
+    "colors": [
+        "#fefcfc",
+        "#6ca69e"
+    ],
+    "name": "First Community Bank",
+    "website": "https://firstcommunitysc.com",
+    "logo": "firstcommunitysc.svg"
+}

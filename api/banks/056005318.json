@@ -1,0 +1,18 @@
+{
+    "routing": "056005318",
+    "short": "BB&T N VIRGINIA",
+    "long": "BB&T VIRGINIA",
+    "state": "VA",
+    "city": "ARLINGTON",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1415336400000,
+    "country": "USA",
+    "colors": [
+        "#2b1a46",
+        "#fefdfe"
+    ],
+    "name": "Bb&t Virginia",
+    "website": "https://www.truist.com",
+    "logo": "truist.svg"
+}

@@ -1,0 +1,19 @@
+{
+    "routing": "053174048",
+    "short": "UNION BANK",
+    "long": "UNION BANK",
+    "state": "NC",
+    "city": "GREENVILLE",
+    "transfer": false,
+    "settlement": false,
+    "updated": 1499659200000,
+    "country": "USA",
+    "colors": [
+        "#333333",
+        "#979797",
+        "#fdfdfd"
+    ],
+    "name": "Union Bank",
+    "website": "https://www.mapquest.com",
+    "logo": "mapquest.svg"
+}

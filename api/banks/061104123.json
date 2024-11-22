@@ -1,0 +1,19 @@
+{
+    "routing": "061104123",
+    "short": "ST B&T CO GA",
+    "long": "STATE BANK AND TRUST COMPANY",
+    "state": "GA",
+    "city": "MACON",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1280462400000,
+    "country": "USA",
+    "colors": [
+        "#333333",
+        "#979797",
+        "#fdfdfd"
+    ],
+    "name": "State Bank And Trust Company",
+    "website": "https://www.mapquest.com",
+    "logo": "mapquest.svg"
+}

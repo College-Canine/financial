@@ -1,0 +1,15 @@
+{
+    "routing": "061101184",
+    "short": "FIRST GRIFFIN",
+    "long": "FIRST NATIONAL BANK OF GRIFFIN",
+    "state": "GA",
+    "city": "GRIFFIN",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1252900800000,
+    "country": "USA",
+    "colors": [],
+    "name": "First National Bank Of Griffin",
+    "website": "https://www.fnbgriffin.com",
+    "logo": "fnbgriffin.svg"
+}

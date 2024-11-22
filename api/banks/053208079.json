@@ -1,0 +1,18 @@
+{
+    "routing": "053208079",
+    "short": "CRESCOM BANK SC",
+    "long": "CRESCOM BANK",
+    "state": "SC",
+    "city": "CHARLESTON",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1491364800000,
+    "country": "USA",
+    "colors": [
+        "#121212",
+        "#219963"
+    ],
+    "name": "Crescom Bank",
+    "website": "https://www.bankwithunited.com",
+    "logo": "bankwithunited.svg"
+}

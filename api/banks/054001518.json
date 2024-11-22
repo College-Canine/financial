@@ -1,0 +1,20 @@
+{
+    "routing": "054001518",
+    "short": "1ST ABU DHABI USA",
+    "long": "FIRST ABU DHABI BANK USA NV",
+    "state": "DC",
+    "city": "WASHINGTON",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1527048000000,
+    "country": "USA",
+    "colors": [
+        "#fefdff",
+        "#9da3b6",
+        "#172955",
+        "#c73b3c"
+    ],
+    "name": "First Abu Dhabi Bank USA Nv",
+    "website": "https://www.bankfab.com",
+    "logo": "bankfab.svg"
+}

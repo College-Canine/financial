@@ -1,0 +1,21 @@
+{
+    "routing": "056001066",
+    "short": "BURKE HERBERT ALEX",
+    "long": "BURKE & HERBERT BK & TR CO",
+    "state": "VA",
+    "city": "ALEXANDRIA",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#133057",
+        "#eef4f9",
+        "#9a852e",
+        "#6f7e94",
+        "#777757"
+    ],
+    "name": "Burke & Herbert Bank & Trust",
+    "website": "https://www.burkeandherbertbank.com",
+    "logo": "burkeandherbertbank.svg"
+}

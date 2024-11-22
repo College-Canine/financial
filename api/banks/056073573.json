@@ -1,0 +1,20 @@
+{
+    "routing": "056073573",
+    "short": "ETRADE BANK",
+    "long": "E TRADE BANK",
+    "state": "VA",
+    "city": "ARLINGTON",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1393477200000,
+    "country": "USA",
+    "colors": [
+        "#5f33c0",
+        "#fdfefd",
+        "#7bbdd8",
+        "#9374d2"
+    ],
+    "name": "E Trade Bank",
+    "website": "https://us.etrade.com",
+    "logo": "etrade.svg"
+}

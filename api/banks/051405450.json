@@ -1,0 +1,19 @@
+{
+    "routing": "051405450",
+    "short": "PINNACLE BANK",
+    "long": "PINNACLE BANK",
+    "state": "TN",
+    "city": "NASHVILLE",
+    "transfer": false,
+    "settlement": true,
+    "updated": 1512104400000,
+    "country": "USA",
+    "colors": [
+        "#fdfdfd",
+        "#5e7f8f",
+        "#1d1b1c"
+    ],
+    "name": "Pinnacle Bank",
+    "website": "https://pnfp.com",
+    "logo": "pnfp.svg"
+}

@@ -1,0 +1,19 @@
+{
+    "routing": "061120084",
+    "short": "FIRST CENTRY BK NA",
+    "long": "FIRST CENTURY BANK, NA",
+    "state": "GA",
+    "city": "GAINESVILLE",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1242360000000,
+    "country": "USA",
+    "colors": [
+        "#21559d",
+        "#f6f6f6",
+        "#3f3e3e"
+    ],
+    "name": "First Century Bank",
+    "website": "https://www.myfirstcenturybank.com",
+    "logo": "myfirstcenturybank.svg"
+}

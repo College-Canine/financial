@@ -1,0 +1,18 @@
+{
+    "routing": "061008766",
+    "short": "FHLB ATL",
+    "long": "FEDERAL HOME LOAN BANK OF ATLANTA",
+    "state": "GA",
+    "city": "ATLANTA",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1503028800000,
+    "country": "USA",
+    "colors": [
+        "#fefeff",
+        "#667c8f"
+    ],
+    "name": "Federal Home Loan Bank Of Atlanta",
+    "website": "https://corp.fhlbatl.com",
+    "logo": "fhlbatl.svg"
+}

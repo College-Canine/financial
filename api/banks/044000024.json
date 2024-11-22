@@ -1,0 +1,19 @@
+{
+    "routing": "044000024",
+    "short": "HUNT COL",
+    "long": "THE HUNTINGTON NATIONAL BANK",
+    "state": "OH",
+    "city": "COLUMBUS",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#fcfefd",
+        "#bfdeaa",
+        "#7dbf43"
+    ],
+    "name": "The Huntington National Bank",
+    "website": "https://www.huntington.com",
+    "logo": "huntington.svg"
+}

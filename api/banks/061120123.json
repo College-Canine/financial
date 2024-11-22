@@ -1,0 +1,19 @@
+{
+    "routing": "061120123",
+    "short": "DOUGLAS NATL BANK",
+    "long": "DOUGLAS NATIONAL BANK",
+    "state": "GA",
+    "city": "DOUGLAS",
+    "transfer": false,
+    "settlement": false,
+    "updated": 1156737600000,
+    "country": "USA",
+    "colors": [
+        "#849c97",
+        "#f2f3f3",
+        "#174d3c"
+    ],
+    "name": "Douglas National Bank",
+    "website": "https://www.dnbdouglas.com",
+    "logo": "dnbdouglas.svg"
+}

@@ -1,0 +1,19 @@
+{
+    "routing": "055003395",
+    "short": "FREDERICK CNTY BK",
+    "long": "FREDERICK COUNTY BK",
+    "state": "MD",
+    "city": "FREDERICK",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1026360000000,
+    "country": "USA",
+    "colors": [
+        "#333333",
+        "#979797",
+        "#fdfdfd"
+    ],
+    "name": "Frederick County Bank",
+    "website": "https://www.mapquest.com",
+    "logo": "mapquest.svg"
+}

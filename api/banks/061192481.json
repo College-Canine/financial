@@ -1,0 +1,20 @@
+{
+    "routing": "061192481",
+    "short": "HERITAGE FIRST BK",
+    "long": "HERITAGE FIRST BANK",
+    "state": "GA",
+    "city": "ROME",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1314072000000,
+    "country": "USA",
+    "colors": [
+        "#ffffff",
+        "#15178b",
+        "#b2b3d9",
+        "#5c5aae"
+    ],
+    "name": "Heritage First Bank",
+    "website": "https://www.fncbank.com",
+    "logo": "fncbank.svg"
+}

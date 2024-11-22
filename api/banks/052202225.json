@@ -1,0 +1,19 @@
+{
+    "routing": "052202225",
+    "short": "SUMMIT CMNTY BK",
+    "long": "SUMMIT COMMUNITY BANK, INC.",
+    "state": "WV",
+    "city": "MOOREFIELD",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1480654800000,
+    "country": "USA",
+    "colors": [
+        "#fcfefd",
+        "#83a8a5",
+        "#145a94"
+    ],
+    "name": "Summit Community Bank Inc",
+    "website": "https://www.mysummit.bank",
+    "logo": "mysummit.svg"
+}

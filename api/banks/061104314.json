@@ -1,0 +1,21 @@
+{
+    "routing": "061104314",
+    "short": "SOUTH SB AUGUSTA",
+    "long": "SOUTH STATE BANK - AUGUSTA",
+    "state": "SC",
+    "city": "COLUMBIA",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1487307600000,
+    "country": "USA",
+    "colors": [
+        "#ebbb54",
+        "#51503e",
+        "#384665",
+        "#8a98ac",
+        "#fbfdf5"
+    ],
+    "name": "South State Bank - Augusta",
+    "website": "https://www.southstatebank.com",
+    "logo": "southstatebank.svg"
+}

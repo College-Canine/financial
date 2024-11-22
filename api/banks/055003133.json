@@ -1,0 +1,22 @@
+{
+    "routing": "055003133",
+    "short": "BK GLEN BURNIE MD",
+    "long": "THE BANK OF GLEN BURNIE",
+    "state": "MD",
+    "city": "GLEN BURNIE",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1332820800000,
+    "country": "USA",
+    "colors": [
+        "#a5c7d8",
+        "#89401f",
+        "#1e2c21",
+        "#e1894f",
+        "#6dba8c",
+        "#37759a"
+    ],
+    "name": "The Bank Of Glen Burnie",
+    "website": "https://www.thebankofglenburnie.com",
+    "logo": "thebankofglenburnie.svg"
+}

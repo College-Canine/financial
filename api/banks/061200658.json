@@ -1,0 +1,19 @@
+{
+    "routing": "061200658",
+    "short": "CARVER ST BK SAV",
+    "long": "CARVER STATE BANK",
+    "state": "GA",
+    "city": "SAVANNAH",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#1c1068",
+        "#f8f7fc",
+        "#a6a1c7"
+    ],
+    "name": "Carver State Bank",
+    "website": "https://www.carverstatebank.com",
+    "logo": "carverstatebank.svg"
+}

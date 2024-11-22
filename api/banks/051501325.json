@@ -1,0 +1,19 @@
+{
+    "routing": "051501325",
+    "short": "BCBANK INC",
+    "long": "BCBANK, INC.",
+    "state": "WV",
+    "city": "PHILIPPI",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1053316800000,
+    "country": "USA",
+    "colors": [
+        "#fdfefe",
+        "#7994d5",
+        "#3761cf"
+    ],
+    "name": "Bcbank Inc",
+    "website": "https://www.bcbankinc.com",
+    "logo": "bcbankinc.svg"
+}

@@ -1,0 +1,19 @@
+{
+    "routing": "061101786",
+    "short": "EXCHANGE BANK",
+    "long": "EXCHANGE BANK",
+    "state": "GA",
+    "city": "MILLEDGEVILLE",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#fbfbfd",
+        "#2e499b",
+        "#a0acd1"
+    ],
+    "name": "Exchange Bank",
+    "website": "https://www.exch.bank",
+    "logo": "exch.svg"
+}

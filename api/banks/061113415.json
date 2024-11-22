@@ -1,0 +1,18 @@
+{
+    "routing": "061113415",
+    "short": "BB&T GEORGIA",
+    "long": "BB&T GEORGIA",
+    "state": "GA",
+    "city": "BYRON",
+    "transfer": true,
+    "settlement": false,
+    "updated": 962251200000,
+    "country": "USA",
+    "colors": [
+        "#2b1a46",
+        "#fefdfe"
+    ],
+    "name": "Bb&t Georgia",
+    "website": "https://www.truist.com",
+    "logo": "truist.svg"
+}

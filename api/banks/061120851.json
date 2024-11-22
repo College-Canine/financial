@@ -1,0 +1,19 @@
+{
+    "routing": "061120851",
+    "short": "PIEDMONT BANK GA",
+    "long": "PIEDMONT BANK",
+    "state": "GA",
+    "city": "NORCROSS",
+    "transfer": false,
+    "settlement": true,
+    "updated": 1316577600000,
+    "country": "USA",
+    "colors": [
+        "#9a191e",
+        "#fffdfe",
+        "#da9fa0"
+    ],
+    "name": "Piedmont Bank",
+    "website": "https://piedmont.bank",
+    "logo": "piedmont.svg"
+}

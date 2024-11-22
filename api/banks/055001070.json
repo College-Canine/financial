@@ -1,0 +1,19 @@
+{
+    "routing": "055001070",
+    "short": "HARFORD ABERDEEN",
+    "long": "HARFORD BANK",
+    "state": "MD",
+    "city": "ABERDEEN",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1007528400000,
+    "country": "USA",
+    "colors": [
+        "#fdfefe",
+        "#5670b3",
+        "#16389c"
+    ],
+    "name": "Harford Bank",
+    "website": "https://www.harfordbank.com",
+    "logo": "harfordbank.svg"
+}

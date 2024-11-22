@@ -1,0 +1,18 @@
+{
+    "routing": "055003418",
+    "short": "CONGRESSIONAL BANK",
+    "long": "CONGRESSIONAL BANK",
+    "state": "MD",
+    "city": "POTOMAC",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1459742400000,
+    "country": "USA",
+    "colors": [
+        "#fdfffe",
+        "#3bac3c"
+    ],
+    "name": "Congressional Bank",
+    "website": "https://www.forbrightbank.com",
+    "logo": "forbrightbank.svg"
+}

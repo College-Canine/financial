@@ -1,0 +1,20 @@
+{
+    "routing": "053104869",
+    "short": "PEOPLES NEWTON",
+    "long": "PEOPLES BANK",
+    "state": "NC",
+    "city": "NEWTON",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#fcc210",
+        "#fefbfe",
+        "#f7e8a2",
+        "#20355e"
+    ],
+    "name": "Peoples Bank",
+    "website": "https://peoplesbanknc.com",
+    "logo": "peoplesbanknc.svg"
+}

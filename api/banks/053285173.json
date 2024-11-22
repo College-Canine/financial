@@ -1,0 +1,18 @@
+{
+    "routing": "053285173",
+    "short": "MTC FEDERAL CU",
+    "long": "MTC FEDERAL CREDIT UNION",
+    "state": "SC",
+    "city": "GREENVILLE",
+    "transfer": false,
+    "settlement": true,
+    "updated": 1415336400000,
+    "country": "USA",
+    "colors": [
+        "#125d99",
+        "#d9e3da"
+    ],
+    "name": "Mtc Federal Credit Union",
+    "website": "https://www.mtcfederal.com",
+    "logo": "mtcfederal.svg"
+}

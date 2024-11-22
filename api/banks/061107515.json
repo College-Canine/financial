@@ -1,0 +1,19 @@
+{
+    "routing": "061107515",
+    "short": "UNITED BANK",
+    "long": "UNITED BANK",
+    "state": "GA",
+    "city": "ZEBULON",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1351828800000,
+    "country": "USA",
+    "colors": [
+        "#1d3977",
+        "#fcfefd",
+        "#72809e"
+    ],
+    "name": "United Bank",
+    "website": "https://www.accessunited.com",
+    "logo": "accessunited.svg"
+}

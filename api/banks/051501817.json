@@ -1,0 +1,19 @@
+{
+    "routing": "051501817",
+    "short": "BK MINGO NAUGATUCK",
+    "long": "BANK OF MINGO",
+    "state": "WV",
+    "city": "WILLIAMSON",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1150084800000,
+    "country": "USA",
+    "colors": [
+        "#fcfcfc",
+        "#799ec9",
+        "#1960a8"
+    ],
+    "name": "Bank Of Mingo",
+    "website": "https://www.thebankofmingo.com",
+    "logo": "thebankofmingo.svg"
+}

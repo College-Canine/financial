@@ -1,0 +1,20 @@
+{
+    "routing": "053207371",
+    "short": "BK TRAVELERS REST",
+    "long": "BANK OF TRAVELERS REST",
+    "state": "SC",
+    "city": "TRAVELERS REST",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#fdfefe",
+        "#232427",
+        "#6f7b76",
+        "#2e7443"
+    ],
+    "name": "Bank Of Travelers Rest",
+    "website": "https://www.bankoftravelersrest.com",
+    "logo": "bankoftravelersrest.svg"
+}

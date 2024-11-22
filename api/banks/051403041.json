@@ -1,0 +1,19 @@
+{
+    "routing": "051403041",
+    "short": "FIRST ALTAVISTA",
+    "long": "FIRST NATIONAL BANK",
+    "state": "VA",
+    "city": "ALTAVISTA",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#2d4b66",
+        "#fdfdfb",
+        "#8596a4"
+    ],
+    "name": "First National Bank",
+    "website": "https://www.1stnatbk.com",
+    "logo": "1stnatbk.svg"
+}

@@ -1,0 +1,20 @@
+{
+    "routing": "061107861",
+    "short": "THE FARMERS BK",
+    "long": "THE FARMERS BANK",
+    "state": "GA",
+    "city": "GREENSBORO",
+    "transfer": false,
+    "settlement": true,
+    "updated": 1235365200000,
+    "country": "USA",
+    "colors": [
+        "#2e7158",
+        "#ebeeee",
+        "#979798",
+        "#262626"
+    ],
+    "name": "The Farmers Bank",
+    "website": "https://farmbk.com",
+    "logo": "farmbk.svg"
+}

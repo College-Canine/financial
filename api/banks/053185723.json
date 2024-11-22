@@ -1,0 +1,19 @@
+{
+    "routing": "053185723",
+    "short": "CIVIC FCU",
+    "long": "CIVIC FEDERAL CREDIT UNION",
+    "state": "NC",
+    "city": "RALEIGH",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1541739600000,
+    "country": "USA",
+    "colors": [
+        "#de2d14",
+        "#fefafb",
+        "#ea7e70"
+    ],
+    "name": "Civic Federal Credit Union",
+    "website": "https://www.civicfcu.org",
+    "logo": "civicfcu.svg"
+}

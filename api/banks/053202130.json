@@ -1,0 +1,19 @@
+{
+    "routing": "053202130",
+    "short": "CFB WALHALLA SC",
+    "long": "COMMUNITY FIRST BANK, INC.",
+    "state": "SC",
+    "city": "WALHALLA",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1360213200000,
+    "country": "USA",
+    "colors": [
+        "#b29e6a",
+        "#9eb4c3",
+        "#fcf7e6"
+    ],
+    "name": "Community First Bank Inc",
+    "website": "https://www.dogwoodstatebank.com",
+    "logo": "dogwoodstatebank.svg"
+}

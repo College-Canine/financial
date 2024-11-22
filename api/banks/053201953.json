@@ -1,0 +1,20 @@
+{
+    "routing": "053201953",
+    "short": "CLOVER COMM BK SC",
+    "long": "CLOVER COMMUNITY BANK",
+    "state": "SC",
+    "city": "CLOVER",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#19a464",
+        "#5c7938",
+        "#f8ce7f",
+        "#a0d1bd"
+    ],
+    "name": "Clover Community Bank",
+    "website": "https://ucbbank.com",
+    "logo": "ucbbank.svg"
+}

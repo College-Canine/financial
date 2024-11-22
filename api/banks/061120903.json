@@ -1,0 +1,19 @@
+{
+    "routing": "061120903",
+    "short": "EMBASSY NATIONAL",
+    "long": "EMBASSY NATIONAL BANK",
+    "state": "GA",
+    "city": "LAWRENCEVILLE",
+    "transfer": false,
+    "settlement": true,
+    "updated": 1388120400000,
+    "country": "USA",
+    "colors": [
+        "#fdfefe",
+        "#453e33",
+        "#b5985b"
+    ],
+    "name": "Embassy National Bank",
+    "website": "https://embassynationalbank.com",
+    "logo": "embassynationalbank.svg"
+}

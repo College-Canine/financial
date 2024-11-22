@@ -1,0 +1,21 @@
+{
+    "routing": "061119642",
+    "short": "NORTH GA NATL BK",
+    "long": "NORTH GEORGIA NATIONAL BANK",
+    "state": "GA",
+    "city": "CALHOUN",
+    "transfer": true,
+    "settlement": false,
+    "updated": 958622400000,
+    "country": "USA",
+    "colors": [
+        "#20659a",
+        "#fbfefe",
+        "#f3cf35",
+        "#a1af7e",
+        "#95b7cb"
+    ],
+    "name": "North Georgia National Bank",
+    "website": "https://www.ngnb.net",
+    "logo": "ngnb.svg"
+}

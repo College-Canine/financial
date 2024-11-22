@@ -1,0 +1,17 @@
+{
+    "routing": "061092332",
+    "short": "CORNERSTN BK GA",
+    "long": "CORNERSTONE BANK",
+    "state": "GA",
+    "city": "ATLANTA",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1244433600000,
+    "country": "USA",
+    "colors": [
+        "#daeaf4"
+    ],
+    "name": "Cornerstone Bank",
+    "website": "https://www.linkedin.com",
+    "logo": "linkedin.svg"
+}

@@ -1,0 +1,18 @@
+{
+    "routing": "053101121",
+    "short": "BB&T NC",
+    "long": "BRANCH BANKING & TRUST COMPANY",
+    "state": "NC",
+    "city": "WINSTON-SALEM",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1433736000000,
+    "country": "USA",
+    "colors": [
+        "#2b1a46",
+        "#fefdfe"
+    ],
+    "name": "Branch Banking & Trust Company",
+    "website": "https://www.truist.com",
+    "logo": "truist.svg"
+}

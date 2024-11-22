@@ -1,0 +1,19 @@
+{
+    "routing": "054000056",
+    "short": "NATL CAP WASH",
+    "long": "NATIONAL CAPITAL BANK OF WASH",
+    "state": "DC",
+    "city": "WASHINGTON",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#feffff",
+        "#1d2d44",
+        "#7c8897"
+    ],
+    "name": "National Capital Bank Of Wash",
+    "website": "https://www.nationalcapitalbank.bank",
+    "logo": "nationalcapitalbank.svg"
+}

@@ -1,0 +1,19 @@
+{
+    "routing": "061112364",
+    "short": "BANKSOUTH",
+    "long": "BANKSOUTH",
+    "state": "GA",
+    "city": "GREENSBORO",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1171515600000,
+    "country": "USA",
+    "colors": [
+        "#fdfdfd",
+        "#b59096",
+        "#7d2735"
+    ],
+    "name": "Banksouth",
+    "website": "https://banksouth.com",
+    "logo": "banksouth.svg"
+}

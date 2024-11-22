@@ -1,0 +1,20 @@
+{
+    "routing": "061103894",
+    "short": "EW BK SMRINO",
+    "long": "EAST WEST BANK",
+    "state": "GA",
+    "city": "CHAMBLEE",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1415336400000,
+    "country": "USA",
+    "colors": [
+        "#f12e1b",
+        "#fdfdfe",
+        "#d8544c",
+        "#e0aaa4"
+    ],
+    "name": "East West Bank",
+    "website": "https://www.eastwestbank.com",
+    "logo": "eastwestbank.svg"
+}

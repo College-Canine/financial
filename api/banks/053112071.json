@@ -1,0 +1,24 @@
+{
+    "routing": "053112071",
+    "short": "SURREY BT MT AIRY",
+    "long": "SURREY BANK & TRUST",
+    "state": "NC",
+    "city": "MOUNT AIRY",
+    "transfer": true,
+    "settlement": true,
+    "updated": 946011600000,
+    "country": "USA",
+    "colors": [
+        "#458ae9",
+        "#10da98",
+        "#a8cdf4",
+        "#646968",
+        "#34d4e6",
+        "#b0916e",
+        "#a64f3d",
+        "#fcfdfb"
+    ],
+    "name": "Surrey Bank & Trust",
+    "website": "https://members.mtairyncchamber.org",
+    "logo": "mtairyncchamber.svg"
+}

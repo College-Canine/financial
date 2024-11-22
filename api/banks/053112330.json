@@ -1,0 +1,20 @@
+{
+    "routing": "053112330",
+    "short": "SELECT BK & TRUST",
+    "long": "SELECT BANK & TRUST COMPANY",
+    "state": "NC",
+    "city": "DUNN",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1420693200000,
+    "country": "USA",
+    "colors": [
+        "#ee7467",
+        "#f91e21",
+        "#f8d3bc",
+        "#fa8714"
+    ],
+    "name": "Select Bank & Trust Company",
+    "website": "https://www.myselectbank.com",
+    "logo": "myselectbank.svg"
+}

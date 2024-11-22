@@ -1,0 +1,21 @@
+{
+    "routing": "053112327",
+    "short": "BANK OF OAK RIDGE",
+    "long": "BANK OF OAK RIDGE",
+    "state": "NC",
+    "city": "OAK RIDGE",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1247630400000,
+    "country": "USA",
+    "colors": [
+        "#e9fde6",
+        "#69fe54",
+        "#30accf",
+        "#3fc1b2",
+        "#aefda6"
+    ],
+    "name": "Bank Of Oak Ridge",
+    "website": "https://www.bankofoakridge.com",
+    "logo": "bankofoakridge.svg"
+}

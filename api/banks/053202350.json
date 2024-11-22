@@ -1,0 +1,18 @@
+{
+    "routing": "053202350",
+    "short": "COMM FIRBK CHAS SC",
+    "long": "CRESCOM BANK",
+    "state": "SC",
+    "city": "CHARLESTON",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1332475200000,
+    "country": "USA",
+    "colors": [
+        "#121212",
+        "#219963"
+    ],
+    "name": "Crescom Bank",
+    "website": "https://www.bankwithunited.com",
+    "logo": "bankwithunited.svg"
+}

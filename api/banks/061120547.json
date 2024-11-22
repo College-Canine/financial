@@ -1,0 +1,22 @@
+{
+    "routing": "061120547",
+    "short": "PEACHSTATE B&T",
+    "long": "PEACH STATE BANK & TRUST",
+    "state": "GA",
+    "city": "GAINESVILLE",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1533096000000,
+    "country": "USA",
+    "colors": [
+        "#32735b",
+        "#fefefd",
+        "#f9b78d",
+        "#f58a45",
+        "#2c2829",
+        "#848182"
+    ],
+    "name": "Peach State Bank & Trust",
+    "website": "https://www.peachstate.bank",
+    "logo": "peachstate.svg"
+}

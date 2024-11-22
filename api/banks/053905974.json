@@ -1,0 +1,19 @@
+{
+    "routing": "053905974",
+    "short": "AGFIRST FCB",
+    "long": "AGFIRST FARM CREDIT BANK",
+    "state": "SC",
+    "city": "COLUMBIA",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1258952400000,
+    "country": "USA",
+    "colors": [
+        "#808080",
+        "#ffffff",
+        "#212121"
+    ],
+    "name": "Agfirst Farm Credit Bank",
+    "website": "https://www.agfirst.com",
+    "logo": "agfirst.svg"
+}

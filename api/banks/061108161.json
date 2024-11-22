@@ -1,0 +1,18 @@
+{
+    "routing": "061108161",
+    "short": "FARMERS ST BK",
+    "long": "FARMERS STATE BANK",
+    "state": "GA",
+    "city": "LINCOLNTON",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1351828800000,
+    "country": "USA",
+    "colors": [
+        "#222926",
+        "#98ab85"
+    ],
+    "name": "Farmers State Bank",
+    "website": "https://farmersstateonline.com",
+    "logo": "farmersstateonline.svg"
+}

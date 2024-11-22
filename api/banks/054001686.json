@@ -1,0 +1,18 @@
+{
+    "routing": "054001686",
+    "short": "CITY FIRST BK DC",
+    "long": "CITY FIRST BANK OF DC, NA",
+    "state": "DC",
+    "city": "WASHINGTON",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1212120000000,
+    "country": "USA",
+    "colors": [
+        "#2c7498",
+        "#e6fafc"
+    ],
+    "name": "City First Bank Of Dc",
+    "website": "https://www.cityfirstbank.com",
+    "logo": "cityfirstbank.svg"
+}

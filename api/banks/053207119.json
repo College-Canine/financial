@@ -1,0 +1,17 @@
+{
+    "routing": "053207119",
+    "short": "BK GREELEYVILLE SC",
+    "long": "BANK OF GREELEYVILLE",
+    "state": "SC",
+    "city": "GREELEYVILLE",
+    "transfer": true,
+    "settlement": false,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#114f9c"
+    ],
+    "name": "Bank Of Greeleyville",
+    "website": "https://www.bog1.com",
+    "logo": "bog1.svg"
+}

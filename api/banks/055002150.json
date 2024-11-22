@@ -1,0 +1,20 @@
+{
+    "routing": "055002150",
+    "short": "WOODSBORO BK MD",
+    "long": "WOODSBORO BK",
+    "state": "MD",
+    "city": "WOODSBORO",
+    "transfer": true,
+    "settlement": true,
+    "updated": 945406800000,
+    "country": "USA",
+    "colors": [
+        "#fdfffe",
+        "#283d57",
+        "#91bf6f",
+        "#97a0a8"
+    ],
+    "name": "Woodsboro Bank",
+    "website": "https://www.woodsborobank.com",
+    "logo": "woodsborobank.svg"
+}

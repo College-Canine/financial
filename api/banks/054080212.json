@@ -1,0 +1,19 @@
+{
+    "routing": "054080212",
+    "short": "GEORGETOWN UNIV",
+    "long": "GEORGETOWN UNIV ALUMNI & STUDENT FCU",
+    "state": "DC",
+    "city": "WASHINGTON",
+    "transfer": true,
+    "settlement": false,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#112d43",
+        "#5b778b",
+        "#b3c3cc"
+    ],
+    "name": "Georgetown Univ Alumni & Student Fcu",
+    "website": "https://www.guasfcu.com",
+    "logo": "guasfcu.svg"
+}

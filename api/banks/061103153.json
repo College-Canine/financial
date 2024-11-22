@@ -1,0 +1,17 @@
+{
+    "routing": "061103153",
+    "short": "PEOPLES BK & TR",
+    "long": "PEOPLES BANK & TRUST",
+    "state": "GA",
+    "city": "BUFORD",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1238558400000,
+    "country": "USA",
+    "colors": [
+        "#e0c0ca"
+    ],
+    "name": "Peoples Bank & Trust",
+    "website": "https://www.peoplesbanktrust.com",
+    "logo": "peoplesbanktrust.svg"
+}

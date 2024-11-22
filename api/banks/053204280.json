@@ -1,0 +1,19 @@
+{
+    "routing": "053204280",
+    "short": "FAR MER HOLLY HILL",
+    "long": "FARMERS & MERCHANTS BANK",
+    "state": "SC",
+    "city": "HOLLY HILL",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#fdfefd",
+        "#c3f3be",
+        "#51c944"
+    ],
+    "name": "Farmers & Merchants Bank",
+    "website": "https://www.fmbsc.com",
+    "logo": "fmbsc.svg"
+}

@@ -1,0 +1,18 @@
+{
+    "routing": "056073612",
+    "short": "CAPITAL ONE NA",
+    "long": "CAPITAL ONE, NA",
+    "logo": "capital-one.svg",
+    "state": "VA",
+    "city": "MCLEAN",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1440043200000,
+    "country": "USA",
+    "colors": [
+        "#D03027",
+        "#004977"
+    ],
+    "name": "Capital One",
+    "website": "https://www.capitalonecareers.com"
+}

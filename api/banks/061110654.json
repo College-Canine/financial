@@ -1,0 +1,18 @@
+{
+    "routing": "061110654",
+    "short": "THE COMM BK",
+    "long": "THE COMMERCIAL BANK",
+    "state": "GA",
+    "city": "WINTERVILLE",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1517461200000,
+    "country": "USA",
+    "colors": [
+        "#c2c3c0",
+        "#485167"
+    ],
+    "name": "The Commercial Bank",
+    "website": "https://www.thecommercialbank.net",
+    "logo": "thecommercialbank.svg"
+}

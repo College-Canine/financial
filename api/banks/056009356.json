@@ -1,0 +1,18 @@
+{
+    "routing": "056009356",
+    "short": "JOHN MARSHALL BANK",
+    "long": "JOHN MARSHALL BANK",
+    "state": "VA",
+    "city": "RESTON",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1320206400000,
+    "country": "USA",
+    "colors": [
+        "#fffefe",
+        "#b22f4a"
+    ],
+    "name": "John Marshall Bank",
+    "website": "https://www.johnmarshallbank.com",
+    "logo": "johnmarshallbank.svg"
+}

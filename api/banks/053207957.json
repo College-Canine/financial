@@ -1,0 +1,19 @@
+{
+    "routing": "053207957",
+    "short": "GRANDSOUTH BANK",
+    "long": "GRANDSOUTH BANK",
+    "state": "SC",
+    "city": "GREENVILLE",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1256616000000,
+    "country": "USA",
+    "colors": [
+        "#c61f32",
+        "#f6fefc",
+        "#cb737f"
+    ],
+    "name": "Grandsouth Bank",
+    "website": "https://ir.grandsouth.com",
+    "logo": "grandsouth.svg"
+}

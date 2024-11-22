@@ -1,0 +1,20 @@
+{
+    "routing": "055003434",
+    "short": "HOWARD BANK",
+    "long": "HOWARD BANK",
+    "state": "MD",
+    "city": "BALTIMORE",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1519880400000,
+    "country": "USA",
+    "colors": [
+        "#a22136",
+        "#6285ab",
+        "#144178",
+        "#ced7e2"
+    ],
+    "name": "Howard Bank",
+    "website": "https://www.fnb-online.com",
+    "logo": "fnb-online.svg"
+}

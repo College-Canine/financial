@@ -1,0 +1,20 @@
+{
+    "routing": "055002338",
+    "short": "COLUMBIA BK MD",
+    "long": "THE COLUMBIA BANK",
+    "state": "MD",
+    "city": "COLUMBIA",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#273a45",
+        "#ce9e1f",
+        "#f9fdfe",
+        "#6d6541"
+    ],
+    "name": "The Columbia Bank",
+    "website": "https://www.columbiabankonline.com",
+    "logo": "columbiabankonline.svg"
+}

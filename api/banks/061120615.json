@@ -1,0 +1,18 @@
+{
+    "routing": "061120615",
+    "short": "SIGNATURE BK OF GA",
+    "long": "SIGNATURE BANK OF GEORGIA",
+    "state": "GA",
+    "city": "SANDY SPRINGS",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1512104400000,
+    "country": "USA",
+    "colors": [
+        "#212731",
+        "#1eb7a0"
+    ],
+    "name": "Signature Bank Of Georgia",
+    "website": "https://www.signaturebankga.com",
+    "logo": "signaturebankga.svg"
+}

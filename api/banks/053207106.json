@@ -1,0 +1,20 @@
+{
+    "routing": "053207106",
+    "short": "BANK OF YORK SC",
+    "long": "BANK OF YORK",
+    "state": "SC",
+    "city": "YORK",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1332388800000,
+    "country": "USA",
+    "colors": [
+        "#86a692",
+        "#202020",
+        "#fbfcfb",
+        "#187039"
+    ],
+    "name": "Bank Of York",
+    "website": "https://www.bankofyork.com",
+    "logo": "bankofyork.svg"
+}

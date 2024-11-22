@@ -1,0 +1,20 @@
+{
+    "routing": "053202282",
+    "short": "FIR SO SPARTANBURG",
+    "long": "FIRST SOUTH BANK",
+    "state": "SC",
+    "city": "SPARTANBURG",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#fefdff",
+        "#d96761",
+        "#587f9b",
+        "#ed352d"
+    ],
+    "name": "First South Bank",
+    "website": "https://www.firstsouth.com",
+    "logo": "firstsouth.svg"
+}

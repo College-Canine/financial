@@ -1,0 +1,19 @@
+{
+    "routing": "051099992",
+    "short": "FRB RICH GOVT AGCY",
+    "long": "FRB RICH GOVT AGCY",
+    "state": "VA",
+    "city": "RICHMOND",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1370232000000,
+    "country": "USA",
+    "colors": [
+        "#fefefd",
+        "#6a99b7",
+        "#13507b"
+    ],
+    "name": "Frb Rich Govt Agcy",
+    "website": "https://www.richmondfed.org",
+    "logo": "richmondfed.svg"
+}

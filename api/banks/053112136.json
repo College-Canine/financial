@@ -1,0 +1,20 @@
+{
+    "routing": "053112136",
+    "short": "FIRST TENN",
+    "long": "FIRST TENNESSEE BANK NATL ASSN",
+    "state": "TN",
+    "city": "MEMPHIS",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1527220800000,
+    "country": "USA",
+    "colors": [
+        "#fcfdfd",
+        "#f34327",
+        "#96a9c5",
+        "#1051a1"
+    ],
+    "name": "First Tennessee Bank Natl Assn",
+    "website": "https://www.firsthorizon.com",
+    "logo": "firsthorizon.svg"
+}

@@ -1,0 +1,19 @@
+{
+    "routing": "061120576",
+    "short": "NORTHSIDE BANK",
+    "long": "NORTHSIDE BANK",
+    "state": "GA",
+    "city": "ADAIRSVILLE",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1302148800000,
+    "country": "USA",
+    "colors": [
+        "#333333",
+        "#979797",
+        "#fdfdfd"
+    ],
+    "name": "Northside Bank",
+    "website": "https://www.mapquest.com",
+    "logo": "mapquest.svg"
+}

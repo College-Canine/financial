@@ -1,0 +1,20 @@
+{
+    "routing": "051404464",
+    "short": "FIRST LEBANON",
+    "long": "THE FIRST BANK AND TRUST COMPANY",
+    "state": "VA",
+    "city": "LEBANON",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#fdfefe",
+        "#292d32",
+        "#b6787e",
+        "#c11f2e"
+    ],
+    "name": "The First Bank And Trust Company",
+    "website": "https://www.firstbank.com",
+    "logo": "firstbank.svg"
+}

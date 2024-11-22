@@ -1,0 +1,19 @@
+{
+    "routing": "055003447",
+    "short": "MD FINANCIAL BK",
+    "long": "MARYLAND FINANCIAL BANK",
+    "state": "MD",
+    "city": "TOWSON",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1186545600000,
+    "country": "USA",
+    "colors": [
+        "#333333",
+        "#979797",
+        "#fdfdfd"
+    ],
+    "name": "Maryland Financial Bank",
+    "website": "https://www.mapquest.com",
+    "logo": "mapquest.svg"
+}

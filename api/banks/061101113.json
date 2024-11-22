@@ -1,0 +1,17 @@
+{
+    "routing": "061101113",
+    "short": "FIRST ST BK",
+    "long": "FIRST STATE BANK",
+    "state": "GA",
+    "city": "WRENS",
+    "transfer": false,
+    "settlement": true,
+    "updated": 1415336400000,
+    "country": "USA",
+    "colors": [
+        "#212d65"
+    ],
+    "name": "First State Bank",
+    "website": "https://www.firstate.net",
+    "logo": "firstate.svg"
+}

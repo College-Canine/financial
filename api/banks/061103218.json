@@ -1,0 +1,15 @@
+{
+    "routing": "061103218",
+    "short": "COMM BK TROUP CO",
+    "long": "COMMUNITY BANK & TRUST WEST GEORGIA",
+    "state": "GA",
+    "city": "LAGRANGE",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1269230400000,
+    "country": "USA",
+    "colors": [],
+    "name": "Community Bank & Trust West Georgia",
+    "website": "https://www.redapplebank.com",
+    "logo": "redapplebank.svg"
+}

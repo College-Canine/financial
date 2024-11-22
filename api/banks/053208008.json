@@ -1,0 +1,19 @@
+{
+    "routing": "053208008",
+    "short": "FIRST RELIANCE SC",
+    "long": "FIRST RELIANCE BANK",
+    "state": "SC",
+    "city": "FLORENCE",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1040014800000,
+    "country": "USA",
+    "colors": [
+        "#2e494b",
+        "#b4aa1c",
+        "#626e38"
+    ],
+    "name": "First Reliance Bank",
+    "website": "https://www.firstreliance.com",
+    "logo": "firstreliance.svg"
+}

@@ -1,0 +1,18 @@
+{
+    "routing": "055003308",
+    "short": "BB&T MARYLAND",
+    "long": "BB&T MARYLAND",
+    "state": "MD",
+    "city": "HYATTSVILLE",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1037768400000,
+    "country": "USA",
+    "colors": [
+        "#2b1a46",
+        "#fefdfe"
+    ],
+    "name": "Bb&t Maryland",
+    "website": "https://www.truist.com",
+    "logo": "truist.svg"
+}

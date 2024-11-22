@@ -1,0 +1,20 @@
+{
+    "routing": "053201856",
+    "short": "DEDICATED CMNTY BK",
+    "long": "DEDICATED COMMUNITY BANK",
+    "state": "SC",
+    "city": "DARLINGTON",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1351742400000,
+    "country": "USA",
+    "colors": [
+        "#fefdfe",
+        "#972b64",
+        "#9791a6",
+        "#2f3a57"
+    ],
+    "name": "Dedicated Community Bank",
+    "website": "https://www.dcbsc.com",
+    "logo": "dcbsc.svg"
+}

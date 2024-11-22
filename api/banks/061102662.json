@@ -1,0 +1,18 @@
+{
+    "routing": "061102662",
+    "short": "RABUN CTY BK",
+    "long": "RABUN COUNTY BANK",
+    "state": "GA",
+    "city": "CLAYTON",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#fcfcfc",
+        "#9d6267"
+    ],
+    "name": "Rabun County Bank",
+    "website": "https://www.rabuncountybank.com",
+    "logo": "rabuncountybank.svg"
+}

@@ -1,0 +1,18 @@
+{
+    "routing": "061020948",
+    "short": "ATLANTIC CAPITAL",
+    "long": "ATLANTIC CAPITAL BANK, NA",
+    "state": "TN",
+    "city": "CHATTANOOGA",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1446526800000,
+    "country": "USA",
+    "colors": [
+        "#526a88",
+        "#c6d0da"
+    ],
+    "name": "Atlantic Capital Bank",
+    "website": "https://www.firstbankonline.com",
+    "logo": "firstbankonline.svg"
+}

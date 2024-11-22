@@ -1,0 +1,19 @@
+{
+    "routing": "053112466",
+    "short": "SOUND BANK NC",
+    "long": "SOUND BANK",
+    "state": "NC",
+    "city": "MOREHEAD CITY",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1508472000000,
+    "country": "USA",
+    "colors": [
+        "#b29e6a",
+        "#9eb4c3",
+        "#fcf7e6"
+    ],
+    "name": "Sound Bank",
+    "website": "https://www.dogwoodstatebank.com",
+    "logo": "dogwoodstatebank.svg"
+}

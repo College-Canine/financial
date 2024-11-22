@@ -1,0 +1,20 @@
+{
+    "routing": "055002723",
+    "short": "FAR MER UPPERCO MD",
+    "long": "FARMERS & MERCHANTS BANK",
+    "state": "MD",
+    "city": "UPPERCO",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1351828800000,
+    "country": "USA",
+    "colors": [
+        "#bccbd9",
+        "#666a66",
+        "#1b221d",
+        "#556c31"
+    ],
+    "name": "Farmers & Merchants Bank",
+    "website": "https://www.fmb1919.bank",
+    "logo": "fmb1919.svg"
+}

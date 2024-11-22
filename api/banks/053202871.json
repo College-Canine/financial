@@ -1,0 +1,19 @@
+{
+    "routing": "053202871",
+    "short": "ENTERPR EHRHARDT",
+    "long": "ENTERPRISE BK OF SOUTH CAROLINA",
+    "state": "SC",
+    "city": "EHRHARDT",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#403e94",
+        "#fefdfe",
+        "#b1b2d2"
+    ],
+    "name": "Enterprise Bank Of South Carolina",
+    "website": "https://ebsc.bank",
+    "logo": "ebsc.svg"
+}

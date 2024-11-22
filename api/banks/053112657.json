@@ -1,0 +1,19 @@
+{
+    "routing": "053112657",
+    "short": "PROVIDENCE BANK",
+    "long": "PROVIDENCE BANK",
+    "state": "NC",
+    "city": "ROCKY MOUNT",
+    "transfer": false,
+    "settlement": false,
+    "updated": 1467259200000,
+    "country": "USA",
+    "colors": [
+        "#16598b",
+        "#f5fefe",
+        "#8fb0c9"
+    ],
+    "name": "Providence Bank",
+    "website": "https://www.pbknc.com",
+    "logo": "pbknc.svg"
+}

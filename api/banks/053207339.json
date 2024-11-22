@@ -1,0 +1,17 @@
+{
+    "routing": "053207339",
+    "short": "CITIZENS OLANTA",
+    "long": "THE CITIZENS BANK",
+    "state": "SC",
+    "city": "OLANTA",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#981e32"
+    ],
+    "name": "The Citizens Bank",
+    "website": "https://www.tcbsc.bank",
+    "logo": "tcbsc.svg"
+}

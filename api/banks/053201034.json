@@ -1,0 +1,19 @@
+{
+    "routing": "053201034",
+    "short": "ARTHUR ST UNION SC",
+    "long": "ARTHUR STATE BANK",
+    "state": "SC",
+    "city": "UNION",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#1f985e",
+        "#abb534",
+        "#f5b11a"
+    ],
+    "name": "Arthur State Bank",
+    "website": "https://www.arthurstatebank.com",
+    "logo": "arthurstatebank.svg"
+}

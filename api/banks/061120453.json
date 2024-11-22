@@ -1,0 +1,18 @@
+{
+    "routing": "061120453",
+    "short": "AMERICAN COMM BK",
+    "long": "AMERICAN COMMERCE BANK, NA",
+    "state": "GA",
+    "city": "BREMEN",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1423026000000,
+    "country": "USA",
+    "colors": [
+        "#fdfeff",
+        "#617d8a"
+    ],
+    "name": "American Commerce Bank",
+    "website": "https://www.americancommercebank.com",
+    "logo": "americancommercebank.svg"
+}

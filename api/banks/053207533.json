@@ -1,0 +1,18 @@
+{
+    "routing": "053207533",
+    "short": "PEOPLES BK IVA",
+    "long": "THE PEOPLES BANK",
+    "state": "SC",
+    "city": "IVA",
+    "transfer": true,
+    "settlement": true,
+    "updated": 927000000000,
+    "country": "USA",
+    "colors": [
+        "#6d2237",
+        "#cfb3bb"
+    ],
+    "name": "The Peoples Bank",
+    "website": "https://www.peoplesbanksc.com",
+    "logo": "peoplesbanksc.svg"
+}

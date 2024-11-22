@@ -1,0 +1,20 @@
+{
+    "routing": "055001096",
+    "short": "SSNB SANDY SPRING",
+    "long": "SANDY SPRING BANK",
+    "state": "MD",
+    "city": "OLNEY",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1001304000000,
+    "country": "USA",
+    "colors": [
+        "#fefffd",
+        "#282829",
+        "#aaa9a7",
+        "#cba151"
+    ],
+    "name": "Sandy Spring Bank",
+    "website": "https://www.sandyspringbank.com",
+    "logo": "sandyspringbank.svg"
+}

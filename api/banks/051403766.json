@@ -1,0 +1,19 @@
+{
+    "routing": "051403766",
+    "short": "SKYLINE NB INDEP",
+    "long": "SKYLINE NATIONAL BANK",
+    "state": "VA",
+    "city": "INDEPENDENCE",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1489122000000,
+    "country": "USA",
+    "colors": [
+        "#fdfefd",
+        "#66aebc",
+        "#125a67"
+    ],
+    "name": "Skyline National Bank",
+    "website": "https://www.skylinenationalbank.bank",
+    "logo": "skylinenationalbank.svg"
+}

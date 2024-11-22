@@ -1,0 +1,19 @@
+{
+    "routing": "061101922",
+    "short": "SOUTHCREST BANK",
+    "long": "SOUTHCREST BANK, NA",
+    "state": "GA",
+    "city": "ATLANTA",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1496376000000,
+    "country": "USA",
+    "colors": [
+        "#333333",
+        "#979797",
+        "#fdfdfd"
+    ],
+    "name": "Southcrest Bank",
+    "website": "https://www.mapquest.com",
+    "logo": "mapquest.svg"
+}

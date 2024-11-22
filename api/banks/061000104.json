@@ -1,0 +1,18 @@
+{
+    "routing": "061000104",
+    "short": "SUNTRUST ATL",
+    "long": "SUNTRUST BANK",
+    "state": "GA",
+    "city": "ATLANTA",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1060833600000,
+    "country": "USA",
+    "colors": [
+        "#2b1a46",
+        "#fefdfe"
+    ],
+    "name": "Suntrust Bank",
+    "website": "https://www.truist.com",
+    "logo": "truist.svg"
+}

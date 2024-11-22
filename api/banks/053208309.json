@@ -1,0 +1,20 @@
+{
+    "routing": "053208309",
+    "short": "COASTAL CAROLINA",
+    "long": "COASTAL CAROLINA NB",
+    "state": "SC",
+    "city": "MYRTLE BEACH",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1244606400000,
+    "country": "USA",
+    "colors": [
+        "#b47979",
+        "#433f28",
+        "#9ea1b5",
+        "#e69261"
+    ],
+    "name": "Coastal Carolina Nb",
+    "website": "https://www.myccnb.com",
+    "logo": "myccnb.svg"
+}

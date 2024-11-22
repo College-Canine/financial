@@ -1,0 +1,21 @@
+{
+    "routing": "054000959",
+    "short": "INDUSTRIAL BK WASH",
+    "long": "INDUSTRIAL BANK",
+    "state": "DC",
+    "city": "WASHINGTON",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1190001600000,
+    "country": "USA",
+    "colors": [
+        "#e92322",
+        "#f7c114",
+        "#7a2d2a",
+        "#c9a284",
+        "#fefaf9"
+    ],
+    "name": "Industrial Bank",
+    "website": "https://www.industrial-bank.com",
+    "logo": "industrial-bank.svg"
+}

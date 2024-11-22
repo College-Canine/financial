@@ -1,0 +1,18 @@
+{
+    "routing": "053201872",
+    "short": "BK OF SC CHAS SC",
+    "long": "THE BANK OF SOUTH CAROLINA",
+    "state": "SC",
+    "city": "CHARLESTON",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#fdfdfe",
+        "#957c49"
+    ],
+    "name": "The Bank Of South Carolina",
+    "website": "https://www.banksc.com",
+    "logo": "banksc.svg"
+}

@@ -1,0 +1,20 @@
+{
+    "routing": "061102594",
+    "short": "FIRST NATL COMM BK",
+    "long": "FIRST NATIONAL COMMUNITY BANK",
+    "state": "GA",
+    "city": "CHATSWORTH",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1319169600000,
+    "country": "USA",
+    "colors": [
+        "#ffffff",
+        "#15178b",
+        "#b2b3d9",
+        "#5c5aae"
+    ],
+    "name": "First National Community Bank",
+    "website": "https://www.fncbank.com",
+    "logo": "fncbank.svg"
+}

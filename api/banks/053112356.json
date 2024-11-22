@@ -1,0 +1,19 @@
+{
+    "routing": "053112356",
+    "short": "NORTH STATE BANK",
+    "long": "NORTH STATE BANK",
+    "state": "NC",
+    "city": "RALEIGH",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1351742400000,
+    "country": "USA",
+    "colors": [
+        "#fefefe",
+        "#aaa193",
+        "#4f4e4f"
+    ],
+    "name": "North State Bank",
+    "website": "https://www.northstatebank.com",
+    "logo": "northstatebank.svg"
+}

@@ -1,0 +1,19 @@
+{
+    "routing": "061119794",
+    "short": "FIRST IC BK",
+    "long": "FIRST IC BANK",
+    "state": "GA",
+    "city": "DORAVILLE",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1492488000000,
+    "country": "USA",
+    "colors": [
+        "#a57b10",
+        "#fefcfc",
+        "#d9c892"
+    ],
+    "name": "First Ic Bank",
+    "website": "https://www.firsticbank.com",
+    "logo": "firsticbank.svg"
+}

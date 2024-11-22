@@ -1,0 +1,19 @@
+{
+    "routing": "061020113",
+    "short": "CIBC BANK USA",
+    "long": "CIBC BANK USA",
+    "state": "GA",
+    "city": "ATLANTA",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1506398400000,
+    "country": "USA",
+    "colors": [
+        "#b1bcb6",
+        "#d32f35",
+        "#c8797a"
+    ],
+    "name": "Cibc Bank USA",
+    "website": "https://us.cibc.com",
+    "logo": "cibc.svg"
+}

@@ -1,0 +1,18 @@
+{
+    "routing": "061103315",
+    "short": "BANK OF MONTICELLO",
+    "long": "BANK OF MONTICELLO",
+    "state": "GA",
+    "city": "MONTICELLO",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1301284800000,
+    "country": "USA",
+    "colors": [
+        "#f9fcfb",
+        "#359767"
+    ],
+    "name": "Bank Of Monticello",
+    "website": "https://www.bankofmonticelloga.com",
+    "logo": "bankofmonticelloga.svg"
+}

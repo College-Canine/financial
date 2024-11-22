@@ -1,0 +1,19 @@
+{
+    "routing": "053112408",
+    "short": "FIRST CAR ROCKY MT",
+    "long": "FIRST CAROLINA BANK",
+    "state": "NC",
+    "city": "ROCKY MOUNT",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1379563200000,
+    "country": "USA",
+    "colors": [
+        "#fffdfe",
+        "#7ca7c2",
+        "#1c4564"
+    ],
+    "name": "First Carolina Bank",
+    "website": "https://www.firstcarolinabank.com",
+    "logo": "firstcarolinabank.svg"
+}

@@ -1,0 +1,15 @@
+{
+    "routing": "061103030",
+    "short": "NORTHEAST GA BK",
+    "long": "NORTHEAST GEORGIA BANK",
+    "state": "GA",
+    "city": "LAVONIA",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1351828800000,
+    "country": "USA",
+    "colors": [],
+    "name": "Northeast Georgia Bank",
+    "website": "https://www.northeastgabank.com",
+    "logo": "northeastgabank.svg"
+}

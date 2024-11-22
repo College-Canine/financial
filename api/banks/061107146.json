@@ -1,0 +1,19 @@
+{
+    "routing": "061107146",
+    "short": "BK OF HANCOCK CTY",
+    "long": "BANK OF HANCOCK COUNTY",
+    "state": "GA",
+    "city": "SPARTA",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1415336400000,
+    "country": "USA",
+    "colors": [
+        "#fdfefd",
+        "#c3f3be",
+        "#51c944"
+    ],
+    "name": "Bank Of Hancock County",
+    "website": "https://www.bankofhancock.com",
+    "logo": "bankofhancock.svg"
+}

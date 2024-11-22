@@ -1,0 +1,18 @@
+{
+    "routing": "061102400",
+    "short": "FIDELITY BANK",
+    "long": "FIDELITY BANK",
+    "state": "GA",
+    "city": "ATLANTA",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1465358400000,
+    "country": "USA",
+    "colors": [
+        "#4ac4d5",
+        "#f5fefc"
+    ],
+    "name": "Fidelity Bank",
+    "website": "https://www.atlantadowntown.com",
+    "logo": "atlantadowntown.svg"
+}

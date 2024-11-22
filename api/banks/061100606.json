@@ -1,0 +1,19 @@
+{
+    "routing": "061100606",
+    "short": "SYNOVUS BANK",
+    "long": "SYNOVUS BANK",
+    "state": "GA",
+    "city": "COLUMBUS",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1511845200000,
+    "country": "USA",
+    "colors": [
+        "#e61e25",
+        "#cc555b",
+        "#ecbabb"
+    ],
+    "name": "Synovus Bank",
+    "website": "https://www.synovus.com",
+    "logo": "synovus.svg"
+}

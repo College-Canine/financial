@@ -1,0 +1,20 @@
+{
+    "routing": "055003340",
+    "short": "CAPITAL BANK NA",
+    "long": "CAPITAL BANK, NA",
+    "state": "MD",
+    "city": "ROCKVILLE",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1393477200000,
+    "country": "USA",
+    "colors": [
+        "#144c8b",
+        "#719cca",
+        "#e7d98b",
+        "#fcfdfd"
+    ],
+    "name": "Capital Bank",
+    "website": "https://capitalbankmd.com",
+    "logo": "capitalbankmd.svg"
+}

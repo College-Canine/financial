@@ -1,0 +1,19 @@
+{
+    "routing": "051402259",
+    "short": "FAUQUIER WARRENTON",
+    "long": "THE FAUQUIER BANK",
+    "state": "VA",
+    "city": "WARRENTON",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [
+        "#fefefe",
+        "#8897a5",
+        "#22517d"
+    ],
+    "name": "The Fauquier Bank",
+    "website": "https://www.vnb.com",
+    "logo": "vnb.svg"
+}

@@ -1,0 +1,18 @@
+{
+    "routing": "053201607",
+    "short": "BB&T SC",
+    "long": "BB&T SOUTH CAROLINA",
+    "state": "SC",
+    "city": "GREENVILLE",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1415336400000,
+    "country": "USA",
+    "colors": [
+        "#2b1a46",
+        "#fefdfe"
+    ],
+    "name": "Bb&t South Carolina",
+    "website": "https://www.truist.com",
+    "logo": "truist.svg"
+}

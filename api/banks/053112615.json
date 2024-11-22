@@ -1,0 +1,17 @@
+{
+    "routing": "053112615",
+    "short": "SQUARE 1 BANK",
+    "long": "SQUARE 1 BANK,  A DIVISION OF PACIFI",
+    "state": "NC",
+    "city": "DURHAM",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1475467200000,
+    "country": "USA",
+    "colors": [
+        "#daeaf4"
+    ],
+    "name": "Square 1 Bank A Division Of Pacifi",
+    "website": "https://www.linkedin.com",
+    "logo": "linkedin.svg"
+}

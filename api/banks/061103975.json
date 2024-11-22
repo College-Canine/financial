@@ -1,0 +1,18 @@
+{
+    "routing": "061103975",
+    "short": "QUEENSBOROUGH",
+    "long": "QUEENSBOROUGH NATIONAL BK & TRUST CO",
+    "state": "GA",
+    "city": "LOUISVILLE",
+    "transfer": true,
+    "settlement": true,
+    "updated": 1141966800000,
+    "country": "USA",
+    "colors": [
+        "#dfac11",
+        "#146b3d"
+    ],
+    "name": "Queensborough National Bank & Trust",
+    "website": "https://www.qnbtrust.bank",
+    "logo": "qnbtrust.svg"
+}

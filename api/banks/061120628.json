@@ -1,0 +1,19 @@
+{
+    "routing": "061120628",
+    "short": "SOUTHERN BK & TR",
+    "long": "SOUTHERN BANK AND TRUST",
+    "state": "GA",
+    "city": "CLARKESVILLE",
+    "transfer": true,
+    "settlement": false,
+    "updated": 1471406400000,
+    "country": "USA",
+    "colors": [
+        "#333333",
+        "#979797",
+        "#fdfdfd"
+    ],
+    "name": "Southern Bank And Trust",
+    "website": "https://www.mapquest.com",
+    "logo": "mapquest.svg"
+}

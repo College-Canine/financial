@@ -1,0 +1,15 @@
+{
+    "routing": "052102312",
+    "short": "BK OCEAN CITY MD",
+    "long": "BANK OF OCEAN CITY",
+    "state": "MD",
+    "city": "OCEAN CITY",
+    "transfer": true,
+    "settlement": true,
+    "updated": null,
+    "country": "USA",
+    "colors": [],
+    "name": "Bank Of Ocean City",
+    "website": "https://www.bankofoceancity.com",
+    "logo": "bankofoceancity.svg"
+}
