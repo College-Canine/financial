@@ -16099,6 +16099,21 @@
         "name": "Credit Suisse Ag"
     },
     {
+        "routing": "011900254",
+        "short": "BK AMER NYC",
+        "long": "BANK OF AMERICA, N.A., NY",
+        "state": "NY",
+        "city": "NEW YORK",
+        "transfer": true,
+        "settlement": false,
+        "updated": 1068699600000,
+        "country": "USA",
+        "colors": [],
+        "website": "https://locators.bankofamerica.com",
+        "name": "Bank Of America",
+        "logo": "bofa.svg"
+    },
+    {
         "routing": "026009593",
         "short": "BK AMER NYC",
         "long": "BANK OF AMERICA, N.A., NY",
@@ -16110,7 +16125,8 @@
         "country": "USA",
         "colors": [],
         "website": "https://locators.bankofamerica.com",
-        "name": "Bank Of America Ny"
+        "name": "Bank Of America Ny",
+        "logo": "bofa.svg"
     },
     {
         "routing": "026009632",
